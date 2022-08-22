@@ -1,5 +1,9 @@
 export const PLATFORMS = {
-  NES: 18,
+  nes: 18,
+  snes: 19,
+  gb: 33,
+  gbc: 22,
+  gba: 24,
 }
 export const FIELDS = [
   'name',

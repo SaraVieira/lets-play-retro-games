@@ -10,6 +10,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
+    "@tippyjs/react": "^4.2.6",
     "@types/igdb-api-node": "^5.0.0",
     "autoprefixer": "^10.4.8",
     "igdb-api-node": "^5.0.1",
@@ -24,6 +25,7 @@
     "@types/react": "17.0.38",
     "eslint": "8.7.0",
     "eslint-config-next": "12.0.9",
+    "prettier": "2.7.1",
     "typescript": "4.5.5"
   }
 }

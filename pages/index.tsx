@@ -12,12 +12,87 @@ import { StarIcon } from '@heroicons/react/solid'
 import Tippy from '@tippyjs/react'
 import 'tippy.js/dist/tippy.css' // optional
 import Image from 'next/image'
+import { useMemo } from 'react'
 
-function classNames(...classes) {
+function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function Example({ game }) {
+type Game = {
+  id: number
+  alternative_names: { id: number; name: string }[]
+  cover: {
+    id: number
+    alpha_channel: boolean
+    animated: boolean
+    game: number
+    height: number
+    image_id: string
+    url: string
+    width: number
+    checksum: string
+  }
+  first_release_date: number
+  franchise: {
+    name: string
+  }
+  genres: { id: number; name: string }[]
+  involved_companies: [
+    {
+      id: number
+      company: { id: number; name: string }
+      created_at: number
+      developer: boolean
+      game: number
+      porting: boolean
+      publisher: boolean
+      supporting: boolean
+      updated_at: number
+      checksum: string
+    }
+  ]
+  name: string
+  screenshots: [
+    {
+      id: number
+      game: number
+      height: number
+      image_id: string
+      url: string
+      width: number
+      checksum: string
+    }
+  ]
+  videos: {
+    id: number
+    game: number
+    name: string
+    video_id: string
+    checksum: string
+  }[]
+  slug: string
+  summary: string
+  storyline?: string
+  total_rating?: number
+  total_rating_count?: number
+  url: string
+}
+
+export default function Example({ game }: { game: Game }) {
+  const dev = useMemo(
+    () =>
+      game.involved_companies?.length
+        ? game.involved_companies.find((a) => a.developer)?.company?.name
+        : '',
+    [game.involved_companies]
+  )
+  const publisher = useMemo(
+    () =>
+      game.involved_companies?.length
+        ? game.involved_companies.find((a) => a.publisher)?.company?.name
+        : '',
+    [game.involved_companies]
+  )
   return (
     <div className="bg-white">
       <div className="pt-6 pb-16 sm:pb-24">
@@ -36,7 +111,7 @@ export default function Example({ game }) {
                   <h2 className="sr-only">Reviews</h2>
                   <div className="flex items-center">
                     <p className="text-sm text-gray-700">
-                      {parseFloat((game.total_rating / 100) * 5).toFixed(1)}
+                      {((game.total_rating / 100) * 5).toFixed(1)}
                       <span className="sr-only"> out of 5 stars</span>
                     </p>
                     <div className="ml-1 flex items-center">
@@ -44,7 +119,8 @@ export default function Example({ game }) {
                         <StarIcon
                           key={rating}
                           className={classNames(
-                            parseInt((game.total_rating / 100) * 5) > rating
+                            game.total_rating &&
+                              Math.round((game.total_rating / 100) * 5) > rating
                               ? 'text-yellow-400'
                               : 'text-gray-200',
                             'h-5 w-5 flex-shrink-0'
@@ -105,9 +181,25 @@ export default function Example({ game }) {
                 </div>
               </div>
             </div>
-
+            {game.videos?.length && (
+              <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-7 lg:row-start-4 lg:row-span-3">
+                <h2 className="font-medium text-gray-900 mb-6">Video</h2>
+                {game.videos.map((video) => (
+                  <iframe
+                    key={video.id}
+                    width="560"
+                    height="315"
+                    src={`https://www.youtube-nocookie.com/embed/${video.video_id}`}
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
+                ))}
+              </div>
+            )}
             <div className="mt-8 lg:col-span-5">
-              <div className="mt-10">
+              <div className="mt-10 lg:mt-0">
                 <h2 className="text-sm font-medium text-gray-900">
                   Description
                 </h2>
@@ -140,24 +232,22 @@ export default function Example({ game }) {
 
                 <div className="mt-4 prose prose-sm text-gray-500">
                   <ul role="list">
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Developed by">
-                        <TerminalIcon width="16" />
-                      </Tippy>
-                      {
-                        game.involved_companies.find((a) => a.developer).company
-                          .name
-                      }
-                    </li>
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Published by">
-                        <GlobeIcon width="16" />
-                      </Tippy>
-                      {
-                        game.involved_companies.find((a) => a.publisher).company
-                          .name
-                      }
-                    </li>
+                    {dev && (
+                      <li className="flex gap-1 align-center">
+                        <Tippy content="Developed by">
+                          <TerminalIcon width="16" />
+                        </Tippy>
+                        {dev}
+                      </li>
+                    )}
+                    {publisher && (
+                      <li className="flex gap-1 align-center">
+                        <Tippy content="Published by">
+                          <GlobeIcon width="16" />
+                        </Tippy>
+                        {publisher}
+                      </li>
+                    )}
                     <li className="flex gap-1 align-center">
                       <Tippy content="Released In">
                         <ClockIcon width="16" />
@@ -177,12 +267,14 @@ export default function Example({ game }) {
                       </Tippy>
                       {game.genres.map((genre) => genre.name).join(', ')}
                     </li>
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Franchise">
-                        <DocumentDuplicateIcon width="16" />
-                      </Tippy>
-                      {game.franchise.name}
-                    </li>
+                    {game.franchise && (
+                      <li className="flex gap-1 align-center">
+                        <Tippy content="Franchise">
+                          <DocumentDuplicateIcon width="16" />
+                        </Tippy>
+                        {game.franchise.name}
+                      </li>
+                    )}
                   </ul>
                 </div>
               </div>
@@ -194,7 +286,7 @@ export default function Example({ game }) {
   )
 }
 
-const requestGame = async (name) => {
+const requestGame = async (name: string) => {
   const client = igdb(
     'yyq5emyqr6k1c5bvuk031liwag8p9h',
     'rizwvhm67jikaqwrkvw0pd4ep5urel'

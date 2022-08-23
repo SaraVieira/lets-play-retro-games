@@ -32,6 +32,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/press-start-2p@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/press-start-2p/-/press-start-2p-4.5.10.tgz#1c6589e18d505c87bad54876d3decd857bcb05f7"
+  integrity sha512-LnWJd0DBbnLrHMymE0cLWoPQPltXE1aQZJ1eM7WuJdOljq/gamwJR41LXytRoNIE8BN2KA20VNrigCHMlvC9Bw==
+
 "@headlessui/react@^1.6.6":
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.6.6.tgz#3073c066b85535c9d28783da0a4d9288b5354d0c"

@@ -1,4 +1,4 @@
-import data from '../../constants/games.json'
+import data from '../../constants/games'
 import igdb from 'igdb-api-node'
 import { FIELDS, PLATFORMS } from '../../constants/info'
 import {
@@ -13,7 +13,7 @@ import Tippy from '@tippyjs/react'
 import 'tippy.js/dist/tippy.css' // optional
 import Image from 'next/image'
 import { useMemo } from 'react'
-import { GetServerSideProps, GetServerSidePropsContext } from 'next'
+import {  GetServerSidePropsContext } from 'next'
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
@@ -95,11 +95,11 @@ export default function Example({ game }: { game: Game }) {
     [game.involved_companies]
   )
   return (
-    <div className="bg-white">
+    <div className="bg-gray-200">
       <div className="pt-6 pb-16 sm:pb-24">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
           <div className="lg:grid lg:grid-cols-12 lg:auto-rows-min lg:gap-x-8">
-            <div className="lg:col-start-8 lg:col-span-5">
+            <div className="lg:col-start-7 lg:col-span-6">
               <h1 className="text-xl font-medium text-gray-900">{game.name}</h1>
               {game.alternative_names && (
                 <h6 className="text-xs text-gray-500">
@@ -150,11 +150,11 @@ export default function Example({ game }: { game: Game }) {
             </div>
 
             {/* Image gallery */}
-            <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-7 lg:row-start-1 lg:row-span-3">
+            <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-6 lg:row-start-1 lg:row-span-3">
               <h2 className="sr-only">Images</h2>
 
               <div className="grid grid-cols-1">
-                <Image
+                <img
                   src={`https://${game.cover?.url.replace(
                     't_thumb',
                     't_1080p'
@@ -262,12 +262,12 @@ export default function Example({ game }: { game: Game }) {
                         }
                       )}
                     </li>
-                    <li className="flex gap-1 align-center">
+                    {game.genres && <li className="flex gap-1 align-center">
                       <Tippy content="Genres">
                         <TagIcon width="16" />
                       </Tippy>
                       {game.genres.map((genre) => genre.name).join(', ')}
-                    </li>
+                    </li>}
                     {game.franchise && (
                       <li className="flex gap-1 align-center">
                         <Tippy content="Franchise">
@@ -305,13 +305,14 @@ const requestGame = async (name: string, platform:  keyof typeof PLATFORMS) => {
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
      const { platform } = context.query as {platform: keyof typeof PLATFORMS};
+     const currentData = data[platform]
 try {
       let response = await requestGame(
-    data[Math.floor(Math.random() * data.length)],
+   currentData[Math.floor(Math.random() * currentData.length)],
     platform
   )
   while (!response) {
-    response = await requestGame(data[Math.floor(Math.random() * data.length)],platform)
+    response = await requestGame(currentData[Math.floor(Math.random() * currentData.length)],platform)
   }
 
   return {

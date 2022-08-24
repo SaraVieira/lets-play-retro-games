@@ -20,7 +20,7 @@ const links = [
     link: '/gb/random',
   },
   {
-    img: '/gba.png',
+    img: '/gbc.png',
     alt: 'Game Boy Color',
     name: 'Game Boy Color',
     link: '/gba/random',
@@ -35,27 +35,21 @@ const links = [
 
 export default function Example() {
   return (
-    <div className="bg-gray-200 min-h-screen flex justify-center items-center">
-      <div className="pt-6 pb-16 sm:pb-24">
-        <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8 grid gap-2 grid-cols-3 gap-6">
+    <div className="flex items-center justify-center min-h-full flex-col">
+      <h1 className="text-2xl mb-8 font-bold">Let{"'"}s play some retro games</h1>
+
+      <div className="tui-window">
+        <fieldset className="tui-fieldset tui-border-double">
+          <legend>Choose a console to start</legend>
+
           {links.map((link) => (
-            <div
-              className="wrapper-console text-center text-white font-bold text-2xl"
-              key={link.alt}
-            >
-              <img
-                alt={link.alt}
-                src={link.img}
-                className="m-auto w-[320px] relative transition z-10 block"
-              />
+            <button className="tui-button block mb-4 w-full" key={link.alt}>
               <Link href={link.link} passHref>
-                <a className=" eightbit-btn top-[-40px] relative block z-10 relative">
-                  {link.name}
-                </a>
+                <a>{link.name}</a>
               </Link>
-            </div>
+            </button>
           ))}
-        </div>
+        </fieldset>
       </div>
     </div>
   )

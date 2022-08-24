@@ -32,6 +32,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/press-start-2p@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/press-start-2p/-/press-start-2p-4.5.10.tgz#1c6589e18d505c87bad54876d3decd857bcb05f7"
+  integrity sha512-LnWJd0DBbnLrHMymE0cLWoPQPltXE1aQZJ1eM7WuJdOljq/gamwJR41LXytRoNIE8BN2KA20VNrigCHMlvC9Bw==
+
 "@headlessui/react@^1.6.6":
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.6.6.tgz#3073c066b85535c9d28783da0a4d9288b5354d0c"
@@ -554,6 +559,11 @@ damerau-levenshtein@^1.0.7:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz#b43d286ccbd36bc5b2f7ed41caf2d0aba1f8a6e7"
   integrity sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==
+
+date-fns@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.29.2.tgz#0d4b3d0f3dff0f920820a070920f0d9662c51931"
+  integrity sha512-0VNbwmWJDS/G3ySwFSJA3ayhbURMTJLtwM2DTxf9CWondCnh6DTNlO9JgRSq6ibf4eD0lfMJNBxUdEAHHix+bA==
 
 debug@=3.1.0:
   version "3.1.0"
@@ -2010,6 +2020,11 @@ tsutils@^3.21.0:
   integrity sha512-mHKK3iUXL+3UF6xL5k0PEhKRUBKPBCv/+RkEOpjRWxxx27KKRBmmA60A9pgOUvMi8GKhRMPEmjBRPzs2W7O1OA==
   dependencies:
     tslib "^1.8.1"
+
+tuicss@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/tuicss/-/tuicss-2.1.1.tgz#c8697c6a69e279dd0b5660854cb7e42a49885dd5"
+  integrity sha512-1JslTw9sbKAdxjA89ZuLlbLbjFlKRE/9vZnBGAHtZHqzQuZxunZCVnoAjxzFMolwRDOJgcfQ1srfntJ+ZNdFZw==
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"

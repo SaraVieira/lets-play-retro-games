@@ -1,100 +1,22 @@
 import data from '../../constants/games'
 import igdb from 'igdb-api-node'
 import { FIELDS, PLATFORMS } from '../../constants/info'
-import {
-  GlobeIcon,
-  ClockIcon,
-  TerminalIcon,
-  TagIcon,
-  DocumentDuplicateIcon,
-} from '@heroicons/react/outline'
 import { StarIcon } from '@heroicons/react/solid'
-import Tippy from '@tippyjs/react'
 import 'tippy.js/dist/tippy.css' // optional
-import Image from 'next/image'
-import { useMemo, useState } from 'react'
+import {  useState } from 'react'
 import { GetServerSidePropsContext } from 'next'
+import { Game } from '../../constants/types'
+import { Info } from '../../components/Info'
+import { Images } from '../../components/Images'
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
 }
 
-type Game = {
-  id: number
-  alternative_names: { id: number; name: string }[]
-  cover: {
-    id: number
-    alpha_channel: boolean
-    animated: boolean
-    game: number
-    height: number
-    image_id: string
-    url: string
-    width: number
-    checksum: string
-  }
-  first_release_date: number
-  franchise: {
-    name: string
-  }
-  genres: { id: number; name: string }[]
-  involved_companies: [
-    {
-      id: number
-      company: { id: number; name: string }
-      created_at: number
-      developer: boolean
-      game: number
-      porting: boolean
-      publisher: boolean
-      supporting: boolean
-      updated_at: number
-      checksum: string
-    }
-  ]
-  name: string
-  screenshots: [
-    {
-      id: number
-      game: number
-      height: number
-      image_id: string
-      url: string
-      width: number
-      checksum: string
-    }
-  ]
-  videos: {
-    id: number
-    game: number
-    name: string
-    video_id: string
-    checksum: string
-  }[]
-  slug: string
-  summary: string
-  storyline?: string
-  total_rating?: number
-  total_rating_count?: number
-  url: string
-}
 
 export default function Example({ game }: { game: Game }) {
   const [opened, setOpened] = useState(0)
-  const dev = useMemo(
-    () =>
-      game.involved_companies?.length
-        ? game.involved_companies.find((a) => a.developer)?.company?.name
-        : '',
-    [game.involved_companies]
-  )
-  const publisher = useMemo(
-    () =>
-      game.involved_companies?.length
-        ? game.involved_companies.find((a) => a.publisher)?.company?.name
-        : '',
-    [game.involved_companies]
-  )
+
   return (
     <div className="pt-6 pb-16 sm:pb-24">
       <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
@@ -149,41 +71,7 @@ export default function Example({ game }: { game: Game }) {
             )}
           </div>
 
-          {/* Image gallery */}
-          <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-6 lg:row-start-1 lg:row-span-3">
-            <h2 className="sr-only">Images</h2>
-
-            <div className="grid grid-cols-1">
-              {game.cover &&
-                <img
-                  src={`https://${game.cover?.url.replace(
-                    't_thumb',
-                    't_1080p'
-                  )}`}
-                  alt={game.name}
-                  className="rounded-lg"
-                  width={game.cover.width}
-                  height={game.cover.height}
-                />}
-              <div className="grid grid-cols-2 mt-6 gap-4">
-                {game.screenshots?.length &&
-                  game.screenshots.map((image) => (
-                    <button onClick={() => setOpened(image.id)} className="tui-shadow" key={image.id}>
-                      <Image
-                        src={`https://${image?.url.replace(
-                          't_thumb',
-                          't_720p'
-                        )}`}
-                        alt={game.name}
-                        className="w-full block"
-                        width={image.width}
-                        height={image.height}
-                      />
-                    </button>
-                  ))}
-              </div>
-            </div>
-          </div>
+         <Images setOpened={setOpened} game={game}/>
           {game.videos?.length && (
             <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-7 lg:row-start-4 lg:row-span-3">
               <h2 className="font-medium text-gray-900 mb-6">Video</h2>
@@ -231,57 +119,7 @@ export default function Example({ game }: { game: Game }) {
               </div>
             )}
 
-            <div className="mt-8 border-t border-gray-200 pt-8">
-              <h2 className="text-sm font-medium text-gray-900">Game Info</h2>
-
-              <div className="mt-4 prose prose-sm text-gray-500">
-                <ul role="list">
-                  {dev && (
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Developed by">
-                        <TerminalIcon width="16" />
-                      </Tippy>
-                      {dev}
-                    </li>
-                  )}
-                  {publisher && (
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Published by">
-                        <GlobeIcon width="16" />
-                      </Tippy>
-                      {publisher}
-                    </li>
-                  )}
-                  <li className="flex gap-1 align-center">
-                    <Tippy content="Released In">
-                      <ClockIcon width="16" />
-                    </Tippy>
-                    {new Date(game.first_release_date * 1000).toLocaleString(
-                      'PT-pt',
-                      {
-                        year: 'numeric',
-                        month: 'numeric',
-                        day: 'numeric',
-                      }
-                    )}
-                  </li>
-                  {game.genres && <li className="flex gap-1 align-center">
-                    <Tippy content="Genres">
-                      <TagIcon width="16" />
-                    </Tippy>
-                    {game.genres.map((genre) => genre.name).join(', ')}
-                  </li>}
-                  {game.franchise && (
-                    <li className="flex gap-1 align-center">
-                      <Tippy content="Franchise">
-                        <DocumentDuplicateIcon width="16" />
-                      </Tippy>
-                      {game.franchise.name}
-                    </li>
-                  )}
-                </ul>
-              </div>
-            </div>
+            <Info game={game} />
           </div>
         </div>
       </div>

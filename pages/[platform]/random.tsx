@@ -3,11 +3,12 @@ import igdb from 'igdb-api-node'
 import { FIELDS, PLATFORMS } from '../../constants/info'
 import { StarIcon } from '@heroicons/react/solid'
 import 'tippy.js/dist/tippy.css' // optional
-import {  useState } from 'react'
+import { useState } from 'react'
 import { GetServerSidePropsContext } from 'next'
 import { Game } from '../../constants/types'
 import { Info } from '../../components/Info'
 import { Images } from '../../components/Images'
+import { prisma } from '../../prisma/prisma'
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
@@ -23,13 +24,13 @@ export default function Example({ game }: { game: Game }) {
         <div className="lg:grid lg:grid-cols-12 lg:auto-rows-min lg:gap-x-8">
           <div className="lg:col-start-7 lg:col-span-6">
             <h1 className="text-xl font-medium text-gray-900">{game.name}</h1>
-            {game.alternative_names && (
+            {game.alternative_names.length && (
               <h6 className="text-xs text-gray-500">
                 {game.alternative_names[0].name}
               </h6>
             )}
 
-            {game.total_rating && (
+            {game.total_rating ? (
               <div className="mt-4">
                 <h2 className="sr-only">Reviews</h2>
                 <div className="flex items-center">
@@ -68,11 +69,11 @@ export default function Example({ game }: { game: Game }) {
                   </div>
                 </div>
               </div>
-            )}
+            ) : null}
           </div>
 
-         <Images setOpened={setOpened} game={game}/>
-          {game.videos?.length && (
+          <Images setOpened={setOpened} game={game} />
+          {!game.videos?.length ? null : (
             <div className="mt-8 lg:mt-0 lg:col-start-1 lg:col-span-7 lg:row-start-4 lg:row-span-3">
               <h2 className="font-medium text-gray-900 mb-6">Video</h2>
               {game.videos.map((video) => (
@@ -166,22 +167,16 @@ const requestGame = async (name: string, platform: keyof typeof PLATFORMS) => {
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
   const { platform } = context.query as { platform: keyof typeof PLATFORMS };
-  const currentData = data[platform]
-  try {
-    let response = await requestGame(
-      currentData[Math.floor(Math.random() * currentData.length)],
-      platform
-    )
-    while (!response) {
-      response = await requestGame(currentData[Math.floor(Math.random() * currentData.length)], platform)
-    }
 
-    return {
-      props: {
-        game: response,
-      },
+  const result = await prisma.$queryRaw`
+    Select * from "Game"
+    WHERE console = ${platform}::"CONSOLES" 
+    ORDER BY RANDOM ()
+    limit 1;`
+
+  return {
+    props: {
+      game: result[0]
     }
-  } catch (e) {
-    console.log(e)
   }
 }

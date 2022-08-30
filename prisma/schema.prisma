@@ -1,0 +1,41 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum CONSOLES {
+  nes
+  snes
+  gb
+  gbc
+  gba
+  n64
+}
+
+model Game {
+  igdb_id            Int
+  id                 Int      @id @default(autoincrement())
+  console            CONSOLES
+  alternative_names  Json?
+  cover              Json?
+  first_release_date Int?
+  franchise          Json?
+  genres             Json?
+  involved_companies Json?
+  name               String
+  screenshots        Json?
+  slug               String
+  storyline          String?
+  summary            String?
+  total_rating_count Int?
+  total_rating       Float?
+  url                String
+  videos             Json?
+}

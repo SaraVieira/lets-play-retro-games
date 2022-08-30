@@ -26,7 +26,7 @@ export const Images = ({
           />
         )}
         <div className="grid grid-cols-2 mt-6 gap-4">
-          {game.screenshots?.length &&
+          {!game.screenshots?.length ? null :
             game.screenshots.map((image) => (
               <button
                 className="thumb-wrapper"

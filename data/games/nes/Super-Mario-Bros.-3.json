@@ -1,0 +1,201 @@
+{
+  "id": 1068,
+  "alternative_names": [
+    { "id": 31883, "name": "SMB 3" },
+    { "id": 71132, "name": "Mario 3" },
+    { "id": 71134, "name": "スーパーマリオブラザーズ3" },
+    { "id": 71135, "name": "SMB3" },
+    { "id": 93749, "name": "Super Mario Brothers 3" },
+    { "id": 93750, "name": "マリオ3" },
+    { "id": 96384, "name": "슈퍼 마리오 브라더스 3" }
+  ],
+  "cover": {
+    "id": 97916,
+    "alpha_channel": false,
+    "animated": false,
+    "game": 1068,
+    "height": 2000,
+    "image_id": "co23jw",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co23jw.jpg",
+    "width": 1500,
+    "checksum": "297ef0e3-621e-3919-3947-607450a5dbe2"
+  },
+  "first_release_date": 593568000,
+  "franchise": { "id": 24, "name": "Mario Bros." },
+  "genres": [
+    { "id": 8, "name": "Platform" },
+    { "id": 31, "name": "Adventure" }
+  ],
+  "involved_companies": [
+    {
+      "id": 177380,
+      "company": { "id": 421, "name": "Nintendo EAD" },
+      "created_at": 1656500562,
+      "developer": true,
+      "game": 1068,
+      "porting": false,
+      "publisher": false,
+      "supporting": false,
+      "updated_at": 1656502530,
+      "checksum": "1bb2fa7a-c47d-09bd-ecc6-d0fb9489f4df"
+    },
+    {
+      "id": 177381,
+      "company": { "id": 70, "name": "Nintendo" },
+      "created_at": 1656500562,
+      "developer": false,
+      "game": 1068,
+      "porting": false,
+      "publisher": true,
+      "supporting": false,
+      "updated_at": 1656502530,
+      "checksum": "362a65ff-c8d8-cc20-2942-773c6d127d9a"
+    }
+  ],
+  "name": "Super Mario Bros. 3",
+  "screenshots": [
+    {
+      "id": 379970,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856q",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856q.jpg",
+      "width": 256,
+      "checksum": "4dbbd9a1-b11b-cce2-02e1-216e398eba7c"
+    },
+    {
+      "id": 379971,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856r",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856r.jpg",
+      "width": 256,
+      "checksum": "9aa1d5f6-0355-53d9-edb0-18bd1aa42336"
+    },
+    {
+      "id": 379972,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856s",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856s.jpg",
+      "width": 256,
+      "checksum": "ea3178b7-7742-5da7-bf1f-db57961a1922"
+    },
+    {
+      "id": 379973,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856t",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856t.jpg",
+      "width": 256,
+      "checksum": "32b11b15-a126-188a-6c2e-c761f2e32391"
+    },
+    {
+      "id": 379974,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856u",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856u.jpg",
+      "width": 256,
+      "checksum": "1f87bbcd-81b3-b0c4-88e1-6761059de42b"
+    },
+    {
+      "id": 379975,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856v",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856v.jpg",
+      "width": 256,
+      "checksum": "1f1b77ef-330a-0328-8fe8-0a7d37a281bb"
+    },
+    {
+      "id": 379976,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856w",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856w.jpg",
+      "width": 256,
+      "checksum": "49107818-a4e8-6192-d862-9b87eb92260c"
+    },
+    {
+      "id": 379977,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856x",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856x.jpg",
+      "width": 256,
+      "checksum": "cfd79e85-61db-5ca7-06c0-8f61133d26dc"
+    },
+    {
+      "id": 379978,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856y",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856y.jpg",
+      "width": 256,
+      "checksum": "e0444111-8766-b7a3-5335-62b80eecf221"
+    },
+    {
+      "id": 379979,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc856z",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc856z.jpg",
+      "width": 256,
+      "checksum": "35dff6ea-80cb-a825-76a9-7c1ae81da7eb"
+    },
+    {
+      "id": 379980,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1068,
+      "height": 224,
+      "image_id": "sc8570",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8570.jpg",
+      "width": 256,
+      "checksum": "01b5bfbf-c7a0-2867-9f45-0a1b93db1bc7"
+    }
+  ],
+  "slug": "super-mario-bros-3",
+  "storyline": "Having returned peace to Mushroom World, Mario and Luigi decide to take a leisurely vacation with Princess Peach. They set out for Yoshi’s Island in the magical island nation of Dinosaur Land far to the south.\n\nBut soon after arriving on the island, Princess Peach suddenly disappears. As Mario and Luigi desperately search for her, they discover a strange egg on the outskirts of the island. Then, before their very eyes, an odd little dragon hatches! The dragon calls himself Yoshi and says, \"Monstrous turtles recently appeared here in this Dinosaur Land. They have used magic to seal my friends inside eggs. I tried to help them, but the turtles are incredibly strong and cast a spell on me, too… Will you please come with me to rescue my friends?\"\n\nWhat can this mean? Apparently, Bowser hasn’t learned his lesson, so it appears that his minions have yet again kidnapped Princess Peach.\n\nMario and Luigi begin another adventure in hopes of rescuing Yoshi’s pals and Princess Peach!",
+  "summary": "Super Mario Bros. 3, the third entry in the Super Mario Bros. series and Super Mario franchise, sees Mario or Luigi navigate a nonlinear world map containing platforming levels and optional minigames and challenges. The game features more diverse movement options and new items alongside more complex level designs and boss battles.",
+  "total_rating": 89.22000954295311,
+  "total_rating_count": 1112,
+  "url": "https://www.igdb.com/games/super-mario-bros-3",
+  "videos": [
+    {
+      "id": 20256,
+      "game": 1068,
+      "name": "Trailer",
+      "video_id": "HU80R7jGanE",
+      "checksum": "ad74f145-73d2-ac03-eeda-83df3cac9732"
+    },
+    {
+      "id": 35343,
+      "game": 1068,
+      "name": "Gameplay video",
+      "video_id": "c2LTcQwmOV4",
+      "checksum": "72494445-bb4c-5563-6271-8093630a8cc5"
+    }
+  ]
+}

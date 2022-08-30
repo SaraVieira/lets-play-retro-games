@@ -1,10 +1,14 @@
+
 export const PLATFORMS = {
   nes: 18,
   snes: 19,
   gb: 33,
   gbc: 22,
   gba: 24,
-}
+  // sf: 58,
+  n64: 4,
+  // md: 29,
+};
 export const FIELDS = [
   'name',
   'genres.name',

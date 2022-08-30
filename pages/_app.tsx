@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <div className="min-h-screen tui-bg-cyan-white">
       <Header />
       <div className="flex min-h-screen items-center justify-center">
-        <main className="tui-screen-1024-768 bordered centered! m-0 !overflow-auto">
+        <main className="tui-screen-1024-768 bordered centered! m-0 !overflow-auto" id="container">
           <Component {...pageProps} />
         </main>
       </div>

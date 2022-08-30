@@ -1,4 +1,4 @@
-import data from '../../constants/games'
+
 import igdb from 'igdb-api-node'
 import { FIELDS, PLATFORMS } from '../../constants/info'
 import { StarIcon } from '@heroicons/react/solid'
@@ -168,7 +168,7 @@ const requestGame = async (name: string, platform: keyof typeof PLATFORMS) => {
 export async function getServerSideProps(context: GetServerSidePropsContext) {
   const { platform } = context.query as { platform: keyof typeof PLATFORMS };
 
-  const result = await prisma.$queryRaw`
+  const result: Game[] = await prisma.$queryRaw`
     Select * from "Game"
     WHERE console = ${platform}::"CONSOLES" 
     ORDER BY RANDOM ()

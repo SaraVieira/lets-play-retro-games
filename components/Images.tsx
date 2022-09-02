@@ -1,7 +1,7 @@
-import Image from 'next/image'
+
 import { Game } from '../constants/types'
 
-const makeImage = (url: string, size = 't_1080p') =>
+const makeImage = (url: string = "", size = 't_1080p') =>
   'https://' + url.replace('t_thumb', size)
 
 export const Images = ({
@@ -16,7 +16,7 @@ export const Images = ({
       <h2 className="sr-only">Images</h2>
 
       <div className="grid grid-cols-1">
-        {game.cover && (
+        {game.cover?.url && (
           <img
             src={makeImage(game.cover?.url)}
             alt={game.name}
@@ -27,7 +27,7 @@ export const Images = ({
         )}
         <div className="grid grid-cols-2 mt-6 gap-4">
           {!game.screenshots?.length ? null :
-            game.screenshots.map((image) => (
+            game.screenshots.filter(img => img.url).map((image) => (
               <button
                 onClick={() => setOpened(image.id)}
                 key={image.id}

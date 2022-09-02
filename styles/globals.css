@@ -2,6 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.thumb-wrapper > span {
-  box-shadow: 10px 10px #000 !important;
-}

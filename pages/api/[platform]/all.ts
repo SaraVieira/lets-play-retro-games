@@ -14,21 +14,23 @@ type Query = { platform: CONSOLES, page: number, orderBy: string, direction: "de
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
     const { platform, page = 1, orderBy = "name", direction = "asc" } = req.query as unknown as Query;
-
+    const extraSearch = orderBy === "total_rating" ? {
+        total_rating: {
+            not: null
+        }
+    } : {}
     const games = await prisma.game.findMany({
         select: {
             id: true,
+            igdb_id: true,
             first_release_date: true,
             total_rating: true,
             name: true,
-
             slug: true,
         },
         where: {
             console: platform,
-            total_rating: {
-                not: null
-            }
+            ...extraSearch
         },
         take: 50,
         skip: page - 1,

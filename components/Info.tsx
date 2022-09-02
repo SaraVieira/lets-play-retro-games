@@ -5,9 +5,13 @@ import {
   TagIcon,
   TerminalIcon,
 } from '@heroicons/react/outline'
+import 'tippy.js/dist/tippy.css' // optional
+
 import Tippy from '@tippyjs/react'
 import { useMemo } from 'react'
 import { Game } from '../constants/types'
+
+
 
 export const Info = ({ game }: { game: Game }) => {
   const dev = useMemo(
@@ -57,15 +61,15 @@ export const Info = ({ game }: { game: Game }) => {
               day: 'numeric',
             })}
           </li>
-          {game.genres && (
+          {game.genres.length ? (
             <li className="flex gap-1 align-center">
               <Tippy content="Genres">
                 <TagIcon width="16" />
               </Tippy>
               {game.genres.map((genre) => genre.name).join(', ')}
             </li>
-          )}
-          {game.franchise && (
+          ) : null}
+          {game.franchise.name && (
             <li className="flex gap-1 align-center">
               <Tippy content="Franchise">
                 <DocumentDuplicateIcon width="16" />

@@ -29,15 +29,15 @@ export const Images = ({
           {!game.screenshots?.length ? null :
             game.screenshots.map((image) => (
               <button
-                className="thumb-wrapper"
                 onClick={() => setOpened(image.id)}
                 key={image.id}
               >
-                <Image
+                <img
                   src={makeImage(image?.url, 't_720p')}
                   alt={game.name}
                   width={image.width}
                   height={image.height}
+                  className="tui-shadow"
                 />
               </button>
             ))}

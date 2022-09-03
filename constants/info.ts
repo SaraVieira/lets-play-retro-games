@@ -30,37 +30,31 @@ export const FIELDS = [
 
 export const consolesMenu = [
   {
-    img: '/nes.png',
     alt: 'NES',
     name: 'NES',
     link: '/nes/random',
   },
   {
-    img: '/snes.png',
     alt: 'SNES',
     name: 'Super Nintendo',
     link: '/snes/random',
   },
   {
-    img: '/gb.png',
     alt: 'Game Boy',
     name: 'Game Boy',
     link: '/gb/random',
   },
   {
-    img: '/gbc.png',
     alt: 'Game Boy Color',
     name: 'Game Boy Color',
     link: '/gba/random',
   },
   {
-    img: '/gba.png',
     alt: 'Game Boy Advance',
     name: 'Game Boy Advance',
     link: '/gba/random',
   },
   {
-    img: '/md.png',
     alt: 'Sega Genesis/Megadrive',
     name: 'Sega Genesis/Megadrive',
     link: '/md/random',

@@ -1,0 +1,2 @@
+-- AlterEnum
+ALTER TYPE "CONSOLES" ADD VALUE 'md';

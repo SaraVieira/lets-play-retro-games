@@ -24,7 +24,7 @@
     "next-absolute-url": "^1.2.2",
     "p-throttle": "4.1.1",
     "postcss": "^8.4.16",
-    "prisma": "^4.2.1",
+    "prisma": "^4.3.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "slugify": "^1.6.5",

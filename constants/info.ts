@@ -59,4 +59,10 @@ export const consolesMenu = [
     name: 'Game Boy Advance',
     link: '/gba/random',
   },
+  {
+    img: '/md.png',
+    alt: 'Sega Genesis/Megadrive',
+    name: 'Sega Genesis/Megadrive',
+    link: '/md/random',
+  },
 ]

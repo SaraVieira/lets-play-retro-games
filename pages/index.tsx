@@ -16,9 +16,9 @@ export default function Example() {
 
           {consolesMenu.map((link) => (
             <button className="tui-button block mb-4 w-full" key={link.alt}>
-              <Link href={link.link} passHref>
-                <a>{link.name}</a>
-              </Link>
+
+              <a href={link.link} >{link.name}</a>
+
             </button>
           ))}
         </fieldset>

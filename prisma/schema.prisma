@@ -17,6 +17,7 @@ enum CONSOLES {
   gbc
   gba
   n64
+  md
 }
 
 model Game {

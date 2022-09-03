@@ -7,6 +7,7 @@ import gbGames from '../data/games/gb/all.json'
 import gbaGames from '../data/games/gba/all.json'
 import gbcGames from '../data/games/gbc/all.json'
 import n64Games from '../data/games/n64/all.json'
+import mdGames from '../data/games/md/all.json'
 
 const defaultValues = {
     alternative_names: [],
@@ -25,23 +26,33 @@ const defaultValues = {
 
 const createGames = async (games: Omit<Game, "console">[], platform: CONSOLES) => {
 
-    const all = games.map(game => prisma.game.create({
-        // @ts-ignore
-        data: {
-            ...defaultValues,
-            ...omit(game, "id"),
+
+    const all = games.map(async game => {
+        const gameInDb = await prisma.game.findFirst({
+            where: {
+                igdb_id: game.id,
+                console: platform
+            }
+        })
+
+        if (gameInDb?.name) return
+        await prisma.game.create({
             // @ts-ignore
-            igdb_id: game.id,
-            console: platform
-        }
-    }))
+            data: {
+                ...defaultValues,
+                ...omit(game, "id"),
+                // @ts-ignore
+                igdb_id: game.id,
+                console: platform
+            }
+        })
+    })
 
     await Promise.all(all)
 }
 
 
 async function main() {
-    await prisma.game.deleteMany({})
     // @ts-ignore
     await createGames(nesGames, "nes")
     // @ts-ignore
@@ -54,6 +65,8 @@ async function main() {
     await createGames(gbcGames, "gbc")
     // @ts-ignore
     await createGames(n64Games, "n64")
+    // @ts-ignore
+    await createGames(mdGames, "md")
 }
 
 main()

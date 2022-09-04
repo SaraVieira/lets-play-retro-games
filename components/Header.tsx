@@ -28,12 +28,12 @@ export const Header = () => {
           </a>
         </Link>
         <li className="tui-dropdown">
-          <span className="red-168-text">C</span>onsoles
+          <span className="red-168-text">R</span>andom <span className="red-168-text">G</span>ame
           <div className="tui-dropdown-content">
             <ul>
               {consolesMenu.map((console) => (
                 <li key={console.alt}>
-                  <Link href={console.link}>
+                  <Link href={console.linkRandom}>
                     <a>
                       <span className="red-168-text">
                         {console.name.charAt(0)}
@@ -46,7 +46,26 @@ export const Header = () => {
             </ul>
           </div>
         </li>
-        {asPath !== '/' && (
+        <li className="tui-dropdown">
+          <span className="red-168-text">A</span>ll <span className="red-168-text">G</span>ames
+          <div className="tui-dropdown-content">
+            <ul>
+              {consolesMenu.map((console) => (
+                <li key={console.alt}>
+                  <Link href={console.linkAll}>
+                    <a>
+                      <span className="red-168-text">
+                        {console.name.charAt(0)}
+                      </span>
+                      {console.name.substring(1)}
+                    </a>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </li>
+        {asPath.includes("random") && (
           <button onClick={() => location.reload()}>
             <span className="red-168-text">A</span>nother
           </button>

@@ -32,31 +32,43 @@ export const consolesMenu = [
   {
     alt: 'NES',
     name: 'NES',
-    link: '/nes/random',
+    linkRandom: '/nes/random',
+    linkAll: '/nes/all',
+
   },
   {
     alt: 'SNES',
     name: 'Super Nintendo',
-    link: '/snes/random',
+    linkRandom: '/snes/random',
+    linkAll: '/snes/all',
+
   },
   {
     alt: 'Game Boy',
     name: 'Game Boy',
-    link: '/gb/random',
+    linkRandom: '/gb/random',
+    linkAll: '/gb/all',
+
   },
   {
     alt: 'Game Boy Color',
     name: 'Game Boy Color',
-    link: '/gba/random',
+    linkRandom: '/gba/random',
+    linkAll: '/gba/all',
+
   },
   {
     alt: 'Game Boy Advance',
     name: 'Game Boy Advance',
-    link: '/gba/random',
+    linkRandom: '/gba/random',
+    linkAll: '/gba/all',
+
   },
   {
     alt: 'Sega Genesis/Megadrive',
     name: 'Sega Genesis/Megadrive',
-    link: '/md/random',
+    linkRandom: '/md/random',
+    linkAll: '/md/all',
+
   },
 ]

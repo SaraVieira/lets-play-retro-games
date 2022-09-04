@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { consolesMenu } from '../constants/info'
 
 export default function Example() {
@@ -13,12 +12,9 @@ export default function Example() {
       <div className="tui-window">
         <fieldset className="tui-fieldset tui-border-double">
           <legend>Choose a console to start</legend>
-
           {consolesMenu.map((link) => (
             <button className="tui-button block mb-4 w-full" key={link.alt}>
-
-              <a href={link.link} >{link.name}</a>
-
+              <a href={link.linkRandom} >{link.name}</a>
             </button>
           ))}
         </fieldset>

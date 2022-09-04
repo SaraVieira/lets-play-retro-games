@@ -10,15 +10,27 @@ type Data = {
     slug: string;
 }[]
 
-type Query = { platform: CONSOLES, page: number, orderBy: string, direction: "desc" | "asc" }
+enum OrderBy {
+    total_rating = "total_rating",
+    name = "name",
+    first_release_date = "first_release_date"
+}
+
+type Query = { platform: CONSOLES, page: number, orderBy: OrderBy, direction: "desc" | "asc" }
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
     const { platform, page = 1, orderBy = "name", direction = "asc" } = req.query as unknown as Query;
+    const PER_PAGE = 50
     const extraSearch = orderBy === "total_rating" ? {
         total_rating: {
             not: null
         }
+    } : orderBy === "first_release_date" ? {
+        first_release_date: {
+            not: null
+        }
     } : {}
+
     const games = await prisma.game.findMany({
         select: {
             id: true,
@@ -32,8 +44,8 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
             console: platform,
             ...extraSearch
         },
-        take: 50,
-        skip: page - 1,
+        take: PER_PAGE,
+        skip: ((page - 1) * PER_PAGE) + 1,
         orderBy: [
             {
                 [orderBy]: direction,

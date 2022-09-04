@@ -2,14 +2,14 @@ import { Game } from '@prisma/client';
 import { GetServerSidePropsContext } from 'next';
 import absoluteUrl from 'next-absolute-url'
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { PLATFORMS } from '../../constants/info'
 const All = ({ games: defaultGames, platform }: { games: Game[], platform: keyof typeof PLATFORMS }) => {
     const [games, setGames] = useState(defaultGames);
     const [page, setPage] = useState(1)
     const [order, setOrder] = useState("name-asc")
 
-    const callApiOnChange = (orderPassed?: string) => {
+    const callApiOnChange = useCallback((orderPassed?: string) => {
         const usedOrder = orderPassed || order
         const [orderBy, direction] = usedOrder.split("-");
         fetch(`/api/${platform}/all?page=${page}&orderBy=${orderBy}&direction=${direction}`).then(rsp => rsp.json()).then(g => {
@@ -19,7 +19,7 @@ const All = ({ games: defaultGames, platform }: { games: Game[], platform: keyof
                 setGames(a => [...a, ...g])
             }
         })
-    }
+    }, [order, page, platform])
 
     const onChangeSort = (e: any) => {
         setOrder(e.target.value)
@@ -41,7 +41,8 @@ const All = ({ games: defaultGames, platform }: { games: Game[], platform: keyof
                 <option value="name-asc">Name</option>
                 <option value="total_rating-desc">Rating (desc)</option>
                 <option value="total_rating-asc">Rating (asc)</option>
-                <option value="first_release_date-asc">Date</option>
+                <option value="first_release_date-asc">Date (asc)</option>
+                <option value="first_release_date-desc">Date (desc)</option>
             </select>
         </div>
         <table className="tui-table w-full tui-table hovered-cyan">

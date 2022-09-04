@@ -52,14 +52,12 @@ export const Header = () => {
             <ul>
               {consolesMenu.map((console) => (
                 <li key={console.alt}>
-                  <Link href={console.linkAll}>
-                    <a>
-                      <span className="red-168-text">
-                        {console.name.charAt(0)}
-                      </span>
-                      {console.name.substring(1)}
-                    </a>
-                  </Link>
+                  <a href={console.linkAll}>
+                    <span className="red-168-text">
+                      {console.name.charAt(0)}
+                    </span>
+                    {console.name.substring(1)}
+                  </a>
                 </li>
               ))}
             </ul>

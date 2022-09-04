@@ -54,8 +54,8 @@ const All = ({ games: defaultGames, platform }: { games: Game[], platform: keyof
             </thead>
             <tbody>
                 {games.map(game => (
-                    <Link key={game.slug + game.id} href={`/${platform}/${game.slug}`} passHref>
-                        <tr key={game.slug + game.id} className='cursor-pointer'>
+                    <Link key={game.slug + game.id + game.console} href={`/${platform}/${game.slug}`} passHref>
+                        <tr className='cursor-pointer'>
                             <td className='!px-2'>{game.name}</td>
                             <td className='!px-2'>{game.total_rating ? game.total_rating.toFixed(1) : null}</td>
                             <td className='!px-2'>{game.first_release_date ? new Date(game.first_release_date * 1000).toLocaleString('PT-pt', {

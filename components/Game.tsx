@@ -40,7 +40,7 @@ export const GamePage = ({ game }: { game: Game }) => {
                           game.total_rating &&
                             Math.round((game.total_rating / 100) * 5) > rating
                             ? 'text-yellow-400'
-                            : 'text-gray-200',
+                            : 'text-gray-100',
                           'h-5 w-5 flex-shrink-0'
                         )}
                         aria-hidden="true"
@@ -59,7 +59,7 @@ export const GamePage = ({ game }: { game: Game }) => {
                         href={`${game.url}`}
                         className="text-sm font-medium text-indigo-600 hover:text-indigo-500"
                       >
-                        See {game.total_rating_count > 1 ? 's' : null}{' '}
+                        See {game.total_rating_count > 1 ? 'all' : null}{' '}
                         {game.total_rating_count} rating
                         {game.total_rating_count > 1 ? 's' : null}
                       </a>

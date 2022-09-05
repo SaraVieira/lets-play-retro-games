@@ -48,8 +48,8 @@ export const consolesMenu = [
   {
     alt: 'Game Boy Color',
     name: 'Game Boy Color',
-    linkRandom: '/gba/random',
-    linkAll: '/gba/all',
+    linkRandom: '/gbc/random',
+    linkAll: '/gbc/all',
   },
   {
     alt: 'Game Boy Advance',

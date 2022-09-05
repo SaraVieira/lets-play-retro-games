@@ -28,7 +28,8 @@ export const Header = () => {
           </a>
         </Link>
         <li className="tui-dropdown">
-          <span className="red-168-text">R</span>andom <span className="red-168-text">G</span>ame
+          <span className="red-168-text">R</span>andom{' '}
+          <span className="red-168-text">G</span>ame
           <div className="tui-dropdown-content">
             <ul>
               {consolesMenu.map((console) => (
@@ -47,7 +48,8 @@ export const Header = () => {
           </div>
         </li>
         <li className="tui-dropdown">
-          <span className="red-168-text">A</span>ll <span className="red-168-text">G</span>ames
+          <span className="red-168-text">A</span>ll{' '}
+          <span className="red-168-text">G</span>ames
           <div className="tui-dropdown-content">
             <ul>
               {consolesMenu.map((console) => (
@@ -63,7 +65,7 @@ export const Header = () => {
             </ul>
           </div>
         </li>
-        {asPath.includes("random") && (
+        {asPath.includes('random') && (
           <button onClick={() => location.reload()}>
             <span className="red-168-text">A</span>nother
           </button>

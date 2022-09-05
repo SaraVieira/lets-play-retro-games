@@ -11,8 +11,6 @@ import Tippy from '@tippyjs/react'
 import { useMemo } from 'react'
 import { Game } from '../constants/types'
 
-
-
 export const Info = ({ game }: { game: Game }) => {
   const dev = useMemo(
     () =>

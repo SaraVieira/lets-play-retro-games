@@ -1,24 +1,15 @@
-
-
 import { PLATFORMS } from '../../constants/info'
 import { GetServerSidePropsContext } from 'next'
 import { Game } from '../../constants/types'
 import { prisma } from '../../prisma/prisma'
 import { GamePage } from '../../components/Game'
 
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(' ')
-}
-
-
-export default function Example({ game }: { game: Game }) {
-
+export default function SingleGame({ game }: { game: Game }) {
   return <GamePage game={game} />
 }
 
-
 export async function getServerSideProps(context: GetServerSidePropsContext) {
-  const { platform } = context.query as { platform: keyof typeof PLATFORMS };
+  const { platform } = context.query as { platform: keyof typeof PLATFORMS }
 
   const result: Game[] = await prisma.$queryRaw`
     Select * from "Game"
@@ -28,7 +19,7 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
 
   return {
     props: {
-      game: result[0]
-    }
+      game: result[0],
+    },
   }
 }

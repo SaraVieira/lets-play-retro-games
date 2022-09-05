@@ -3,9 +3,30 @@ import { GetServerSidePropsContext } from 'next'
 import { Game } from '../../constants/types'
 import { prisma } from '../../prisma/prisma'
 import { GamePage } from '../../components/Game'
+import { useState } from 'react'
 
 export default function SingleGame({ game }: { game: Game }) {
-  return <GamePage game={game} />
+  const [copied, setCopied] = useState(false)
+
+  const copyToClipboard = () => {
+    navigator.clipboard.writeText(game.slug).then(() => {
+      setCopied(true)
+      window.setTimeout(() => {
+        setCopied(false)
+      }, 2000)
+    })
+  }
+
+  return (
+    <>
+      <div className="flex mt-4 justify-end mx-6">
+        <button className="tui-button" onClick={copyToClipboard}>
+          {copied ? 'Copied!' : 'Copy game url'}
+        </button>
+      </div>
+      <GamePage game={game} />
+    </>
+  )
 }
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
@@ -16,6 +37,8 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     WHERE console = ${platform}::"CONSOLES" 
     ORDER BY RANDOM ()
     limit 1;`
+
+  console.log('done')
 
   return {
     props: {

@@ -53,14 +53,18 @@ export const GamePage = ({ game }: { game: Game }) => {
                   >
                     ·
                   </div>
-                  <div className="ml-4 flex">
-                    <a
-                      href={`${game.url}`}
-                      className="text-sm font-medium text-indigo-600 hover:text-indigo-500"
-                    >
-                      See all {game.total_rating_count} ratings
-                    </a>
-                  </div>
+                  {game.total_rating_count ? (
+                    <div className="ml-4 flex">
+                      <a
+                        href={`${game.url}`}
+                        className="text-sm font-medium text-indigo-600 hover:text-indigo-500"
+                      >
+                        See {game.total_rating_count > 1 ? 's' : null}{' '}
+                        {game.total_rating_count} rating
+                        {game.total_rating_count > 1 ? 's' : null}
+                      </a>
+                    </div>
+                  ) : null}
                 </div>
               </div>
             ) : null}

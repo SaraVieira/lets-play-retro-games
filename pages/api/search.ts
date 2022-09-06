@@ -14,6 +14,11 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
             slug: true,
             console: true
         },
+        orderBy: [
+            {
+                "first_release_date": "asc",
+            },
+        ],
         where: {
             name: {
                 search: query,

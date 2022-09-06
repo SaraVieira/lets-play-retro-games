@@ -11,7 +11,8 @@ export type Game = {
     url: string
     width: number
     checksum: string
-  }
+  },
+  console?: string,
   first_release_date: number
   franchise: {
     name: string

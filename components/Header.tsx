@@ -65,6 +65,13 @@ export const Header = () => {
             </ul>
           </div>
         </li>
+
+        <Link href={'/search'}>
+          <a>
+            <span className="red-168-text">S</span>earch
+          </a>
+        </Link>
+
         {asPath.includes('random') && (
           <button onClick={() => location.reload()}>
             <span className="red-168-text">A</span>nother

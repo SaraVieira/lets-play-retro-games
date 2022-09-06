@@ -1,25 +1,37 @@
+import { debounce } from 'lodash'
 import Link from 'next/link'
 import { useCallback, useEffect, useState } from 'react'
 import { consolesMenu } from '../constants/info'
 import { Game } from '../constants/types'
+import { Loading } from '../components/Loading'
+
+const fetchData = async (query: string, cb: any) => {
+  const res = await fetch(`/api/search?query=${query}`).then((rsp) =>
+    rsp.json()
+  )
+  cb(res)
+}
+const debouncedFetchData = debounce(fetchData, 500)
 
 const Search = () => {
   const [query, setQuery] = useState('')
   const [games, setGames] = useState<Game[]>([])
-
-  const callApiOnChange = useCallback(() => {
-    fetch(`/api/search?query=${query}`)
-      .then((rsp) => rsp.json())
-      .then(setGames)
-  }, [query])
+  const [loading, setLoading] = useState(false)
 
   useEffect(() => {
-    callApiOnChange()
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    if (query) {
+      setLoading(true)
+      debouncedFetchData(query, (res: Game[]) => {
+        setGames(res)
+        setLoading(false)
+      })
+    } else {
+      setGames([])
+    }
   }, [query])
 
   return (
-    <div className="tui-window h-full text-left w-full">
+    <div className="tui-window min-h-full text-left w-full">
       <div className="flex justify-end gap-2">
         <label htmlFor="search">Search for a game</label>
         <input
@@ -40,7 +52,9 @@ const Search = () => {
           </tr>
         </thead>
         <tbody>
-          {query ? (
+          {loading ? (
+            <Loading />
+          ) : query ? (
             games.map((game) => (
               <Link
                 key={game.slug + game.id + game.console}

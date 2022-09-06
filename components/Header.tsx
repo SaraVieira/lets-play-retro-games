@@ -33,7 +33,7 @@ export const Header = () => {
           <div className="tui-dropdown-content">
             <ul>
               {consolesMenu.map((console) => (
-                <li key={console.alt}>
+                <li key={console.name}>
                   <Link href={console.linkRandom}>
                     <a>
                       <span className="red-168-text">
@@ -53,7 +53,7 @@ export const Header = () => {
           <div className="tui-dropdown-content">
             <ul>
               {consolesMenu.map((console) => (
-                <li key={console.alt}>
+                <li key={console.name}>
                   <a href={console.linkAll}>
                     <span className="red-168-text">
                       {console.name.charAt(0)}

@@ -8,6 +8,8 @@ import gbaGames from '../data/games/gba/all.json'
 import gbcGames from '../data/games/gbc/all.json'
 import n64Games from '../data/games/n64/all.json'
 import mdGames from '../data/games/md/all.json'
+import msGames from '../data/games/ms/all.json'
+import ggGames from '../data/games/gg/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -53,24 +55,30 @@ const createGames = async (
 }
 
 async function main() {
+  // // @ts-ignore
+  // await createGames(nesGames, 'nes')
+  // // @ts-ignore
+  // await createGames(snesGames, 'snes')
+  // // @ts-ignore
+  // await createGames(gbGames, 'gb')
+  // // @ts-ignore
+  // await createGames(gbaGames, 'gba')
+  // // @ts-ignore
+  // await createGames(gbcGames, 'gbc')
+  // // @ts-ignore
+  // await createGames(n64Games, 'n64')
+  // // @ts-ignore
+  // await createGames(mdGames, 'md')
   // @ts-ignore
-  await createGames(nesGames, 'nes')
+  await createGames(msGames, 'ms')
   // @ts-ignore
-  await createGames(snesGames, 'snes')
-  // @ts-ignore
-  await createGames(gbGames, 'gb')
-  // @ts-ignore
-  await createGames(gbaGames, 'gba')
-  // @ts-ignore
-  await createGames(gbcGames, 'gbc')
-  // @ts-ignore
-  await createGames(n64Games, 'n64')
-  // @ts-ignore
-  await createGames(mdGames, 'md')
+  await createGames(ggGames, 'gg')
 }
 
 main()
-  .then(prisma.$disconnect)
+  .then(async () => {
+    await prisma.$disconnect()
+  })
   .catch(async (e) => {
     console.error(e)
     await prisma.$disconnect()

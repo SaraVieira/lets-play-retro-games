@@ -18,6 +18,8 @@ enum CONSOLES {
   gba
   n64
   md
+  gg
+  ms
 }
 
 model Game {

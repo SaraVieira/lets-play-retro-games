@@ -6,6 +6,8 @@ export const PLATFORMS = {
   gba: 24,
   n64: 4,
   md: 29,
+  gg: 35,
+  ms: 64
 }
 export const FIELDS = [
   'name',
@@ -28,40 +30,45 @@ export const FIELDS = [
 
 export const consolesMenu = [
   {
-    alt: 'NES',
     name: 'NES',
     linkRandom: '/nes/random',
     linkAll: '/nes/all',
   },
   {
-    alt: 'SNES',
     name: 'Super Nintendo',
     linkRandom: '/snes/random',
     linkAll: '/snes/all',
   },
   {
-    alt: 'Game Boy',
     name: 'Game Boy',
     linkRandom: '/gb/random',
     linkAll: '/gb/all',
   },
   {
-    alt: 'Game Boy Color',
     name: 'Game Boy Color',
     linkRandom: '/gbc/random',
     linkAll: '/gbc/all',
   },
   {
-    alt: 'Game Boy Advance',
+
     name: 'Game Boy Advance',
     linkRandom: '/gba/random',
     linkAll: '/gba/all',
   },
   {
-    alt: 'Sega Genesis/Megadrive',
     name: 'Sega Genesis/Megadrive',
     linkRandom: '/md/random',
     linkAll: '/md/all',
+  },
+  {
+    name: 'Sega Master System',
+    linkRandom: '/ms/random',
+    linkAll: '/ms/all',
+  },
+  {
+    name: 'Game Gear',
+    linkRandom: '/gg/random',
+    linkAll: '/gg/all',
   },
 ]
 

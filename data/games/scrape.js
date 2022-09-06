@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const mdGames = require('../../constants/consoles/md.json')
+const msGames = require('../../constants/consoles/ms.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -18,6 +18,8 @@ const PLATFORMS = {
   // sf: 58,
   n64: 4,
   md: 29,
+  gg: 35,
+  ms: 64,
 }
 const FIELDS = [
   'name',
@@ -45,7 +47,7 @@ const requestGame = throttle(async (game, platform) => {
     if (!fs.existsSync(fileName)) {
       const client = igdb(
         process.env.TWITCH_ID,
-        'gaxgfy0tu1lpdi2wiv36x07025esqh'
+        'vg9jx9sxjk0msuz90tdpj2ti8sa7f4'
       )
       const response = await client
         .fields(FIELDS)
@@ -97,8 +99,12 @@ const requestGame = throttle(async (game, platform) => {
 //   })();
 // }
 
-for (let index = 0; index <= mdGames.length; index++) {
+for (let index = 0; index <= msGames.length; index++) {
   ;(async () => {
-    await requestGame(mdGames[index], 'md')
+    await requestGame(msGames[index], 'ms')
   })()
+}
+
+module.exports = {
+  PLATFORMS,
 }

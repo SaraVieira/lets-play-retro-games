@@ -15,9 +15,8 @@ export const Rating = ({
 }) => {
   if (!totalRating) return null
   const moreThanOneRating = ratingCount > 1
-  const ratingText = `See ${moreThanOneRating ? 'all' : null}{' '}
-  ${ratingCount} rating
-  ${moreThanOneRating ? 's' : null}`
+  const ratingText = `See ${moreThanOneRating ? 'all' : null} 
+  ${ratingCount} rating${moreThanOneRating ? 's' : null}`
 
   return (
     <div className="mt-4">

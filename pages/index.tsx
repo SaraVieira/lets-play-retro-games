@@ -13,7 +13,7 @@ export default function Home() {
         <fieldset className="tui-fieldset tui-border-double">
           <legend>Choose a console to start</legend>
           {consolesMenu.map((link) => (
-            <Link href={link.linkRandom} key={link.alt} passHref>
+            <Link href={link.linkRandom} key={link.name} passHref>
               <button className="tui-button block mb-4 w-full">
                 {link.name}
               </button>

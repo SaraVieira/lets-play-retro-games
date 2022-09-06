@@ -1,14 +1,5 @@
 const fs = require('fs')
-const PLATFORMS = {
-  nes: 18,
-  snes: 19,
-  gb: 33,
-  gbc: 22,
-  gba: 24,
-  // sf: 58,
-  n64: 4,
-  md: 29,
-}
+const { PLATFORMS } = require('./scrape')
 
 Object.keys(PLATFORMS).forEach(function (platform) {
   const data = []

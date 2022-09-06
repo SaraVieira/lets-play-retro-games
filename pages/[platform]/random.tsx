@@ -9,7 +9,8 @@ export default function SingleGame({ game }: { game: Game }) {
   const [copied, setCopied] = useState(false)
 
   const copyToClipboard = () => {
-    navigator.clipboard.writeText(game.slug).then(() => {
+    const url = `https://letsplayretro.games/${game.console}/${game.slug}`
+    navigator.clipboard.writeText(url).then(() => {
       setCopied(true)
       window.setTimeout(() => {
         setCopied(false)

@@ -10,6 +10,7 @@ import n64Games from '../data/games/n64/all.json'
 import mdGames from '../data/games/md/all.json'
 import msGames from '../data/games/ms/all.json'
 import ggGames from '../data/games/gg/all.json'
+import pceGames from '../data/games/pce/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -70,9 +71,11 @@ async function main() {
   // // @ts-ignore
   // await createGames(mdGames, 'md')
   // @ts-ignore
-  await createGames(msGames, 'ms')
+  // await createGames(msGames, 'ms')
+  // // @ts-ignore
+  // await createGames(ggGames, 'gg')
   // @ts-ignore
-  await createGames(ggGames, 'gg')
+  await createGames(pceGames, 'pce')
 }
 
 main()

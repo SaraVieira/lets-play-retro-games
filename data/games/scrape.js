@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const msGames = require('../../constants/consoles/ms.json')
+const pceGames = require('../../constants/consoles/pce.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -15,7 +15,7 @@ const PLATFORMS = {
   gb: 33,
   gbc: 22,
   gba: 24,
-  // sf: 58,
+  pce: 86,
   n64: 4,
   md: 29,
   gg: 35,
@@ -61,7 +61,7 @@ const requestGame = throttle(async (game, platform) => {
         console.log('Creating new game', name)
         fs.writeFileSync(fileName, JSON.stringify(data))
       } else {
-        console.log('NO info found for ' + game)
+        console.log('No info found for ' + game)
       }
     }
   } catch (e) {
@@ -69,39 +69,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-// for (let index = 0; index <= nesGames.length; index++) {
-//   (async () => {
-//     await requestGame(nesGames[index], "nes");
-//   })();
-// }
-
-// for (let index = 0; index <= snesGames.length; index++) {
-//   (async () => {
-//     await requestGame(snesGames[index], "snes");
-//   })();
-// }
-
-// for (let index = 0; index <= gbGames.length; index++) {
-//   (async () => {
-//     await requestGame(gbGames[index], "gb");
-//   })();
-// }
-
-// for (let index = 0; index <= gbcGames.length; index++) {
-//   (async () => {
-//     await requestGame(gbcGames[index], "gbc");
-//   })();
-// }
-
-// for (let index = 0; index <= gbaGames.length; index++) {
-//   (async () => {
-//     await requestGame(gbaGames[index], "gba");
-//   })();
-// }
-
-for (let index = 0; index <= msGames.length; index++) {
+for (let index = 0; index <= pceGames.length; index++) {
   ;(async () => {
-    await requestGame(msGames[index], 'ms')
+    await requestGame(pceGames[index], 'pce')
   })()
 }
 

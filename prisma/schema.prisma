@@ -21,6 +21,7 @@ enum CONSOLES {
   md
   gg
   ms
+  pce
 }
 
 model Game {

@@ -7,7 +7,8 @@ export const PLATFORMS = {
   n64: 4,
   md: 29,
   gg: 35,
-  ms: 64
+  ms: 64,
+  pce: 86,
 }
 export const FIELDS = [
   'name',
@@ -83,6 +84,12 @@ export const consolesMenu = [
     id: "gg",
     linkRandom: '/gg/random',
     linkAll: '/gg/all',
+  },
+  {
+    name: 'TurboGrafx-16',
+    id: "pce",
+    linkRandom: '/pce/random',
+    linkAll: '/pce/all',
   },
 ]
 

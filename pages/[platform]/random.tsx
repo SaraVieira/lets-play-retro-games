@@ -39,8 +39,6 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     ORDER BY RANDOM ()
     limit 1;`
 
-  console.log('done')
-
   return {
     props: {
       game: result[0],

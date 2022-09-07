@@ -24,13 +24,13 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
         method: "POST",
         body: `fields total_rating_count,total_rating;
         where id = ${req.query.id};`,
+        // @ts-ignore
         headers: {
             "Client-ID": process.env.TWITCH_ID,
             Authorization: `Bearer ${access_token}`,
             'Content-Type': 'text/plain'
         }
     }).then(rsp => rsp.json())
-    console.log(rating)
     res.status(200).json(rating[0])
 }
 

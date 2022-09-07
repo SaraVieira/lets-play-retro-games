@@ -1,25 +1,46 @@
 import { StarIcon } from '@heroicons/react/solid'
+import { useEffect, useState } from 'react'
+import { Game } from '../constants/types'
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
 }
 
-export const Rating = ({
-  ratingCount,
-  totalRating,
-  url,
-}: {
-  ratingCount: number
-  totalRating?: number
-  url: string
-}) => {
-  if (!totalRating) return null
+const useFreshRating = ({ console, id }: { console: string; id: string }) => {
+  const [data, setData] = useState<{
+    totalRating?: number
+    ratingCount?: number
+  }>({})
+  const getData = async () => {
+    const { total_rating_count, total_rating } = await fetch(
+      `/api/${console}/${id}/rating`
+    ).then((rsp) => rsp.json())
+
+    setData({
+      totalRating: total_rating,
+      ratingCount: total_rating_count,
+    })
+  }
+
+  useEffect(() => {
+    getData()
+  }, [console, id])
+
+  return data
+}
+
+export const Rating = ({ url, console: platform, igdb_id }: Game) => {
+  const { ratingCount, totalRating } = useFreshRating({
+    console: platform,
+    id: igdb_id,
+  })
+  if (!totalRating || !ratingCount) return <div className="mt-4 h-[25px]" />
   const moreThanOneRating = ratingCount > 1
   const ratingText = `See ${moreThanOneRating ? 'all' : null} 
   ${ratingCount} rating${moreThanOneRating ? 's' : null}`
 
   return (
-    <div className="mt-4">
+    <div className="mt-4 h-[25px]">
       <h2 className="sr-only">Reviews</h2>
       <div className="flex items-center">
         <p className="text-sm text-gray-700">

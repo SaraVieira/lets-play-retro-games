@@ -12,7 +12,7 @@ export type Game = {
     width: number
     checksum: string
   },
-  console?: string,
+  console: string,
   first_release_date: number
   franchise: {
     name: string
@@ -56,5 +56,6 @@ export type Game = {
   storyline?: string
   total_rating?: number
   total_rating_count?: number
-  url: string
+  url: string,
+  igdb_id: string
 }

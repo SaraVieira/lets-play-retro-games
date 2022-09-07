@@ -20,13 +20,7 @@ export const GamePage = ({ game }: { game: Game }) => {
               </h6>
             ) : null}
 
-            {game.total_rating ? (
-              <Rating
-                ratingCount={game.total_rating_count as number}
-                totalRating={game.total_rating}
-                url={game.url}
-              />
-            ) : null}
+            {game.total_rating ? <Rating {...game} /> : null}
           </div>
 
           <Images setOpened={setOpened} game={game} />

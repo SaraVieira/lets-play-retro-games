@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { consolesMenu } from '../constants/info'
+import { consolesMenu, menuMain, otherInMenu } from '../constants/info'
 
 export default function Home() {
   return (
@@ -10,15 +10,33 @@ export default function Home() {
       </h2>
 
       <div className="tui-window">
-        <fieldset className="tui-fieldset tui-border-double">
+        <fieldset className="tui-fieldset tui-border-double sm:grid grid-cols-2 gap-4">
           <legend>Choose a console to start</legend>
-          {consolesMenu.map((link) => (
-            <Link href={link.linkRandom} key={link.name} passHref>
-              <button className="tui-button block mb-4 w-full">
-                {link.name}
-              </button>
-            </Link>
+          {menuMain.map((console) => (
+            <fieldset
+              className="tui-fieldset tui-border-double"
+              key={console.name}
+            >
+              <legend>{console.name}</legend>
+              {console.items.map((link) => (
+                <Link href={link.linkRandom} key={link.name} passHref>
+                  <button className="tui-button block mb-4 w-full">
+                    {link.name}
+                  </button>
+                </Link>
+              ))}
+            </fieldset>
           ))}
+          <fieldset className="tui-fieldset tui-border-double">
+            <legend>Other</legend>
+            {otherInMenu.map((link) => (
+              <Link href={link.linkRandom} key={link.name} passHref>
+                <button className="tui-button block mb-4 w-full">
+                  {link.name}
+                </button>
+              </Link>
+            ))}
+          </fieldset>
         </fieldset>
       </div>
     </div>

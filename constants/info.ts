@@ -93,6 +93,33 @@ export const consolesMenu = [
   },
 ]
 
+export const menuMain = [
+  {
+    name: "Nintendo",
+    items: [
+      consolesMenu[0],
+      consolesMenu[1],
+      consolesMenu[2],
+      consolesMenu[3],
+      consolesMenu[4],
+      consolesMenu[5],
+    ]
+  },
+  {
+    name: "Sega",
+    items: [
+
+      consolesMenu[6],
+      consolesMenu[7],
+      consolesMenu[8],
+    ]
+  }
+]
+
+export const otherInMenu = [
+  consolesMenu[9],
+]
+
 export const ORDERS = {
   'name-asc': 'Name',
   'total_rating-desc': 'Rating (desc)',

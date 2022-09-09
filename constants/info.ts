@@ -108,7 +108,6 @@ export const menuMain = [
   {
     name: "Sega",
     items: [
-
       consolesMenu[6],
       consolesMenu[7],
       consolesMenu[8],

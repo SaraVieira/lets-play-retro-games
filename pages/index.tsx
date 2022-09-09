@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { consolesMenu, menuMain, otherInMenu } from '../constants/info'
+import { menuMain, otherInMenu } from '../constants/info'
 
 export default function Home() {
   return (

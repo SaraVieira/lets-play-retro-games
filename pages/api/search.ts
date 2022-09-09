@@ -1,5 +1,6 @@
 import { prisma } from '../../prisma/prisma'
 import type { NextApiRequest, NextApiResponse } from 'next'
+import { consolesMenu } from '../../constants/info'
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
     const { query } = req.query as unknown as { query: string }
@@ -25,7 +26,10 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
             },
         },
     })
-    res.status(200).json(games)
+    res.status(200).json(games.map(game => ({
+        ...game,
+        console: consolesMenu.find(console => console.id === game.console)?.name
+    })))
 }
 
 export default handler

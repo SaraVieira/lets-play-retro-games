@@ -63,12 +63,7 @@ const Search = () => {
               >
                 <tr className="cursor-pointer">
                   <td className="!px-2">{game.name}</td>
-                  <td className="!px-2">
-                    {
-                      (consolesMenu.find(({ id }) => id === game.console) || {})
-                        .name
-                    }
-                  </td>
+                  <td className="!px-2">{game.console}</td>
                   <td className="!px-2">
                     {game.total_rating ? game.total_rating.toFixed(1) : null}
                   </td>

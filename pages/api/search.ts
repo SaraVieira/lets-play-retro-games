@@ -28,6 +28,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
     })
     res.status(200).json(games.map(game => ({
         ...game,
+        console_id: game.console,
         console: consolesMenu.find(console => console.id === game.console)?.name
     })))
 }

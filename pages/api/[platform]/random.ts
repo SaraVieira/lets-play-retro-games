@@ -12,6 +12,7 @@ type Data = {
   name: string
   slug: string
   console: string | undefined
+  console_id: string
 }
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
@@ -26,6 +27,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
 
   res.status(200).json({
     ...games[0],
+    console_id: games[0].console,
     console: consolesMenu.find(console => console.id === games[0].console)?.name
   })
 }

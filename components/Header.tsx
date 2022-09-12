@@ -12,14 +12,16 @@ export const Header = () => {
       </Link>
       <div className="!flex gap-6 ml-20">
         <Link href={'/'}>
-          <a>
+          <a className="hidden sm:block">
             <span className="red-168-text">H</span>ome
           </a>
         </Link>
 
         <li className="tui-dropdown">
           <span className="red-168-text">R</span>andom{' '}
-          <span className="red-168-text">G</span>ame
+          <span className="hidden sm:block">
+            <span className="red-168-text ">G</span>ame
+          </span>
           <div className="tui-dropdown-content">
             <ul>
               {menuMain.map((console) => (
@@ -107,7 +109,7 @@ export const Header = () => {
         </Link>
 
         {asPath.includes('random') && (
-          <button onClick={() => location.reload()}>
+          <button className="hidden sm:block" onClick={() => location.reload()}>
             <span className="red-168-text">A</span>nother
           </button>
         )}

@@ -6,9 +6,11 @@ import { Logo } from './Logo'
 export const Header = () => {
   const { asPath } = useRouter()
   return (
-    <nav className="tui-nav !flex justify-between">
-      <Link href={'/'} passHref>
-        <Logo />
+    <nav className="tui-nav !flex sm:justify-between">
+      <Link href={'/'}>
+        <a>
+          <Logo />
+        </a>
       </Link>
       <div className="!flex gap-6 ml-20">
         <Link href={'/'}>

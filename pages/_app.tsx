@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps: { session, ...pageProps } }: any) {
       <SEO />
       <div className="min-h-screen tui-bg-cyan-white">
         <Header />
-        <div className="flex min-h-screen items-center justify-center">
+        <div className="flex min-h-screen justify-center">
           <main className="max-w-5xl     mt-12" id="container">
             <Component {...pageProps} />
           </main>

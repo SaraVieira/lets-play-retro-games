@@ -32,7 +32,7 @@ const Search = () => {
   }, [query])
 
   return (
-    <div className="max-w-[90%] !block mt-6 mb-6 w-[1024px] tui-window text-left m-auto min-h-[90vh]">
+    <div className="max-w-[90%] !block mt-6 mb-6 w-[1024px] tui-window text-left m-auto">
       <div className="flex justify-end gap-2">
         <label htmlFor="search">Search for a game</label>
         <input

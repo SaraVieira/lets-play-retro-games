@@ -35,9 +35,7 @@ const All = ({
     [order, page, platform]
   )
 
-  const onChangeSort = (e: any) => {
-    setOrder(e.target.value)
-  }
+  const onChangeSort = (e: any) => setOrder(e.target.value)
 
   useEffect(() => {
     callApiOnChange()
@@ -48,7 +46,7 @@ const All = ({
     setPage(1)
     callApiOnChange()
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [order])
+  }, [order, platform])
 
   return (
     <div className="max-w-[90%] !block mt-6 mb-6 w-[1024px] tui-window text-left m-auto">
@@ -57,7 +55,7 @@ const All = ({
         <select className="tui-input" onChange={onChangeSort}>
           {Object.keys(ORDERS).map((key) => (
             <option key={key} value={key}>
-              {/* @ts-ignore */}
+     
               {ORDERS[key]}
             </option>
           ))}

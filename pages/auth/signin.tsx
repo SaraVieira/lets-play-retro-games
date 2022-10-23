@@ -1,13 +1,13 @@
-import { Provider } from 'next-auth/providers'
-import { getProviders, signIn } from 'next-auth/react'
+import { signIn } from 'next-auth/react'
 
-const SignIn = ({ providers }: { providers: Provider[] }) => {
+const providers = [{ id: 'github', name: 'GitHub' }]
+const SignIn = () => {
   return (
     <section className="flex items-center h-full w-full justify-center">
       <div className="tui-window">
         <fieldset className="tui-fieldset tui-border-double gap-4 block !p-6">
           <legend>Choose your path</legend>
-          {Object.values(providers).map((provider) => (
+          {providers.map((provider) => (
             <button
               key={provider.name}
               className="tui-button"
@@ -23,10 +23,3 @@ const SignIn = ({ providers }: { providers: Provider[] }) => {
 }
 
 export default SignIn
-
-export async function getServerSideProps() {
-  const providers = await getProviders()
-  return {
-    props: { providers },
-  }
-}

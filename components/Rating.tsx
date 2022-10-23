@@ -24,6 +24,7 @@ const useFreshRating = ({ console, id }: { console: string; id: string }) => {
 
   useEffect(() => {
     getData()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [console, id])
 
   return data

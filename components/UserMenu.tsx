@@ -16,7 +16,7 @@ export const UserMenu = () => {
               boxShadow: '5px 5px 0 #000',
             }}
             alt={session?.user?.name as string}
-          />{' '}
+          />
           <div className="tui-dropdown-content" style={{ marginLeft: -150 }}>
             <ul>
               {session?.user?.id && (

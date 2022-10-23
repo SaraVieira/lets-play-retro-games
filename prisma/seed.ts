@@ -60,30 +60,30 @@ const createGames = async (
 }
 
 async function main() {
-  // // @ts-ignore
-  // await createGames(nesGames, 'nes')
-  // // @ts-ignore
-  // await createGames(snesGames, 'snes')
-  // // @ts-ignore
-  // await createGames(gbGames, 'gb')
-  // // @ts-ignore
-  // await createGames(gbaGames, 'gba')
-  // // @ts-ignore
-  // await createGames(gbcGames, 'gbc')
-  // // @ts-ignore
-  // await createGames(n64Games, 'n64')
-  // // @ts-ignore
-  // await createGames(mdGames, 'md')
-  // // @ts-ignore
-  // await createGames(msGames, 'ms')
-  // // @ts-ignore
-  // await createGames(ggGames, 'gg')
-  // // @ts-ignore
-  // await createGames(pceGames, 'pce')
-  // // @ts-ignore
-  // await createGames(psxGames, 'ps1')
-  // // @ts-ignore
-  // await createGames(sega32Games, 'sega32')
+  // @ts-ignore
+  await createGames(nesGames, 'nes')
+  // @ts-ignore
+  await createGames(snesGames, 'snes')
+  // @ts-ignore
+  await createGames(gbGames, 'gb')
+  // @ts-ignore
+  await createGames(gbaGames, 'gba')
+  // @ts-ignore
+  await createGames(gbcGames, 'gbc')
+  // @ts-ignore
+  await createGames(n64Games, 'n64')
+  // @ts-ignore
+  await createGames(mdGames, 'md')
+  // @ts-ignore
+  await createGames(msGames, 'ms')
+  // @ts-ignore
+  await createGames(ggGames, 'gg')
+  // @ts-ignore
+  await createGames(pceGames, 'pce')
+  // @ts-ignore
+  await createGames(psxGames, 'ps1')
+  // @ts-ignore
+  await createGames(sega32Games, 'sega32')
   // @ts-ignore
   await createGames(satGames, 'sat')
 

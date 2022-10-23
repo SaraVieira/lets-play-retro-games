@@ -49,8 +49,8 @@ yarn dev
 
 Needed envs:
 
-- DATABASE_URL: Postgres DB
-- GITHUB_ID && GITHUB_SECRET: If you need to test login. The callback URL is `http://localhost:3000/api/auth/callback/github`
+- `DATABASE_URL`: Postgres DB
+- `GITHUB_ID` & `GITHUB_SECRET`: If you need to test login. The callback URL is `http://localhost:3000/api/auth/callback/github`
 
 ### Can I have your data?
 

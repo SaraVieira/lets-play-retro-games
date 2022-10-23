@@ -93490,6 +93490,106 @@
     ]
   },
   {
+    "id": 1454,
+    "alternative_names": [
+      {
+        "id": 34719,
+        "name": "幻想水滸伝II"
+      },
+      {
+        "id": 34720,
+        "name": "Suikoden 2"
+      },
+      {
+        "id": 42637,
+        "name": "Suikoden 2"
+      }
+    ],
+    "cover": {
+      "id": 90946,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1454,
+      "height": 1307,
+      "image_id": "co1y6a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y6a.jpg",
+      "width": 980,
+      "checksum": "e0cb1dc1-f774-9ba9-84ce-2ec309b460cc"
+    },
+    "first_release_date": 913852800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3096,
+        "company": {
+          "id": 129,
+          "name": "Konami"
+        },
+        "created_at": 1349913600,
+        "developer": true,
+        "game": 1454,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1349913600,
+        "checksum": "c5a243c1-fd71-f86e-83b4-de9136a229e4"
+      }
+    ],
+    "name": "Suikoden II",
+    "screenshots": [
+      {
+        "id": 1480,
+        "game": 1454,
+        "height": 480,
+        "image_id": "qum0dv6elfxbnkdrzkuk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qum0dv6elfxbnkdrzkuk.jpg",
+        "width": 640,
+        "checksum": "a17ecdcb-a05f-2355-e008-1093824ba8dd"
+      },
+      {
+        "id": 1481,
+        "game": 1454,
+        "height": 435,
+        "image_id": "rqgyp64x7lbojkumkduh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rqgyp64x7lbojkumkduh.jpg",
+        "width": 640,
+        "checksum": "de4ae033-d4f6-acb8-edee-1fe706ce881a"
+      },
+      {
+        "id": 1482,
+        "game": 1454,
+        "height": 480,
+        "image_id": "viaw99elsmb8tf0rghqu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/viaw99elsmb8tf0rghqu.jpg",
+        "width": 640,
+        "checksum": "ec27f5ac-b05f-61a1-8d32-60e1111c6d3f"
+      }
+    ],
+    "slug": "suikoden-ii",
+    "summary": "Experience An Epic Tale of Warfare, Magic, Friendship And Betrayal\n\n-New tactical map battles add a whole level of strategy\n-Fantastic spells with stunning animation sequences and specialized attacks\n-Over 108 different characters can join your party and help you on your quest\n-Unlock hidden storylines using your memory card data from the original Suikoden\n-Build up your castle during the game to a thriving virtual community",
+    "total_rating": 95.93049141910465,
+    "total_rating_count": 83,
+    "url": "https://www.igdb.com/games/suikoden-ii",
+    "videos": [
+      {
+        "id": 968,
+        "game": 1454,
+        "name": "Game intro",
+        "video_id": "RRXzw5XcSy8",
+        "checksum": "b46c9875-198b-03d1-104d-1cac9386be03"
+      }
+    ]
+  },
+  {
     "id": 4187,
     "cover": {
       "id": 161273,

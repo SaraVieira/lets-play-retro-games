@@ -20,7 +20,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
     const { access_token } = await fetch(
         `https://id.twitch.tv/oauth2/token?client_id=${process.env.TWITCH_ID}&client_secret=${process.env.TWITCH_SECRET}&grant_type=client_credentials`, { method: "POST" }
     ).then(rsp => rsp.json())
-    console.log(access_token)
+
     const rating = await fetch("https://api.igdb.com/v4/games", {
         method: "POST",
         body: `fields total_rating_count,total_rating;

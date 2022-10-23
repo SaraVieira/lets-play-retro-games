@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const psxGames = require('../../constants/consoles/psx.json')
+const sega32Games = require('../../constants/consoles/sega32.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -21,6 +21,8 @@ const PLATFORMS = {
   gg: 35,
   ms: 64,
   psx: 7,
+  sega32: 30,
+  vb: 87,
 }
 const FIELDS = [
   'name',
@@ -70,9 +72,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= psxGames.length; index++) {
+for (let index = 0; index <= sega32Games.length; index++) {
   ;(async () => {
-    await requestGame(psxGames[index], 'psx')
+    await requestGame(sega32Games[index], 'sega32')
   })()
 }
 

@@ -1,0 +1,4697 @@
+[
+  {
+    "id": 113199,
+    "alternative_names": [
+      {
+        "id": 76002,
+        "name": "After Burner Complete"
+      },
+      {
+        "id": 76003,
+        "name": "After Burner Complete"
+      }
+    ],
+    "cover": {
+      "id": 186809,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 113199,
+      "height": 2100,
+      "image_id": "co4055",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4055.jpg",
+      "width": 1536,
+      "checksum": "e882bc11-6172-b436-472a-cb9feecb2c04"
+    },
+    "first_release_date": 788918400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 72040,
+        "company": {
+          "id": 846,
+          "name": "Rutubo Games"
+        },
+        "created_at": 1544140800,
+        "developer": true,
+        "game": 113199,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1544313600,
+        "checksum": "409a846e-a76f-6a71-4999-deee18db5436"
+      },
+      {
+        "id": 72041,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1544140800,
+        "developer": false,
+        "game": 113199,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1544313600,
+        "checksum": "7c083a56-d626-4ce8-9d2a-34bd867b0ac4"
+      }
+    ],
+    "name": "After Burner",
+    "screenshots": [
+      {
+        "id": 268623,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 113199,
+        "height": 480,
+        "image_id": "sc5r9r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5r9r.jpg",
+        "width": 640,
+        "checksum": "63fe2378-b207-f403-c8e2-8f65028cb679"
+      }
+    ],
+    "slug": "after-burner--1",
+    "storyline": "Strap into your lethal F-14 Tomcat, kick in the afterburner and set the skies alight ! You fly through multiple day and night missions over land and sea, picking off enemy targets as you lock and launch your deadly Sidewinders missiles.",
+    "summary": "You pilot a fictional airplane called the SSF-14 fighter, using Up to descend and Down to climb it, like in a real fighter plane (although that can be changed in the options under \"UP/DOWN\"). Playing with a three-button controller A and C fire the vulcan guns, which have infinite ammunition; B is used for missiles, which are limited to 50 at start but get replenished at certain points of the game. Six-button controllers are also supported, with which A rolls, B still shoot missiles, C and Mode fire the vulcan guns, X sets the speed to low, Y speed middle and Z speed high.\n\nThere are 23 stages in all and upon reaching stages 5, 9, 13 and 19, allows you to continue the game from the respective stage, through a new option at the title screen.",
+    "url": "https://www.igdb.com/games/after-burner--1"
+  },
+  {
+    "id": 5362,
+    "cover": {
+      "id": 79230,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 5362,
+      "height": 1599,
+      "image_id": "co1p4u",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1p4u.jpg",
+      "width": 1199,
+      "checksum": "3bf25a14-ed10-d2a4-8782-59957f472d7e"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 12966,
+        "company": {
+          "id": 1031,
+          "name": "Core Design"
+        },
+        "created_at": 1392163200,
+        "developer": true,
+        "game": 5362,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1392163200,
+        "checksum": "6d4c084e-cea2-a11a-e736-fe4041954679"
+      }
+    ],
+    "name": "BC Racers",
+    "screenshots": [
+      {
+        "id": 76612,
+        "game": 5362,
+        "height": 720,
+        "image_id": "q9x3kga3f6wxkzafnail",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q9x3kga3f6wxkzafnail.jpg",
+        "width": 1280,
+        "checksum": "ea0abfb7-2465-da40-754c-d466464d19d0"
+      },
+      {
+        "id": 338028,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5362,
+        "height": 224,
+        "image_id": "sc78to",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc78to.jpg",
+        "width": 256,
+        "checksum": "f697bd80-d864-cd5d-8fad-472c0abe0b8f"
+      },
+      {
+        "id": 338029,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5362,
+        "height": 224,
+        "image_id": "sc78tp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc78tp.jpg",
+        "width": 256,
+        "checksum": "6e591d90-ed60-e0be-25cb-b24f0357d3ab"
+      },
+      {
+        "id": 338030,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5362,
+        "height": 224,
+        "image_id": "sc78tq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc78tq.jpg",
+        "width": 256,
+        "checksum": "a1cba41c-9059-2957-94c9-42544b17d883"
+      }
+    ],
+    "slug": "bc-racers",
+    "summary": "BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games. \n \nEach of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc. \n \nGraphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.",
+    "url": "https://www.igdb.com/games/bc-racers",
+    "videos": [
+      {
+        "id": 17815,
+        "game": 5362,
+        "name": "Gameplay video",
+        "video_id": "hQK1NO1Tb-s",
+        "checksum": "c5d2cf9c-e9fa-7e4f-8e55-ca9bf500d85a"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "alternative_names": [
+      {
+        "id": 60280,
+        "name": "Blackhawk"
+      }
+    ],
+    "cover": {
+      "id": 156612,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 452,
+      "height": 800,
+      "image_id": "co3cuc",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3cuc.jpg",
+      "width": 600,
+      "checksum": "4a3518e9-aebf-02a7-8a7e-94b0d35992f3"
+    },
+    "first_release_date": 780278400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19476,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "created_at": 1415404800,
+        "developer": true,
+        "game": 452,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "2a6691a2-bda6-f747-50d9-79e826895efb"
+      },
+      {
+        "id": 19477,
+        "company": {
+          "id": 1695,
+          "name": "Mass Media Inc"
+        },
+        "created_at": 1415404800,
+        "developer": true,
+        "game": 452,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "e1264cd8-07fc-96e1-50ef-5853b5bfdb46"
+      },
+      {
+        "id": 19480,
+        "company": {
+          "id": 121,
+          "name": "Blizzard Classic Arcade"
+        },
+        "created_at": 1415404800,
+        "developer": false,
+        "game": 452,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "2262969d-6fa8-fc5e-9181-e7304f296a58"
+      },
+      {
+        "id": 19481,
+        "company": {
+          "id": 120,
+          "name": "MacPlay"
+        },
+        "created_at": 1415404800,
+        "developer": false,
+        "game": 452,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "cfdff170-a471-aa0e-fad0-52cf18c7b8a2"
+      },
+      {
+        "id": 19482,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        },
+        "created_at": 1415404800,
+        "developer": false,
+        "game": 452,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "2e038a4e-b23b-9fe9-4860-a44651846967"
+      },
+      {
+        "id": 19483,
+        "company": {
+          "id": 1281,
+          "name": "Kemco"
+        },
+        "created_at": 1415404800,
+        "developer": false,
+        "game": 452,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415404800,
+        "checksum": "5d36441d-f233-0a09-c135-a684d89cd5f7"
+      },
+      {
+        "id": 45065,
+        "company": {
+          "id": 7466,
+          "name": "Paradox Development Studio"
+        },
+        "created_at": 1488931200,
+        "developer": true,
+        "game": 452,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1488931200,
+        "checksum": "6aaf72b2-353c-91dc-dac0-3f34c59bf810"
+      },
+      {
+        "id": 95627,
+        "company": {
+          "id": 24213,
+          "name": "Interplay"
+        },
+        "created_at": 1585872000,
+        "developer": false,
+        "game": 452,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1585872000,
+        "checksum": "c29df000-f06c-6db5-3f85-b84706d465bc"
+      }
+    ],
+    "name": "Blackthorne",
+    "screenshots": [
+      {
+        "id": 16422,
+        "game": 452,
+        "height": 240,
+        "image_id": "zz1rhgmvrtx35letbsj1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zz1rhgmvrtx35letbsj1.jpg",
+        "width": 320,
+        "checksum": "759f7eaa-5799-98ce-f9f4-96848359996c"
+      }
+    ],
+    "slug": "blackthorne",
+    "summary": "In Blackthorne, players take on the role of Kyle Blackthorne, a lethal commando equipped with brute strength, animal cunning, and a mysterious past that he has just begun to remember. Thrown onto the futuristic planet of Tuul, Blackthorne must contend with a world overrun by mutant monsters and goblin hordes in a valiant attempt to liberate the Androthi people.",
+    "total_rating": 71.1053974331986,
+    "total_rating_count": 30,
+    "url": "https://www.igdb.com/games/blackthorne",
+    "videos": [
+      {
+        "id": 17825,
+        "game": 452,
+        "name": "Gameplay video",
+        "video_id": "BvAChJwtuK4",
+        "checksum": "c0ef1071-64fd-2c18-2910-e93d7575d167"
+      }
+    ]
+  },
+  {
+    "id": 45879,
+    "alternative_names": [
+      {
+        "id": 68992,
+        "name": "Brutal Unleashed"
+      }
+    ],
+    "cover": {
+      "id": 27996,
+      "game": 45879,
+      "height": 2100,
+      "image_id": "lrkvxrlooy1bhzr2bbjj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/lrkvxrlooy1bhzr2bbjj.jpg",
+      "width": 1530,
+      "checksum": "e6d01c23-3107-7017-ec1f-636776a27baf"
+    },
+    "first_release_date": 791596800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Brutal: Above the Claw",
+    "slug": "brutal-above-the-claw",
+    "summary": "Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well… Brutal Island. Each will use their own unique mental and physical martial arts style and training, in a tournament to prove the worlds one true champion.\n\nBrutal, Above the Claw, is a brilliantly rendered game of humorous cartoon style combat, combined with depth, philosophy, and an attention to detail not found in any other fighting game.\n\nGo ahead and Unleash the Animal, it’s time to get Brutal.",
+    "url": "https://www.igdb.com/games/brutal-above-the-claw"
+  },
+  {
+    "id": 5372,
+    "alternative_names": [
+      {
+        "id": 69354,
+        "name": "Corpse Killer: Graveyard Edition"
+      }
+    ],
+    "cover": {
+      "id": 79234,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 5372,
+      "height": 1444,
+      "image_id": "co1p4y",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1p4y.jpg",
+      "width": 1083,
+      "checksum": "76d4879a-5df9-7864-79b8-411b93bac100"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 12996,
+        "company": {
+          "id": 1181,
+          "name": "Digital Pictures"
+        },
+        "created_at": 1392163200,
+        "developer": true,
+        "game": 5372,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1392163200,
+        "checksum": "0ffd4171-5770-1724-cb33-1acee4c64ed0"
+      },
+      {
+        "id": 22567,
+        "company": {
+          "id": 1791,
+          "name": "Acclaim Japan"
+        },
+        "created_at": 1427241600,
+        "developer": false,
+        "game": 5372,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1427328000,
+        "checksum": "1a490726-7d75-8676-7da4-cbe3441cae7c"
+      }
+    ],
+    "name": "Corpse Killer",
+    "screenshots": [
+      {
+        "id": 76499,
+        "game": 5372,
+        "height": 1080,
+        "image_id": "tznp0ccp5k4dejgs7mxl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tznp0ccp5k4dejgs7mxl.jpg",
+        "width": 1440,
+        "checksum": "799693ef-7009-a106-572f-0574d10474ed"
+      }
+    ],
+    "slug": "corpse-killer",
+    "summary": "Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.\n\nThe game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.",
+    "url": "https://www.igdb.com/games/corpse-killer",
+    "videos": [
+      {
+        "id": 26667,
+        "game": 5372,
+        "name": "Gameplay video",
+        "video_id": "EGCoWLf-klI",
+        "checksum": "c509b120-7f9c-0932-b7af-19504871aa81"
+      },
+      {
+        "id": 54072,
+        "game": 5372,
+        "name": "Gameplay Video",
+        "video_id": "QazV7jN3-ag",
+        "checksum": "fefd75ae-dce7-0b36-7aa2-4c011fe294e4"
+      }
+    ]
+  },
+  {
+    "id": 45883,
+    "cover": {
+      "id": 27992,
+      "game": 45883,
+      "height": 2100,
+      "image_id": "glqyx0s8gmdmwcvqr0ec",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/glqyx0s8gmdmwcvqr0ec.jpg",
+      "width": 1534,
+      "checksum": "e8e3221c-1b93-ccc4-e67a-a414b2a8f54d"
+    },
+    "first_release_date": 785376000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99538,
+        "company": {
+          "id": 1855,
+          "name": "Givro"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 45883,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "9423ad4a-efa5-f1cf-3008-8ac4c0031446"
+      },
+      {
+        "id": 99539,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 45883,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "fc4ab46c-a1e2-9f6d-851c-89cd3af6b580"
+      }
+    ],
+    "name": "Cosmic Carnage",
+    "screenshots": [
+      {
+        "id": 385071,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 480,
+        "image_id": "sc894f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894f.jpg",
+        "width": 640,
+        "checksum": "ee6099b6-eb0d-9ddb-e2d2-385373a3ffcd"
+      },
+      {
+        "id": 385072,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 224,
+        "image_id": "sc894g",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894g.jpg",
+        "width": 320,
+        "checksum": "602b3edb-aaca-2b37-b8fd-ec70c6f1c94c"
+      },
+      {
+        "id": 385073,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 224,
+        "image_id": "sc894h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894h.jpg",
+        "width": 330,
+        "checksum": "8a7341c3-79ce-b912-48cd-f7820da64010"
+      },
+      {
+        "id": 385074,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 224,
+        "image_id": "sc894i",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894i.jpg",
+        "width": 320,
+        "checksum": "9fc48cd1-7380-557e-2c6c-f57fdb80b1aa"
+      },
+      {
+        "id": 385075,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 405,
+        "image_id": "sc894j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894j.jpg",
+        "width": 540,
+        "checksum": "15716c2e-23d4-dfaf-c177-3a3820bcc6e8"
+      },
+      {
+        "id": 385076,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45883,
+        "height": 224,
+        "image_id": "sc894k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894k.jpg",
+        "width": 320,
+        "checksum": "cf708b26-9d11-f0ed-e924-7205316a7e54"
+      }
+    ],
+    "slug": "cosmic-carnage",
+    "storyline": "In an uncharted star system, a group of prisoners en route to a celestial space mine overpower the ship's guards and take control of the ship, but during their breakout, most of the ship's controls are damaged. \n \nAfter days of drifting, the criminals realize that their only hope is to hijack another ship and use their distress signal to bring a military ship to their aid. They then trick the ship by ramming their own vehicle into it. The impact, however, badly damages both and destroys all but one of the escape pods, as well as killing all but four from each ship (eight in total). The few survivors fight for the final escape pod and a chance of survival.",
+    "summary": "What kind of un-be-leev-ably ugly monster is this? Chunks of armor fly off as you pound its body. This beefed-up, maxed-out monstrosity has jetted across the cosmos to beat your brains out! But is it the alien? Or is it YOU?",
+    "url": "https://www.igdb.com/games/cosmic-carnage",
+    "videos": [
+      {
+        "id": 36209,
+        "game": 45883,
+        "name": "Gameplay Video",
+        "video_id": "M2Y050L0XIs",
+        "checksum": "bfd71c09-f5ef-9f2f-d259-eabb58c94e31"
+      }
+    ]
+  },
+  {
+    "id": 45877,
+    "cover": {
+      "id": 27998,
+      "game": 45877,
+      "height": 1198,
+      "image_id": "urmdesi9veyg31dijudo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/urmdesi9veyg31dijudo.jpg",
+      "width": 910,
+      "checksum": "53d4ecd9-5529-9223-174d-9f7208bb652b"
+    },
+    "first_release_date": 820454400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "DarXide",
+    "slug": "darxide",
+    "summary": "One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.\n\nPlayers control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.",
+    "url": "https://www.igdb.com/games/darxide"
+  },
+  {
+    "id": 673,
+    "alternative_names": [
+      {
+        "id": 2973,
+        "name": "毁灭战士"
+      },
+      {
+        "id": 2974,
+        "name": "Doom: Evil Unleashed"
+      },
+      {
+        "id": 2975,
+        "name": "DOOM95"
+      }
+    ],
+    "cover": {
+      "id": 87099,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 673,
+      "height": 960,
+      "image_id": "co1v7f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v7f.jpg",
+      "width": 720,
+      "checksum": "63f9d481-c1ac-e09b-e81a-32910a81cdf9"
+    },
+    "first_release_date": 755481600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19609,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "91266f57-5bf5-da22-b6b3-80d547758add"
+      },
+      {
+        "id": 19610,
+        "company": {
+          "id": 205,
+          "name": "GT Interactive"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "d67618e8-d3b4-1603-928f-fb512fa58c4d"
+      },
+      {
+        "id": 19611,
+        "company": {
+          "id": 4112,
+          "name": "Soft Bank"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "6d20745d-9f3c-ac44-e0c6-122c2e378d80"
+      },
+      {
+        "id": 19612,
+        "company": {
+          "id": 4113,
+          "name": "Art Data Interactive"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "bd9b1b30-444b-7045-5de3-efc909b821e3"
+      },
+      {
+        "id": 19613,
+        "company": {
+          "id": 4114,
+          "name": "Bashou House"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "32946736-9f8b-97a0-b45c-adcf99d445cc"
+      },
+      {
+        "id": 19614,
+        "company": {
+          "id": 665,
+          "name": "Williams Entertainment"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "f8047bb8-6689-5ee2-903b-bf74b0be633d"
+      },
+      {
+        "id": 19615,
+        "company": {
+          "id": 1271,
+          "name": "Ocean Software"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "3e2aefa0-a582-9c97-bf4e-fbd0501ef601"
+      },
+      {
+        "id": 19616,
+        "company": {
+          "id": 191,
+          "name": "Imagineer"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "45612e43-911d-3e6c-be74-c993373ffbe5"
+      },
+      {
+        "id": 19618,
+        "company": {
+          "id": 82,
+          "name": "Atari"
+        },
+        "created_at": 1415836800,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1415836800,
+        "checksum": "dd353453-83e5-8fce-56ca-c9ba6dae3ee9"
+      },
+      {
+        "id": 23065,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "created_at": 1428796800,
+        "developer": true,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1428796800,
+        "checksum": "3699d622-00e3-6167-58ba-1678b287296d"
+      },
+      {
+        "id": 43076,
+        "company": {
+          "id": 187,
+          "name": "Nerve Software, LLC"
+        },
+        "created_at": 1482192000,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1482192000,
+        "checksum": "5918a729-e7e6-b35a-db67-572cb137f68e"
+      },
+      {
+        "id": 43077,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1482192000,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1482192000,
+        "checksum": "348bdfd6-3e67-53ff-e2a8-d666b9c99ac8"
+      },
+      {
+        "id": 43078,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        },
+        "created_at": 1482192000,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1482192000,
+        "checksum": "c4700dc0-2277-f40a-d85f-ad0d7e87fdc6"
+      },
+      {
+        "id": 107662,
+        "company": {
+          "id": 360,
+          "name": "Logicware"
+        },
+        "created_at": 1599609600,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599609600,
+        "checksum": "f5f63e34-490b-f479-eaba-06862d7490e9"
+      },
+      {
+        "id": 107663,
+        "company": {
+          "id": 543,
+          "name": "Rage Software"
+        },
+        "created_at": 1599609600,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599609600,
+        "checksum": "53817381-e58c-261e-3718-f0eeb0e8fb18"
+      },
+      {
+        "id": 107664,
+        "company": {
+          "id": 1169,
+          "name": "David A. Palmer Productions"
+        },
+        "created_at": 1599609600,
+        "developer": false,
+        "game": 673,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599609600,
+        "checksum": "2c6ea1fe-259d-7dd4-7ecf-a5349a14cf1a"
+      },
+      {
+        "id": 133661,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "created_at": 1621110186,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1621246773,
+        "checksum": "8c7dc7c1-1d6e-76b6-9995-ade09390abc8"
+      }
+    ],
+    "name": "DOOM",
+    "screenshots": [
+      {
+        "id": 10075,
+        "game": 673,
+        "height": 1200,
+        "image_id": "vv0zszxgvk4dklsz53ap",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vv0zszxgvk4dklsz53ap.jpg",
+        "width": 1600,
+        "checksum": "41bcc686-1a56-6d8b-96a1-e90789f89018"
+      },
+      {
+        "id": 41220,
+        "game": 673,
+        "height": 863,
+        "image_id": "uolg5ypiubgnc1rtqmjx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uolg5ypiubgnc1rtqmjx.jpg",
+        "width": 1186,
+        "checksum": "753bc01a-b049-31e4-2127-29489a4df51a"
+      },
+      {
+        "id": 41221,
+        "game": 673,
+        "height": 720,
+        "image_id": "dd82q9yh3vh10oqmvun4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dd82q9yh3vh10oqmvun4.jpg",
+        "width": 1060,
+        "checksum": "77130845-a814-ae5b-4440-bcd4b5044df2"
+      },
+      {
+        "id": 41222,
+        "game": 673,
+        "height": 720,
+        "image_id": "fcws2bjqx7rc4bigobty",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fcws2bjqx7rc4bigobty.jpg",
+        "width": 1061,
+        "checksum": "7293d1ed-6882-f222-3a63-f29bee5726c5"
+      },
+      {
+        "id": 41223,
+        "game": 673,
+        "height": 1200,
+        "image_id": "dwsqh3ov6lvhlop9nphz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dwsqh3ov6lvhlop9nphz.jpg",
+        "width": 1600,
+        "checksum": "ebfb8f34-c96f-e65e-f93e-c54b853c3242"
+      }
+    ],
+    "slug": "doom",
+    "storyline": "The player takes the role of a marine (unnamed to further represent the person playing), \"one of Earth's toughest, hardened in combat and trained for action\", who has been incarcerated on Mars after assaulting a senior officer when ordered to fire upon civilians. There, he works alongside the Union Aerospace Corporation (UAC), a multi-planetary conglomerate and military contractor performing secret experiments on interdimensional travel. Recently, the teleportation has shown signs of anomalies and instability, but the research continues nonetheless.\n\nSuddenly, something goes wrong and creatures from hell swarm out of the teleportation gates on Deimos and Phobos. A defensive response from base security fails to halt the invasion, and the bases are quickly overrun by monsters; all personnel are killed or turned into zombies\n\nA military detachment from Mars travels to Phobos to investigate the incident. The player is tasked with securing the perimeter, as the assault team and their heavy weapons are brought inside. Radio contact soon ceases and the player realizes that he is the only survivor. Being unable to pilot the shuttle off of Phobos by himself, the only way to escape is to go inside and fight through the complexes of the moon base.",
+    "summary": "In the future, humans have left Earth and settled throughout the galaxy. On Mars, the Union Aerospace Corporation has established a radioactive waste facility and allowed the military to conduct teleportation experiments on the nearby moons of Deimos and Phobos. Hours ago, the base on Mars began receiving incoherent distress messages from Phobos, while Deimos has disappeared completely. With all attempts to establish contact failing, you and your team have been dispatched to investigate. Upon arrival, you secure the perimeter as the rest of your team enters the facility. As you stand guard, your radio crackles with the sound of gunfire, cracking bones and blood-curdling screams and eventually falls silent. Alone, with no way off the planet or means to defend yourself other than your trusty pistol, there’s only one way out - into the complex of death and the horrors that await you within. If you plan to get out of here alive you must fend off the hordes of demonic imps, haunting spectres and your undead, former comrades waiting to tear you limb from limb. So, grab the nearest shotgun and blast your way out of this fragging madness!",
+    "total_rating": 82.3448290129594,
+    "total_rating_count": 809,
+    "url": "https://www.igdb.com/games/doom"
+  },
+  {
+    "id": 6612,
+    "cover": {
+      "id": 123844,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 6612,
+      "height": 800,
+      "image_id": "co2nk4",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2nk4.jpg",
+      "width": 600,
+      "checksum": "1a1c5f86-8543-1a2e-7b31-5a312576b342"
+    },
+    "first_release_date": 809913600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36892,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1466640000,
+        "developer": false,
+        "game": 6612,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466726400,
+        "checksum": "7a425a2a-3252-2a0d-9943-8e66e1d9190e"
+      },
+      {
+        "id": 36893,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        },
+        "created_at": 1466640000,
+        "developer": false,
+        "game": 6612,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466726400,
+        "checksum": "e6d05721-2f23-620e-ab33-6881ec58dc90"
+      },
+      {
+        "id": 99493,
+        "company": {
+          "id": 2021,
+          "name": "Sega Studio USA"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 6612,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "d0d64db5-67c8-bc70-0c7c-56bc52a9d553"
+      }
+    ],
+    "name": "Fahrenheit",
+    "screenshots": [
+      {
+        "id": 384999,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6612,
+        "height": 224,
+        "image_id": "sc892f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc892f.jpg",
+        "width": 320,
+        "checksum": "24f2d2ab-05f5-3286-2e6a-81648768509d"
+      },
+      {
+        "id": 385000,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6612,
+        "height": 360,
+        "image_id": "sc892g",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc892g.jpg",
+        "width": 480,
+        "checksum": "6d25b9f5-06ef-4d48-378b-86ca4670199e"
+      },
+      {
+        "id": 385001,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 6612,
+        "height": 188,
+        "image_id": "sc892h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc892h.jpg",
+        "width": 268,
+        "checksum": "33600b13-78a1-d81d-8c6f-6d7abb70ab2e"
+      }
+    ],
+    "slug": "fahrenheit-869712a3-1965-4af3-9b76-8c24b48a6667",
+    "summary": "Fahrenheit is a full motion video game published by Sega and developed by Sega Studios for release on the Sega CD and Sega 32X CD in 1995. \n \nDeveloped primarily as a 32X CD title, it also saw a release on the Sega CD, where it was the same game, but with downgraded video quality. Both versions were bundled and sold together as one package for the North American release, while Japan and Europe only saw the Sega CD version released.",
+    "total_rating": 90,
+    "total_rating_count": 0,
+    "url": "https://www.igdb.com/games/fahrenheit-869712a3-1965-4af3-9b76-8c24b48a6667",
+    "videos": [
+      {
+        "id": 36254,
+        "game": 6612,
+        "name": "Gameplay Video",
+        "video_id": "OHcGK6aFij4",
+        "checksum": "d97d180a-8616-63be-c044-bc3a1aa2b8b8"
+      }
+    ]
+  },
+  {
+    "id": 94921,
+    "cover": {
+      "id": 90321,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 94921,
+      "height": 898,
+      "image_id": "co1xox",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xox.jpg",
+      "width": 777,
+      "checksum": "5af6ac21-efe7-e8f8-6836-14150219098f"
+    },
+    "first_release_date": 788918400,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 91411,
+        "company": {
+          "id": 8276,
+          "name": "Flashpoint Productions"
+        },
+        "created_at": 1579824000,
+        "developer": true,
+        "game": 94921,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1579996800,
+        "checksum": "87a1410b-be9d-6403-3ce9-603815742561"
+      },
+      {
+        "id": 91412,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1579824000,
+        "developer": false,
+        "game": 94921,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1579996800,
+        "checksum": "c112dece-e0dc-d608-2416-d11cec077d6b"
+      }
+    ],
+    "name": "Golf Magazine Presents 36 Great Holes Starring Fred Couples",
+    "screenshots": [
+      {
+        "id": 353696,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 94921,
+        "height": 224,
+        "image_id": "sc7kww",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7kww.jpg",
+        "width": 320,
+        "checksum": "20472cb1-ac84-5568-b2d0-db4429418299"
+      }
+    ],
+    "slug": "golf-magazine-presents-36-great-holes-starring-fred-couples",
+    "summary": "Golf Magazine: 36 Great Holes Starring Fred Couples, called Golf Magazine Presents 36 Great Holes Starring Fred Couples on the boxart and in Sega of Japan's archive, is a golf game developed by Flashpoint Productions and published by Sega exclusively for the Sega 32X. \n \nThe player controls one of 24 professional golfers playing in 27 famous US golf courses. As the name suggests, there are 36 holes. Fred Couples is playable in the game and does commentary.",
+    "url": "https://www.igdb.com/games/golf-magazine-presents-36-great-holes-starring-fred-couples"
+  },
+  {
+    "id": 19762,
+    "alternative_names": [
+      {
+        "id": 74579,
+        "name": "カオティクス"
+      },
+      {
+        "id": 74580,
+        "name": "Chaotix"
+      }
+    ],
+    "cover": {
+      "id": 138048,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19762,
+      "height": 960,
+      "image_id": "co2yio",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2yio.jpg",
+      "width": 720,
+      "checksum": "4fd71ed5-5ff8-9519-e7c2-a76ac9eff8da"
+    },
+    "first_release_date": 798336000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36965,
+        "company": {
+          "id": 395,
+          "name": "Sonic Team"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19762,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "c26cec3e-2ade-832d-56ef-9c893e4b5d97"
+      },
+      {
+        "id": 36968,
+        "company": {
+          "id": 231,
+          "name": "Tec Toy Indústria de Brinquedos"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19762,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "061bc6f9-85a5-d912-7f4b-e583c9963d5d"
+      },
+      {
+        "id": 125669,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1619067119,
+        "developer": false,
+        "game": 19762,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1619223800,
+        "checksum": "4a4f8782-2b5a-bba1-d201-c5041a807adb"
+      }
+    ],
+    "name": "Knuckles' Chaotix",
+    "screenshots": [
+      {
+        "id": 385027,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 360,
+        "image_id": "sc8937",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8937.jpg",
+        "width": 480,
+        "checksum": "a3dd3c90-c98e-d566-a120-3e9216f2e487"
+      },
+      {
+        "id": 385028,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 163,
+        "image_id": "sc8938",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8938.jpg",
+        "width": 308,
+        "checksum": "7e973b82-aa98-84d5-30d2-f025ea508c35"
+      },
+      {
+        "id": 385029,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 194,
+        "image_id": "sc8939",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8939.jpg",
+        "width": 259,
+        "checksum": "050b35d5-9056-93d5-3690-a1c40ec1efbf"
+      },
+      {
+        "id": 385030,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 215,
+        "image_id": "sc893a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893a.jpg",
+        "width": 288,
+        "checksum": "75af48cf-0759-947d-fde7-b1030b310785"
+      },
+      {
+        "id": 385031,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 480,
+        "image_id": "sc893b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893b.jpg",
+        "width": 640,
+        "checksum": "988e627e-b6ed-0a38-d25c-c3c5d16a6850"
+      },
+      {
+        "id": 385032,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 360,
+        "image_id": "sc893c",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893c.jpg",
+        "width": 480,
+        "checksum": "42d5b889-c4f2-513e-3f47-f3fc6756fa91"
+      },
+      {
+        "id": 385033,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 360,
+        "image_id": "sc893d",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893d.jpg",
+        "width": 480,
+        "checksum": "c859348d-c387-ca63-3462-4b30cc77ecdf"
+      },
+      {
+        "id": 385034,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19762,
+        "height": 194,
+        "image_id": "sc893e",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893e.jpg",
+        "width": 259,
+        "checksum": "c69b2cd1-3dce-23cc-1e87-fff8c08fbab4"
+      },
+      {
+        "id": 385035,
+        "alpha_channel": true,
+        "animated": true,
+        "game": 19762,
+        "height": 240,
+        "image_id": "sc893f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893f.jpg",
+        "width": 320,
+        "checksum": "21bb9787-d4da-4df1-f469-039fa982de00"
+      }
+    ],
+    "slug": "knuckles-chaotix",
+    "storyline": "Story\nThe story of Knuckles' Chaotix varies between the Japanese and Western releases of the game, with completely irreconcilable storylines separating the two.\n\nJapanese\nA mysterious island rose from the southern sea a few months after the events of Sonic & Knuckles. Dr. Eggman discovered the island, and found a mysterious little ring inscribed with text dating from a legendary civilization. Soon after, Eggman found another ancient ring resembling one of the Super Rings of the Floating Island, which turned out to be the Special Ring once used by that lost people. The mysterious space the Special Ring created was filled with the Master Emerald Pillar's energy, which crystallized into six Chaos Rings. After this phenomenon, Eggman decided to continue the investigation of the Special Ring in order to uncover the secrets of the rings used by Sonic and friends, as well as to theoretically summon the coveted Master Emerald. Inspired, Eggman quickly converted the island into a resort he dubbed Newtrogic High Zone, serving as his high-tech research fortress. He crystallized energy into artificial Dark Rings for his machines, and began to develop Ring Power, which would create a space-time connection between Rings. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee all arrived at the island for different reasons, and ended up being captured and placed in the Combi Catcher machine by Eggman and Metal Sonic. Knuckles the Echidna, deducing that something was amplifying the power of the Master Emerald Pillar, also headed to the island and managed to rescue Espio along the way. The two then make their way to the World Entrance where they find the others, and go on to stop Dr. Eggman from succeeding in his plans.\n\nWestern\nThe plot starts out on the day before the opening day of Carnival Island, a huge amusement resort with the latest in high-tech rides and games. As the guardian of the island, Knuckles' job was to make sure nothing went wrong before the grand event.\n\nBehind the scenes, however, Dr. Robotnik was cooking up a new dastardly scheme. To fuel his latest diabolical device, Robotnik went to Carnival Island to find the Power Emerald that supplied electricity to the entire island- a tool which would fit into his plan perfectly. To further ensure that Knuckles and his friends would not interfere with his plans, Robotnik used his Combi Catcher to freeze Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee in time.\n\nWhen Knuckles returned from patrolling the far end of the island, he found Dr. Robotnik as he was imprisoning Espio the Chameleon in a Combi Catcher, scaring the villain off and rescuing Espio. After that, Knuckles discovered that he could rescue his other friends one at a time by using Ring Power, a power that holds two partners together like a magical rubber band. Never held back for long, Knuckles set out with his team to save Carnival Island from Robotnik before the grand opening.",
+    "summary": "A mysterious island rose from the sea shortly after the events of Sonic & Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.",
+    "total_rating": 67.8523000996701,
+    "total_rating_count": 13,
+    "url": "https://www.igdb.com/games/knuckles-chaotix",
+    "videos": [
+      {
+        "id": 36203,
+        "game": 19762,
+        "name": "Gameplay Video",
+        "video_id": "HF-ZV9rWUAE",
+        "checksum": "e6af39e5-a8b3-cb92-511a-d746cddf7074"
+      }
+    ]
+  },
+  {
+    "id": 19733,
+    "cover": {
+      "id": 223918,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 19733,
+      "height": 3334,
+      "image_id": "co4sry",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4sry.jpg",
+      "width": 2500,
+      "checksum": "32fe26b7-06a6-0894-ca13-c0965d4909de"
+    },
+    "first_release_date": 820368000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36838,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        },
+        "created_at": 1466640000,
+        "developer": false,
+        "game": 19733,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466640000,
+        "checksum": "422b4147-cded-86a9-b327-9f71f30db8f1"
+      },
+      {
+        "id": 36839,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1466640000,
+        "developer": false,
+        "game": 19733,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466640000,
+        "checksum": "ae3d7917-95b0-082a-d829-b74c9a458678"
+      },
+      {
+        "id": 36840,
+        "company": {
+          "id": 2359,
+          "name": "Novotrade"
+        },
+        "created_at": 1466640000,
+        "developer": true,
+        "game": 19733,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466640000,
+        "checksum": "e967b98e-60f5-bfc8-fee6-d9014c09392e"
+      }
+    ],
+    "name": "Kolibri",
+    "slug": "kolibri",
+    "summary": "Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?",
+    "url": "https://www.igdb.com/games/kolibri"
+  },
+  {
+    "id": 19780,
+    "cover": {
+      "id": 116698,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19780,
+      "height": 984,
+      "image_id": "co2i1m",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2i1m.jpg",
+      "width": 738,
+      "checksum": "9cb6c132-d2b4-838b-2a28-832738a0b4b7"
+    },
+    "first_release_date": 793584000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99533,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 19780,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "654a9735-d142-f390-706d-dfc716e28b76"
+      },
+      {
+        "id": 99534,
+        "company": {
+          "id": 3690,
+          "name": "Tectoy"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 19780,
+        "porting": false,
+        "publisher": false,
+        "supporting": true,
+        "updated_at": 1590019200,
+        "checksum": "7378247e-0c11-c949-0462-d2e3a97dad02"
+      }
+    ],
+    "name": "Metal Head",
+    "screenshots": [
+      {
+        "id": 112382,
+        "game": 19780,
+        "height": 933,
+        "image_id": "fqemauoyqcptn7a8uiq6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fqemauoyqcptn7a8uiq6.jpg",
+        "width": 1333,
+        "checksum": "3296224b-d00c-f353-c554-d37cd595ebbc"
+      },
+      {
+        "id": 112383,
+        "game": 19780,
+        "height": 933,
+        "image_id": "lbtojjnxy0a8ebdi9j8a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lbtojjnxy0a8ebdi9j8a.jpg",
+        "width": 1333,
+        "checksum": "dcd049dc-1a74-6ff9-7802-3a18693c6ed1"
+      },
+      {
+        "id": 112384,
+        "game": 19780,
+        "height": 933,
+        "image_id": "iihqs9ndwxqgbuqafd6j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iihqs9ndwxqgbuqafd6j.jpg",
+        "width": 1333,
+        "checksum": "b6e5c31c-468f-cf74-e5ea-54070d604b1e"
+      },
+      {
+        "id": 112385,
+        "game": 19780,
+        "height": 933,
+        "image_id": "rncyxz7xymqksawd57c1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rncyxz7xymqksawd57c1.jpg",
+        "width": 1333,
+        "checksum": "ab8fc068-b217-5132-4d2a-b3a83d70a489"
+      }
+    ],
+    "slug": "metal-head",
+    "storyline": "Five years after the 'World Federation' was established strife and war are still on the rise. In order to keep the peace the Federation Armed Forces, part of the Federation Police, build fully armed, bipedal Mechs also known as 'Metal Heads'. The Metal Head's success causes a heavy militarization of the countries of the Federation. \n \nA sudden and chaotic revolution led by terrorists, armed with their own fully armed Mechs, breaks out and the terrorists take control of a whole country. The player character (in a Metal Head) is sent in with his team to liberate the country's capital. \n \nThe player character starts in a small border town and works his way in to reach the capital.",
+    "summary": "Bullets fly and circuits try in heavy-duty cyborg techno-slaughter. You control Metal Head, the ultimate cyborg warrior, patrolling the charred urban destruction of the great war. And a murderous mecha-force is gunning for you! \n \nINCREDIBLE 3-D textured polygon graphics engulf Metal Head in searing firefights as cyber troops, hover craft and ground attack vehicles annihilate the planet! \n \nYou are the ultimate tech-destroyer - with chain guns, missiles, radar tracking and Heads-up Display! \n \nHead-banging heavy-metal music amps you up for pure warfare! \n \n24 megs of cyber-combat rock through war torn urban streets, bombed out farmland, scorched forests and bullet-riddled 'burbs!",
+    "url": "https://www.igdb.com/games/metal-head",
+    "videos": [
+      {
+        "id": 36207,
+        "game": 19780,
+        "name": "Gameplay Video",
+        "video_id": "Ey-HqQe_mus",
+        "checksum": "aa68d29d-e8b7-2182-9504-1c40145466ce"
+      }
+    ]
+  },
+  {
+    "id": 1619,
+    "alternative_names": [
+      {
+        "id": 30874,
+        "name": "モータルコンバットII ～究極神拳～"
+      },
+      {
+        "id": 41303,
+        "name": "MKII"
+      },
+      {
+        "id": 41304,
+        "name": "MK2"
+      },
+      {
+        "id": 41305,
+        "name": "Mortal Kombat 2"
+      }
+    ],
+    "cover": {
+      "id": 90794,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1619,
+      "height": 800,
+      "image_id": "co1y22",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y22.jpg",
+      "width": 600,
+      "checksum": "5df2d6c5-2d4b-19ab-ee41-881f6a976eb4"
+    },
+    "first_release_date": 733795200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22891,
+        "company": {
+          "id": 566,
+          "name": "Midway"
+        },
+        "created_at": 1428710400,
+        "developer": true,
+        "game": 1619,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1428710400,
+        "checksum": "0cf79086-240d-b5f0-aa72-2bbba4e509d3"
+      },
+      {
+        "id": 115900,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        },
+        "created_at": 1609632000,
+        "developer": false,
+        "game": 1619,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1609632000,
+        "checksum": "58de5fb9-085f-db7a-1d33-b100f913f01e"
+      },
+      {
+        "id": 115901,
+        "company": {
+          "id": 532,
+          "name": "Probe Entertainment"
+        },
+        "created_at": 1609632000,
+        "developer": false,
+        "game": 1619,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1609632000,
+        "checksum": "9a919923-70ca-3b13-902d-893698683440"
+      },
+      {
+        "id": 115902,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        },
+        "created_at": 1609632000,
+        "developer": false,
+        "game": 1619,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1609632000,
+        "checksum": "7e56ded0-c971-daa4-9d9c-063c0ffcb584"
+      }
+    ],
+    "name": "Mortal Kombat II",
+    "screenshots": [
+      {
+        "id": 375243,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jf.jpg",
+        "width": 400,
+        "checksum": "522c151c-ce96-9ab9-7012-afa17d638f24"
+      },
+      {
+        "id": 375244,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jg.jpg",
+        "width": 400,
+        "checksum": "f5252202-08af-9cf7-45cb-602032b0b36c"
+      },
+      {
+        "id": 375245,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jh.jpg",
+        "width": 400,
+        "checksum": "421eb49e-f327-b0ac-53cc-4a75b7849391"
+      },
+      {
+        "id": 375246,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81ji",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81ji.jpg",
+        "width": 400,
+        "checksum": "23b4062e-d4bc-2a05-cff2-8227ac7c69e3"
+      },
+      {
+        "id": 375247,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jj.jpg",
+        "width": 400,
+        "checksum": "2345a8b0-47d8-71e8-c706-fd42746bfb95"
+      },
+      {
+        "id": 375248,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jk.jpg",
+        "width": 400,
+        "checksum": "7a56a353-6721-92e7-95ad-84e06cc0ea36"
+      },
+      {
+        "id": 375249,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jl.jpg",
+        "width": 400,
+        "checksum": "8e1164f8-220c-ece0-8d43-3931280e649b"
+      },
+      {
+        "id": 375250,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1619,
+        "height": 254,
+        "image_id": "sc81jm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc81jm.jpg",
+        "width": 395,
+        "checksum": "baebdc07-21bd-4ed1-2017-7cbcd5b7c058"
+      }
+    ],
+    "slug": "mortal-kombat-ii",
+    "storyline": "Following his defeat, Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and restores Tsung's youth. He extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The tournament is dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will unbalance the furies and allow Outworld to subsume Earthrealm.",
+    "summary": "The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.",
+    "total_rating": 75.7197826992374,
+    "total_rating_count": 222,
+    "url": "https://www.igdb.com/games/mortal-kombat-ii",
+    "videos": [
+      {
+        "id": 34306,
+        "game": 1619,
+        "name": "Gameplay Video",
+        "video_id": "oYoU61lJ35s",
+        "checksum": "84f24ea0-6a04-595b-edcf-91dc90f7d776"
+      }
+    ]
+  },
+  {
+    "id": 19779,
+    "cover": {
+      "id": 27999,
+      "game": 19779,
+      "height": 2100,
+      "image_id": "ka8qhrkaun0tu6vxdfvu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ka8qhrkaun0tu6vxdfvu.jpg",
+      "width": 1530,
+      "checksum": "0f8e012a-6404-1a24-4a7d-209530ce6275"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37044,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1466812800,
+        "developer": false,
+        "game": 19779,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "002ee293-d8ad-ca2e-10aa-2133a5ab77d3"
+      },
+      {
+        "id": 37045,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        },
+        "created_at": 1466812800,
+        "developer": false,
+        "game": 19779,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "a1480553-d418-26fe-6299-9875ddee7de5"
+      },
+      {
+        "id": 37046,
+        "company": {
+          "id": 2609,
+          "name": "Artech Studios"
+        },
+        "created_at": 1466812800,
+        "developer": true,
+        "game": 19779,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "29e59185-a097-3c67-4da2-0df38bdefc37"
+      }
+    ],
+    "name": "Motocross Championship",
+    "slug": "motocross-championship",
+    "summary": "Motocross Championship is the only dirtbike racing game for the 32X. The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.",
+    "url": "https://www.igdb.com/games/motocross-championship"
+  },
+  {
+    "id": 19712,
+    "alternative_names": [
+      {
+        "id": 6710,
+        "name": "NBA JAMトーナメントエディション"
+      }
+    ],
+    "cover": {
+      "id": 111031,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 19712,
+      "height": 800,
+      "image_id": "co2do7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2do7.jpg",
+      "width": 600,
+      "checksum": "e25f6168-db0e-6314-4ca4-69c0592cf25d"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36772,
+        "company": {
+          "id": 1791,
+          "name": "Acclaim Japan"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 19712,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "00370035-d5d1-bde2-864a-d0f10e865770"
+      },
+      {
+        "id": 36773,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 19712,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "b11bd4fb-3b33-c73d-7e57-54b792736806"
+      },
+      {
+        "id": 36774,
+        "company": {
+          "id": 666,
+          "name": "Iguana UK"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 19712,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "29d61837-2657-7c93-4d20-37cd55a0ed10"
+      },
+      {
+        "id": 36775,
+        "company": {
+          "id": 392,
+          "name": "High Voltage Software"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 19712,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "8b76c72b-40e1-de48-574d-b2d3c2728f41"
+      },
+      {
+        "id": 36776,
+        "company": {
+          "id": 190,
+          "name": "Atari Corporation"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 19712,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "b01237ba-3bd5-67a1-2230-f04d4d4580de"
+      },
+      {
+        "id": 36777,
+        "company": {
+          "id": 690,
+          "name": "Torus Games"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 19712,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "850081dc-7cfe-866e-5ccf-c6c5e32672e6"
+      },
+      {
+        "id": 36778,
+        "company": {
+          "id": 327,
+          "name": "Midway Games"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 19712,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "3ae5304e-9bc0-c784-cf63-c125b146624c"
+      }
+    ],
+    "name": "NBA Jam Tournament Edition",
+    "slug": "nba-jam-tournament-edition",
+    "summary": "NBA JAM Tournament Edition brings you more senses-shattering slam dunking excitement than ever! More than twice as many NBA superstars, more than double the secret characters, Hot Spots, Super Jam Power-Ups, battery back-up and - OH MY - nine all-new rim-rattling slam dunks plus all the original jams! NBA JAM Tournament Edition... it's on FIRE!",
+    "total_rating": 63.2244101064885,
+    "total_rating_count": 13,
+    "url": "https://www.igdb.com/games/nba-jam-tournament-edition"
+  },
+  {
+    "id": 114754,
+    "cover": {
+      "id": 111034,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 114754,
+      "height": 800,
+      "image_id": "co2doa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2doa.jpg",
+      "width": 600,
+      "checksum": "641b36f4-8560-2a33-3f91-fe73f0862fb1"
+    },
+    "first_release_date": 786240000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 91542,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        },
+        "created_at": 1579910400,
+        "developer": false,
+        "game": 114754,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1579996800,
+        "checksum": "88f5ecae-2bfb-dd24-7170-1bd09a8c21d2"
+      },
+      {
+        "id": 91543,
+        "company": {
+          "id": 810,
+          "name": "Iguana Entertainment"
+        },
+        "created_at": 1579910400,
+        "developer": true,
+        "game": 114754,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1579996800,
+        "checksum": "dfcaf320-0d66-f349-e8d3-f2fa58109082"
+      },
+      {
+        "id": 91544,
+        "company": {
+          "id": 4805,
+          "name": "Condor, Inc."
+        },
+        "created_at": 1579910400,
+        "developer": false,
+        "game": 114754,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1579996800,
+        "checksum": "cbe1fdba-0af0-b01e-2ac7-535703de6cb4"
+      }
+    ],
+    "name": "NFL Quarterback Club",
+    "slug": "nfl-quarterback-club--1",
+    "url": "https://www.igdb.com/games/nfl-quarterback-club--1"
+  },
+  {
+    "id": 2486,
+    "alternative_names": [
+      {
+        "id": 3941,
+        "name": "Night Trap: The Director's Cut"
+      },
+      {
+        "id": 3942,
+        "name": "Scene of the Crime"
+      }
+    ],
+    "cover": {
+      "id": 79251,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 2486,
+      "height": 1592,
+      "image_id": "co1p5f",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1p5f.jpg",
+      "width": 1194,
+      "checksum": "3a4723e8-adcf-0db7-76a5-a028bb2f463c"
+    },
+    "first_release_date": 719107200,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13108,
+        "company": {
+          "id": 141,
+          "name": "Virgin Interactive Entertainment (Europe) Ltd."
+        },
+        "created_at": 1392249600,
+        "developer": false,
+        "game": 2486,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1392249600,
+        "checksum": "5129c671-ef7d-b3a4-3d2a-7fb9508a7ad1"
+      },
+      {
+        "id": 13109,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1392249600,
+        "developer": false,
+        "game": 2486,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1392249600,
+        "checksum": "034c6552-2c81-8df1-ef4c-42f36596a9fa"
+      },
+      {
+        "id": 22576,
+        "company": {
+          "id": 1181,
+          "name": "Digital Pictures"
+        },
+        "created_at": 1427328000,
+        "developer": true,
+        "game": 2486,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1427328000,
+        "checksum": "162ef205-b492-4e03-2574-e77715ce1bd3"
+      },
+      {
+        "id": 22577,
+        "company": {
+          "id": 1181,
+          "name": "Digital Pictures"
+        },
+        "created_at": 1427328000,
+        "developer": false,
+        "game": 2486,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1427328000,
+        "checksum": "8b245d3f-8433-d67f-1cd4-7eb6f90afbf8"
+      }
+    ],
+    "name": "Night Trap",
+    "screenshots": [
+      {
+        "id": 76686,
+        "game": 2486,
+        "height": 1080,
+        "image_id": "dy1wuzirgbob05ecshu8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dy1wuzirgbob05ecshu8.jpg",
+        "width": 1440,
+        "checksum": "96f4a939-9726-2be3-c508-0bf547081ce6"
+      },
+      {
+        "id": 334295,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 2486,
+        "height": 480,
+        "image_id": "sc75xz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75xz.jpg",
+        "width": 640,
+        "checksum": "0fbd85f1-794f-31ee-b168-501b83e7a825"
+      },
+      {
+        "id": 334296,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 2486,
+        "height": 480,
+        "image_id": "sc75y0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75y0.jpg",
+        "width": 640,
+        "checksum": "11684313-6470-27fe-07da-b5cfc1c06a3d"
+      },
+      {
+        "id": 334297,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 2486,
+        "height": 480,
+        "image_id": "sc75y1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75y1.jpg",
+        "width": 640,
+        "checksum": "e8e9fb7f-588c-813b-6325-427f6d8b4767"
+      }
+    ],
+    "slug": "night-trap",
+    "summary": "Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because \"nice people\" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.",
+    "total_rating": 69.6341472529279,
+    "total_rating_count": 8,
+    "url": "https://www.igdb.com/games/night-trap"
+  },
+  {
+    "id": 5410,
+    "cover": {
+      "id": 113773,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 5410,
+      "height": 753,
+      "image_id": "co2fsd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2fsd.jpg",
+      "width": 565,
+      "checksum": "2cc35600-c5e5-4e2a-8488-ea643982aee7"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 107255,
+        "company": {
+          "id": 2399,
+          "name": "Redline Games"
+        },
+        "created_at": 1599004800,
+        "developer": true,
+        "game": 5410,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "735e5184-fd5b-65c2-eda5-2ecfb6e83761"
+      },
+      {
+        "id": 107256,
+        "company": {
+          "id": 5340,
+          "name": "Kinesoft"
+        },
+        "created_at": 1599004800,
+        "developer": true,
+        "game": 5410,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "8fdb3d45-43d7-0fff-1b7b-2ce25935e03d"
+      },
+      {
+        "id": 107257,
+        "company": {
+          "id": 1764,
+          "name": "Big Bang"
+        },
+        "created_at": 1599004800,
+        "developer": true,
+        "game": 5410,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "0bab4d22-47a9-05c6-2e3b-8460d3f2715c"
+      },
+      {
+        "id": 107258,
+        "company": {
+          "id": 190,
+          "name": "Atari Corporation"
+        },
+        "created_at": 1599004800,
+        "developer": false,
+        "game": 5410,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "04a20fd6-0c86-f526-0ff0-dbc2cc9e9d3c"
+      },
+      {
+        "id": 107259,
+        "company": {
+          "id": 699,
+          "name": "Pipe Dream Interactive"
+        },
+        "created_at": 1599004800,
+        "developer": true,
+        "game": 5410,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "36e772c3-d69f-3e1b-b3cc-e41a434a3ca6"
+      },
+      {
+        "id": 107260,
+        "company": {
+          "id": 14587,
+          "name": "Majesco Sales, Inc"
+        },
+        "created_at": 1599004800,
+        "developer": false,
+        "game": 5410,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1599091200,
+        "checksum": "2ce26aa8-9cf9-5565-27ea-7982f66c7653"
+      },
+      {
+        "id": 149252,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "created_at": 1631914836,
+        "developer": true,
+        "game": 5410,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1631915057,
+        "checksum": "d6f94cbd-f1c7-6dfe-50b6-eb0f2de32211"
+      }
+    ],
+    "name": "Pitfall: The Mayan Adventure",
+    "screenshots": [
+      {
+        "id": 169006,
+        "game": 5410,
+        "height": 224,
+        "image_id": "hd71pmxcijshluw6tyde",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hd71pmxcijshluw6tyde.jpg",
+        "width": 320,
+        "checksum": "1da5f287-2a10-320f-b142-e371138ad313"
+      },
+      {
+        "id": 169007,
+        "game": 5410,
+        "height": 224,
+        "image_id": "axd0t1qcjwtqgazhjlci",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/axd0t1qcjwtqgazhjlci.jpg",
+        "width": 320,
+        "checksum": "ecb1ec05-2b49-6e57-b9de-9079354558e9"
+      },
+      {
+        "id": 169008,
+        "game": 5410,
+        "height": 224,
+        "image_id": "qtwy5hrszswrjlrukxoo",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qtwy5hrszswrjlrukxoo.jpg",
+        "width": 320,
+        "checksum": "aa272047-0194-c92e-721a-9353a44e4658"
+      },
+      {
+        "id": 169009,
+        "game": 5410,
+        "height": 224,
+        "image_id": "phynckekuqsuloa2fw85",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/phynckekuqsuloa2fw85.jpg",
+        "width": 320,
+        "checksum": "9891fbd1-c6b9-55af-b041-838189910326"
+      },
+      {
+        "id": 169010,
+        "game": 5410,
+        "height": 224,
+        "image_id": "xdyunaen5nxn68i7cnhu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xdyunaen5nxn68i7cnhu.jpg",
+        "width": 320,
+        "checksum": "f04ceb00-1b08-bf0a-6fe8-0c46386f88bd"
+      },
+      {
+        "id": 169011,
+        "game": 5410,
+        "height": 224,
+        "image_id": "nfejqihmljzqorrawcam",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nfejqihmljzqorrawcam.jpg",
+        "width": 320,
+        "checksum": "a41ea364-3ce7-ba19-9db9-749e841f89f4"
+      },
+      {
+        "id": 169012,
+        "game": 5410,
+        "height": 224,
+        "image_id": "s4izqtizj7xaewrbo1s9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s4izqtizj7xaewrbo1s9.jpg",
+        "width": 320,
+        "checksum": "889a67ba-cbb1-38b6-dcab-9a2804cab816"
+      },
+      {
+        "id": 169013,
+        "game": 5410,
+        "height": 224,
+        "image_id": "xp7ducs0hren26uybifi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xp7ducs0hren26uybifi.jpg",
+        "width": 320,
+        "checksum": "106d74a2-8d9e-8c21-8b6f-a7d16dd1a0c7"
+      },
+      {
+        "id": 169014,
+        "game": 5410,
+        "height": 224,
+        "image_id": "tjofibf0xpy7xiusvigm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tjofibf0xpy7xiusvigm.jpg",
+        "width": 320,
+        "checksum": "5451727c-6739-9b88-da94-62a5dc833991"
+      },
+      {
+        "id": 169015,
+        "game": 5410,
+        "height": 224,
+        "image_id": "mvvcakgy295dssjqpsty",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvvcakgy295dssjqpsty.jpg",
+        "width": 320,
+        "checksum": "f8827bd8-28fb-8756-4a8f-eace75b5b3c3"
+      },
+      {
+        "id": 169016,
+        "game": 5410,
+        "height": 224,
+        "image_id": "pzujn2hdr22d0yt7w3zq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pzujn2hdr22d0yt7w3zq.jpg",
+        "width": 320,
+        "checksum": "0f2ef54b-d088-98a9-7fd7-da290da6bfbc"
+      },
+      {
+        "id": 169017,
+        "game": 5410,
+        "height": 224,
+        "image_id": "e5yexo2xcej35ileos9z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e5yexo2xcej35ileos9z.jpg",
+        "width": 320,
+        "checksum": "460cb861-a2ff-9e9c-6dc1-8a5aa2ddae2f"
+      }
+    ],
+    "slug": "pitfall-the-mayan-adventure",
+    "summary": "Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.",
+    "total_rating": 61.61234327851545,
+    "total_rating_count": 21,
+    "url": "https://www.igdb.com/games/pitfall-the-mayan-adventure",
+    "videos": [
+      {
+        "id": 31464,
+        "game": 5410,
+        "name": "Gameplay video",
+        "video_id": "yRee1MvZwMc",
+        "checksum": "98b28599-d674-a045-8278-80e05548d2ca"
+      },
+      {
+        "id": 40128,
+        "game": 5410,
+        "name": "TV Commercial",
+        "video_id": "H1UDL4OxCkU",
+        "checksum": "63a8d3ff-e52f-ea25-946f-52f6f66ed390"
+      }
+    ]
+  },
+  {
+    "id": 4271,
+    "cover": {
+      "id": 140311,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 4271,
+      "height": 800,
+      "image_id": "co309j",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co309j.jpg",
+      "width": 600,
+      "checksum": "4c74fe0a-d1a2-c7a7-90dd-32e9dba45ad6"
+    },
+    "first_release_date": 775699200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99527,
+        "company": {
+          "id": 2346,
+          "name": "Time Warner Interactive"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 4271,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "e7c1911f-8780-2a9c-0824-2dd4ca94b024"
+      },
+      {
+        "id": 99528,
+        "company": {
+          "id": 3720,
+          "name": "Bitmasters"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 4271,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "0cf39a19-03c2-034a-72fe-d7dec8a09e27"
+      },
+      {
+        "id": 99529,
+        "company": {
+          "id": 532,
+          "name": "Probe Entertainment"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 4271,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "2102301f-ff44-ae71-c123-a08394981c9c"
+      },
+      {
+        "id": 99530,
+        "company": {
+          "id": 1329,
+          "name": "Teeny Weeny Games"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 4271,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "1f75badb-24d5-cc8d-451d-2b9cc8285d72"
+      },
+      {
+        "id": 99531,
+        "company": {
+          "id": 1746,
+          "name": "Atari Games Corporation"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 4271,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "402aa32a-3814-0383-23b8-b21c2a14a635"
+      },
+      {
+        "id": 99532,
+        "company": {
+          "id": 24474,
+          "name": "LG Electronics"
+        },
+        "created_at": 1589932800,
+        "developer": false,
+        "game": 4271,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "b39e4d89-40c7-c38b-be9c-04a07f779803"
+      }
+    ],
+    "name": "Primal Rage",
+    "screenshots": [
+      {
+        "id": 385054,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 4271,
+        "height": 409,
+        "image_id": "sc893y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893y.jpg",
+        "width": 648,
+        "checksum": "43522972-cbdc-1136-a073-1ecb961b9e30"
+      },
+      {
+        "id": 385055,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4271,
+        "height": 240,
+        "image_id": "sc893z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893z.jpg",
+        "width": 320,
+        "checksum": "a781b438-cc83-c1e7-459c-a75f880d12c6"
+      },
+      {
+        "id": 385056,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4271,
+        "height": 720,
+        "image_id": "sc8940",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8940.jpg",
+        "width": 1280,
+        "checksum": "56e17dc2-1331-1d11-c2d7-052f30da8705"
+      },
+      {
+        "id": 385057,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4271,
+        "height": 168,
+        "image_id": "sc8941",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8941.jpg",
+        "width": 300,
+        "checksum": "2fe7540b-16ff-3c00-6ae5-2f6e5d2b69dd"
+      },
+      {
+        "id": 385058,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4271,
+        "height": 360,
+        "image_id": "sc8942",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8942.jpg",
+        "width": 480,
+        "checksum": "e99849ec-3dd3-2bfa-a2e9-1e71c983659b"
+      },
+      {
+        "id": 385059,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4271,
+        "height": 360,
+        "image_id": "sc8943",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8943.jpg",
+        "width": 480,
+        "checksum": "c0bb52dc-77ae-2ca1-1fe8-9690338283b5"
+      }
+    ],
+    "slug": "primal-rage",
+    "storyline": "A massive meteor strike has devastated Earth. Human civilization comes to an end in the ensuing cataclysms and humanity regresses into tribes of Stone Age dwellers. A primordial rainforest covers the land and the continental landmass has shifted into the shape of a fire-breathing dinosaur skull. The planet is now primitively referred to as \"Urth\" by the survivors of the cataclysms.\n\nSeven fearsome creatures emerge from their slumber deep within the Urth's crust, and become worshiped as gods by the humans, who form segregated clans beneath the ones they follow. The beasts themselves are divided between those who wish to keep peace on Urth, and those who attempt to plunge the world into further chaos for their own benefit.",
+    "summary": "A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.\n\nPrimal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.",
+    "total_rating": 55.90755755515155,
+    "total_rating_count": 36,
+    "url": "https://www.igdb.com/games/primal-rage",
+    "videos": [
+      {
+        "id": 19761,
+        "game": 4271,
+        "name": "Gameplay video",
+        "video_id": "kBuJkh2uhqs",
+        "checksum": "36258cd6-6423-d621-34b1-4f3b7d8d8df3"
+      }
+    ]
+  },
+  {
+    "id": 45876,
+    "cover": {
+      "id": 186808,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45876,
+      "height": 2100,
+      "image_id": "co4054",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4054.jpg",
+      "width": 1536,
+      "checksum": "5844d2b5-9714-eb45-8ef1-487530e6874b"
+    },
+    "first_release_date": 791596800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "RBI Baseball '95",
+    "slug": "rbi-baseball-95",
+    "summary": "This version is an updated follow-up to the R.B.I. series. Many of the same features from other baseball games are present and has three different game modes to choose from: exhibition, playoff, and home run derby, but what makes this version different from the others is a lack of MLB license, though it does feature a MLBPA license with top players of the time such as Roger Clemens, Otis Nixon, Bobby Larkin among many others.",
+    "url": "https://www.igdb.com/games/rbi-baseball-95"
+  },
+  {
+    "id": 7040,
+    "alternative_names": [
+      {
+        "id": 96718,
+        "name": "Sangokushi IV"
+      },
+      {
+        "id": 96719,
+        "name": "Romance of the Three Kingdoms 4: Wall of Fire"
+      },
+      {
+        "id": 110931,
+        "name": "三國志Ⅳ"
+      }
+    ],
+    "cover": {
+      "id": 152826,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 7040,
+      "height": 800,
+      "image_id": "co39x6",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co39x6.jpg",
+      "width": 600,
+      "checksum": "576c3695-19f8-67c5-f5ec-2cfe0644d8cb"
+    },
+    "first_release_date": 786931200,
+    "franchise": {
+      "id": 126,
+      "name": "Romance Of The Three Kingdoms"
+    },
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 16654,
+        "company": {
+          "id": 1728,
+          "name": "iNiS"
+        },
+        "created_at": 1401235200,
+        "developer": true,
+        "game": 7040,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1401235200,
+        "checksum": "86008456-79d9-8e40-e456-c60029481ea5"
+      },
+      {
+        "id": 91264,
+        "company": {
+          "id": 630,
+          "name": "Koei"
+        },
+        "created_at": 1579737600,
+        "developer": true,
+        "game": 7040,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1579824000,
+        "checksum": "2b8bad34-5334-eda3-ffda-df09b0fd746b"
+      },
+      {
+        "id": 126208,
+        "company": {
+          "id": 24352,
+          "name": "Tecmo Koei Games"
+        },
+        "created_at": 1619166599,
+        "developer": false,
+        "game": 7040,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1619175001,
+        "checksum": "803b8b8a-2dbc-a67a-3627-a6939cf80303"
+      },
+      {
+        "id": 180253,
+        "company": {
+          "id": 630,
+          "name": "Koei"
+        },
+        "created_at": 1658772420,
+        "developer": false,
+        "game": 7040,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1658787893,
+        "checksum": "a067de96-13f3-4fa9-7224-3f03e8bcbc75"
+      }
+    ],
+    "name": "Romance of the Three Kingdoms IV: Wall of Fire",
+    "screenshots": [
+      {
+        "id": 171344,
+        "game": 7040,
+        "height": 224,
+        "image_id": "zbbygiae9wqfhnf9cm7k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zbbygiae9wqfhnf9cm7k.jpg",
+        "width": 256,
+        "checksum": "a7249e4a-2e2f-21a7-009f-e764bc0d5c40"
+      },
+      {
+        "id": 171345,
+        "game": 7040,
+        "height": 224,
+        "image_id": "tekcfeoioaxjg4if89b3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tekcfeoioaxjg4if89b3.jpg",
+        "width": 256,
+        "checksum": "1e5277b7-6133-1ec5-5073-73c42579bd66"
+      },
+      {
+        "id": 171346,
+        "game": 7040,
+        "height": 224,
+        "image_id": "dxjnn6worgoox5gcli4q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxjnn6worgoox5gcli4q.jpg",
+        "width": 256,
+        "checksum": "9a7b2598-7d81-7b00-9bbf-25a9acc2aa3a"
+      },
+      {
+        "id": 171347,
+        "game": 7040,
+        "height": 224,
+        "image_id": "p5jojh37q7slgq8rfyyc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p5jojh37q7slgq8rfyyc.jpg",
+        "width": 256,
+        "checksum": "be852bf1-5b60-dd58-5e09-39438fa2ac67"
+      },
+      {
+        "id": 171348,
+        "game": 7040,
+        "height": 224,
+        "image_id": "sftki2dki2nz2s1asavp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sftki2dki2nz2s1asavp.jpg",
+        "width": 256,
+        "checksum": "cff81f6c-d46c-e30a-55d9-7d64af3093d0"
+      },
+      {
+        "id": 171349,
+        "game": 7040,
+        "height": 224,
+        "image_id": "e2surle4ddhakymnmt4v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e2surle4ddhakymnmt4v.jpg",
+        "width": 256,
+        "checksum": "c69d467f-f59b-674b-6cf3-0031adb86d03"
+      },
+      {
+        "id": 171350,
+        "game": 7040,
+        "height": 224,
+        "image_id": "yptbjye1ztrkuermy7ha",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yptbjye1ztrkuermy7ha.jpg",
+        "width": 256,
+        "checksum": "48caabbe-7bc0-94b4-f3a7-9f57b088c3af"
+      },
+      {
+        "id": 171351,
+        "game": 7040,
+        "height": 224,
+        "image_id": "ggv3hbcanigd32pzjip0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ggv3hbcanigd32pzjip0.jpg",
+        "width": 256,
+        "checksum": "75502229-4f91-fc09-adfc-f528afb84549"
+      }
+    ],
+    "slug": "romance-of-the-three-kingdoms-iv-wall-of-fire",
+    "summary": "The Three Kingdoms era of Chinese history is the setting for this strategic war game. Select one of 38 leaders and guide your people to power by military or diplomatic means in an isometrically viewed world. Military tactics such as well-placed taunts and deliberate enemy confusion are on offer. Weaponry includes catapults and automatic-firing crossbows.",
+    "total_rating": 49,
+    "total_rating_count": 2,
+    "url": "https://www.igdb.com/games/romance-of-the-three-kingdoms-iv-wall-of-fire"
+  },
+  {
+    "id": 19763,
+    "alternative_names": [
+      {
+        "id": 6742,
+        "name": "Stellar Assault"
+      },
+      {
+        "id": 6743,
+        "name": "ステラアサルト"
+      },
+      {
+        "id": 16814,
+        "name": "Stellar Assault  "
+      },
+      {
+        "id": 42924,
+        "name": "Stellar Assault"
+      },
+      {
+        "id": 56128,
+        "name": "Sutera Asaruto"
+      }
+    ],
+    "cover": {
+      "id": 133062,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19763,
+      "height": 1016,
+      "image_id": "co2uo6",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2uo6.jpg",
+      "width": 762,
+      "checksum": "64cffebc-fb8a-76a6-e02b-5b84adf61dcb"
+    },
+    "first_release_date": 798854400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99523,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 19763,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590192000,
+        "checksum": "6cafaa82-4d9d-2c18-31e4-c16717d217a9"
+      }
+    ],
+    "name": "Shadow Squadron",
+    "screenshots": [
+      {
+        "id": 385039,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19763,
+        "height": 240,
+        "image_id": "sc893j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893j.jpg",
+        "width": 320,
+        "checksum": "5becbb3b-3076-fc13-9463-e87fa43189d4"
+      },
+      {
+        "id": 385040,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 224,
+        "image_id": "sc893k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893k.jpg",
+        "width": 330,
+        "checksum": "f01321b9-4b14-e365-cfc2-03af0f233166"
+      },
+      {
+        "id": 385041,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 480,
+        "image_id": "sc893l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893l.jpg",
+        "width": 640,
+        "checksum": "145b512c-f10f-2ca1-f68d-b3da6997fed8"
+      },
+      {
+        "id": 385042,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 360,
+        "image_id": "sc893m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893m.jpg",
+        "width": 480,
+        "checksum": "95ff0f89-69ae-77ed-908d-419351e35650"
+      },
+      {
+        "id": 385043,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 422,
+        "image_id": "sc893n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893n.jpg",
+        "width": 512,
+        "checksum": "9561d475-2882-198e-2853-b99653f0911e"
+      },
+      {
+        "id": 385044,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 480,
+        "image_id": "sc893o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893o.jpg",
+        "width": 640,
+        "checksum": "b36a4b93-df85-3030-8ba7-df075bb746fc"
+      },
+      {
+        "id": 385045,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19763,
+        "height": 401,
+        "image_id": "sc893p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893p.jpg",
+        "width": 512,
+        "checksum": "9c9e1540-44ea-6bc1-cbf8-2df8be5733d8"
+      }
+    ],
+    "slug": "shadow-squadron",
+    "storyline": "An adversary (who is not named) seems to be up to their old tricks, transmitting coded transmissions and exerting energy blooms from a number of large ships. An Acceleration Gate is still not fully assembled, so additional forces can not be moved quick enough to intercept, leaving the player as the lone opposition against the enemy armada.",
+    "summary": "Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. \n \nThere are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.",
+    "url": "https://www.igdb.com/games/shadow-squadron",
+    "videos": [
+      {
+        "id": 36205,
+        "game": 19763,
+        "name": "Gameplay Video",
+        "video_id": "5zGQWrzsRpc",
+        "checksum": "2aa0dae5-bf10-0199-c453-f59d86e89565"
+      }
+    ]
+  },
+  {
+    "id": 5439,
+    "cover": {
+      "id": 5469,
+      "game": 5439,
+      "height": 318,
+      "image_id": "ptgm9sxostk1asrskvhi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptgm9sxostk1asrskvhi.jpg",
+      "width": 220,
+      "checksum": "39ff24c3-4cc2-573e-96af-0192151b73f4"
+    },
+    "first_release_date": 783648000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13185,
+        "company": {
+          "id": 1181,
+          "name": "Digital Pictures"
+        },
+        "created_at": 1392854400,
+        "developer": true,
+        "game": 5439,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1392854400,
+        "checksum": "f1c46045-fb44-ac8e-bb38-6018468be9b5"
+      }
+    ],
+    "name": "Slam City with Scottie Pippen",
+    "slug": "slam-city-with-scottie-pippen",
+    "summary": "A Sega 32X game published on CD and playable on Sega CD or compatible systems. \n \nScottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.",
+    "url": "https://www.igdb.com/games/slam-city-with-scottie-pippen"
+  },
+  {
+    "id": 12857,
+    "alternative_names": [
+      {
+        "id": 89897,
+        "name": "スペースハリアー"
+      }
+    ],
+    "cover": {
+      "id": 93867,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 12857,
+      "height": 1200,
+      "image_id": "co20ff",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20ff.jpg",
+      "width": 900,
+      "checksum": "fe2a371d-a2fe-4adc-9ab7-751771cbff6c"
+    },
+    "first_release_date": 497059200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36068,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1465603200,
+        "developer": false,
+        "game": 12857,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1465689600,
+        "checksum": "2ac69957-2913-a892-ccfa-bfccd6ad1859"
+      },
+      {
+        "id": 36069,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        },
+        "created_at": 1465603200,
+        "developer": true,
+        "game": 12857,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1465689600,
+        "checksum": "b7dbebb8-30ad-b9f8-656d-3776411a7e42"
+      },
+      {
+        "id": 36070,
+        "company": {
+          "id": 1339,
+          "name": "Elite Systems"
+        },
+        "created_at": 1465603200,
+        "developer": true,
+        "game": 12857,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1465689600,
+        "checksum": "3a39e549-1314-35aa-5001-3251fd04c30f"
+      },
+      {
+        "id": 100016,
+        "company": {
+          "id": 846,
+          "name": "Rutubo Games"
+        },
+        "created_at": 1590537600,
+        "developer": true,
+        "game": 12857,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590537600,
+        "checksum": "ab816ed9-a3f3-1c95-4230-95fbf429a7c1"
+      }
+    ],
+    "name": "Space Harrier",
+    "screenshots": [
+      {
+        "id": 173344,
+        "game": 12857,
+        "height": 224,
+        "image_id": "ge75j4vrp4keap0sqtnb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ge75j4vrp4keap0sqtnb.jpg",
+        "width": 304,
+        "checksum": "7bda3de3-5bbb-4917-95d6-720567b94f63"
+      },
+      {
+        "id": 173345,
+        "game": 12857,
+        "height": 224,
+        "image_id": "ktspxlovnvzynqyzfxgu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ktspxlovnvzynqyzfxgu.jpg",
+        "width": 304,
+        "checksum": "cddb9b3d-80f0-8bf6-3613-07afc0d9258b"
+      },
+      {
+        "id": 173346,
+        "game": 12857,
+        "height": 224,
+        "image_id": "mzttb2qtevz276iidxop",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mzttb2qtevz276iidxop.jpg",
+        "width": 304,
+        "checksum": "a65e6ff2-691e-c1bc-e045-911aea00b194"
+      },
+      {
+        "id": 173347,
+        "game": 12857,
+        "height": 224,
+        "image_id": "sq2t3jwlhjghi6hef64l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sq2t3jwlhjghi6hef64l.jpg",
+        "width": 304,
+        "checksum": "11421f1d-d650-952b-7e49-94fcee61d9e2"
+      },
+      {
+        "id": 173348,
+        "game": 12857,
+        "height": 224,
+        "image_id": "p0x2pk662ebiqzaivzrc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0x2pk662ebiqzaivzrc.jpg",
+        "width": 304,
+        "checksum": "656b027e-9509-178e-0deb-207fc21c3fc7"
+      },
+      {
+        "id": 173349,
+        "game": 12857,
+        "height": 224,
+        "image_id": "jbuzivghdkne2dxexs4j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jbuzivghdkne2dxexs4j.jpg",
+        "width": 304,
+        "checksum": "f2fc5ba0-60e6-6c15-2a6b-b45e298d8470"
+      },
+      {
+        "id": 173350,
+        "game": 12857,
+        "height": 224,
+        "image_id": "k63ud1pma3jrf8zw3liq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k63ud1pma3jrf8zw3liq.jpg",
+        "width": 304,
+        "checksum": "a0dc56ee-47fe-ddc9-5eeb-ffc56aaef3d5"
+      },
+      {
+        "id": 173351,
+        "game": 12857,
+        "height": 224,
+        "image_id": "odn8mwoucd1dfw8sae84",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/odn8mwoucd1dfw8sae84.jpg",
+        "width": 304,
+        "checksum": "8a960c58-f8a8-5d9c-a0a3-2783607b4a93"
+      },
+      {
+        "id": 173352,
+        "game": 12857,
+        "height": 224,
+        "image_id": "sg8e5daakqgw75mdi7hd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sg8e5daakqgw75mdi7hd.jpg",
+        "width": 304,
+        "checksum": "c982d491-26c7-9ab9-5168-f4dcbffdb482"
+      },
+      {
+        "id": 173353,
+        "game": 12857,
+        "height": 224,
+        "image_id": "oagotbmaejo577buy7pi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oagotbmaejo577buy7pi.jpg",
+        "width": 304,
+        "checksum": "c5cca682-1ce4-11a5-9d21-d783d28e02bc"
+      },
+      {
+        "id": 173354,
+        "game": 12857,
+        "height": 224,
+        "image_id": "lqusg9i9rlhbbmtjvuqt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqusg9i9rlhbbmtjvuqt.jpg",
+        "width": 304,
+        "checksum": "e9f7811a-ac19-0805-a005-0648ee97efbd"
+      },
+      {
+        "id": 173355,
+        "game": 12857,
+        "height": 224,
+        "image_id": "pi08rsojnisn0ig85tjj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pi08rsojnisn0ig85tjj.jpg",
+        "width": 304,
+        "checksum": "39261b9a-ff02-dddc-3d63-883ee38fdbdf"
+      }
+    ],
+    "slug": "space-harrier",
+    "summary": "Run… fly… dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!\n\nOriginating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.",
+    "total_rating": 66.36539330921791,
+    "total_rating_count": 25,
+    "url": "https://www.igdb.com/games/space-harrier"
+  },
+  {
+    "id": 45882,
+    "cover": {
+      "id": 224481,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45882,
+      "height": 800,
+      "image_id": "co4t7l",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4t7l.jpg",
+      "width": 600,
+      "checksum": "bfdad0bc-0fb4-b8a0-719e-43183acfe90e"
+    },
+    "first_release_date": 822528000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 173181,
+        "company": {
+          "id": 1402,
+          "name": "BlueSky Software"
+        },
+        "created_at": 1654061101,
+        "developer": true,
+        "game": 45882,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1654071056,
+        "checksum": "5b4b34bf-6ddd-9ee9-68cc-d40d7b86ea2b"
+      },
+      {
+        "id": 173182,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1654061101,
+        "developer": false,
+        "game": 45882,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1654071056,
+        "checksum": "4028f6a3-fd6d-7125-6417-0af1584a1150"
+      }
+    ],
+    "name": "The Amazing Spider-Man: Web of Fire",
+    "screenshots": [
+      {
+        "id": 857932,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45882,
+        "height": 240,
+        "image_id": "scidzg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scidzg.jpg",
+        "width": 320,
+        "checksum": "f72f57eb-f6f9-d49c-3a02-5cae609a5ca0"
+      }
+    ],
+    "slug": "the-amazing-spider-man-web-of-fire",
+    "summary": "A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.\n\nWho will prevail, The Net or The Web?",
+    "url": "https://www.igdb.com/games/the-amazing-spider-man-web-of-fire"
+  },
+  {
+    "id": 45878,
+    "cover": {
+      "id": 132314,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45878,
+      "height": 1530,
+      "image_id": "co2u3e",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2u3e.jpg",
+      "width": 1148,
+      "checksum": "ae86f24e-65a4-3b7e-5eb7-0cc0e8aa2b6f"
+    },
+    "first_release_date": 786240000,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65481,
+        "company": {
+          "id": 5,
+          "name": "Interplay Entertainment"
+        },
+        "created_at": 1528588800,
+        "developer": true,
+        "game": 45878,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1528588800,
+        "checksum": "6654de61-9d79-d15e-bd7e-d89c9cf06ec8"
+      },
+      {
+        "id": 65482,
+        "company": {
+          "id": 392,
+          "name": "High Voltage Software"
+        },
+        "created_at": 1528588800,
+        "developer": false,
+        "game": 45878,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1528588800,
+        "checksum": "0de1997e-42d7-e4e0-3dd7-d424c875a78e"
+      },
+      {
+        "id": 65483,
+        "company": {
+          "id": 10141,
+          "name": "Sega Entertainment"
+        },
+        "created_at": 1528588800,
+        "developer": false,
+        "game": 45878,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1528588800,
+        "checksum": "4baec59e-a5b2-369d-86c3-2cd925bd6c9c"
+      }
+    ],
+    "name": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
+    "screenshots": [
+      {
+        "id": 307486,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 45878,
+        "height": 224,
+        "image_id": "sc6l9a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6l9a.jpg",
+        "width": 256,
+        "checksum": "248a66f3-1b11-0093-0bad-c142cef5a18b"
+      },
+      {
+        "id": 307487,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 45878,
+        "height": 224,
+        "image_id": "sc6l9b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6l9b.jpg",
+        "width": 256,
+        "checksum": "5e695506-18c2-f049-ff60-929c03180577"
+      },
+      {
+        "id": 307488,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 45878,
+        "height": 224,
+        "image_id": "sc6l9c",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6l9c.jpg",
+        "width": 256,
+        "checksum": "dc0e6236-b873-3e96-471b-dc86e78b47e9"
+      }
+    ],
+    "slug": "star-trek-starfleet-academy-starship-bridge-simulator",
+    "summary": "The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.",
+    "url": "https://www.igdb.com/games/star-trek-starfleet-academy-starship-bridge-simulator"
+  },
+  {
+    "id": 39822,
+    "alternative_names": [
+      {
+        "id": 12211,
+        "name": "Star Wars"
+      },
+      {
+        "id": 12212,
+        "name": "Star Wars 1993"
+      }
+    ],
+    "cover": {
+      "id": 136613,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 39822,
+      "height": 900,
+      "image_id": "co2xet",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2xet.jpg",
+      "width": 676,
+      "checksum": "2ac868cc-97b8-bd58-fab2-d6049fc2b6db"
+    },
+    "first_release_date": 739411200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56283,
+        "company": {
+          "id": 10187,
+          "name": "SEGA Interactive Development Division"
+        },
+        "created_at": 1508889600,
+        "developer": false,
+        "game": 39822,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1508889600,
+        "checksum": "24e74a02-536a-2838-820e-0fa29e6b0b0f"
+      },
+      {
+        "id": 99550,
+        "company": {
+          "id": 2327,
+          "name": "Sega AM3"
+        },
+        "created_at": 1590019200,
+        "developer": true,
+        "game": 39822,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "aa41e7c5-5d96-9fe0-163b-c691364a6bb0"
+      },
+      {
+        "id": 99551,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1590019200,
+        "developer": false,
+        "game": 39822,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590019200,
+        "checksum": "84262f71-89c0-b7c7-f323-5dca4e4d924b"
+      }
+    ],
+    "name": "Star Wars Arcade",
+    "screenshots": [
+      {
+        "id": 385077,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39822,
+        "height": 720,
+        "image_id": "sc894l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894l.jpg",
+        "width": 1280,
+        "checksum": "a260d234-1442-6b93-9555-4d6dee1e785f"
+      },
+      {
+        "id": 385078,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39822,
+        "height": 224,
+        "image_id": "sc894m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894m.jpg",
+        "width": 320,
+        "checksum": "56fb767f-5c2f-a776-5005-d184e3771d6e"
+      },
+      {
+        "id": 385079,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39822,
+        "height": 320,
+        "image_id": "sc894n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894n.jpg",
+        "width": 480,
+        "checksum": "0512255e-2940-1f4e-d036-7f9a58811a5b"
+      },
+      {
+        "id": 385080,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39822,
+        "height": 360,
+        "image_id": "sc894o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894o.jpg",
+        "width": 480,
+        "checksum": "b20805e4-8874-9038-a90e-7344f4fbe59e"
+      }
+    ],
+    "slug": "star-wars-arcade",
+    "summary": "Launch your X-wing fighter for the final Death Star assault! The Force is with you as you pursue Darth Vader through an exploding galaxy! You are the last hope for the Rebel Alliance!",
+    "url": "https://www.igdb.com/games/star-wars-arcade",
+    "videos": [
+      {
+        "id": 36211,
+        "game": 39822,
+        "name": "Gameplay Video",
+        "video_id": "ddFAJ4WtRdc",
+        "checksum": "aa93d9c2-811d-2cff-135e-34fffa198f66"
+      }
+    ]
+  },
+  {
+    "id": 4291,
+    "cover": {
+      "id": 185219,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 4291,
+      "height": 1688,
+      "image_id": "co3ywz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ywz.jpg",
+      "width": 1266,
+      "checksum": "c7490aa2-4235-f038-0a4b-4df06dca12f0"
+    },
+    "first_release_date": 781056000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22575,
+        "company": {
+          "id": 1181,
+          "name": "Digital Pictures"
+        },
+        "created_at": 1427328000,
+        "developer": true,
+        "game": 4291,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1427328000,
+        "checksum": "07f031be-4e2b-f4ad-4a4a-da3e44b57dd0"
+      }
+    ],
+    "name": "Supreme Warrior",
+    "screenshots": [
+      {
+        "id": 268440,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4291,
+        "height": 240,
+        "image_id": "sc5r4o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5r4o.jpg",
+        "width": 256,
+        "checksum": "a585ee54-8718-d42f-fbc2-68f41e3bc485"
+      },
+      {
+        "id": 268441,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4291,
+        "height": 240,
+        "image_id": "sc5r4p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5r4p.jpg",
+        "width": 256,
+        "checksum": "704d9f3a-aa19-ca56-56c7-abc67029e698"
+      },
+      {
+        "id": 268442,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4291,
+        "height": 240,
+        "image_id": "sc5r4q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5r4q.jpg",
+        "width": 256,
+        "checksum": "1b299fed-0792-5402-d59d-0401dfd06a7a"
+      }
+    ],
+    "slug": "supreme-warrior",
+    "summary": "Supreme Warrior is a full-motion video fighting game. The game, or interactive movie, is set in China hundreds of years ago. You are tasked with protecting half of a magical mask. The wearer of the mask will be granted untold power. Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly. So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.\n\nThe gameplay in Supreme Warrior consists of digitized video with interactive elements. At many points during the video, you can unleash a punch, kick, or block. If your timing is correct, you inflict damage on your opponent. If you timing is off, your opponent hurts you.",
+    "url": "https://www.igdb.com/games/supreme-warrior",
+    "videos": [
+      {
+        "id": 36227,
+        "game": 4291,
+        "name": "Gameplay Video",
+        "video_id": "NzQiGC5hucE",
+        "checksum": "762fd6e1-e108-00a4-dac6-1dcdd27c9be7"
+      }
+    ]
+  },
+  {
+    "id": 5456,
+    "cover": {
+      "id": 5508,
+      "game": 5456,
+      "height": 335,
+      "image_id": "ndhwh2oc7frmpnwg7stt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ndhwh2oc7frmpnwg7stt.jpg",
+      "width": 200,
+      "checksum": "f40cf8ab-5e80-edc2-0a17-1281368fdc9a"
+    },
+    "first_release_date": 753408000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13220,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        },
+        "created_at": 1393286400,
+        "developer": false,
+        "game": 5456,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1393286400,
+        "checksum": "2e0e39ee-511d-efad-9a8a-98a6f7daa005"
+      },
+      {
+        "id": 13221,
+        "company": {
+          "id": 1122,
+          "name": "The Code Monkeys"
+        },
+        "created_at": 1393286400,
+        "developer": true,
+        "game": 5456,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1393286400,
+        "checksum": "abc7617f-5796-438c-3812-6ccc6e9d1782"
+      }
+    ],
+    "name": "Surgical Strike",
+    "slug": "surgical-strike",
+    "summary": "The elite Special Forces unit, The Surgical Strike Team, have been called into action. High-tech urban guerrillas are attacking innocent people but once they're done with their carnage they fade back into the landscape. In a very delicate way, the Team must find these hidden enemies and get rid of them without harming innocent citizens. Inside your hovercraft, you can charge at the violent creatures, turn 180 degrees to watch your own back and explore new uncharted areas. You have a choice of weaponry choose the 30MM Gatling gun or the laser-guided rockets. AWACs C-130's hover above and give you pointers, plus on-board mapping allows you to zero in on hidden emplacements.",
+    "url": "https://www.igdb.com/games/surgical-strike"
+  },
+  {
+    "id": 45875,
+    "alternative_names": [
+      {
+        "id": 15726,
+        "name": "T-Mek: The Warlords"
+      },
+      {
+        "id": 44287,
+        "name": "T-Mek: The Warlords"
+      }
+    ],
+    "cover": {
+      "id": 161561,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45875,
+      "height": 800,
+      "image_id": "co3gnt",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gnt.jpg",
+      "width": 600,
+      "checksum": "dd108056-230f-2433-a7c9-548685ed0a1d"
+    },
+    "first_release_date": 791596800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 142354,
+        "company": {
+          "id": 327,
+          "name": "Midway Games"
+        },
+        "created_at": 1626818504,
+        "developer": true,
+        "game": 45875,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1626818526,
+        "checksum": "bede4e2c-fa69-50c6-9aac-d07405bfb3b1"
+      },
+      {
+        "id": 142355,
+        "company": {
+          "id": 2346,
+          "name": "Time Warner Interactive"
+        },
+        "created_at": 1626818504,
+        "developer": false,
+        "game": 45875,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1626818526,
+        "checksum": "070c7559-7671-d5a5-051c-db1b6ea37967"
+      }
+    ],
+    "name": "T-MEK",
+    "slug": "t-mek",
+    "summary": "T-MEK is essentially an updated Battlezone. You are a warrior battling in the T-MEK competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.\n\nThe action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.",
+    "url": "https://www.igdb.com/games/t-mek"
+  },
+  {
+    "id": 45881,
+    "cover": {
+      "id": 234022,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45881,
+      "height": 800,
+      "image_id": "co50km",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co50km.jpg",
+      "width": 600,
+      "checksum": "a8210eb2-74f5-3a97-a8c1-1db978ecedb1"
+    },
+    "first_release_date": 798681600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Tempo",
+    "slug": "tempo",
+    "summary": "King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special \"Sound Energy\" to save the world of music from the evil clutches of King Dirge.",
+    "url": "https://www.igdb.com/games/tempo"
+  },
+  {
+    "id": 19760,
+    "cover": {
+      "id": 22463,
+      "game": 19760,
+      "height": 1097,
+      "image_id": "u91xfhrdkhcwn7fulmom",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/u91xfhrdkhcwn7fulmom.jpg",
+      "width": 800,
+      "checksum": "0480d1bc-c170-af5f-6404-151cd1c2345b"
+    },
+    "first_release_date": 820368000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36952,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19760,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "6239791d-6f1f-7794-f579-ea665305b9b5"
+      },
+      {
+        "id": 36953,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19760,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "dc9fa370-658e-67dc-ca87-b45cb0ebc853"
+      },
+      {
+        "id": 36954,
+        "company": {
+          "id": 692,
+          "name": "High Score Productions"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19760,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "d0a41465-d56d-10f4-71e8-8bd5db42a35d"
+      }
+    ],
+    "name": "Toughman Contest",
+    "screenshots": [
+      {
+        "id": 859001,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19760,
+        "height": 360,
+        "image_id": "sciet5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciet5.jpg",
+        "width": 514,
+        "checksum": "ac7e1061-876e-fc1b-24ff-80dbab03edc0"
+      },
+      {
+        "id": 859002,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19760,
+        "height": 360,
+        "image_id": "sciet6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciet6.jpg",
+        "width": 514,
+        "checksum": "a47ae00b-62a1-7712-be97-bb55f3d4d878"
+      },
+      {
+        "id": 859003,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19760,
+        "height": 360,
+        "image_id": "sciet7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciet7.jpg",
+        "width": 514,
+        "checksum": "437b293a-4d28-a9cb-ad97-09520bf07de8"
+      }
+    ],
+    "slug": "toughman-contest",
+    "summary": "Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.\n\nThe boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.",
+    "url": "https://www.igdb.com/games/toughman-contest"
+  },
+  {
+    "id": 19734,
+    "alternative_names": [
+      {
+        "id": 62333,
+        "name": "バーチャファイター"
+      },
+      {
+        "id": 62334,
+        "name": "Virtua Fighter"
+      }
+    ],
+    "cover": {
+      "id": 142253,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19734,
+      "height": 800,
+      "image_id": "co31rh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31rh.jpg",
+      "width": 600,
+      "checksum": "a77b6b5c-df1c-5f8e-7e26-c9d841bd322e"
+    },
+    "first_release_date": 749433600,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36849,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        },
+        "created_at": 1466640000,
+        "developer": true,
+        "game": 19734,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466640000,
+        "checksum": "23f2ad31-c0da-7835-2275-208242e70c85"
+      },
+      {
+        "id": 99552,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1590019200,
+        "developer": false,
+        "game": 19734,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590192000,
+        "checksum": "c5e7682b-ded0-f748-3239-559a01c063ee"
+      }
+    ],
+    "name": "Virtua Fighter",
+    "screenshots": [
+      {
+        "id": 385081,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19734,
+        "height": 420,
+        "image_id": "sc894p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894p.jpg",
+        "width": 600,
+        "checksum": "8f8ee334-684c-0fd9-5f31-9e1dd82f0cb2"
+      },
+      {
+        "id": 385082,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 19734,
+        "height": 180,
+        "image_id": "sc894q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894q.jpg",
+        "width": 281,
+        "checksum": "2e579b7c-f03e-c284-ac01-97649e6feb10"
+      },
+      {
+        "id": 385083,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 19734,
+        "height": 154,
+        "image_id": "sc894r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc894r.jpg",
+        "width": 220,
+        "checksum": "13109fc4-72b4-23f7-80a2-affb676b221a"
+      }
+    ],
+    "slug": "virtua-fighter--1",
+    "storyline": "Once in the Shōwa period, the defunct Japanese army intended to approach Henry Pu-yi, the last Emperor of the Ching Dynasty in their effort to take advantages. However, they were defeated by the Imperial guards who utilized the martial art called Hakkyoku-ken. During World War II, the Japanese army research the mysteries of Hakkyoku-ken to create supersoldiers, developing the ultimate martial art.\n\nApproximately half a century has passed since then, the ultimate World Fighting Tournament is about to start, and all kinds of fighters from around the world engage to determine the world's best. Behind the Tournament, however, there exists an intrigue designed by a sinister syndicate.",
+    "summary": "A classic fighting game by Sega, considered one of the first 3D fighting games.",
+    "total_rating": 52.4920150964756,
+    "total_rating_count": 25,
+    "url": "https://www.igdb.com/games/virtua-fighter--1"
+  },
+  {
+    "id": 45880,
+    "alternative_names": [
+      {
+        "id": 56126,
+        "name": "バーチャレーシング デラックス"
+      },
+      {
+        "id": 62331,
+        "name": "Virtua Racing Deluxe"
+      }
+    ],
+    "cover": {
+      "id": 180104,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 45880,
+      "height": 805,
+      "image_id": "co3uyw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3uyw.jpg",
+      "width": 604,
+      "checksum": "37210458-cbba-5db8-2d83-a51f12a4008d"
+    },
+    "first_release_date": 787190400,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99524,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        },
+        "created_at": 1589932800,
+        "developer": true,
+        "game": 45880,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1589932800,
+        "checksum": "29908b7c-fc19-92f5-3f53-60c659ca103b"
+      },
+      {
+        "id": 120851,
+        "company": {
+          "id": 1272,
+          "name": "Sega Sports R&D"
+        },
+        "created_at": 1615233274,
+        "developer": false,
+        "game": 45880,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1615279680,
+        "checksum": "e4efa65b-f2fd-1031-56b7-85d1453e8593"
+      },
+      {
+        "id": 120852,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1615233275,
+        "developer": false,
+        "game": 45880,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1615279680,
+        "checksum": "d4ed025d-7097-fe7f-f80e-9f45fdd76e30"
+      }
+    ],
+    "name": "Virtua Racing Deluxe",
+    "screenshots": [
+      {
+        "id": 385046,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 720,
+        "image_id": "sc893q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893q.jpg",
+        "width": 1280,
+        "checksum": "7b087a7e-6d87-d56f-d742-a57d03134b58"
+      },
+      {
+        "id": 385047,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 45880,
+        "height": 240,
+        "image_id": "sc893r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893r.jpg",
+        "width": 320,
+        "checksum": "f5f33566-88fc-f9d6-3d65-3d337964c313"
+      },
+      {
+        "id": 385048,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 480,
+        "image_id": "sc893s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893s.jpg",
+        "width": 640,
+        "checksum": "2f0275e1-d769-34e7-b702-c89e756954ef"
+      },
+      {
+        "id": 385049,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 576,
+        "image_id": "sc893t",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893t.jpg",
+        "width": 957,
+        "checksum": "03110798-d48f-4f39-1fc0-5cefc2c718e4"
+      },
+      {
+        "id": 385050,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 200,
+        "image_id": "sc893u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893u.jpg",
+        "width": 286,
+        "checksum": "295fc027-ac17-fa97-530e-fd02a722842e"
+      },
+      {
+        "id": 385051,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 808,
+        "image_id": "sc893v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893v.jpg",
+        "width": 1080,
+        "checksum": "2a07a514-22d8-4bed-aaf0-0267f2d86785"
+      },
+      {
+        "id": 385052,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 224,
+        "image_id": "sc893w",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893w.jpg",
+        "width": 320,
+        "checksum": "61f93f91-f353-eee6-1a65-3ad5a1fdb679"
+      },
+      {
+        "id": 385053,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 45880,
+        "height": 576,
+        "image_id": "sc893x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc893x.jpg",
+        "width": 957,
+        "checksum": "938b9858-9587-85c6-130b-b73019481769"
+      }
+    ],
+    "slug": "virtua-racing-deluxe",
+    "summary": "Virtua Racing Deluxe is an enhanced port of Virtua Racing, released as a launch title for the Sega 32X in North America and Europe in late 1994.\n\nMuch of its team was comprised of developers who had produced the port of Virtua Racing to the Sega Mega Drive, however the visuals in Virtua Racing Deluxe are far more accurate and the some music was rearranged. Naofumi Hataya also composed several new tracks for the game, in some cases replacing original themes.",
+    "url": "https://www.igdb.com/games/virtua-racing-deluxe",
+    "videos": [
+      {
+        "id": 36206,
+        "game": 45880,
+        "name": "Gameplay Video",
+        "video_id": "4gNP3Lk0Ivk",
+        "checksum": "ce018768-97e0-2fbe-8edc-4574a2ca4ccb"
+      }
+    ]
+  },
+  {
+    "id": 19771,
+    "alternative_names": [
+      {
+        "id": 41420,
+        "name": "WWE RAW"
+      }
+    ],
+    "cover": {
+      "id": 118310,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19771,
+      "height": 753,
+      "image_id": "co2jae",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jae.jpg",
+      "width": 565,
+      "checksum": "88f88742-91cb-7125-221a-2ccd7e1ac75b"
+    },
+    "first_release_date": 788832000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37006,
+        "company": {
+          "id": 2566,
+          "name": "LJN"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19771,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "ea9efc0c-2944-1972-09b2-c59ce8cd60c8"
+      },
+      {
+        "id": 37007,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19771,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "413cd74a-daa4-d3ea-844a-8c5a9a3150d0"
+      },
+      {
+        "id": 37008,
+        "company": {
+          "id": 1791,
+          "name": "Acclaim Japan"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19771,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "4bae6a50-cf31-25aa-134a-063c2a14e600"
+      },
+      {
+        "id": 37009,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19771,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "27a03a90-67cb-d7af-3a1f-b6e9d2dcaee7"
+      },
+      {
+        "id": 37010,
+        "company": {
+          "id": 10201,
+          "name": "Realtime Associates Seattle Division"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19771,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "24ff979c-5102-3d79-3729-923024c6c2c1"
+      }
+    ],
+    "name": "WWF Raw",
+    "slug": "wwf-raw",
+    "summary": "Raw™ slams your senses with 24 megs of the most ruthless mat mayhem ever! The hottest superstars, all new superhumans megamoves and more in-and-out-of-the-ring action stand between you and the championship belt. This Raw™...and RAW IS WAR!",
+    "total_rating": 65,
+    "total_rating_count": 2,
+    "url": "https://www.igdb.com/games/wwf-raw"
+  },
+  {
+    "id": 4546,
+    "alternative_names": [
+      {
+        "id": 1653,
+        "name": "WWF WrestleMania"
+      }
+    ],
+    "cover": {
+      "id": 136518,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 4546,
+      "height": 800,
+      "image_id": "co2xc6",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2xc6.jpg",
+      "width": 600,
+      "checksum": "607ae5de-1554-2968-8661-a54d11109729"
+    },
+    "first_release_date": 813974400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36760,
+        "company": {
+          "id": 10173,
+          "name": "Midway Manufacturing"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 4546,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "2f2a6cf0-60e2-2860-ed16-1c6e7d5cc69b"
+      },
+      {
+        "id": 36761,
+        "company": {
+          "id": 387,
+          "name": "Sculptured Software"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 4546,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "4f7761d7-07ed-65d7-f771-aae6e6fe3803"
+      },
+      {
+        "id": 36762,
+        "company": {
+          "id": 287,
+          "name": "Acclaim Entertainment"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 4546,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "3bdbbdaf-8c0d-eb57-871d-59fbbb3b47c2"
+      },
+      {
+        "id": 36763,
+        "company": {
+          "id": 566,
+          "name": "Midway"
+        },
+        "created_at": 1466553600,
+        "developer": true,
+        "game": 4546,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "0b87ce54-bafa-86bc-3552-7d46fb38252a"
+      },
+      {
+        "id": 36764,
+        "company": {
+          "id": 1791,
+          "name": "Acclaim Japan"
+        },
+        "created_at": 1466553600,
+        "developer": false,
+        "game": 4546,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466553600,
+        "checksum": "1ae365fb-448a-805c-de25-c90a2f2be74c"
+      }
+    ],
+    "name": "WWF WrestleMania: The Arcade Game",
+    "screenshots": [
+      {
+        "id": 334215,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4546,
+        "height": 254,
+        "image_id": "sc75vr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75vr.jpg",
+        "width": 400,
+        "checksum": "baedb6ca-b741-d31e-061c-97c9d5b03ab4"
+      },
+      {
+        "id": 334216,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4546,
+        "height": 254,
+        "image_id": "sc75vs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75vs.jpg",
+        "width": 400,
+        "checksum": "90798a8d-8382-ccc0-deee-796c7ce83002"
+      },
+      {
+        "id": 334217,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 4546,
+        "height": 254,
+        "image_id": "sc75vt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75vt.jpg",
+        "width": 400,
+        "checksum": "27c54d32-74a1-a9b7-d6a2-338246282a38"
+      }
+    ],
+    "slug": "wwf-wrestlemania-the-arcade-game",
+    "summary": "WWF WrestleMania (also known on console versions as WWF WrestleMania: The Arcade Game) is a professional wrestling arcade game released by Midway Manufacturing Co. in 1995. It is based on the World Wrestling Federation (WWF) professional wrestling promotion.\nThe game featured digitized representations of eight WWF performers who are pitted against each other in fast-paced matches inspired by Midway's Mortal Kombat games. Commentary is provided by Vince McMahon and Jerry Lawler, who also appear in the game sitting at the announcers' table to the right of the ring.\nAcclaim, who published the console versions of the game, developed a follow-up, WWF in Your House for the PlayStation, Sega Saturn, and DOS.",
+    "total_rating": 31.0068616618909,
+    "total_rating_count": 12,
+    "url": "https://www.igdb.com/games/wwf-wrestlemania-the-arcade-game"
+  },
+  {
+    "id": 46428,
+    "alternative_names": [
+      {
+        "id": 74420,
+        "name": "World Series Baseball '95 32X"
+      },
+      {
+        "id": 74421,
+        "name": "SEGA SPORTS World Series Baseball Starring Deion Sanders"
+      }
+    ],
+    "cover": {
+      "id": 180033,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 46428,
+      "height": 853,
+      "image_id": "co3uwx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3uwx.jpg",
+      "width": 640,
+      "checksum": "b5933d70-211b-9fd5-5bad-07a082391312"
+    },
+    "first_release_date": 820368000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 150022,
+        "company": {
+          "id": 1402,
+          "name": "BlueSky Software"
+        },
+        "created_at": 1632299193,
+        "developer": true,
+        "game": 46428,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1632301772,
+        "checksum": "7619606f-e8d6-cf88-a6e0-3f33538518b9"
+      },
+      {
+        "id": 150023,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1632299193,
+        "developer": false,
+        "game": 46428,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1632301772,
+        "checksum": "ec2fa024-648b-7c07-c9c0-ad29b0aaf629"
+      }
+    ],
+    "name": "World Series Baseball Starring Deion Sanders",
+    "screenshots": [
+      {
+        "id": 639244,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 46428,
+        "height": 1067,
+        "image_id": "scdp8s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdp8s.jpg",
+        "width": 1527,
+        "checksum": "c2274d79-b4a6-3012-dc1d-610aaf8c8712"
+      },
+      {
+        "id": 639245,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 46428,
+        "height": 1067,
+        "image_id": "scdp8t",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdp8t.jpg",
+        "width": 1527,
+        "checksum": "39f60864-bcab-3ef7-0a9e-5cbacc9465cc"
+      },
+      {
+        "id": 639246,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 46428,
+        "height": 1067,
+        "image_id": "scdp8u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdp8u.jpg",
+        "width": 1527,
+        "checksum": "22a1f66a-cc86-5a12-7b9f-2817b64b3d3f"
+      },
+      {
+        "id": 639247,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 46428,
+        "height": 1067,
+        "image_id": "scdp8v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdp8v.jpg",
+        "width": 1527,
+        "checksum": "4cfe8eb1-d15a-f775-a1f9-e5f1ca4243c1"
+      },
+      {
+        "id": 639248,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 46428,
+        "height": 1067,
+        "image_id": "scdp8w",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdp8w.jpg",
+        "width": 1527,
+        "checksum": "93d26f35-afd4-06e7-1c05-48d23e907ca1"
+      }
+    ],
+    "slug": "world-series-baseball-starring-deion-sanders",
+    "summary": "World Series Baseball Starring Deion Sanders is an entry in the World Series Baseball series, and was released exclusively on the Sega 32X in 1995. It was not released outside of North America.",
+    "url": "https://www.igdb.com/games/world-series-baseball-starring-deion-sanders"
+  },
+  {
+    "id": 19764,
+    "alternative_names": [
+      {
+        "id": 6745,
+        "name": "Motherbase"
+      },
+      {
+        "id": 61172,
+        "name": "Parasquad ~ Zaxxon's Motherbase 2000"
+      },
+      {
+        "id": 61173,
+        "name": "Parasquad"
+      },
+      {
+        "id": 61174,
+        "name": "パラスコード"
+      }
+    ],
+    "cover": {
+      "id": 139698,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 19764,
+      "height": 1067,
+      "image_id": "co2zsi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2zsi.jpg",
+      "width": 800,
+      "checksum": "56e5797c-ea1a-9132-6c2e-aee12bef17fe"
+    },
+    "first_release_date": 805680000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36971,
+        "company": {
+          "id": 1884,
+          "name": "CSK Research Institute"
+        },
+        "created_at": 1466726400,
+        "developer": true,
+        "game": 19764,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "31aa1b70-d39f-e2a2-af17-402c2dbbc101"
+      },
+      {
+        "id": 36972,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19764,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "2dc5ca62-ca7c-db5d-fdc7-492b65d399dd"
+      },
+      {
+        "id": 36973,
+        "company": {
+          "id": 229,
+          "name": "SEGA of America"
+        },
+        "created_at": 1466726400,
+        "developer": false,
+        "game": 19764,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1466812800,
+        "checksum": "5517bfa9-0ce3-8165-132b-60029bc2269f"
+      }
+    ],
+    "name": "Zaxxon's Motherbase 2000",
+    "slug": "zaxxons-motherbase-2000",
+    "summary": "This 32X-exclusive sci-fi shooter is similar gameplay-wise to Sega's arcade game Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment. The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.\n\nAlthough the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and take control of their weapons systems. This system allows for a large variety of player-controllable ships.",
+    "url": "https://www.igdb.com/games/zaxxons-motherbase-2000"
+  }
+]

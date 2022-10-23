@@ -1,0 +1,2917 @@
+[
+  {
+    "id": 84680,
+    "alternative_names": [
+      {
+        "id": 52023,
+        "name": "ポリゴブロック"
+      },
+      {
+        "id": 76159,
+        "name": "Polygon Block"
+      },
+      {
+        "id": 76162,
+        "name": "PolygoBlock"
+      },
+      {
+        "id": 76163,
+        "name": "3D Tetris"
+      }
+    ],
+    "cover": {
+      "id": 62543,
+      "game": 84680,
+      "height": 314,
+      "image_id": "txc9vsiswgyt1rbv8sb0",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/txc9vsiswgyt1rbv8sb0.jpg",
+      "width": 319,
+      "checksum": "2b68b279-d92e-18e3-9b76-db8d5ecc0c52"
+    },
+    "first_release_date": 827452800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 92279,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1581033600,
+        "developer": false,
+        "game": 84680,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "33762981-437e-b2fa-a2c7-dae69c880e5c"
+      },
+      {
+        "id": 92280,
+        "company": {
+          "id": 1851,
+          "name": "T&E Soft"
+        },
+        "created_at": 1581033600,
+        "developer": true,
+        "game": 84680,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "8da4793b-e0e6-a12d-4613-01780b8d2f0d"
+      }
+    ],
+    "name": "3-D Tetris",
+    "screenshots": [
+      {
+        "id": 179831,
+        "game": 84680,
+        "height": 224,
+        "image_id": "hycgks30rbleaif21tyf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hycgks30rbleaif21tyf.jpg",
+        "width": 384,
+        "checksum": "9abed772-d187-fdd8-4aa4-0cca7ace4f02"
+      },
+      {
+        "id": 179832,
+        "game": 84680,
+        "height": 224,
+        "image_id": "nklvur6od2ke17ebryn8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nklvur6od2ke17ebryn8.jpg",
+        "width": 384,
+        "checksum": "bd9ab6ca-5e1e-4337-d5ec-1a0bca9c89c6"
+      },
+      {
+        "id": 179833,
+        "game": 84680,
+        "height": 224,
+        "image_id": "nmbgtsd5xkjc2rbroopr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nmbgtsd5xkjc2rbroopr.jpg",
+        "width": 384,
+        "checksum": "1baef59c-43c0-41b2-d829-942f21dd5a89"
+      },
+      {
+        "id": 179834,
+        "game": 84680,
+        "height": 224,
+        "image_id": "pkdwrsmnzkwn6scorfbp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkdwrsmnzkwn6scorfbp.jpg",
+        "width": 384,
+        "checksum": "06020442-8ba5-a18a-1f41-5634a4826ee9"
+      }
+    ],
+    "slug": "3-d-tetris",
+    "storyline": "Welcome to a revolutionary type of 3-D puzzle game!\n3-D blocks are maneuvered and stacked within the \"Well\" in order to completely fill each individual layer. The Well is a wire-framed display in the center of the screen. Only on the Virtual Boy can such a game concept become a reality!",
+    "summary": "3-D Tetris is a video game released for the Virtual Boy in 1996. A Japanese version was planned, to be called Polygo Block, but production of games was ceased due to lack of interest in the Virtual Boy system. This was the last game released on the Virtual Boy.\n\nThe mesmerizing force of Tetris returns with virtual style! This thrilling animated puzzler takes dexterity and split-second timing to the extreme with dimensional blocks and challenging planes. 3-D Tetris propels players at a demanding pace where quick response and strategy rule. Tetris devotees of all levels will crave this latest sensation of brain-teasing fun!",
+    "url": "https://www.igdb.com/games/3-d-tetris",
+    "videos": [
+      {
+        "id": 42668,
+        "game": 84680,
+        "name": "Gameplay Video",
+        "video_id": "3n6J3JyICQ0",
+        "checksum": "558d2327-a96c-6497-a5f4-64783a522428"
+      }
+    ]
+  },
+  {
+    "id": 20381,
+    "alternative_names": [
+      {
+        "id": 6893,
+        "name": "ギャラクティックピンボール"
+      }
+    ],
+    "cover": {
+      "id": 239835,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20381,
+      "height": 1212,
+      "image_id": "co5523",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5523.jpg",
+      "width": 909,
+      "checksum": "1c5d2187-77b5-07eb-e516-75eed9a563f7"
+    },
+    "first_release_date": 806284800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37535,
+        "company": {
+          "id": 765,
+          "name": "Intelligent Systems Co., Ltd."
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20381,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "8797cb55-3b36-0d5a-34a0-c194818cdcf8"
+      },
+      {
+        "id": 37536,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20381,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "f9c2b316-4345-2e4c-870c-7febe4383d29"
+      },
+      {
+        "id": 37537,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20381,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "497e1711-1277-5445-f62d-dd50aa99ed16"
+      }
+    ],
+    "name": "Galactic Pinball",
+    "screenshots": [
+      {
+        "id": 159795,
+        "game": 20381,
+        "height": 224,
+        "image_id": "cv0s9xhrmathsvyljivb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cv0s9xhrmathsvyljivb.jpg",
+        "width": 384,
+        "checksum": "e2c61a0b-1896-69e6-1882-5f6fceef012b"
+      },
+      {
+        "id": 159796,
+        "game": 20381,
+        "height": 224,
+        "image_id": "j3bex7m0euu702idat9u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j3bex7m0euu702idat9u.jpg",
+        "width": 384,
+        "checksum": "e48ae673-2f5f-2cd8-bc22-6b0b072fbbc2"
+      },
+      {
+        "id": 159797,
+        "game": 20381,
+        "height": 224,
+        "image_id": "og0y0badpfojnbcrqc7h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/og0y0badpfojnbcrqc7h.jpg",
+        "width": 384,
+        "checksum": "3a83be98-8ecd-659d-6eb0-5d59c3c06741"
+      },
+      {
+        "id": 159798,
+        "game": 20381,
+        "height": 224,
+        "image_id": "afbilvlp8dlatfcqk68j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/afbilvlp8dlatfcqk68j.jpg",
+        "width": 384,
+        "checksum": "26ad4b22-6c4b-c374-aa0b-80d6b50a8958"
+      },
+      {
+        "id": 159799,
+        "game": 20381,
+        "height": 224,
+        "image_id": "avfmpel5akvcdnr68df5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/avfmpel5akvcdnr68df5.jpg",
+        "width": 384,
+        "checksum": "76ab5b45-aee4-ee6c-e894-4dd06f90c082"
+      },
+      {
+        "id": 159800,
+        "game": 20381,
+        "height": 224,
+        "image_id": "udxlmewgumqohchx680m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/udxlmewgumqohchx680m.jpg",
+        "width": 384,
+        "checksum": "e4449bd5-cd06-ab0d-af63-d28a8c06a488"
+      }
+    ],
+    "slug": "galactic-pinball",
+    "storyline": "The vast expanse of the Milky Way Galaxy is unfathomable. It has seen empires rise and fall, wars rage and peace reign. Many of its mysteries have been discovered only to slip back into obscurity. And now, from the very depths of the galaxy comes the news of a very strange world... Welcome to the space world.\n\nLet's go!!",
+    "summary": "Prepare to enter the vast expanse of the Milky Way. Put your pinball skills to an interstellar test with four incredible space tables.\n\nBlast your pinball at rotating planets and turn them into dust in the Cosmic world. Send your puck flying through galactic formations in the deep-space Colony. Defeat an evil skeleton and hit the ultimate UFO jackpot! Knock down multiple rings and destroy wicked assailants in an Alien place. Defy arduous obstacles and save the world from impending devastation!",
+    "url": "https://www.igdb.com/games/galactic-pinball",
+    "videos": [
+      {
+        "id": 42670,
+        "game": 20381,
+        "name": "Gameplay Video",
+        "video_id": "x1WJTfOdVs8",
+        "checksum": "d65e4142-ec2f-b01f-4f32-2f7b4839abc3"
+      }
+    ]
+  },
+  {
+    "id": 20382,
+    "alternative_names": [
+      {
+        "id": 6894,
+        "name": "T&E Virtual Golf"
+      },
+      {
+        "id": 6895,
+        "name": "T&E ヴァーチャルゴルフ"
+      }
+    ],
+    "cover": {
+      "id": 61737,
+      "game": 20382,
+      "height": 309,
+      "image_id": "kglcjbfyc4ej8dvkzeuu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kglcjbfyc4ej8dvkzeuu.jpg",
+      "width": 319,
+      "checksum": "fdd9eb06-415d-e0fa-1df6-5125a213c563"
+    },
+    "first_release_date": 815184000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37538,
+        "company": {
+          "id": 1851,
+          "name": "T&E Soft"
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20382,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "1a9aaa80-4b67-c032-3e94-f1767ff49311"
+      },
+      {
+        "id": 37539,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20382,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "a90f8fdd-b37e-0308-bdbd-ce0b1c9580be"
+      },
+      {
+        "id": 37540,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20382,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "3e061752-9ba6-219c-be2c-8debc9bc4fbb"
+      }
+    ],
+    "name": "Golf",
+    "screenshots": [
+      {
+        "id": 160426,
+        "game": 20382,
+        "height": 224,
+        "image_id": "yzvmsnmqlw45xnxjs0wj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yzvmsnmqlw45xnxjs0wj.jpg",
+        "width": 384,
+        "checksum": "1fc4562b-8cc9-b6f9-b6f8-149859fe3dec"
+      },
+      {
+        "id": 160427,
+        "game": 20382,
+        "height": 224,
+        "image_id": "opfugtlnfxhlfymbcq4j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/opfugtlnfxhlfymbcq4j.jpg",
+        "width": 384,
+        "checksum": "713bbcc9-bda0-d472-c3e8-c0375d278c19"
+      },
+      {
+        "id": 160428,
+        "game": 20382,
+        "height": 224,
+        "image_id": "irkt7hykchbnpstohbpo",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/irkt7hykchbnpstohbpo.jpg",
+        "width": 384,
+        "checksum": "22e29bb3-eca6-e043-2676-922932bdc90d"
+      },
+      {
+        "id": 160429,
+        "game": 20382,
+        "height": 224,
+        "image_id": "vjlckjvx6dhxjirwdoe6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vjlckjvx6dhxjirwdoe6.jpg",
+        "width": 384,
+        "checksum": "7762ff4d-35f7-3325-921a-439264044b04"
+      }
+    ],
+    "slug": "golf--2",
+    "summary": "Tee off for 18 holes of realistic 3-D links! Virtual Boy Golf elevates the game to an incredible new level!",
+    "url": "https://www.igdb.com/games/golf--2"
+  },
+  {
+    "id": 20383,
+    "alternative_names": [
+      {
+        "id": 6896,
+        "name": "インスマウスの館"
+      },
+      {
+        "id": 52040,
+        "name": "Insmouse no Yakata"
+      },
+      {
+        "id": 52041,
+        "name": "The Mansion of Innsmouth"
+      }
+    ],
+    "cover": {
+      "id": 119542,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 20383,
+      "height": 1600,
+      "image_id": "co2k8m",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k8m.jpg",
+      "width": 1200,
+      "checksum": "1f847541-dd1a-a8ac-a1bc-560a81f7a16e"
+    },
+    "first_release_date": 813542400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37541,
+        "company": {
+          "id": 10361,
+          "name": "Betop"
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20383,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "b5124ee2-efff-bf32-739a-a1b0f21d2930"
+      },
+      {
+        "id": 37542,
+        "company": {
+          "id": 10362,
+          "name": "I'Max"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20383,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "667eab82-6dc6-bb42-983d-c7f818c00d10"
+      }
+    ],
+    "name": "Innsmouth no Yakata",
+    "screenshots": [
+      {
+        "id": 111639,
+        "game": 20383,
+        "height": 768,
+        "image_id": "tzqpqhlruclmbxstqdqb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tzqpqhlruclmbxstqdqb.jpg",
+        "width": 1024,
+        "checksum": "f2149d17-5236-2b1a-2746-6795984cee8e"
+      },
+      {
+        "id": 161956,
+        "game": 20383,
+        "height": 224,
+        "image_id": "t8zmxj7k9dn6qmvwne8b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8zmxj7k9dn6qmvwne8b.jpg",
+        "width": 384,
+        "checksum": "0e59d1a1-62f7-7c45-8258-6a9156349b48"
+      },
+      {
+        "id": 161957,
+        "game": 20383,
+        "height": 224,
+        "image_id": "ze8gmgwdcgzwgldwpgku",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ze8gmgwdcgzwgldwpgku.jpg",
+        "width": 384,
+        "checksum": "b9381d38-d28c-b0f9-c028-21dd078172eb"
+      },
+      {
+        "id": 161958,
+        "game": 20383,
+        "height": 224,
+        "image_id": "wiwi6kdust2cangw7dax",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wiwi6kdust2cangw7dax.jpg",
+        "width": 384,
+        "checksum": "f7114c35-048d-a66e-1c3f-087fac64f09e"
+      },
+      {
+        "id": 161959,
+        "game": 20383,
+        "height": 224,
+        "image_id": "vvclpwi2uxt1vd2uzkhs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vvclpwi2uxt1vd2uzkhs.jpg",
+        "width": 384,
+        "checksum": "6978b802-3a43-97e7-0b3f-49a6e05393a7"
+      },
+      {
+        "id": 161960,
+        "game": 20383,
+        "height": 224,
+        "image_id": "uilumcqmjbcmdkd1kjfj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uilumcqmjbcmdkd1kjfj.jpg",
+        "width": 384,
+        "checksum": "45b5feee-192c-b4f9-ba10-2f7ba21de4fa"
+      },
+      {
+        "id": 161961,
+        "game": 20383,
+        "height": 224,
+        "image_id": "o6jy5htblvse7hs2ybqm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o6jy5htblvse7hs2ybqm.jpg",
+        "width": 384,
+        "checksum": "57032dab-6f0d-8ad3-c425-33c7046f4d35"
+      }
+    ],
+    "slug": "innsmouth-no-yakata",
+    "storyline": "Set in the 1920's, a private detective is tasked with entering a mansion within a haunted forest in order to retrieve the Necronomicon and escape.",
+    "summary": "Innsmouth no Yakata is an Action game, developed by Betop and published by I'Max, which was released in Japan in 1995. Loosely based on the H.P Lovecraft novel \"The Shadow over Innsmouth\". \n \nOn the cover and in the manual, the name is incorrectly rendered as \"Insmouse\".",
+    "url": "https://www.igdb.com/games/innsmouth-no-yakata",
+    "videos": [
+      {
+        "id": 42686,
+        "game": 20383,
+        "name": "Gameplay Video",
+        "video_id": "-Lxk9137ZlU",
+        "checksum": "0f7f473c-9dd5-cb5c-b9b5-3be69f51419f"
+      }
+    ]
+  },
+  {
+    "id": 20384,
+    "alternative_names": [
+      {
+        "id": 37961,
+        "name": "ジャック・ブラザースの迷路でヒーホー!"
+      },
+      {
+        "id": 37962,
+        "name": "Jack Bros. no Meirô de Hiihoo!"
+      }
+    ],
+    "cover": {
+      "id": 138998,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20384,
+      "height": 3999,
+      "image_id": "co2z92",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2z92.jpg",
+      "width": 3000,
+      "checksum": "73929bcc-f278-51d5-f851-f21bca5ff187"
+    },
+    "first_release_date": 812332800,
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37543,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20384,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "2ec913ba-bc2b-030b-8f8f-cb913f4ae5ab"
+      },
+      {
+        "id": 37544,
+        "company": {
+          "id": 2488,
+          "name": "Atlus USA"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20384,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "7cf52955-9296-85ac-d21f-a1cd0048f246"
+      }
+    ],
+    "name": "Jack Bros.",
+    "screenshots": [
+      {
+        "id": 162088,
+        "game": 20384,
+        "height": 224,
+        "image_id": "gmvgthro7abqxupnjhbz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmvgthro7abqxupnjhbz.jpg",
+        "width": 384,
+        "checksum": "11c55ccf-8a53-1101-b7d7-430a9eb93735"
+      },
+      {
+        "id": 162089,
+        "game": 20384,
+        "height": 224,
+        "image_id": "pwy9rw5ioetylo9o7gwg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pwy9rw5ioetylo9o7gwg.jpg",
+        "width": 384,
+        "checksum": "d8062345-ea99-bec8-3b67-93974189b985"
+      },
+      {
+        "id": 162090,
+        "game": 20384,
+        "height": 224,
+        "image_id": "zhnfrzltgoxbbbluutjs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zhnfrzltgoxbbbluutjs.jpg",
+        "width": 384,
+        "checksum": "81e3b54a-8671-acda-3ed5-4d2a2f75adc0"
+      },
+      {
+        "id": 162091,
+        "game": 20384,
+        "height": 224,
+        "image_id": "o2mxbnq3l6nsny9nsgdw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o2mxbnq3l6nsny9nsgdw.jpg",
+        "width": 384,
+        "checksum": "893ff49f-fa2e-05a8-00a7-9b0fd12b7e3e"
+      },
+      {
+        "id": 162092,
+        "game": 20384,
+        "height": 224,
+        "image_id": "lv7ufzckdgnjwaihexh1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lv7ufzckdgnjwaihexh1.jpg",
+        "width": 384,
+        "checksum": "953ef252-8b46-f503-7731-093e57fc3108"
+      },
+      {
+        "id": 162093,
+        "game": 20384,
+        "height": 224,
+        "image_id": "n0f70kyeudfws0uu75cw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/n0f70kyeudfws0uu75cw.jpg",
+        "width": 384,
+        "checksum": "3fd62cf4-5263-f8b2-6668-66ea98c0b728"
+      },
+      {
+        "id": 162094,
+        "game": 20384,
+        "height": 224,
+        "image_id": "wwitmhv03s1ba845qjtr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wwitmhv03s1ba845qjtr.jpg",
+        "width": 384,
+        "checksum": "f6bbfe45-9493-cc93-67a2-d07f07440de9"
+      }
+    ],
+    "slug": "jack-bros",
+    "storyline": "The game is set on Halloween, where the narration explains that fairies take advantage of the special night to visit the real world. Unfortunately, the character has lost track of time and must now rush to make it back before midnight or face never being able to return again. The player is helped by a Pixie who explains elements of each level as they arrive and warns about approaching bosses. Each of the three initial playable characters have a unique ending sequence.",
+    "summary": "The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!",
+    "url": "https://www.igdb.com/games/jack-bros",
+    "videos": [
+      {
+        "id": 38925,
+        "game": 20384,
+        "name": "Gameplay Video",
+        "video_id": "72GVZ1YQ76Q",
+        "checksum": "1c488c20-3b98-b832-dd2b-c6c2007a652f"
+      }
+    ]
+  },
+  {
+    "id": 20386,
+    "alternative_names": [
+      {
+        "id": 31824,
+        "name": "Mariozu Tenisu"
+      },
+      {
+        "id": 32074,
+        "name": "マリオズテニス"
+      },
+      {
+        "id": 32075,
+        "name": "Mario's Dream Tennis"
+      }
+    ],
+    "cover": {
+      "id": 99911,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20386,
+      "height": 1067,
+      "image_id": "co253b",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co253b.jpg",
+      "width": 800,
+      "checksum": "338d5008-e4f4-fa1f-caae-0f68ec30e3e6"
+    },
+    "first_release_date": 806284800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97899,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1588204800,
+        "developer": false,
+        "game": 20386,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1588204800,
+        "checksum": "b17c28f7-964b-0915-4c6a-483c6c336799"
+      },
+      {
+        "id": 97900,
+        "company": {
+          "id": 1809,
+          "name": "Nintendo R&D1"
+        },
+        "created_at": 1588204800,
+        "developer": true,
+        "game": 20386,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1588204800,
+        "checksum": "3751d4b6-b18a-b057-d5e5-f8faabab71db"
+      },
+      {
+        "id": 97901,
+        "company": {
+          "id": 321,
+          "name": "Tose"
+        },
+        "created_at": 1588204800,
+        "developer": true,
+        "game": 20386,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1588204800,
+        "checksum": "8d1acb21-53aa-74a0-f2e6-5e19376d321c"
+      }
+    ],
+    "name": "Mario's Tennis",
+    "screenshots": [
+      {
+        "id": 382870,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20386,
+        "height": 224,
+        "image_id": "sc87fa",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87fa.jpg",
+        "width": 384,
+        "checksum": "258d4d2a-3751-53e5-b5ca-3588f525bb8d"
+      },
+      {
+        "id": 382871,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20386,
+        "height": 224,
+        "image_id": "sc87fb",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87fb.jpg",
+        "width": 384,
+        "checksum": "1da35109-8c96-e2cf-4136-ae61e0bd1b47"
+      },
+      {
+        "id": 382872,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20386,
+        "height": 224,
+        "image_id": "sc87fc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87fc.jpg",
+        "width": 384,
+        "checksum": "cf9bf7ca-57c2-0144-4632-98c49c7a6c8a"
+      },
+      {
+        "id": 382873,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20386,
+        "height": 224,
+        "image_id": "sc87fd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87fd.jpg",
+        "width": 384,
+        "checksum": "e379256b-17a6-f551-d98f-881ab294eb6c"
+      }
+    ],
+    "slug": "marios-tennis",
+    "storyline": "Mario's Tennis is a sports game in which the player controls one of seven different Mario characters and engages in tennis matches. The action on the court is viewed from directly behind the player character from a third person perspective. The Virtual Boy's stereoscopic 3D graphics allow the player to perceive depth within the tennis court, allowing for better perception in the distance between a tennis ball and the respective character. Unlike later entries in the Mario Tennis series, which added gameplay elements not present in tradition tennis, such as \"power up items\", special \"power shots\", or external obstacles interfering with the game, Mario's Tennis simply focuses on tennis fundamentals. \n \nMario's Tennis supports a number of different game modes and customization options. The player may choose one of seven Mario characters, including Mario, Luigi, Princess Toadstool, Yoshi, Toad, and Donkey Kong Jr., all with differing attributes in regards to \"speed\", \"power\" or \"racket area\". Either a single game, or a three-game tournament mode may be chosen, both having the option to play either singles or doubles matches on easy, normal, or hard difficulties. Although a two-player function was announced, it was not implemented since the cable required to link two Virtual Boy units was never released.",
+    "summary": "Mario's Tennis is a tennis game that was released as a launch title for the Virtual Boy. It is the first tennis-related Mario game, and would later be followed by the Mario Tennis series. You get to choose from seven different characters, all with different ability levels, to play against each other in either singles or doubles matches. You can also play in an exhibition or tournament mode.",
+    "total_rating": 60.8565954770435,
+    "total_rating_count": 8,
+    "url": "https://www.igdb.com/games/marios-tennis",
+    "videos": [
+      {
+        "id": 35309,
+        "game": 20386,
+        "name": "Gameplay Video",
+        "video_id": "WyY3dpyDIA8",
+        "checksum": "ffe98a00-4320-08af-fc20-cd87abbe94f7"
+      }
+    ]
+  },
+  {
+    "id": 20385,
+    "alternative_names": [
+      {
+        "id": 32142,
+        "name": "マリオクラッシュ"
+      },
+      {
+        "id": 32143,
+        "name": "Mario Kurasshu"
+      }
+    ],
+    "cover": {
+      "id": 100102,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20385,
+      "height": 853,
+      "image_id": "co258m",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co258m.jpg",
+      "width": 640,
+      "checksum": "6825302e-b625-88c0-186f-60839d0ce991"
+    },
+    "first_release_date": 812246400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98337,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1588550400,
+        "developer": false,
+        "game": 20385,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1588550400,
+        "checksum": "953e659c-2b51-c152-a043-d8d7b8b07dfc"
+      },
+      {
+        "id": 98338,
+        "company": {
+          "id": 1809,
+          "name": "Nintendo R&D1"
+        },
+        "created_at": 1588550400,
+        "developer": true,
+        "game": 20385,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1588550400,
+        "checksum": "9ca5f6d7-6854-72e4-00b8-27c7b2fe4a3b"
+      }
+    ],
+    "name": "Mario Clash",
+    "screenshots": [
+      {
+        "id": 383281,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20385,
+        "height": 224,
+        "image_id": "sc87qp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87qp.jpg",
+        "width": 384,
+        "checksum": "2a0609bc-6287-6fb0-e325-39c35c521052"
+      },
+      {
+        "id": 383282,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20385,
+        "height": 224,
+        "image_id": "sc87qq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87qq.jpg",
+        "width": 384,
+        "checksum": "6dc3a0bb-c69b-e015-b4c9-35a7046ddaea"
+      },
+      {
+        "id": 383283,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20385,
+        "height": 224,
+        "image_id": "sc87qr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87qr.jpg",
+        "width": 384,
+        "checksum": "3753b897-7b81-ed6c-b713-42427c94ae60"
+      },
+      {
+        "id": 383284,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 20385,
+        "height": 224,
+        "image_id": "sc87qs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc87qs.jpg",
+        "width": 384,
+        "checksum": "8c995880-5f61-906e-9cc4-2d38168fc051"
+      }
+    ],
+    "slug": "mario-clash",
+    "storyline": "The Clash House Tower has been invaded by bad guys. It's up to Mario to clear them out, throwing Koopa shells to knock them away. Take care as you battle in dangerous rooms of narrow ledges connected by pipes.",
+    "summary": "Mario Clash is the first 3D stereoscopic Mario game released for the Virtual Boy. The game is a return to the style of the original Mario Bros. To progress through the game, Mario must knock enemies off platforms using Turtle Shells. There are always two Koopas; if one gets knocked off, another one takes its place. Many enemies need to be hit from the side, thus Mario must throw shells from the background to the foreground and vice-versa in order to knock them off.",
+    "url": "https://www.igdb.com/games/mario-clash",
+    "videos": [
+      {
+        "id": 35650,
+        "game": 20385,
+        "name": "Gameplay Video",
+        "video_id": "PcFJDt8_U0g",
+        "checksum": "529e353a-f979-6e82-f653-796c5532a074"
+      }
+    ]
+  },
+  {
+    "id": 20387,
+    "cover": {
+      "id": 51236,
+      "game": 20387,
+      "height": 310,
+      "image_id": "iet93f0wdlm4vl5mk2wq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/iet93f0wdlm4vl5mk2wq.jpg",
+      "width": 319,
+      "checksum": "715f8ebc-1ffc-4ffa-46f6-665402eeee89"
+    },
+    "first_release_date": 824342400,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37549,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20387,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "8040ced8-0380-6886-967a-d8276604f326"
+      },
+      {
+        "id": 37550,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20387,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "8ef27668-1d89-2a72-9a98-aa537c1ebc20"
+      }
+    ],
+    "name": "Nester's Funky Bowling",
+    "screenshots": [
+      {
+        "id": 167085,
+        "game": 20387,
+        "height": 224,
+        "image_id": "a5uuasnussoxinhnoq8q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a5uuasnussoxinhnoq8q.jpg",
+        "width": 384,
+        "checksum": "0eee7b49-c336-09f2-555d-b571dc8f25da"
+      },
+      {
+        "id": 167086,
+        "game": 20387,
+        "height": 224,
+        "image_id": "zngo4zmns1yebl0yx2mt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zngo4zmns1yebl0yx2mt.jpg",
+        "width": 384,
+        "checksum": "bc01bb4c-c4d1-85e1-9f76-57ac6beebc0a"
+      },
+      {
+        "id": 167087,
+        "game": 20387,
+        "height": 224,
+        "image_id": "q4nwazhubnrb7mrzhcxi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4nwazhubnrb7mrzhcxi.jpg",
+        "width": 384,
+        "checksum": "d332e565-12e4-c73e-e70a-33b7dac7fc83"
+      },
+      {
+        "id": 167088,
+        "game": 20387,
+        "height": 224,
+        "image_id": "fllrhvdyqrcql2hdykf8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fllrhvdyqrcql2hdykf8.jpg",
+        "width": 384,
+        "checksum": "28e346ae-47e1-7ff5-10d5-e41e92c3fc85"
+      },
+      {
+        "id": 167089,
+        "game": 20387,
+        "height": 224,
+        "image_id": "bna33tceaih8s6gzjioe",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bna33tceaih8s6gzjioe.jpg",
+        "width": 384,
+        "checksum": "fd1b0399-44d4-451a-4b24-4f8f41caca88"
+      },
+      {
+        "id": 167090,
+        "game": 20387,
+        "height": 224,
+        "image_id": "kudygknkd8xian5jqp3z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kudygknkd8xian5jqp3z.jpg",
+        "width": 384,
+        "checksum": "74282077-526b-6cdf-fc10-89b544fcfb66"
+      },
+      {
+        "id": 167091,
+        "game": 20387,
+        "height": 224,
+        "image_id": "rghf0wdwhne5weueushm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rghf0wdwhne5weueushm.jpg",
+        "width": 384,
+        "checksum": "36128358-253b-4960-1a4b-cfed72bb7402"
+      }
+    ],
+    "slug": "nesters-funky-bowling",
+    "summary": "Nester, the one-time bad boy of comic fame, brings you the funkiest game of bowling you'll ever experience in 3-D. Finally fans can throw a strike without putting on ill-fitting shoes!\n\nHester, the unknown twin sister, makes her debut appearance. Watch out as the action picks up and the tensions build for these hot-headed bowlers. Their egos clash with outlandish gestures and funky expressions.",
+    "url": "https://www.igdb.com/games/nesters-funky-bowling",
+    "videos": [
+      {
+        "id": 19052,
+        "game": 20387,
+        "name": "Gameplay video",
+        "video_id": "x6wTCXEVZAI",
+        "checksum": "92ef2ba2-ef8c-ea37-bea8-258fe6c8aeb3"
+      }
+    ]
+  },
+  {
+    "id": 20388,
+    "alternative_names": [
+      {
+        "id": 70615,
+        "name": "Tobidase! Panibon"
+      },
+      {
+        "id": 70616,
+        "name": "とびだせ！ぱにボン"
+      }
+    ],
+    "cover": {
+      "id": 164209,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20388,
+      "height": 638,
+      "image_id": "co3ipd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ipd.jpg",
+      "width": 502,
+      "checksum": "84be7dc4-b1c8-bbbd-6ec4-96fe25478b13"
+    },
+    "first_release_date": 806284800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37551,
+        "company": {
+          "id": 864,
+          "name": "Hudson Soft"
+        },
+        "created_at": 1468540800,
+        "developer": true,
+        "game": 20388,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "a6972f79-af24-e113-d699-fb27b0d8a82b"
+      },
+      {
+        "id": 37552,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1468540800,
+        "developer": false,
+        "game": 20388,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468540800,
+        "checksum": "22d5b9ab-3eff-65a9-28f2-1ce262ed37e2"
+      }
+    ],
+    "name": "Panic Bomber",
+    "screenshots": [
+      {
+        "id": 168211,
+        "game": 20388,
+        "height": 224,
+        "image_id": "gl9dy545givmmfjz4w6v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gl9dy545givmmfjz4w6v.jpg",
+        "width": 384,
+        "checksum": "116d21bd-7f4c-c843-2e37-c32c75c7f297"
+      },
+      {
+        "id": 168212,
+        "game": 20388,
+        "height": 224,
+        "image_id": "wxct7llrbjezeg1u45rx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wxct7llrbjezeg1u45rx.jpg",
+        "width": 384,
+        "checksum": "1f1bf6f2-eefe-a1b9-926d-79bf1f99596b"
+      },
+      {
+        "id": 168213,
+        "game": 20388,
+        "height": 224,
+        "image_id": "ybdqizwweqhn13m9bwoy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ybdqizwweqhn13m9bwoy.jpg",
+        "width": 384,
+        "checksum": "ff6ab68b-6113-4bdc-211b-e05d390762a2"
+      },
+      {
+        "id": 168214,
+        "game": 20388,
+        "height": 224,
+        "image_id": "xvkkw2muz74jtwklujjs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xvkkw2muz74jtwklujjs.jpg",
+        "width": 384,
+        "checksum": "277a5889-d1fa-2a08-48ae-bac87168200f"
+      },
+      {
+        "id": 168215,
+        "game": 20388,
+        "height": 224,
+        "image_id": "anbsdvxzcacrtegbcmnu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/anbsdvxzcacrtegbcmnu.jpg",
+        "width": 384,
+        "checksum": "710b5612-8b82-3462-8eef-0169455d1db1"
+      },
+      {
+        "id": 168216,
+        "game": 20388,
+        "height": 224,
+        "image_id": "na8eop5althiclptrasd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/na8eop5althiclptrasd.jpg",
+        "width": 384,
+        "checksum": "519e8c60-d3cb-49a9-c610-eed2a873fa1f"
+      },
+      {
+        "id": 168217,
+        "game": 20388,
+        "height": 224,
+        "image_id": "yj0nn7zugydrz5ooaca7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yj0nn7zugydrz5ooaca7.jpg",
+        "width": 384,
+        "checksum": "9643e055-bdc6-93e2-5b37-f75c96032e2a"
+      }
+    ],
+    "slug": "panic-bomber",
+    "summary": "Panic Bomber is a dropping-piece puzzle game in the Bomberman series.",
+    "url": "https://www.igdb.com/games/panic-bomber"
+  },
+  {
+    "id": 20790,
+    "alternative_names": [
+      {
+        "id": 6982,
+        "name": "Red Alarm: Virtual 3D Shooting Game"
+      }
+    ],
+    "cover": {
+      "id": 62167,
+      "game": 20790,
+      "height": 310,
+      "image_id": "yuv3aknedyc9ldp4g7bo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/yuv3aknedyc9ldp4g7bo.jpg",
+      "width": 310,
+      "checksum": "1bc6f47b-b10c-5dee-efd3-bdf926c03421"
+    },
+    "first_release_date": 806284800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37691,
+        "company": {
+          "id": 1851,
+          "name": "T&E Soft"
+        },
+        "created_at": 1468972800,
+        "developer": true,
+        "game": 20790,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "4d070501-16fc-74c0-0dcd-e289ecfe105a"
+      },
+      {
+        "id": 37692,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1468972800,
+        "developer": false,
+        "game": 20790,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "1ec2358f-4a3c-79a1-1028-5abe19a6fca8"
+      },
+      {
+        "id": 37693,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1468972800,
+        "developer": false,
+        "game": 20790,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "59af1ae9-9365-f560-1e89-c3eda224ce0b"
+      }
+    ],
+    "name": "Red Alarm",
+    "screenshots": [
+      {
+        "id": 170788,
+        "game": 20790,
+        "height": 333,
+        "image_id": "u1993rascwklfvsbztcu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/u1993rascwklfvsbztcu.jpg",
+        "width": 500,
+        "checksum": "83106732-ac42-3a2f-dca3-ce7c8cb92de3"
+      },
+      {
+        "id": 170789,
+        "game": 20790,
+        "height": 200,
+        "image_id": "i7enfaqa1wh91pz96kwh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/i7enfaqa1wh91pz96kwh.jpg",
+        "width": 342,
+        "checksum": "8b47dda1-fa15-7d68-9d7a-c42831937eb7"
+      },
+      {
+        "id": 170790,
+        "game": 20790,
+        "height": 220,
+        "image_id": "lm4dgihyohhwl5q6mapd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lm4dgihyohhwl5q6mapd.jpg",
+        "width": 300,
+        "checksum": "e046fbb7-22fa-46f9-a6c3-773720448e58"
+      },
+      {
+        "id": 170791,
+        "game": 20790,
+        "height": 224,
+        "image_id": "yj8ae1dukfziy1wj3nga",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yj8ae1dukfziy1wj3nga.jpg",
+        "width": 384,
+        "checksum": "cd88ecf4-09b5-d2ea-9592-f9e79a8055c2"
+      },
+      {
+        "id": 170792,
+        "game": 20790,
+        "height": 224,
+        "image_id": "j4arodgrwr5wucdyyx0i",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j4arodgrwr5wucdyyx0i.jpg",
+        "width": 384,
+        "checksum": "0cd7f2b4-d810-6dd3-0796-c7c7b5af6e4f"
+      }
+    ],
+    "slug": "red-alarm",
+    "summary": "Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.\n\nEmploying an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!",
+    "url": "https://www.igdb.com/games/red-alarm"
+  },
+  {
+    "id": 20791,
+    "alternative_names": [
+      {
+        "id": 6983,
+        "name": "SDガンダム Dimension War"
+      }
+    ],
+    "cover": {
+      "id": 16288,
+      "game": 20791,
+      "height": 631,
+      "image_id": "phux2pmmcx8iocfw9lvu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/phux2pmmcx8iocfw9lvu.jpg",
+      "width": 640,
+      "checksum": "a8274a81-4f41-44fb-a76a-47f6e061678f"
+    },
+    "first_release_date": 819590400,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37694,
+        "company": {
+          "id": 10387,
+          "name": "Locomotive"
+        },
+        "created_at": 1468972800,
+        "developer": true,
+        "game": 20791,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "8cbee6d0-3bec-d41e-d523-d93e18aa0a7b"
+      },
+      {
+        "id": 37695,
+        "company": {
+          "id": 617,
+          "name": "Bandai"
+        },
+        "created_at": 1468972800,
+        "developer": false,
+        "game": 20791,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "1a437ab8-8924-785c-62b1-c436c101fd7a"
+      }
+    ],
+    "name": "SD Gundam: Dimension War",
+    "screenshots": [
+      {
+        "id": 171849,
+        "game": 20791,
+        "height": 224,
+        "image_id": "biwnuemikavdjuylaqlu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/biwnuemikavdjuylaqlu.jpg",
+        "width": 384,
+        "checksum": "decd4a51-ce7f-3d5c-dce5-4892701d81a6"
+      },
+      {
+        "id": 171850,
+        "game": 20791,
+        "height": 224,
+        "image_id": "srfn6pew346wjhnkevhu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/srfn6pew346wjhnkevhu.jpg",
+        "width": 384,
+        "checksum": "6196190f-e270-958e-80ff-222ee0ce08e5"
+      },
+      {
+        "id": 171851,
+        "game": 20791,
+        "height": 224,
+        "image_id": "bcj2mz2bg0jnlgdt5kip",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bcj2mz2bg0jnlgdt5kip.jpg",
+        "width": 384,
+        "checksum": "bba0b360-ba0b-c2e4-4d4c-985793055a11"
+      },
+      {
+        "id": 171852,
+        "game": 20791,
+        "height": 224,
+        "image_id": "grpkq11f8jqd46olq91p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/grpkq11f8jqd46olq91p.jpg",
+        "width": 384,
+        "checksum": "0a9b1380-3909-47f1-4d1f-fdc320a06c27"
+      },
+      {
+        "id": 171853,
+        "game": 20791,
+        "height": 224,
+        "image_id": "f3hen9urjv2gbca9bxhm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/f3hen9urjv2gbca9bxhm.jpg",
+        "width": 384,
+        "checksum": "093c03ac-c16b-a786-86f9-3e2f4ffceb9a"
+      },
+      {
+        "id": 171854,
+        "game": 20791,
+        "height": 224,
+        "image_id": "wfalaco3sgebxm8djk4y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wfalaco3sgebxm8djk4y.jpg",
+        "width": 384,
+        "checksum": "2f5c3c57-906c-a7e9-6dae-ba2ec6aed13e"
+      },
+      {
+        "id": 171855,
+        "game": 20791,
+        "height": 224,
+        "image_id": "uxgvegnh373qnnanlibz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxgvegnh373qnnanlibz.jpg",
+        "width": 384,
+        "checksum": "58de9781-292f-8582-cc96-3bd38f1171f0"
+      }
+    ],
+    "slug": "sd-gundam-dimension-war",
+    "summary": "SD Gundam Dimension War is a Strategy game, developed by Locomotive Corporation and published by Bandai, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/sd-gundam-dimension-war"
+  },
+  {
+    "id": 20792,
+    "cover": {
+      "id": 16287,
+      "game": 20792,
+      "height": 647,
+      "image_id": "rbywxpzuie6zqzunyueh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/rbywxpzuie6zqzunyueh.jpg",
+      "width": 640,
+      "checksum": "4bd9f625-facd-bec3-48cf-e33f92626cb0"
+    },
+    "first_release_date": 817776000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37696,
+        "company": {
+          "id": 1440,
+          "name": "Taito Corporation"
+        },
+        "created_at": 1468972800,
+        "developer": true,
+        "game": 20792,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "eb7fa1d8-ee16-f6e9-e684-542463b8e4c1"
+      }
+    ],
+    "name": "Space Invaders: Virtual Collection",
+    "screenshots": [
+      {
+        "id": 173388,
+        "game": 20792,
+        "height": 224,
+        "image_id": "ljbyog2tsh2gsaqwjgxz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ljbyog2tsh2gsaqwjgxz.jpg",
+        "width": 384,
+        "checksum": "22dffac2-c0a3-3b90-841a-5df4570d13a0"
+      },
+      {
+        "id": 173389,
+        "game": 20792,
+        "height": 224,
+        "image_id": "fsr02q94vnbykdqseduq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fsr02q94vnbykdqseduq.jpg",
+        "width": 384,
+        "checksum": "9cf6ab9a-24a7-0803-de51-7537bd2460d7"
+      },
+      {
+        "id": 173390,
+        "game": 20792,
+        "height": 224,
+        "image_id": "qsoesjjm0uu1mp9iicsk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qsoesjjm0uu1mp9iicsk.jpg",
+        "width": 384,
+        "checksum": "f46b360d-8129-b31f-5ddb-cc4c78f49199"
+      },
+      {
+        "id": 173391,
+        "game": 20792,
+        "height": 224,
+        "image_id": "nz47j9f8r6on0gclsiuq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nz47j9f8r6on0gclsiuq.jpg",
+        "width": 384,
+        "checksum": "4b5fa830-c2d1-9a5e-ab7b-bcf9295926ea"
+      },
+      {
+        "id": 173392,
+        "game": 20792,
+        "height": 224,
+        "image_id": "klfx7xiakx3b7eg5le5o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/klfx7xiakx3b7eg5le5o.jpg",
+        "width": 384,
+        "checksum": "02186e65-d896-4d44-88fa-c8ab9344dccc"
+      },
+      {
+        "id": 173393,
+        "game": 20792,
+        "height": 224,
+        "image_id": "su3c9pvvfloxtosfds8h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/su3c9pvvfloxtosfds8h.jpg",
+        "width": 384,
+        "checksum": "e4729604-4920-3ad8-cc45-7ee0606511a3"
+      },
+      {
+        "id": 173394,
+        "game": 20792,
+        "height": 224,
+        "image_id": "cdchybuvncxnspchjhrr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cdchybuvncxnspchjhrr.jpg",
+        "width": 384,
+        "checksum": "d5554ccb-b079-ae1a-68f0-9ca50f7e469f"
+      },
+      {
+        "id": 173395,
+        "game": 20792,
+        "height": 224,
+        "image_id": "y2onu5bzyhpkrm0fdcgy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/y2onu5bzyhpkrm0fdcgy.jpg",
+        "width": 384,
+        "checksum": "f41f8bad-3b8e-e34c-5da5-603cb26845ac"
+      },
+      {
+        "id": 173396,
+        "game": 20792,
+        "height": 224,
+        "image_id": "lgnhjdtypksfptelqdre",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lgnhjdtypksfptelqdre.jpg",
+        "width": 384,
+        "checksum": "957d1028-f792-bc30-8a41-bc80463f4295"
+      }
+    ],
+    "slug": "space-invaders-virtual-collection",
+    "summary": "Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!",
+    "url": "https://www.igdb.com/games/space-invaders-virtual-collection"
+  },
+  {
+    "id": 20793,
+    "cover": {
+      "id": 16286,
+      "game": 20793,
+      "height": 686,
+      "image_id": "tqrrxujcv1bwfmips0di",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/tqrrxujcv1bwfmips0di.jpg",
+      "width": 930,
+      "checksum": "d1630f2e-053c-1e76-4b5a-2bb5c65db743"
+    },
+    "first_release_date": 812332800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37697,
+        "company": {
+          "id": 1877,
+          "name": "Tomcat System"
+        },
+        "created_at": 1468972800,
+        "developer": true,
+        "game": 20793,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "5deca332-976b-1bfc-21bc-7d9080970a81"
+      },
+      {
+        "id": 37698,
+        "company": {
+          "id": 2386,
+          "name": "Coconuts Japan"
+        },
+        "created_at": 1468972800,
+        "developer": false,
+        "game": 20793,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1468972800,
+        "checksum": "a0b5c87d-2eb3-38b7-4020-ea06e653e71d"
+      }
+    ],
+    "name": "Space Squash",
+    "screenshots": [
+      {
+        "id": 173406,
+        "game": 20793,
+        "height": 224,
+        "image_id": "hjfc5v28crtrwwikvsej",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hjfc5v28crtrwwikvsej.jpg",
+        "width": 384,
+        "checksum": "78f6940b-34a3-8541-cf0a-f138b323d120"
+      },
+      {
+        "id": 173407,
+        "game": 20793,
+        "height": 224,
+        "image_id": "xqkmyqlxrdojaxb6krsk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqkmyqlxrdojaxb6krsk.jpg",
+        "width": 384,
+        "checksum": "6089819f-e1e3-60da-ff7f-76e0760d880f"
+      },
+      {
+        "id": 173408,
+        "game": 20793,
+        "height": 224,
+        "image_id": "kqgsihstxsxvguvsnyrt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kqgsihstxsxvguvsnyrt.jpg",
+        "width": 384,
+        "checksum": "f8216cb2-90c3-528e-2d51-d07271551562"
+      },
+      {
+        "id": 173409,
+        "game": 20793,
+        "height": 224,
+        "image_id": "verdhghphdexeqdjeyhm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/verdhghphdexeqdjeyhm.jpg",
+        "width": 384,
+        "checksum": "ac40e33e-64eb-9425-1e8d-9c514fc06502"
+      },
+      {
+        "id": 173410,
+        "game": 20793,
+        "height": 224,
+        "image_id": "xj3beaj6rfii9oju9nmg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xj3beaj6rfii9oju9nmg.jpg",
+        "width": 384,
+        "checksum": "b3d8f7dc-9942-4515-dce6-3061b5265ed0"
+      },
+      {
+        "id": 173411,
+        "game": 20793,
+        "height": 224,
+        "image_id": "udmvmlctknq2ihewi3ob",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/udmvmlctknq2ihewi3ob.jpg",
+        "width": 384,
+        "checksum": "4a8daee5-7c19-f227-99d7-e126a3ab0b45"
+      },
+      {
+        "id": 173412,
+        "game": 20793,
+        "height": 224,
+        "image_id": "arlxephnazmpfc9bmtbe",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/arlxephnazmpfc9bmtbe.jpg",
+        "width": 384,
+        "checksum": "56b80f76-d34a-d956-deae-01bac2c2bdab"
+      },
+      {
+        "id": 173413,
+        "game": 20793,
+        "height": 224,
+        "image_id": "kwnawzsywhhjgzyynw0x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kwnawzsywhhjgzyynw0x.jpg",
+        "width": 384,
+        "checksum": "3ab2fa28-997f-e019-7a52-675094c0a13b"
+      },
+      {
+        "id": 173414,
+        "game": 20793,
+        "height": 224,
+        "image_id": "ud9whofmw7myptpkkifr",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ud9whofmw7myptpkkifr.jpg",
+        "width": 384,
+        "checksum": "d556f898-e6b9-071e-c5ef-a1ccfbbaed1b"
+      },
+      {
+        "id": 173415,
+        "game": 20793,
+        "height": 224,
+        "image_id": "yzm7wkfql8omitetz7fj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yzm7wkfql8omitetz7fj.jpg",
+        "width": 384,
+        "checksum": "2944684b-5916-d708-6101-c15398eaabcf"
+      },
+      {
+        "id": 173416,
+        "game": 20793,
+        "height": 224,
+        "image_id": "pcudqhbap5bkrkauhwlt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcudqhbap5bkrkauhwlt.jpg",
+        "width": 384,
+        "checksum": "837783f3-e05f-b060-ec67-bbcab76eabb7"
+      },
+      {
+        "id": 173417,
+        "game": 20793,
+        "height": 224,
+        "image_id": "mmziofvs9aaklmxjnwcx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mmziofvs9aaklmxjnwcx.jpg",
+        "width": 384,
+        "checksum": "b979a99d-4668-be32-16b2-c73a3c48b0fc"
+      }
+    ],
+    "slug": "space-squash",
+    "summary": "Space Squash is a Sports game, developed by Tomcat System and published by Coconuts Japan, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/space-squash",
+    "videos": [
+      {
+        "id": 9017,
+        "game": 20793,
+        "name": "Gameplay video",
+        "video_id": "zYitFYMTKfg",
+        "checksum": "8af0b7ee-fb0c-6f18-30a2-1e1c15c03493"
+      }
+    ]
+  },
+  {
+    "id": 20984,
+    "alternative_names": [
+      {
+        "id": 7010,
+        "name": "テレロボクサー"
+      }
+    ],
+    "cover": {
+      "id": 157647,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20984,
+      "height": 800,
+      "image_id": "co3dn3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3dn3.jpg",
+      "width": 600,
+      "checksum": "83962aa8-84b4-c333-eeef-22c2b502dcb1"
+    },
+    "first_release_date": 806284800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37748,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20984,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "2d85a1b7-90e4-2d57-752a-8543fc7eb2aa"
+      },
+      {
+        "id": 37749,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1469145600,
+        "developer": false,
+        "game": 20984,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "a3fd9529-8bfd-53a4-e481-987d3fcc7b33"
+      }
+    ],
+    "name": "Teleroboxer",
+    "screenshots": [
+      {
+        "id": 175626,
+        "game": 20984,
+        "height": 224,
+        "image_id": "eitqxehwc8hv8sslbudy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eitqxehwc8hv8sslbudy.jpg",
+        "width": 384,
+        "checksum": "10553585-1e16-1b58-cc78-a2342c44e254"
+      },
+      {
+        "id": 175627,
+        "game": 20984,
+        "height": 224,
+        "image_id": "pqlw02gaefenkqyjbwwy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pqlw02gaefenkqyjbwwy.jpg",
+        "width": 384,
+        "checksum": "f9f4fb51-676a-ec83-ff70-225ce0b88d87"
+      },
+      {
+        "id": 175628,
+        "game": 20984,
+        "height": 224,
+        "image_id": "nueorbosmfsbmx1xi8i3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nueorbosmfsbmx1xi8i3.jpg",
+        "width": 384,
+        "checksum": "44d02f87-50db-cb7d-16e8-542cb3639dc7"
+      },
+      {
+        "id": 175629,
+        "game": 20984,
+        "height": 224,
+        "image_id": "ymiow8jybvyf4hnysukv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ymiow8jybvyf4hnysukv.jpg",
+        "width": 384,
+        "checksum": "5433aad2-7911-4dd8-87b3-c1283f5bd1f6"
+      },
+      {
+        "id": 175630,
+        "game": 20984,
+        "height": 224,
+        "image_id": "ihahfuhvnm7cvdy5dnpz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ihahfuhvnm7cvdy5dnpz.jpg",
+        "width": 384,
+        "checksum": "a41f0493-e4a7-76d8-6f83-9560f6070d89"
+      }
+    ],
+    "slug": "teleroboxer",
+    "summary": "In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.\n\nSlug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.",
+    "url": "https://www.igdb.com/games/teleroboxer"
+  },
+  {
+    "id": 20985,
+    "cover": {
+      "id": 23376,
+      "game": 20985,
+      "height": 804,
+      "image_id": "enbpdtegeurwc5qdejgx",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/enbpdtegeurwc5qdejgx.jpg",
+      "width": 800,
+      "checksum": "5f876e14-b977-57ce-2435-c30908e8381f"
+    },
+    "first_release_date": 809308800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37750,
+        "company": {
+          "id": 10387,
+          "name": "Locomotive"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20985,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "6b9e514f-46c5-925c-1d26-1040b61d90a9"
+      },
+      {
+        "id": 37751,
+        "company": {
+          "id": 341,
+          "name": "Bullet-Proof Software"
+        },
+        "created_at": 1469145600,
+        "developer": false,
+        "game": 20985,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "1db97859-b977-915c-4bf0-dff3d7ddefec"
+      }
+    ],
+    "name": "V-Tetris",
+    "screenshots": [
+      {
+        "id": 177671,
+        "game": 20985,
+        "height": 224,
+        "image_id": "ehrrr4wuojrteegzjxmv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ehrrr4wuojrteegzjxmv.jpg",
+        "width": 384,
+        "checksum": "a8287a76-04fb-3f79-1efb-0bbc334ce871"
+      },
+      {
+        "id": 177672,
+        "game": 20985,
+        "height": 224,
+        "image_id": "tigdnkvmhjncdjmqkwf0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tigdnkvmhjncdjmqkwf0.jpg",
+        "width": 384,
+        "checksum": "fbfe74ea-3feb-bef9-4a4c-2a5b2f860b74"
+      },
+      {
+        "id": 177673,
+        "game": 20985,
+        "height": 224,
+        "image_id": "dv9wsipvjctfggsxu7pi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dv9wsipvjctfggsxu7pi.jpg",
+        "width": 384,
+        "checksum": "c6c0d4df-f9b1-32cb-b47a-7d45589e8ace"
+      },
+      {
+        "id": 177674,
+        "game": 20985,
+        "height": 224,
+        "image_id": "fhncuxmiqkm4gig3umyp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhncuxmiqkm4gig3umyp.jpg",
+        "width": 384,
+        "checksum": "4bb25fb7-0913-5f3a-e60f-d40e50ffc7aa"
+      },
+      {
+        "id": 177675,
+        "game": 20985,
+        "height": 224,
+        "image_id": "jiy6xl3qnmva3wih19bd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jiy6xl3qnmva3wih19bd.jpg",
+        "width": 384,
+        "checksum": "846e3f2e-596d-d7f9-6ea8-fcf98f61e981"
+      },
+      {
+        "id": 177676,
+        "game": 20985,
+        "height": 224,
+        "image_id": "kiv9ondfbvsw8nppapno",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kiv9ondfbvsw8nppapno.jpg",
+        "width": 384,
+        "checksum": "a6469764-90fa-b85c-f0e0-bc3b66896daa"
+      }
+    ],
+    "slug": "v-tetris",
+    "summary": "V-Tetris is a Miscellaneous game, developed by Locomotive Corporation and published by Bullet Proof Software, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/v-tetris"
+  },
+  {
+    "id": 20986,
+    "alternative_names": [
+      {
+        "id": 62378,
+        "name": "バーティカルフォース"
+      },
+      {
+        "id": 62379,
+        "name": "Vertical Force"
+      }
+    ],
+    "cover": {
+      "id": 23553,
+      "game": 20986,
+      "height": 637,
+      "image_id": "nilxm0mttjbovic9befq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/nilxm0mttjbovic9befq.jpg",
+      "width": 640,
+      "checksum": "687626da-d1a5-53a1-777d-41507d8f1dec"
+    },
+    "first_release_date": 808185600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37752,
+        "company": {
+          "id": 864,
+          "name": "Hudson Soft"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20986,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "88a3f9dd-8b14-5079-fa59-e25bee97c932"
+      },
+      {
+        "id": 37753,
+        "company": {
+          "id": 2850,
+          "name": "Nintendo of America"
+        },
+        "created_at": 1469145600,
+        "developer": false,
+        "game": 20986,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "5c5f883a-6cf1-3fda-16e0-fef4871025d5"
+      }
+    ],
+    "name": "Vertical Force",
+    "screenshots": [
+      {
+        "id": 177767,
+        "game": 20986,
+        "height": 224,
+        "image_id": "q4pcgvyyye5vjamvsmch",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4pcgvyyye5vjamvsmch.jpg",
+        "width": 384,
+        "checksum": "fe0b8519-337c-b2d4-c6fb-0e1b083ad7cf"
+      },
+      {
+        "id": 177768,
+        "game": 20986,
+        "height": 224,
+        "image_id": "gcb5awufyjtqqiwgonh9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gcb5awufyjtqqiwgonh9.jpg",
+        "width": 384,
+        "checksum": "1e172d5a-f8b4-c4d5-1ea4-84e48ff0bc05"
+      },
+      {
+        "id": 177769,
+        "game": 20986,
+        "height": 224,
+        "image_id": "znrvfyvnemsqj1seafyj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/znrvfyvnemsqj1seafyj.jpg",
+        "width": 384,
+        "checksum": "2f4843cb-4d6d-7bb3-ba6b-e2f78f9373bb"
+      },
+      {
+        "id": 177770,
+        "game": 20986,
+        "height": 224,
+        "image_id": "bfni9aexwchcxfaqehvl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bfni9aexwchcxfaqehvl.jpg",
+        "width": 384,
+        "checksum": "abe7fda7-9bb4-c7c9-bd35-4f5ce5df0930"
+      },
+      {
+        "id": 177771,
+        "game": 20986,
+        "height": 224,
+        "image_id": "uusf4srjyzp8pzwneeod",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uusf4srjyzp8pzwneeod.jpg",
+        "width": 384,
+        "checksum": "f0350c32-227d-aa39-0355-45909c5a94e5"
+      },
+      {
+        "id": 177772,
+        "game": 20986,
+        "height": 224,
+        "image_id": "qmfgcwudvtuogpbfaink",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qmfgcwudvtuogpbfaink.jpg",
+        "width": 384,
+        "checksum": "0dd19b3b-4129-a67a-3f3f-e160e5686ffc"
+      },
+      {
+        "id": 177773,
+        "game": 20986,
+        "height": 224,
+        "image_id": "t7chtq4nghvl3rldgfnz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7chtq4nghvl3rldgfnz.jpg",
+        "width": 384,
+        "checksum": "8fe8bfd7-4e8a-28aa-b9eb-1cb0753093d1"
+      }
+    ],
+    "slug": "vertical-force",
+    "summary": "Pilot a Futuristic Star Fighter in a Battle for Mankind!\n\nGALACTIC YEAR 210. The earth and its colonies face annihilation in a futuristic war against the human race. YOU have been chosen to pilot RAGNAROK, a star fighter from an advanced alien civilization.\n\nReinforced by fearless AI CHARACTERS, you must locate and destroy menacing fighters and enemy droids. With sheer VERTICAL FORCE blast your way into another dimension to the final Virtual frontier. This mission for mankind is brutal. Be prepared, for it has only just begun!",
+    "url": "https://www.igdb.com/games/vertical-force"
+  },
+  {
+    "id": 20988,
+    "cover": {
+      "id": 22856,
+      "game": 20988,
+      "height": 473,
+      "image_id": "kmrlkli7fcamscbauv4g",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/kmrlkli7fcamscbauv4g.jpg",
+      "width": 490,
+      "checksum": "68b21ee2-24fc-a70b-d670-d1a629819bee"
+    },
+    "first_release_date": 819590400,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37755,
+        "company": {
+          "id": 1752,
+          "name": "Athena"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20988,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "22966179-5634-0065-b9e7-821a1cad8e91"
+      }
+    ],
+    "name": "Virtual Bowling",
+    "screenshots": [
+      {
+        "id": 177882,
+        "game": 20988,
+        "height": 224,
+        "image_id": "e0clng61rfgobpcaeouc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/e0clng61rfgobpcaeouc.jpg",
+        "width": 384,
+        "checksum": "b473b184-b849-a236-07d1-611695e3c5b5"
+      },
+      {
+        "id": 177883,
+        "game": 20988,
+        "height": 224,
+        "image_id": "db3lqrdsatqy6bxj48je",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/db3lqrdsatqy6bxj48je.jpg",
+        "width": 384,
+        "checksum": "f7a7a223-b588-ad77-57a5-df0727fc5dbf"
+      },
+      {
+        "id": 177884,
+        "game": 20988,
+        "height": 224,
+        "image_id": "vh8j3rdi5wnza2znjvph",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vh8j3rdi5wnza2znjvph.jpg",
+        "width": 384,
+        "checksum": "b7e7f182-3656-0798-b058-86cb617a6379"
+      },
+      {
+        "id": 177885,
+        "game": 20988,
+        "height": 224,
+        "image_id": "eny2gbp5naqjirriztf1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/eny2gbp5naqjirriztf1.jpg",
+        "width": 384,
+        "checksum": "bbd5b23d-16dd-8416-762a-a3b6ecbb8204"
+      },
+      {
+        "id": 177886,
+        "game": 20988,
+        "height": 224,
+        "image_id": "p3thngyd75kj9lbjgno6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/p3thngyd75kj9lbjgno6.jpg",
+        "width": 384,
+        "checksum": "d44110ec-23f0-2a9b-257a-71e5217b7131"
+      },
+      {
+        "id": 177887,
+        "game": 20988,
+        "height": 224,
+        "image_id": "mpu8d4s7ggfppgdvmgk7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mpu8d4s7ggfppgdvmgk7.jpg",
+        "width": 384,
+        "checksum": "3b33c857-12a9-29f7-87e7-2c1734fae65a"
+      },
+      {
+        "id": 177888,
+        "game": 20988,
+        "height": 224,
+        "image_id": "vzzsiyfegcvubjtep7hc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzzsiyfegcvubjtep7hc.jpg",
+        "width": 384,
+        "checksum": "601aa705-e554-d1c1-0d6b-100d46f09fe7"
+      },
+      {
+        "id": 177889,
+        "game": 20988,
+        "height": 224,
+        "image_id": "dzqrw4plehyt6uqu1mnu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dzqrw4plehyt6uqu1mnu.jpg",
+        "width": 384,
+        "checksum": "933fc7ba-74d9-9e8f-ce84-ff914d0dfcca"
+      },
+      {
+        "id": 177890,
+        "game": 20988,
+        "height": 224,
+        "image_id": "lqv1mod1hwy3dpvcnyqt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lqv1mod1hwy3dpvcnyqt.jpg",
+        "width": 384,
+        "checksum": "17c169df-27be-9670-04a5-a224f837437e"
+      },
+      {
+        "id": 177891,
+        "game": 20988,
+        "height": 224,
+        "image_id": "gc7uhb9loumackyietic",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/gc7uhb9loumackyietic.jpg",
+        "width": 384,
+        "checksum": "7a6ee509-6202-c16f-743a-dce1e25b0b8e"
+      }
+    ],
+    "slug": "virtual-bowling",
+    "summary": "Virtual Bowling is a Sports game, developed and published by Athena, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/virtual-bowling"
+  },
+  {
+    "id": 1696,
+    "alternative_names": [
+      {
+        "id": 41065,
+        "name": "Wario Land"
+      },
+      {
+        "id": 62348,
+        "name": "バーチャルボーイワリオランド アワゾンの秘宝"
+      },
+      {
+        "id": 62349,
+        "name": "Virtual Boy Wario Land: Secret Treasure of the Awazon"
+      },
+      {
+        "id": 62350,
+        "name": "Virtual Boy Wario Land: Awazon no Hihou"
+      }
+    ],
+    "cover": {
+      "id": 89013,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1696,
+      "height": 1200,
+      "image_id": "co1wol",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wol.jpg",
+      "width": 900,
+      "checksum": "c5e8ae23-87a7-02e7-0beb-ef73743b479a"
+    },
+    "first_release_date": 817430400,
+    "franchise": {
+      "id": 24,
+      "name": "Mario Bros."
+    },
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35906,
+        "company": {
+          "id": 1809,
+          "name": "Nintendo R&D1"
+        },
+        "created_at": 1465257600,
+        "developer": true,
+        "game": 1696,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1465257600,
+        "checksum": "9e48e547-c024-ad8d-149b-d01c8691716e"
+      },
+      {
+        "id": 35907,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "created_at": 1465257600,
+        "developer": false,
+        "game": 1696,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1465257600,
+        "checksum": "fb059a4f-442f-659d-febc-07f805d6650d"
+      }
+    ],
+    "name": "Virtual Boy Wario Land",
+    "screenshots": [
+      {
+        "id": 177892,
+        "game": 1696,
+        "height": 224,
+        "image_id": "uovlsqaqaz9qlemivt7q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uovlsqaqaz9qlemivt7q.jpg",
+        "width": 384,
+        "checksum": "e52de12e-eee7-49e9-ba7a-cfee18d67b13"
+      },
+      {
+        "id": 177893,
+        "game": 1696,
+        "height": 224,
+        "image_id": "v6hlc1zdaf7fzwhxyky7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/v6hlc1zdaf7fzwhxyky7.jpg",
+        "width": 384,
+        "checksum": "0f1060a5-ee86-deb9-a71a-094a04ecf56c"
+      },
+      {
+        "id": 177894,
+        "game": 1696,
+        "height": 224,
+        "image_id": "m08fy9ondltsjaigfjue",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/m08fy9ondltsjaigfjue.jpg",
+        "width": 384,
+        "checksum": "0679dfea-58be-aeab-f6f8-5dbdad113774"
+      },
+      {
+        "id": 177895,
+        "game": 1696,
+        "height": 224,
+        "image_id": "bgnmv9saieoxpthwdtka",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgnmv9saieoxpthwdtka.jpg",
+        "width": 384,
+        "checksum": "9784b040-fe29-22c5-c7db-d5b98f1320c3"
+      },
+      {
+        "id": 177896,
+        "game": 1696,
+        "height": 224,
+        "image_id": "pnzgradkpc74wrkp0y68",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pnzgradkpc74wrkp0y68.jpg",
+        "width": 384,
+        "checksum": "e3d7ea99-db52-ee70-2205-96b95834792e"
+      },
+      {
+        "id": 177897,
+        "game": 1696,
+        "height": 224,
+        "image_id": "vmz7gaelwuoxqcwchwas",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vmz7gaelwuoxqcwchwas.jpg",
+        "width": 384,
+        "checksum": "2fe6c355-f252-fe5a-c124-72da18aa9dc0"
+      },
+      {
+        "id": 177898,
+        "game": 1696,
+        "height": 224,
+        "image_id": "wlwoly390ryjjlqvca1l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wlwoly390ryjjlqvca1l.jpg",
+        "width": 384,
+        "checksum": "db5fd778-aea4-fbea-45b7-424af65eb830"
+      },
+      {
+        "id": 177899,
+        "game": 1696,
+        "height": 224,
+        "image_id": "ns6znt7kubbmiyqcbexp",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ns6znt7kubbmiyqcbexp.jpg",
+        "width": 384,
+        "checksum": "3007b361-fc91-2a39-6b5b-5ddd4864a5af"
+      },
+      {
+        "id": 177900,
+        "game": 1696,
+        "height": 224,
+        "image_id": "yuualtxihtnfmvos9rnf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/yuualtxihtnfmvos9rnf.jpg",
+        "width": 384,
+        "checksum": "d1ac7fb9-f0a5-45e4-c41b-ff735edbdaf8"
+      },
+      {
+        "id": 177901,
+        "game": 1696,
+        "height": 224,
+        "image_id": "t8xz5f199tvtokyg2ug3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8xz5f199tvtokyg2ug3.jpg",
+        "width": 384,
+        "checksum": "9efb8d1c-eb72-8137-5bc0-586ea19ac2ff"
+      },
+      {
+        "id": 177902,
+        "game": 1696,
+        "height": 224,
+        "image_id": "cgew5vf9bl8x3ifrte6h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cgew5vf9bl8x3ifrte6h.jpg",
+        "width": 384,
+        "checksum": "8a889940-c1ab-5438-c164-055d3092d728"
+      },
+      {
+        "id": 177903,
+        "game": 1696,
+        "height": 224,
+        "image_id": "s6vhyk3dci4ph3dpliwf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s6vhyk3dci4ph3dpliwf.jpg",
+        "width": 384,
+        "checksum": "5fffe2e3-e59b-cfa3-4058-14a9c0be8b4e"
+      }
+    ],
+    "slug": "virtual-boy-wario-land",
+    "storyline": "I, Wario, have an interesting story to tell. One day during my vacation in the Awazon river basin, I landed my trusty seaplane, Bulldog, and decide to relax in the shadow of the beautiful Aldegara Waterfall. While basking in the sun, I spied some strange creatures with masks entering the waterfall. This piqued my interest!\n\nI hurried over and followed them into the waterfall. Behind the falls there was a large cave, and in the back of the cave ... there was a vault filled with a glorious mountain of treasure!!\n\nSome of the masked creatures jumped me, but I quickly overcame them. \"This treasure is all mine now!\", I though to myself and rushed in to collect the loot. Suddenly, the floor collapsed and I fell!\n\nI found myself deep within the Earth! I was quite angry and vowed revenge on these creatures, \"I will get their treasure!!!\"",
+    "summary": "Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!",
+    "total_rating": 60.1301676185406,
+    "total_rating_count": 10,
+    "url": "https://www.igdb.com/games/virtual-boy-wario-land",
+    "videos": [
+      {
+        "id": 42665,
+        "game": 1696,
+        "name": "Gameplay Video",
+        "video_id": "LmCZMkfICAs",
+        "checksum": "d538d882-3b17-7723-8d70-20706cd28d6d"
+      },
+      {
+        "id": 62524,
+        "game": 1696,
+        "name": "TV commercial",
+        "video_id": "gYkpbMTt_Xc",
+        "checksum": "dc3747c4-7732-9d28-b652-e2710b183ba3"
+      }
+    ]
+  },
+  {
+    "id": 50597,
+    "cover": {
+      "id": 50679,
+      "game": 50597,
+      "height": 315,
+      "image_id": "woj7ijwj8iwwcgb8gj5d",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/woj7ijwj8iwwcgb8gj5d.jpg",
+      "width": 319,
+      "checksum": "d3f47374-490a-a5af-f1ae-e7c0be2dfe58"
+    },
+    "first_release_date": 815616000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 61758,
+        "company": {
+          "id": 1766,
+          "name": "Pack-In-Video"
+        },
+        "created_at": 1517616000,
+        "developer": false,
+        "game": 50597,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1517788800,
+        "checksum": "7d1d0431-9ea1-eb42-2e84-132eeed29be3"
+      }
+    ],
+    "name": "Virtual Fishing",
+    "screenshots": [
+      {
+        "id": 177904,
+        "game": 50597,
+        "height": 224,
+        "image_id": "jfpdwubxaz3lwfyr7jh7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jfpdwubxaz3lwfyr7jh7.jpg",
+        "width": 384,
+        "checksum": "8153d9cb-084c-ea2c-5497-11e58181346a"
+      },
+      {
+        "id": 177905,
+        "game": 50597,
+        "height": 224,
+        "image_id": "stzmldxnv1nj4dwqxm5m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/stzmldxnv1nj4dwqxm5m.jpg",
+        "width": 384,
+        "checksum": "f4ade77c-b4a3-1f0d-5846-dc0d3121deea"
+      },
+      {
+        "id": 177906,
+        "game": 50597,
+        "height": 224,
+        "image_id": "fhvapp1oh84zybquxdxc",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fhvapp1oh84zybquxdxc.jpg",
+        "width": 384,
+        "checksum": "37b2a92e-cdee-9bd4-b7fe-e8453ee1f6e4"
+      },
+      {
+        "id": 177907,
+        "game": 50597,
+        "height": 224,
+        "image_id": "dxeoojrjcnf3hfseoaoy",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dxeoojrjcnf3hfseoaoy.jpg",
+        "width": 384,
+        "checksum": "f3bc711a-b450-48fc-18fa-e8962f9ed763"
+      },
+      {
+        "id": 177908,
+        "game": 50597,
+        "height": 224,
+        "image_id": "ugy9xm9wt2xjeewdlenx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ugy9xm9wt2xjeewdlenx.jpg",
+        "width": 384,
+        "checksum": "79734908-7bb3-1ea4-ab69-8c5698a28509"
+      },
+      {
+        "id": 177909,
+        "game": 50597,
+        "height": 224,
+        "image_id": "daxci37ayeb0srx4tckf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/daxci37ayeb0srx4tckf.jpg",
+        "width": 384,
+        "checksum": "b3b47a79-5e19-7654-70ca-6c84f568b377"
+      }
+    ],
+    "slug": "virtual-fishing",
+    "summary": "Virtual Fishing is a Sports game, developed by Locomotive Corporation and published by Pack-In-Video, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/virtual-fishing"
+  },
+  {
+    "id": 20989,
+    "cover": {
+      "id": 233312,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 20989,
+      "height": 2048,
+      "image_id": "co500w",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co500w.jpg",
+      "width": 1535,
+      "checksum": "d51b243b-44da-6d98-4914-a943a684ea8d"
+    },
+    "first_release_date": 818380800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37756,
+        "company": {
+          "id": 10418,
+          "name": "Nacoty"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20989,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "1f59bb2c-5bcb-2642-c0ee-c1406e728180"
+      },
+      {
+        "id": 37757,
+        "company": {
+          "id": 10419,
+          "name": "J-Wing"
+        },
+        "created_at": 1469145600,
+        "developer": false,
+        "game": 20989,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "81cc1b75-9467-2b31-db60-17b6ea17886c"
+      }
+    ],
+    "name": "Virtual Lab",
+    "screenshots": [
+      {
+        "id": 177910,
+        "game": 20989,
+        "height": 224,
+        "image_id": "oxsasdtddap19iitj1ii",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oxsasdtddap19iitj1ii.jpg",
+        "width": 384,
+        "checksum": "d2146124-3b6f-070a-738c-d645249cc56b"
+      },
+      {
+        "id": 177911,
+        "game": 20989,
+        "height": 224,
+        "image_id": "lmkirufiy7iaqdh4rpf9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lmkirufiy7iaqdh4rpf9.jpg",
+        "width": 384,
+        "checksum": "32677489-ccda-acf0-7998-65fdcca7199c"
+      },
+      {
+        "id": 177912,
+        "game": 20989,
+        "height": 224,
+        "image_id": "lliuf151yh8qjdmz78pq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lliuf151yh8qjdmz78pq.jpg",
+        "width": 384,
+        "checksum": "33d4013f-fe34-a984-bc80-bd3303c40124"
+      },
+      {
+        "id": 177913,
+        "game": 20989,
+        "height": 224,
+        "image_id": "wk54udh1kgeknxiwb69p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wk54udh1kgeknxiwb69p.jpg",
+        "width": 384,
+        "checksum": "e9aff59c-f68a-727a-08dd-8a512af60609"
+      }
+    ],
+    "slug": "virtual-lab",
+    "summary": "Virtual Lab is a Miscellaneous game, developed and published by J-Wing, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/virtual-lab"
+  },
+  {
+    "id": 76124,
+    "alternative_names": [
+      {
+        "id": 52056,
+        "name": "バーチャルプロ野球'95"
+      },
+      {
+        "id": 62351,
+        "name": "Virtual Pro Yakyuu '95"
+      }
+    ],
+    "cover": {
+      "id": 62442,
+      "game": 76124,
+      "height": 600,
+      "image_id": "rjcebcqdexxkaqngp5wk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/rjcebcqdexxkaqngp5wk.jpg",
+      "width": 600,
+      "checksum": "85b0be6c-543f-4ef7-a2ae-99b1a7a2a14f"
+    },
+    "first_release_date": 808099200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 112713,
+        "company": {
+          "id": 1281,
+          "name": "Kemco"
+        },
+        "created_at": 1604966400,
+        "developer": true,
+        "game": 76124,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1604966400,
+        "checksum": "c4ff4eec-5b4f-95cf-d9ce-26d6d5d7db89"
+      }
+    ],
+    "name": "Virtual League Baseball",
+    "screenshots": [
+      {
+        "id": 177914,
+        "game": 76124,
+        "height": 224,
+        "image_id": "rtzlgngk05kopdb16k2q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtzlgngk05kopdb16k2q.jpg",
+        "width": 384,
+        "checksum": "2174267c-6e0f-e7c7-c64e-f8133b86a2df"
+      },
+      {
+        "id": 177915,
+        "game": 76124,
+        "height": 224,
+        "image_id": "emljkxr4ghk2voiopdep",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/emljkxr4ghk2voiopdep.jpg",
+        "width": 384,
+        "checksum": "7fa84fdf-df45-2802-d103-7d1a59ed4d4b"
+      },
+      {
+        "id": 177916,
+        "game": 76124,
+        "height": 224,
+        "image_id": "mwqc11pyru8vgp2g15l4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mwqc11pyru8vgp2g15l4.jpg",
+        "width": 384,
+        "checksum": "1fb723f7-f308-ad8b-71f2-b1542bdc0f3b"
+      },
+      {
+        "id": 177917,
+        "game": 76124,
+        "height": 224,
+        "image_id": "ysyzixyxbasnwn48bua8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ysyzixyxbasnwn48bua8.jpg",
+        "width": 384,
+        "checksum": "5408c7b9-38b6-2681-2823-8cd299beadaa"
+      },
+      {
+        "id": 177918,
+        "game": 76124,
+        "height": 224,
+        "image_id": "ujnld03joq43v9j3cu8z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ujnld03joq43v9j3cu8z.jpg",
+        "width": 384,
+        "checksum": "0bbec223-7161-d4ae-d711-2a3a4f816e69"
+      },
+      {
+        "id": 177919,
+        "game": 76124,
+        "height": 224,
+        "image_id": "k4w7wl4qkuf7zk9rmjp6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/k4w7wl4qkuf7zk9rmjp6.jpg",
+        "width": 384,
+        "checksum": "d3f0c146-1536-91d9-c185-91a70e95decf"
+      },
+      {
+        "id": 177920,
+        "game": 76124,
+        "height": 224,
+        "image_id": "cvyulhlz376vsw2ds2n0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cvyulhlz376vsw2ds2n0.jpg",
+        "width": 384,
+        "checksum": "bf051f5d-b655-71a5-1669-2c897c588ceb"
+      },
+      {
+        "id": 177921,
+        "game": 76124,
+        "height": 224,
+        "image_id": "kr3jf8hgtgdivsekwc0f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kr3jf8hgtgdivsekwc0f.jpg",
+        "width": 384,
+        "checksum": "732ab928-0ff1-2e48-69f0-cc671dcf88f8"
+      },
+      {
+        "id": 177922,
+        "game": 76124,
+        "height": 224,
+        "image_id": "vl2fvuqvi0hq9ayj7nx4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vl2fvuqvi0hq9ayj7nx4.jpg",
+        "width": 384,
+        "checksum": "e93509ab-452c-c5fc-c142-4d637b6479cf"
+      },
+      {
+        "id": 177923,
+        "game": 76124,
+        "height": 224,
+        "image_id": "t3opx1pivux82sgro3xq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t3opx1pivux82sgro3xq.jpg",
+        "width": 384,
+        "checksum": "b5fb07c5-dd18-db84-16ed-bac7886c5022"
+      }
+    ],
+    "slug": "virtual-league-baseball",
+    "summary": "Welcome to Virtual League Baseball for Nintendo's Virtual Boy, the 3D baseball game that lets you experience the exciting action of world class International Virtual League Baseball competition!",
+    "url": "https://www.igdb.com/games/virtual-league-baseball",
+    "videos": [
+      {
+        "id": 42690,
+        "game": 76124,
+        "name": "Gameplay Video",
+        "video_id": "Wi6daQsSaeg",
+        "checksum": "31406b3e-acc8-242c-ef70-0cf1b821c3fe"
+      }
+    ]
+  },
+  {
+    "id": 20987,
+    "cover": {
+      "id": 161089,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20987,
+      "height": 800,
+      "image_id": "co3gap",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gap.jpg",
+      "width": 600,
+      "checksum": "1e5fda95-eb11-efd4-b3d8-272aade2a605"
+    },
+    "first_release_date": 819504000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37754,
+        "company": {
+          "id": 1815,
+          "name": "Ocean of America"
+        },
+        "created_at": 1469145600,
+        "developer": true,
+        "game": 20987,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1469145600,
+        "checksum": "1b79ce5b-e794-3e45-d693-3323006045b7"
+      }
+    ],
+    "name": "Waterworld",
+    "screenshots": [
+      {
+        "id": 178165,
+        "game": 20987,
+        "height": 224,
+        "image_id": "vqiyoug6nwefa4geyynj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vqiyoug6nwefa4geyynj.jpg",
+        "width": 384,
+        "checksum": "e11408c0-d927-d6b3-5247-bddec722e61a"
+      },
+      {
+        "id": 178166,
+        "game": 20987,
+        "height": 224,
+        "image_id": "b21vhinupjvwzmmhm16r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b21vhinupjvwzmmhm16r.jpg",
+        "width": 384,
+        "checksum": "0ecae97d-6112-074c-2862-30cb42c0e336"
+      },
+      {
+        "id": 178167,
+        "game": 20987,
+        "height": 224,
+        "image_id": "qhunowgcgsgzv7aniuyi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qhunowgcgsgzv7aniuyi.jpg",
+        "width": 384,
+        "checksum": "f05c63f7-017d-8974-bab0-0c3f744086b2"
+      },
+      {
+        "id": 178168,
+        "game": 20987,
+        "height": 224,
+        "image_id": "j8kslxrvhdrdmsp3ru13",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j8kslxrvhdrdmsp3ru13.jpg",
+        "width": 384,
+        "checksum": "e09e7f2d-f054-9c89-9f47-605a7e86cda8"
+      },
+      {
+        "id": 178169,
+        "game": 20987,
+        "height": 224,
+        "image_id": "itaud43bui0jz3glnjqh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/itaud43bui0jz3glnjqh.jpg",
+        "width": 384,
+        "checksum": "8e86b207-9e24-82a2-63a1-c7a41bd152e2"
+      }
+    ],
+    "slug": "waterworld",
+    "summary": "The sun. For millions of years the source of life. But for one planet the source of it's demise. The temperature climbed, the vast pools of ice at it's poles melted, and the oceans rose. Centuries later, few people remained on this planet, once called Earth. A lone mariner sails the expanse of water, trading to survive. For survival, is all these people do, in this place they know only as Waterworld.",
+    "url": "https://www.igdb.com/games/waterworld"
+  }
+]

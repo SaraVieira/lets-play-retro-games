@@ -12,6 +12,8 @@ import msGames from '../data/games/ms/all.json'
 import ggGames from '../data/games/gg/all.json'
 import pceGames from '../data/games/pce/all.json'
 import psxGames from '../data/games/psx/all.json'
+import sega32Games from '../data/games/sega32/all.json'
+import vbGames from '../data/games/vb/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -77,8 +79,12 @@ async function main() {
   // await createGames(ggGames, 'gg')
   // // @ts-ignore
   // await createGames(pceGames, 'pce')
+  // // @ts-ignore
+  // await createGames(psxGames, 'ps1')
+  // // @ts-ignore
+  // await createGames(sega32Games, 'sega32')
   // @ts-ignore
-  await createGames(psxGames, 'ps1')
+  await createGames(vbGames, 'vb')
 
 }
 

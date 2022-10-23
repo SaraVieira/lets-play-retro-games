@@ -5,7 +5,6 @@ import { consolesMenu } from '../../constants/info'
 const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
 
     const { query } = req.query as unknown as { query: string }
-    console.log(query)
     const games = await prisma.game.findMany({
         select: {
             id: true,

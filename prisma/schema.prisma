@@ -23,6 +23,8 @@ enum CONSOLES {
   ms
   pce
   ps1
+  sega32
+  vb
 }
 
 model Game {

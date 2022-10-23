@@ -97,6 +97,18 @@ export const consolesMenu = [
     linkRandom: '/ps1/random',
     linkAll: '/ps1/all',
   },
+  {
+    name: '32X',
+    id: "sega32",
+    linkRandom: '/sega32/random',
+    linkAll: '/sega32/all',
+  },
+  {
+    name: 'Virtual Boy',
+    id: "vb",
+    linkRandom: '/vb/random',
+    linkAll: '/vb/all',
+  },
 ]
 
 export const menuMain = [
@@ -109,6 +121,7 @@ export const menuMain = [
       consolesMenu[3],
       consolesMenu[4],
       consolesMenu[5],
+      consolesMenu[12],
     ]
   },
   {
@@ -117,6 +130,7 @@ export const menuMain = [
       consolesMenu[6],
       consolesMenu[7],
       consolesMenu[8],
+      consolesMenu[11],
     ]
   }
 ]

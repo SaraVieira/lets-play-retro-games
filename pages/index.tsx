@@ -4,10 +4,10 @@ import { menuMain, otherInMenu } from '../constants/info'
 export default function Home() {
   return (
     <div className="flex items-center justify-center min-h-full flex-col">
-      <h1 className="text-2xl font-bold text-center sm:text-left">
+      <h1 className="text-2xl font-bold text-center">
         Let{"'"}s play some retro games
       </h1>
-      <h2 className=" mb-8 sm:w-[330px]  mt-2 text-center sm:text-left">
+      <h2 className="mb-8 sm:w-[330px]  mt-2 text-center max-w-[90%]">
         Select a console and I will give you a random game to play
       </h2>
 

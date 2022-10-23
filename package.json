@@ -1,5 +1,5 @@
 {
-  "name": "project-template-next.js",
+  "name": "lets-plat-retro-games",
   "private": true,
   "scripts": {
     "dev": "next dev",

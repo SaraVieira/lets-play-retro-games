@@ -3,8 +3,9 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import { consolesMenu } from '../../constants/info'
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
-    const { query } = req.query as unknown as { query: string }
 
+    const { query } = req.query as unknown as { query: string }
+    console.log(query)
     const games = await prisma.game.findMany({
         select: {
             id: true,
@@ -22,13 +23,13 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
         ],
         where: {
             name: {
-                search: query,
+                search: query.split(" ").join(" & "),
             },
         },
     })
     res.status(200).json(games.map(game => ({
         ...game,
-        console_id: game.console,
+        console_id: consolesMenu.find(console => console.id === game.console)?.id,
         console: consolesMenu.find(console => console.id === game.console)?.name
     })))
 }

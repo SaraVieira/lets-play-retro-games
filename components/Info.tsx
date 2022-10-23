@@ -1,10 +1,10 @@
 import {
   ClockIcon,
   DocumentDuplicateIcon,
-  GlobeIcon,
+  GlobeAltIcon,
   TagIcon,
-  TerminalIcon,
-} from '@heroicons/react/outline'
+  CommandLineIcon,
+} from '@heroicons/react/24/outline'
 import 'tippy.js/dist/tippy.css' // optional
 
 import Tippy from '@tippyjs/react'
@@ -36,7 +36,7 @@ export const Info = ({ game }: { game: Game }) => {
           {dev && (
             <li className="flex gap-1 align-center">
               <Tippy content="Developed by">
-                <TerminalIcon width="16" />
+                <CommandLineIcon width="16" />
               </Tippy>
               {dev}
             </li>
@@ -44,7 +44,7 @@ export const Info = ({ game }: { game: Game }) => {
           {publisher && (
             <li className="flex gap-1 align-center">
               <Tippy content="Published by">
-                <GlobeIcon width="16" />
+                <GlobeAltIcon width="16" />
               </Tippy>
               {publisher}
             </li>

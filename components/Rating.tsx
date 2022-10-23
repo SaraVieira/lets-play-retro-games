@@ -1,4 +1,4 @@
-import { StarIcon } from '@heroicons/react/solid'
+import { StarIcon } from '@heroicons/react/24/solid'
 import { useEffect, useState } from 'react'
 import { Game } from '../constants/types'
 

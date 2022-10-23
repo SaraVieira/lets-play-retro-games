@@ -91,6 +91,12 @@ export const consolesMenu = [
     linkRandom: '/pce/random',
     linkAll: '/pce/all',
   },
+  {
+    name: 'Playstation 1',
+    id: "ps1",
+    linkRandom: '/ps1/random',
+    linkAll: '/ps1/all',
+  },
 ]
 
 export const menuMain = [
@@ -117,6 +123,7 @@ export const menuMain = [
 
 export const otherInMenu = [
   consolesMenu[9],
+  consolesMenu[10],
 ]
 
 export const ORDERS = {

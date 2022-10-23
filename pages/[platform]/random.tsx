@@ -3,28 +3,22 @@ import { GetServerSidePropsContext } from 'next'
 import { Game } from '../../constants/types'
 import { prisma } from '../../prisma/prisma'
 import { GamePage } from '../../components/Game'
-import { useState } from 'react'
+import { GameActions } from '../../components/GameActions'
+import { authOptions } from '../api/auth/[...nextauth]'
+import { unstable_getServerSession } from 'next-auth'
 
-export default function SingleGame({ game }: { game: Game }) {
-  const [copied, setCopied] = useState(false)
-
-  const copyToClipboard = () => {
-    const url = `https://letsplayretro.games/${game.console}/${game.slug}`
-    navigator.clipboard.writeText(url).then(() => {
-      setCopied(true)
-      window.setTimeout(() => {
-        setCopied(false)
-      }, 2000)
-    })
-  }
-
+export default function SingleGame({
+  game,
+  userInfo,
+}: {
+  game: Game
+  userInfo: any
+}) {
   return (
     <>
-      <div className="flex mt-4 justify-end mx-6">
-        <button className="tui-button" onClick={copyToClipboard}>
-          {copied ? 'Copied!' : 'Copy game url'}
-        </button>
-      </div>
+      {userInfo && (
+        <GameActions console={game.console} id={game.id} userInfo={userInfo} />
+      )}
       <GamePage game={game} />
     </>
   )
@@ -32,16 +26,35 @@ export default function SingleGame({ game }: { game: Game }) {
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
   const { platform } = context.query as { platform: keyof typeof PLATFORMS }
-
+  const session = await unstable_getServerSession(
+    context.req,
+    context.res,
+    authOptions
+  )
+  let userInfo = null
+  if (session?.user) {
+    userInfo = await prisma.user.findFirst({
+      where: {
+        // @ts-ignore
+        id: session.user.id as number,
+      },
+      select: {
+        finished: true,
+        favorite: true,
+        playing: true,
+        id: true,
+      },
+    })
+  }
   const result: Game[] = await prisma.$queryRaw`
     Select * from "Game"
     WHERE console = ${platform}::"CONSOLES" 
     ORDER BY RANDOM ()
     limit 1;`
-
   return {
     props: {
       game: result[0],
+      userInfo,
     },
   }
 }

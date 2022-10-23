@@ -1,3 +1,5 @@
+import { ISODateString } from "next-auth";
+
 export type Game = {
   id: number
   alternative_names: { id: number; name: string }[]
@@ -58,4 +60,14 @@ export type Game = {
   total_rating_count?: number
   url: string,
   igdb_id: string
+}
+
+export type SessionWithID = {
+  user?: {
+    name?: string | null
+    email?: string | null
+    image?: string | null
+    id?: string | null
+  }
+  expires: ISODateString
 }

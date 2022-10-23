@@ -1,7 +1,6 @@
 import { debounce } from 'lodash'
 import Link from 'next/link'
-import { useCallback, useEffect, useState } from 'react'
-import { consolesMenu } from '../constants/info'
+import { useEffect, useState } from 'react'
 import { Game } from '../constants/types'
 import { Loading } from '../components/Loading'
 
@@ -13,15 +12,17 @@ const fetchData = async (query: string, cb: any) => {
 }
 const debouncedFetchData = debounce(fetchData, 500)
 
+type GameWithConsoleID = Game & { console_id?: string }
+
 const Search = () => {
   const [query, setQuery] = useState('')
-  const [games, setGames] = useState<Game[]>([])
+  const [games, setGames] = useState<GameWithConsoleID[]>([])
   const [loading, setLoading] = useState(false)
 
   useEffect(() => {
     if (query) {
       setLoading(true)
-      debouncedFetchData(query, (res: Game[]) => {
+      debouncedFetchData(query, (res: GameWithConsoleID[]) => {
         setGames(res)
         setLoading(false)
       })
@@ -58,7 +59,7 @@ const Search = () => {
             games.map((game) => (
               <Link
                 key={game.slug + game.id + game.console}
-                href={`/${game.console}/${game.slug}`}
+                href={`/${game.console_id}/${game.slug}`}
                 passHref
               >
                 <tr className="cursor-pointer">

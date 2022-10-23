@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const pceGames = require('../../constants/consoles/pce.json')
+const psxGames = require('../../constants/consoles/psx.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -20,6 +20,7 @@ const PLATFORMS = {
   md: 29,
   gg: 35,
   ms: 64,
+  psx: 7,
 }
 const FIELDS = [
   'name',
@@ -47,7 +48,7 @@ const requestGame = throttle(async (game, platform) => {
     if (!fs.existsSync(fileName)) {
       const client = igdb(
         process.env.TWITCH_ID,
-        'vg9jx9sxjk0msuz90tdpj2ti8sa7f4'
+        '93tvm9wv459kre5lifjfxxjjxy2r0q'
       )
       const response = await client
         .fields(FIELDS)
@@ -69,9 +70,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= pceGames.length; index++) {
+for (let index = 0; index <= psxGames.length; index++) {
   ;(async () => {
-    await requestGame(pceGames[index], 'pce')
+    await requestGame(psxGames[index], 'psx')
   })()
 }
 

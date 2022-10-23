@@ -55,7 +55,7 @@ const All = ({
         <select className="tui-input" onChange={onChangeSort}>
           {Object.keys(ORDERS).map((key) => (
             <option key={key} value={key}>
-     
+              {/* @ts-ignore */}
               {ORDERS[key]}
             </option>
           ))}

@@ -1,5 +1,9 @@
 # Let's play retro games
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56f43d7d-4980-4fe0-88d5-b2856967c7f9/deploy-status)](https://app.netlify.com/sites/dazzling-syrniki-9c7ab4/deploys)
+![build](https://github.com/SaraVieira/lets-play-retro-games/actions/workflows/build.yml/badge.svg)
+![lint](https://github.com/SaraVieira/lets-play-retro-games/actions/workflows/lint.yml/badge.svg)
+
 ![Let's play retro games](./public/meta.png)
 
 Website to hold all the magic that is retro games.

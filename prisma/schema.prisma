@@ -25,6 +25,7 @@ enum CONSOLES {
   ps1
   sega32
   vb
+  sat
 }
 
 model Game {

@@ -109,6 +109,12 @@ export const consolesMenu = [
     linkRandom: '/vb/random',
     linkAll: '/vb/all',
   },
+  {
+    name: 'Sega Saturn',
+    id: "sat",
+    linkRandom: '/sat/random',
+    linkAll: '/sat/all',
+  },
 ]
 
 export const menuMain = [
@@ -131,6 +137,7 @@ export const menuMain = [
       consolesMenu[7],
       consolesMenu[8],
       consolesMenu[11],
+      consolesMenu[13],
     ]
   }
 ]

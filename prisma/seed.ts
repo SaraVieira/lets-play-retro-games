@@ -14,6 +14,7 @@ import pceGames from '../data/games/pce/all.json'
 import psxGames from '../data/games/psx/all.json'
 import sega32Games from '../data/games/sega32/all.json'
 import vbGames from '../data/games/vb/all.json'
+import satGames from '../data/games/sat/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -84,7 +85,7 @@ async function main() {
   // // @ts-ignore
   // await createGames(sega32Games, 'sega32')
   // @ts-ignore
-  await createGames(vbGames, 'vb')
+  await createGames(satGames, 'sat')
 
 }
 

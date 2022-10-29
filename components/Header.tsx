@@ -127,7 +127,7 @@ export const Header = () => {
           )}
         </div>
       </div>
-      <div className="flex gap-4 items-center w-[400px] mt-8 relative right-7 sm:static sm:mt-0 sm:w-auto">
+      <div className="flex gap-4 items-center w-[400px] mt-8 relative right-7 sm:static sm:mt-0 sm:w-auto justify-end">
         <UserMenu />
         <span
           className="tui-datetime hidden sm:block"

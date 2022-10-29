@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps: { session, ...pageProps } }: any) {
       <div className="min-h-screen tui-bg-cyan-white">
         <Header />
         <div className="flex min-h-screen justify-center">
-          <main className="max-w-5xl     mt-12" id="container">
+          <main className="sm:max-w-5xl max-w-[90%] mt-12" id="container">
             <Component {...pageProps} />
           </main>
         </div>

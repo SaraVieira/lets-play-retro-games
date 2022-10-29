@@ -11,7 +11,7 @@ export const Header = () => {
     <nav className="tui-nav !flex justify-between ">
       <div>
         <Link href="/">
-          <a>
+          <a className="absolute sm:relative">
             <Logo />
           </a>
         </Link>
@@ -127,7 +127,7 @@ export const Header = () => {
           )}
         </div>
       </div>
-      <div className="flex gap-4 items-center">
+      <div className="flex gap-4 items-center w-[400px] mt-8 relative right-7 sm:static sm:mt-0 sm:w-auto">
         <UserMenu />
         <span
           className="tui-datetime hidden sm:block"

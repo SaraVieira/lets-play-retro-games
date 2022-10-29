@@ -3,7 +3,7 @@ import { menuMain, otherInMenu } from '../constants/info'
 
 export default function Home() {
   return (
-    <div className="flex items-center justify-center min-h-full flex-col">
+    <div className="flex items-center justify-center min-h-full flex-col mt-5 sm:mt-0">
       <h1 className="text-2xl font-bold text-center">
         Let{"'"}s play some retro games
       </h1>

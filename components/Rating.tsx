@@ -1,6 +1,7 @@
 import { StarIcon } from '@heroicons/react/24/solid'
+import { useSession } from 'next-auth/react'
 import { useEffect, useState } from 'react'
-import { Game } from '../constants/types'
+import { Game, SessionWithID } from '../constants/types'
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
@@ -11,6 +12,8 @@ const useFreshRating = ({ console, id }: { console: string; id: string }) => {
     totalRating?: number
     ratingCount?: number
   }>({})
+  const { data: usesessionn } = useSession()
+  let session = usesessionn as SessionWithID
   const getData = async () => {
     const { total_rating_count, total_rating } = await fetch(
       `/api/${console}/${id}/rating`
@@ -71,7 +74,7 @@ export const Rating = ({ url, console: platform, igdb_id }: Game) => {
               href={url}
               className="text-sm font-medium text-indigo-600 hover:text-indigo-500"
             >
-              {ratingText}
+              <span className="hidden sm:block"> {ratingText}</span>
             </a>
           </div>
         ) : null}

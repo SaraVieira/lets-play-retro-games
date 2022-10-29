@@ -5,7 +5,7 @@ export const Logo = () => (
     x="0"
     y="0"
     viewBox="0 0 100 100"
-    className="absolute z-10 ml-4 tui-shadow tui-bg-cyan-white"
+    className="tui-shadow tui-bg-cyan-white"
   >
     <g data-name="Console, gadget, game, game boy, retro">
       <path d="M92.83 46.44L47 46.26V35a1.29 1.29 0 011.29-1.29h10.18A4.53 4.53 0 0063 29.17v-17a1.5 1.5 0 00-3 0v17a1.54 1.54 0 01-1.53 1.53H48.29A4.29 4.29 0 0044 35v11.24l-36.82-.15a1.5 1.5 0 00-1.06.44 1.52 1.52 0 00-.44 1.06v39.86A1.5 1.5 0 007.17 89l85.65.35a1.5 1.5 0 001.5-1.5V47.94a1.51 1.51 0 00-1.49-1.5zM91.32 86.3L8.68 86V49.1l82.64.34z"></path>

@@ -30,14 +30,12 @@ export const GamePage = ({ game }: { game: Game }) => {
               {game.videos.map((video) => (
                 <iframe
                   key={video.id}
-                  width="560"
-                  height="315"
+                  className="aspect-video mt-4"
                   src={`https://www.youtube-nocookie.com/embed/${video.video_id}`}
                   title={game.name}
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
-                  className="mt-4"
                 ></iframe>
               ))}
             </div>

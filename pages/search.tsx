@@ -32,7 +32,7 @@ const Search = () => {
   }, [query])
 
   return (
-    <div className="max-w-[90%] !block mt-6 mb-6 w-[1024px] tui-window text-left m-auto">
+    <div className="max-w-[90%] !block mt-6 mb-6 sm:w-[1024px] tui-window text-left m-auto">
       <div className="flex justify-end gap-2">
         <label htmlFor="search">Search for a game</label>
         <input
@@ -49,7 +49,7 @@ const Search = () => {
             <th className="text-left pl-2">Name</th>
             <th className="text-left pl-2">Console</th>
             <th className="text-left pl-2">Rating</th>
-            <th className="text-left pl-2">Release Date</th>
+            <th className="text-left pl-2 hidden sm:block">Release Date</th>
           </tr>
         </thead>
         <tbody>
@@ -68,7 +68,7 @@ const Search = () => {
                   <td className="!px-2">
                     {game.total_rating ? game.total_rating.toFixed(1) : null}
                   </td>
-                  <td className="!px-2">
+                  <td className="!px-2 hidden sm:block">
                     {game.first_release_date
                       ? new Date(game.first_release_date * 1000).toLocaleString(
                           'PT-pt',

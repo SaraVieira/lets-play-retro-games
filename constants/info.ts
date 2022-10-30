@@ -115,6 +115,18 @@ export const consolesMenu = [
     linkRandom: '/sat/random',
     linkAll: '/sat/all',
   },
+  {
+    name: 'GameCube',
+    id: "gcn",
+    linkRandom: '/gcn/random',
+    linkAll: '/gcn/all',
+  },
+  {
+    name: 'Neo Geo',
+    id: "neo",
+    linkRandom: '/neo/random',
+    linkAll: '/neo/all',
+  },
 ]
 
 export const menuMain = [
@@ -124,10 +136,16 @@ export const menuMain = [
       consolesMenu[0],
       consolesMenu[1],
       consolesMenu[2],
+      consolesMenu[12],
+      consolesMenu[14],
+    ]
+  },
+  {
+    name: "Nintendo handheld",
+    items: [
       consolesMenu[3],
       consolesMenu[4],
       consolesMenu[5],
-      consolesMenu[12],
     ]
   },
   {
@@ -145,6 +163,7 @@ export const menuMain = [
 export const otherInMenu = [
   consolesMenu[9],
   consolesMenu[10],
+  consolesMenu[15],
 ]
 
 export const ORDERS = {

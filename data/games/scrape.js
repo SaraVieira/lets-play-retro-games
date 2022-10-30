@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const satGames = require('../../constants/consoles/sat.json')
+const neoGames = require('../../constants/consoles/neo.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -23,7 +23,9 @@ const PLATFORMS = {
   psx: 7,
   sega32: 30,
   vb: 87,
-  sat: 32,
+  gcn: 32,
+  sat: 21,
+  neo: 120,
 }
 const FIELDS = [
   'name',
@@ -51,7 +53,7 @@ const requestGame = throttle(async (game, platform) => {
     if (!fs.existsSync(fileName)) {
       const client = igdb(
         process.env.TWITCH_ID,
-        '93tvm9wv459kre5lifjfxxjjxy2r0q'
+        'rt6zzej0fyg7ytpk0xc19ry3vh3h8x'
       )
       const response = await client
         .fields(FIELDS)
@@ -73,9 +75,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= satGames.length; index++) {
+for (let index = 0; index <= neoGames.length; index++) {
   ;(async () => {
-    await requestGame(satGames[index], 'sat')
+    await requestGame(neoGames[index], 'neo')
   })()
 }
 

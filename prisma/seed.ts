@@ -15,6 +15,8 @@ import psxGames from '../data/games/psx/all.json'
 import sega32Games from '../data/games/sega32/all.json'
 import vbGames from '../data/games/vb/all.json'
 import satGames from '../data/games/sat/all.json'
+import gcnGames from '../data/games/gcn/all.json'
+import neoGames from '../data/games/neo/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -60,32 +62,39 @@ const createGames = async (
 }
 
 async function main() {
+  /*   // @ts-ignore
+    await createGames(nesGames, 'nes')
+    // @ts-ignore
+    await createGames(snesGames, 'snes')
+    // @ts-ignore
+    await createGames(gbGames, 'gb')
+    // @ts-ignore
+    await createGames(gbaGames, 'gba')
+    // @ts-ignore
+    await createGames(gbcGames, 'gbc')
+    // @ts-ignore
+    await createGames(n64Games, 'n64')
+    // @ts-ignore
+    await createGames(mdGames, 'md')
+    // @ts-ignore
+    await createGames(msGames, 'ms')
+    // @ts-ignore
+    await createGames(ggGames, 'gg')
+    // @ts-ignore
+    await createGames(pceGames, 'pce')
+    // @ts-ignore
+    await createGames(psxGames, 'ps1')
+    // @ts-ignore
+    await createGames(sega32Games, 'sega32')
+    // @ts-ignore
+    await createGames(satGames, 'sat') 
+    // @ts-ignore
+ await createGames(gcnGames, 'gcn')
+    
+    */
+
   // @ts-ignore
-  await createGames(nesGames, 'nes')
-  // @ts-ignore
-  await createGames(snesGames, 'snes')
-  // @ts-ignore
-  await createGames(gbGames, 'gb')
-  // @ts-ignore
-  await createGames(gbaGames, 'gba')
-  // @ts-ignore
-  await createGames(gbcGames, 'gbc')
-  // @ts-ignore
-  await createGames(n64Games, 'n64')
-  // @ts-ignore
-  await createGames(mdGames, 'md')
-  // @ts-ignore
-  await createGames(msGames, 'ms')
-  // @ts-ignore
-  await createGames(ggGames, 'gg')
-  // @ts-ignore
-  await createGames(pceGames, 'pce')
-  // @ts-ignore
-  await createGames(psxGames, 'ps1')
-  // @ts-ignore
-  await createGames(sega32Games, 'sega32')
-  // @ts-ignore
-  await createGames(satGames, 'sat')
+  await createGames(neoGames, 'neo')
 
 }
 

@@ -26,6 +26,8 @@ enum CONSOLES {
   sega32
   vb
   sat
+  neo
+  gcn
 }
 
 model Game {

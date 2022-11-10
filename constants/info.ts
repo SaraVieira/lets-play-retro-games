@@ -127,6 +127,12 @@ export const consolesMenu = [
     linkRandom: '/neo/random',
     linkAll: '/neo/all',
   },
+  {
+    name: 'Atari 2600',
+    id: "atari2600",
+    linkRandom: '/atari2600/random',
+    linkAll: '/atari2600/all',
+  },
 ]
 
 export const menuMain = [
@@ -164,6 +170,7 @@ export const otherInMenu = [
   consolesMenu[9],
   consolesMenu[10],
   consolesMenu[15],
+  consolesMenu[16],
 ]
 
 export const ORDERS = {

@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const neoGames = require('../../constants/consoles/neo.json')
+const atari2600Games = require('../../constants/consoles/atari2600.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -26,6 +26,7 @@ const PLATFORMS = {
   gcn: 32,
   sat: 21,
   neo: 120,
+  atari2600: 59,
 }
 const FIELDS = [
   'name',
@@ -53,7 +54,7 @@ const requestGame = throttle(async (game, platform) => {
     if (!fs.existsSync(fileName)) {
       const client = igdb(
         process.env.TWITCH_ID,
-        'rt6zzej0fyg7ytpk0xc19ry3vh3h8x'
+        '3gxwershkdj1f2yxieqe5rf425co7d'
       )
       const response = await client
         .fields(FIELDS)
@@ -75,9 +76,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= neoGames.length; index++) {
+for (let index = 0; index <= atari2600Games.length; index++) {
   ;(async () => {
-    await requestGame(neoGames[index], 'neo')
+    await requestGame(atari2600Games[index], 'atari2600')
   })()
 }
 

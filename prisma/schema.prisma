@@ -28,6 +28,7 @@ enum CONSOLES {
   sat
   neo
   gcn
+  atari2600
 }
 
 model Game {

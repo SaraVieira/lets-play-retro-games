@@ -5,6 +5,9 @@ import { Game } from '../../constants/types'
 import { GameActions } from '../../components/GameActions'
 import { unstable_getServerSession } from 'next-auth'
 import { authOptions } from '../api/auth/[...nextauth]'
+import Head from 'next/head'
+
+const title = "Let's Play Retro Games"
 
 export default function Example({
   game,
@@ -15,6 +18,16 @@ export default function Example({
 }) {
   return (
     <>
+      <Head>
+        <title>
+          {title} - {game.name}
+        </title>
+        <meta name="title" content={`${title} - ${game.name}`} />
+        <meta
+          name="description"
+          content={`Find about ${game.name} in ${title}`}
+        />
+      </Head>
       {userInfo && (
         <GameActions id={game.id} console={game.console} userInfo={userInfo} />
       )}

@@ -17,6 +17,7 @@ import vbGames from '../data/games/vb/all.json'
 import satGames from '../data/games/sat/all.json'
 import gcnGames from '../data/games/gcn/all.json'
 import neoGames from '../data/games/neo/all.json'
+import atari2600Games from '../data/games/atari2600/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -91,10 +92,13 @@ async function main() {
     // @ts-ignore
  await createGames(gcnGames, 'gcn')
     
-    */
+ 
 
   // @ts-ignore
   await createGames(neoGames, 'neo')
+   */
+  // @ts-ignore
+  await createGames(atari2600Games, 'atari2600')
 
 }
 

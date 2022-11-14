@@ -1,35 +1,12 @@
-import { debounce } from 'lodash'
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
-import { Game } from '../constants/types'
+import { useState } from 'react'
 import { Loading } from '../components/Loading'
-
-const fetchData = async (query: string, cb: any) => {
-  const res = await fetch(`/api/search?query=${query}`).then((rsp) =>
-    rsp.json()
-  )
-  cb(res)
-}
-const debouncedFetchData = debounce(fetchData, 500)
-
-type GameWithConsoleID = Game & { console_id?: string }
+import { formatDate } from '../utils/dates'
+import { useGameSearch } from '../utils/hooks/useGameSearch'
 
 const Search = () => {
   const [query, setQuery] = useState('')
-  const [games, setGames] = useState<GameWithConsoleID[]>([])
-  const [loading, setLoading] = useState(false)
-
-  useEffect(() => {
-    if (query) {
-      setLoading(true)
-      debouncedFetchData(query, (res: GameWithConsoleID[]) => {
-        setGames(res)
-        setLoading(false)
-      })
-    } else {
-      setGames([])
-    }
-  }, [query])
+  const { loading, games } = useGameSearch({ query })
 
   return (
     <div className="max-w-[90%] !block mt-6 mb-6 sm:w-[1024px] tui-window text-left m-auto">
@@ -79,14 +56,7 @@ const Search = () => {
                 <td className="!px-2 hidden sm:block">
                   <Link href={`/${game.console_id}/${game.slug}`}>
                     {game.first_release_date
-                      ? new Date(game.first_release_date * 1000).toLocaleString(
-                          'PT-pt',
-                          {
-                            year: 'numeric',
-                            month: 'numeric',
-                            day: 'numeric',
-                          }
-                        )
+                      ? formatDate(game.first_release_date)
                       : null}
                   </Link>
                 </td>

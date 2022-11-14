@@ -2,8 +2,9 @@ import { GetServerSidePropsContext } from 'next'
 import { prisma } from '../../prisma/prisma'
 import { Game } from '../../constants/types'
 import { User } from '@prisma/client'
-import { consolesMenu } from '../../constants/info'
 import Link from 'next/link'
+import { formatDate } from '../../utils/dates'
+import { getConsoleName } from '../../utils/consoles'
 
 const Table = ({ games }: { games: Game[] }) => {
   return (
@@ -27,10 +28,7 @@ const Table = ({ games }: { games: Game[] }) => {
             </td>
             <td className="!px-2">
               <Link href={`/${game.console}/${game.slug}`}>
-                {
-                  consolesMenu.find((console) => console.id === game.console)
-                    ?.name
-                }
+                {getConsoleName(game)}
               </Link>
             </td>
             <td className="!px-2">
@@ -41,14 +39,7 @@ const Table = ({ games }: { games: Game[] }) => {
             <td className="!px-2">
               <Link href={`/${game.console}/${game.slug}`}>
                 {game.first_release_date
-                  ? new Date(game.first_release_date * 1000).toLocaleString(
-                      'PT-pt',
-                      {
-                        year: 'numeric',
-                        month: 'numeric',
-                        day: 'numeric',
-                      }
-                    )
+                  ? formatDate(game.first_release_date)
                   : null}
               </Link>
             </td>

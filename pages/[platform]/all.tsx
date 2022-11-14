@@ -1,9 +1,10 @@
-import { Game } from '@prisma/client'
 import { GetServerSidePropsContext } from 'next'
 import absoluteUrl from 'next-absolute-url'
 import Link from 'next/link'
-import { useCallback, useEffect, useState } from 'react'
 import { ORDERS, PLATFORMS } from '../../constants/info'
+import { Game } from '../../constants/types'
+import { formatDate } from '../../utils/dates'
+import { useAllGamesInConsole } from '../../utils/hooks/useAllGamesInConsole'
 
 const All = ({
   games: defaultGames,
@@ -12,42 +13,10 @@ const All = ({
   games: Game[]
   platform: keyof typeof PLATFORMS
 }) => {
-  const [games, setGames] = useState(defaultGames)
-  const [page, setPage] = useState(1)
-  const [order, setOrder] = useState('name-asc')
-
-  const callApiOnChange = useCallback(
-    (orderPassed?: string) => {
-      const usedOrder = orderPassed || order
-      const [orderBy, direction] = usedOrder.split('-')
-      fetch(
-        `/api/${platform}/all?page=${page}&orderBy=${orderBy}&direction=${direction}`
-      )
-        .then((rsp) => rsp.json())
-        .then((g) => {
-          if (page === 1) {
-            setGames(g)
-          } else {
-            setGames((existingGames) => [...existingGames, ...g])
-          }
-        })
-    },
-    [order, page, platform]
-  )
-
-  const onChangeSort = (e: any) => setOrder(e.target.value)
-
-  useEffect(() => {
-    callApiOnChange()
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [page])
-
-  useEffect(() => {
-    setPage(1)
-    callApiOnChange()
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [order, platform])
-
+  const { games, onChangeSort, incrementPage } = useAllGamesInConsole({
+    platform,
+    defaultGames,
+  })
   return (
     <div className="max-w-[90%] !block mt-6 mb-6 w-[1024px] tui-window text-left m-auto">
       <div className="flex justify-end gap-2">
@@ -97,14 +66,7 @@ const All = ({
                   className="block w-full"
                 >
                   {game.first_release_date
-                    ? new Date(game.first_release_date * 1000).toLocaleString(
-                        'PT-pt',
-                        {
-                          year: 'numeric',
-                          month: 'numeric',
-                          day: 'numeric',
-                        }
-                      )
+                    ? formatDate(game.first_release_date)
                     : null}
                 </Link>
               </td>
@@ -113,7 +75,7 @@ const All = ({
         </tbody>
       </table>
       <div className="items-center justify-center flex w-full gap-2 mb-4 mt-4">
-        <button className="tui-button" onClick={() => setPage((p) => p + 1)}>
+        <button className="tui-button" onClick={incrementPage}>
           Load More
         </button>
       </div>

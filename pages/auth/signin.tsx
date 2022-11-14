@@ -1,6 +1,7 @@
 import { signIn } from 'next-auth/react'
 
 const providers = [{ id: 'github', name: 'GitHub' }]
+
 const SignIn = () => {
   return (
     <section className="flex items-center h-full w-full justify-center">
@@ -11,7 +12,7 @@ const SignIn = () => {
             <button
               key={provider.name}
               className="tui-button"
-              onClick={() => signIn(provider.id)}
+              onClick={() => signIn(provider.id, { callbackUrl: '/' })}
             >
               Sign in with {provider.name}
             </button>

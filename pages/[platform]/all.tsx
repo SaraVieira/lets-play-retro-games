@@ -71,17 +71,31 @@ const All = ({
         </thead>
         <tbody>
           {games.map((game) => (
-            <Link
+            <tr
               key={game.slug + game.id + game.console}
-              href={`/${platform}/${game.slug}`}
-              passHref
+              className="cursor-pointer"
             >
-              <tr className="cursor-pointer">
-                <td className="!px-2">{game.name}</td>
-                <td className="!px-2">
+              <td className="!px-2">
+                <Link
+                  href={`/${platform}/${game.slug}`}
+                  className="block w-full"
+                >
+                  {game.name}
+                </Link>
+              </td>{' '}
+              <td className="!px-2">
+                <Link
+                  href={`/${platform}/${game.slug}`}
+                  className="block w-full"
+                >
                   {game.total_rating ? game.total_rating.toFixed(1) : null}
-                </td>
-                <td className="!px-2">
+                </Link>
+              </td>
+              <td className="!px-2">
+                <Link
+                  href={`/${platform}/${game.slug}`}
+                  className="block w-full"
+                >
                   {game.first_release_date
                     ? new Date(game.first_release_date * 1000).toLocaleString(
                         'PT-pt',
@@ -92,9 +106,9 @@ const All = ({
                         }
                       )
                     : null}
-                </td>
-              </tr>
-            </Link>
+                </Link>
+              </td>
+            </tr>
           ))}
         </tbody>
       </table>

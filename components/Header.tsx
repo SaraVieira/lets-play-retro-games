@@ -10,16 +10,12 @@ export const Header = () => {
   return (
     <nav className="tui-nav !flex justify-between ">
       <div>
-        <Link href="/">
-          <a className="absolute sm:relative">
-            <Logo />
-          </a>
+        <Link className="absolute sm:relative" href="/">
+          <Logo />
         </Link>
         <div className="flex gap-4 sm:gap-6 sm:ml-[120px] ml-20 w-full">
-          <Link href="/">
-            <a className="hidden sm:inline">
-              <span className="red-168-text">H</span>ome
-            </a>
+          <Link className="hidden sm:inline" href="/">
+            <span className="red-168-text">H</span>ome
           </Link>
 
           <li className="tui-dropdown">
@@ -41,12 +37,10 @@ export const Header = () => {
                         {console.items.map((item) => (
                           <li key={item.id}>
                             <Link href={item.linkRandom}>
-                              <a>
-                                <span className="red-168-text">
-                                  {item.name.charAt(0)}
-                                </span>
-                                {item.name.substring(1)}
-                              </a>
+                              <span className="red-168-text">
+                                {item.name.charAt(0)}
+                              </span>
+                              {item.name.substring(1)}
                             </Link>
                           </li>
                         ))}
@@ -84,12 +78,10 @@ export const Header = () => {
                         {console.items.map((item) => (
                           <li key={item.id}>
                             <Link href={item.linkAll}>
-                              <a>
-                                <span className="red-168-text">
-                                  {item.name.charAt(0)}
-                                </span>
-                                {item.name.substring(1)}
-                              </a>
+                              <span className="red-168-text">
+                                {item.name.charAt(0)}
+                              </span>
+                              {item.name.substring(1)}
                             </Link>
                           </li>
                         ))}
@@ -112,9 +104,7 @@ export const Header = () => {
           </li>
 
           <Link href={'/search'}>
-            <a>
-              <span className="red-168-text">S</span>earch
-            </a>
+            <span className="red-168-text">S</span>earch
           </Link>
 
           {asPath.includes('random') && (

@@ -21,10 +21,11 @@ export const UserMenu = () => {
             <ul>
               {session?.user?.id && (
                 <li>
-                  <Link href={`/user/${session.user.id}`}>
-                    <a className="hidden sm:inline">
-                      <span className="red-168-text">P</span>rofile
-                    </a>
+                  <Link
+                    href={`/user/${session.user.id}`}
+                    className="hidden sm:inline"
+                  >
+                    <span className="red-168-text">P</span>rofile
                   </Link>
                 </li>
               )}

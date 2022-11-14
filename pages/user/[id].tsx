@@ -18,23 +18,28 @@ const Table = ({ games }: { games: Game[] }) => {
       </thead>
       <tbody>
         {games.map((game) => (
-          <Link
+          <tr
+            className="cursor-pointer"
             key={game.slug + game.id + game.console}
-            href={`/${game.console}/${game.slug}`}
-            passHref
           >
-            <tr className="cursor-pointer">
-              <td className="!px-2">{game.name}</td>
-              <td className="!px-2">
+            <td className="!px-2">
+              <Link href={`/${game.console}/${game.slug}`}>{game.name}</Link>
+            </td>
+            <td className="!px-2">
+              <Link href={`/${game.console}/${game.slug}`}>
                 {
                   consolesMenu.find((console) => console.id === game.console)
                     ?.name
                 }
-              </td>
-              <td className="!px-2">
+              </Link>
+            </td>
+            <td className="!px-2">
+              <Link href={`/${game.console}/${game.slug}`}>
                 {game.total_rating ? game.total_rating.toFixed(1) : null}
-              </td>
-              <td className="!px-2">
+              </Link>
+            </td>
+            <td className="!px-2">
+              <Link href={`/${game.console}/${game.slug}`}>
                 {game.first_release_date
                   ? new Date(game.first_release_date * 1000).toLocaleString(
                       'PT-pt',
@@ -45,9 +50,9 @@ const Table = ({ games }: { games: Game[] }) => {
                       }
                     )
                   : null}
-              </td>
-            </tr>
-          </Link>
+              </Link>
+            </td>
+          </tr>
         ))}
       </tbody>
     </table>

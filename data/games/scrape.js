@@ -1,6 +1,6 @@
 require('dotenv').config()
 var slugify = require('slugify')
-const atari2600Games = require('../../constants/consoles/atari2600.json')
+const nesGames = require('../../constants/consoles/nes-homebrew.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
@@ -54,7 +54,7 @@ const requestGame = throttle(async (game, platform) => {
     if (!fs.existsSync(fileName)) {
       const client = igdb(
         process.env.TWITCH_ID,
-        '3gxwershkdj1f2yxieqe5rf425co7d'
+        '5k85iqlkpcquzgygac2w82dzxdrnjt'
       )
       const response = await client
         .fields(FIELDS)
@@ -76,9 +76,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= atari2600Games.length; index++) {
+for (let index = 0; index <= nesGames.length; index++) {
   ;(async () => {
-    await requestGame(atari2600Games[index], 'atari2600')
+    await requestGame(nesGames[index], 'nes')
   })()
 }
 

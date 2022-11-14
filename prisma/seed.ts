@@ -38,7 +38,7 @@ const createGames = async (
   games: Omit<Game, 'console'>[],
   platform: CONSOLES
 ) => {
-  const all = games.map(async (game) => {
+  const all = games.map(async (game, i) => {
     const gameInDb = await prisma.game.findFirst({
       where: {
         igdb_id: game.id,
@@ -46,6 +46,8 @@ const createGames = async (
       },
     })
 
+
+    console.log(`Adding game ${i + 1}/${all.length}`)
     if (gameInDb?.name) return
     await prisma.game.create({
       // @ts-ignore
@@ -63,42 +65,45 @@ const createGames = async (
 }
 
 async function main() {
+  // @ts-ignore
+  await createGames(nesGames, 'nes')
   /*   // @ts-ignore
-    await createGames(nesGames, 'nes')
-    // @ts-ignore
-    await createGames(snesGames, 'snes')
-    // @ts-ignore
-    await createGames(gbGames, 'gb')
-    // @ts-ignore
-    await createGames(gbaGames, 'gba')
-    // @ts-ignore
-    await createGames(gbcGames, 'gbc')
-    // @ts-ignore
-    await createGames(n64Games, 'n64')
-    // @ts-ignore
-    await createGames(mdGames, 'md')
-    // @ts-ignore
-    await createGames(msGames, 'ms')
-    // @ts-ignore
-    await createGames(ggGames, 'gg')
-    // @ts-ignore
-    await createGames(pceGames, 'pce')
-    // @ts-ignore
-    await createGames(psxGames, 'ps1')
-    // @ts-ignore
-    await createGames(sega32Games, 'sega32')
-    // @ts-ignore
-    await createGames(satGames, 'sat') 
-    // @ts-ignore
- await createGames(gcnGames, 'gcn')
-    
+  await createGames(snesGames, 'snes')
+  // @ts-ignore
+  await createGames(gbGames, 'gb')
+  // @ts-ignore
+  await createGames(gbaGames, 'gba')
+  // @ts-ignore
+  await createGames(gbcGames, 'gbc')
+  // @ts-ignore
+  await createGames(n64Games, 'n64')
+  // @ts-ignore
+  await createGames(mdGames, 'md')
+  // @ts-ignore
+  await createGames(msGames, 'ms')
+  // @ts-ignore
+  await createGames(ggGames, 'gg')
+  // @ts-ignore
+  await createGames(pceGames, 'pce')
+  // @ts-ignore
+  await createGames(psxGames, 'ps1')
+  // @ts-ignore
+  await createGames(sega32Games, 'sega32')
+  // @ts-ignore
+  await createGames(satGames, 'sat') 
+  // @ts-ignore
+await createGames(gcnGames, 'gcn')
+  
  
 
-  // @ts-ignore
-  await createGames(neoGames, 'neo')
-   */
-  // @ts-ignore
-  await createGames(atari2600Games, 'atari2600')
+// @ts-ignore
+await createGames(neoGames, 'neo')
+
+// @ts-ignore
+await createGames(atari2600Games, 'atari2600')
+ */
+
+
 
 }
 

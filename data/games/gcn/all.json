@@ -207,53 +207,94 @@
     ]
   },
   {
-    "id": 4014,
-    "alternative_names": [
+    "id": 213749,
+    "cover": {
+      "id": 237743,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 213749,
+      "height": 1400,
+      "image_id": "co53fz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co53fz.jpg",
+      "width": 1400,
+      "checksum": "0509fa2e-7bdd-b3d1-410c-10143134c73d"
+    },
+    "first_release_date": 882403200,
+    "genres": [
       {
-        "id": 34126,
-        "name": "桃太郎電鉄11～ブラックボンビー出現!の巻"
-      },
-      {
-        "id": 81095,
-        "name": "Momotarou Dentetsu 11: Black Bombee Shutsugen! No Maki"
-      },
-      {
-        "id": 81159,
-        "name": "Momotaro Dentetsu 11"
+        "id": 26,
+        "name": "Quiz/Trivia"
       }
     ],
-    "cover": {
-      "id": 4238,
-      "game": 4014,
-      "height": 371,
-      "image_id": "euztkqyjaw6jztbfcetx",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/euztkqyjaw6jztbfcetx.jpg",
-      "width": 256,
-      "checksum": "0fd99949-a227-7e97-1a0f-8fe223360b0d"
-    },
-    "first_release_date": 1133740800,
     "involved_companies": [
       {
-        "id": 10412,
+        "id": 183573,
         "company": {
-          "id": 864,
-          "name": "Hudson Soft"
+          "id": 1804,
+          "name": "Genki"
         },
-        "created_at": 1390348800,
+        "created_at": 1660839124,
         "developer": true,
-        "game": 4014,
+        "game": 213749,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1660840334,
+        "checksum": "f2cecfa8-fed8-fcb2-895e-c954df270fde"
+      },
+      {
+        "id": 183574,
+        "company": {
+          "id": 42758,
+          "name": "Sada Soft"
+        },
+        "created_at": 1660839124,
+        "developer": false,
+        "game": 213749,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1390348800,
-        "checksum": "d874ba01-343a-b588-6f71-890610915590"
+        "updated_at": 1660840334,
+        "checksum": "bdceea7f-4e30-8a89-12aa-0b62239ffa3c"
       }
     ],
-    "name": "Momotaro Dentetsu 11: Black Bombee Shutsugen! no Maki",
-    "slug": "momotaro-dentetsu-11-black-bombee-shutsugen-no-maki",
-    "total_rating": 25,
-    "total_rating_count": 0,
-    "url": "https://www.igdb.com/games/momotaro-dentetsu-11-black-bombee-shutsugen-no-maki"
+    "name": "Private Idol Disc Vol. 11: Mayumi Hirose",
+    "screenshots": [
+      {
+        "id": 858990,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 213749,
+        "height": 240,
+        "image_id": "sciesu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciesu.jpg",
+        "width": 330,
+        "checksum": "bfcba096-b773-b246-45a6-c7fa3f765c33"
+      },
+      {
+        "id": 858991,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 213749,
+        "height": 240,
+        "image_id": "sciesv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciesv.jpg",
+        "width": 330,
+        "checksum": "da57286d-f67c-22f1-51ba-cb749642c099"
+      }
+    ],
+    "slug": "private-idol-disc-vol-11-mayumi-hirose",
+    "summary": "Idol Digital Photobook released exclusively in Japan for Sega Saturn. Includes a Q&A interview, a mini-game, and a quiz about Mayumi Hirose.",
+    "url": "https://www.igdb.com/games/private-idol-disc-vol-11-mayumi-hirose",
+    "videos": [
+      {
+        "id": 73440,
+        "game": 213749,
+        "name": "Gameplay Video",
+        "video_id": "1MvQ-U9NuoY",
+        "checksum": "9f016339-0d65-9d41-1e6d-a794829ac7e7"
+      }
+    ]
   },
   {
     "id": 3706,
@@ -8314,241 +8355,117 @@
     "url": "https://www.igdb.com/games/carmen-sandiego-the-secret-of-the-stolen-drums"
   },
   {
-    "id": 3849,
+    "id": 39795,
     "alternative_names": [
       {
-        "id": 53097,
-        "name": "Disney Pixar Cars"
+        "id": 70949,
+        "name": "セガ ツーリングカーチャンピオンシップ"
       }
     ],
     "cover": {
-      "id": 242752,
-      "alpha_channel": false,
+      "id": 164727,
+      "alpha_channel": true,
       "animated": false,
-      "game": 3849,
-      "height": 1536,
-      "image_id": "co57b4",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co57b4.jpg",
-      "width": 1152,
-      "checksum": "56ade23d-9b0d-9f59-4403-7f383ce679a6"
+      "game": 39795,
+      "height": 744,
+      "image_id": "co3j3r",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3j3r.jpg",
+      "width": 558,
+      "checksum": "791c30e7-0cb5-a57f-ade5-593858eb3003"
     },
-    "first_release_date": 1149552000,
-    "franchise": {
-      "id": 185,
-      "name": "Cars"
-    },
+    "first_release_date": 823132800,
     "genres": [
       {
         "id": 10,
         "name": "Racing"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
       }
     ],
     "involved_companies": [
       {
-        "id": 9992,
+        "id": 144739,
         "company": {
-          "id": 197,
-          "name": "THQ"
+          "id": 112,
+          "name": "Sega"
         },
-        "created_at": 1390089600,
+        "created_at": 1628356349,
         "developer": false,
-        "game": 3849,
+        "game": 39795,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1390089600,
-        "checksum": "6c0e0ba4-afa3-a1a1-ca76-f31f211d8f4c"
+        "updated_at": 1628504524,
+        "checksum": "8c146408-c8e3-30be-9d10-0506962c1103"
       },
       {
-        "id": 9993,
+        "id": 144740,
         "company": {
-          "id": 839,
-          "name": "Locomotive Games"
+          "id": 36676,
+          "name": "Sega AM Annex"
         },
-        "created_at": 1390089600,
+        "created_at": 1628356349,
         "developer": true,
-        "game": 3849,
+        "game": 39795,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1390089600,
-        "checksum": "0120934d-cce6-a8b5-318e-54743fb5de86"
+        "updated_at": 1628504524,
+        "checksum": "f5e1e04a-0563-9ad8-9a72-32fb81680606"
       },
       {
-        "id": 9994,
+        "id": 144741,
         "company": {
-          "id": 563,
-          "name": "Rainbow Studios"
+          "id": 1885,
+          "name": "CRI Middleware"
         },
-        "created_at": 1390089600,
-        "developer": true,
-        "game": 3849,
-        "porting": false,
+        "created_at": 1628356349,
+        "developer": false,
+        "game": 39795,
+        "porting": true,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1390089600,
-        "checksum": "653d5eb6-537d-2c52-0031-a43cfc9c42f9"
-      },
-      {
-        "id": 9995,
-        "company": {
-          "id": 1905,
-          "name": "Helixe"
-        },
-        "created_at": 1390089600,
-        "developer": true,
-        "game": 3849,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1390089600,
-        "checksum": "feda5dec-c8d8-d1d5-1da2-6e525dfbae22"
-      },
-      {
-        "id": 9996,
-        "company": {
-          "id": 432,
-          "name": "Beenox"
-        },
-        "created_at": 1390089600,
-        "developer": true,
-        "game": 3849,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1390089600,
-        "checksum": "e31c2de6-f9f1-433a-393a-02012e858e5e"
+        "updated_at": 1628504524,
+        "checksum": "9cbce547-b244-c568-89e7-3089d4e7bc88"
       }
     ],
-    "name": "Cars",
+    "name": "Sega Touring Car Championship",
     "screenshots": [
       {
-        "id": 141580,
-        "game": 3849,
-        "height": 1050,
-        "image_id": "ipg9rterafhcvywgj2wf",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ipg9rterafhcvywgj2wf.jpg",
-        "width": 1680,
-        "checksum": "a222d9d4-853a-f22e-d6b5-5b91dc59774d"
+        "id": 579604,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 39795,
+        "height": 384,
+        "image_id": "sccf84",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccf84.jpg",
+        "width": 496,
+        "checksum": "0ecf6d67-0b8b-5766-910b-36a3f99b12c4"
       },
       {
-        "id": 141581,
-        "game": 3849,
-        "height": 1050,
-        "image_id": "jzbobordbblgvdsabchl",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jzbobordbblgvdsabchl.jpg",
-        "width": 1680,
-        "checksum": "911689c0-6959-8b08-d0b9-a392c60a3a9e"
+        "id": 579605,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 39795,
+        "height": 384,
+        "image_id": "sccf85",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccf85.jpg",
+        "width": 496,
+        "checksum": "08b251a8-e4d0-7069-0abd-bd4379a9d9be"
       },
       {
-        "id": 141582,
-        "game": 3849,
-        "height": 1050,
-        "image_id": "h3v6nq6thm5ny8elzthc",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/h3v6nq6thm5ny8elzthc.jpg",
-        "width": 1680,
-        "checksum": "bc49530b-0476-2fd6-b999-deda99ce9c65"
-      },
-      {
-        "id": 141583,
-        "game": 3849,
-        "height": 1050,
-        "image_id": "ah365afj452mwhzx8mgp",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ah365afj452mwhzx8mgp.jpg",
-        "width": 1680,
-        "checksum": "b0b12970-d6b9-a5ff-76eb-04ea2d79fff0"
-      },
-      {
-        "id": 141584,
-        "game": 3849,
-        "height": 1050,
-        "image_id": "zd3woivktnkuvx8kiuts",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zd3woivktnkuvx8kiuts.jpg",
-        "width": 1680,
-        "checksum": "90e36318-ae0a-015e-33e5-bd5774f02215"
-      },
-      {
-        "id": 154357,
-        "game": 3849,
-        "height": 408,
-        "image_id": "xm1zhelonc8uz7ovz7pa",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xm1zhelonc8uz7ovz7pa.jpg",
-        "width": 272,
-        "checksum": "2ef2210a-af4d-f088-15a4-fd49ce342224"
-      },
-      {
-        "id": 154358,
-        "game": 3849,
-        "height": 408,
-        "image_id": "xrzffdytglfqgulyoxmo",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xrzffdytglfqgulyoxmo.jpg",
-        "width": 272,
-        "checksum": "09e69341-8547-66da-42d1-94619589004f"
-      },
-      {
-        "id": 154359,
-        "game": 3849,
-        "height": 408,
-        "image_id": "umwzyiqlylerungo9ubs",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/umwzyiqlylerungo9ubs.jpg",
-        "width": 272,
-        "checksum": "9130e3b5-c1a5-6312-edef-08674094b38c"
-      },
-      {
-        "id": 154360,
-        "game": 3849,
-        "height": 408,
-        "image_id": "nhi6y5tvy75ozjunvjvb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nhi6y5tvy75ozjunvjvb.jpg",
-        "width": 272,
-        "checksum": "1d83fc6f-e339-7bee-0f28-41288a82735e"
-      },
-      {
-        "id": 154361,
-        "game": 3849,
-        "height": 408,
-        "image_id": "ug5x5u1rf8wpbl289fxp",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ug5x5u1rf8wpbl289fxp.jpg",
-        "width": 272,
-        "checksum": "9fb8377f-f046-274d-b2aa-e173fb023293"
-      },
-      {
-        "id": 154362,
-        "game": 3849,
-        "height": 408,
-        "image_id": "nz8owp1mkwvwhkvywty3",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nz8owp1mkwvwhkvywty3.jpg",
-        "width": 272,
-        "checksum": "d8d5540a-e3e1-67b6-dd12-8ef1a513f523"
-      },
-      {
-        "id": 154363,
-        "game": 3849,
-        "height": 408,
-        "image_id": "bhkwz0okrqkqjkgj0nhl",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bhkwz0okrqkqjkgj0nhl.jpg",
-        "width": 272,
-        "checksum": "9d3339d3-f294-1f98-ce2f-1efe27e12125"
+        "id": 579606,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 39795,
+        "height": 384,
+        "image_id": "sccf86",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccf86.jpg",
+        "width": 496,
+        "checksum": "90021049-cf94-338e-7b07-3def8e73cad0"
       }
     ],
-    "slug": "cars",
-    "summary": "Play as Lightning McQueen, a rookie racecar looking to win fame and fortune at the Piston Cup Championship, in the video game adaptation of Disney Pixar's Cars.",
-    "total_rating": 65.307784866633,
-    "total_rating_count": 35,
-    "url": "https://www.igdb.com/games/cars",
-    "videos": [
-      {
-        "id": 43699,
-        "game": 3849,
-        "name": "Trailer",
-        "video_id": "fBzCBPtbN5g",
-        "checksum": "f12f190b-bd56-fc9a-4c79-9b09bf0fa3a5"
-      }
-    ]
+    "slug": "sega-touring-car-championship",
+    "summary": "Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.",
+    "url": "https://www.igdb.com/games/sega-touring-car-championship"
   },
   {
     "id": 3850,
@@ -21219,147 +21136,102 @@
     "url": "https://www.igdb.com/games/gt-cube"
   },
   {
-    "id": 3939,
+    "id": 80862,
     "alternative_names": [
       {
-        "id": 3034,
-        "name": "Gun: Showdown"
+        "id": 105067,
+        "name": "Capcom Generation: Dai-4-shuu - Kokou no Eiyuu"
       }
     ],
-    "cover": {
-      "id": 104569,
-      "alpha_channel": false,
-      "animated": false,
-      "game": 3939,
-      "height": 1067,
-      "image_id": "co28op",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co28op.jpg",
-      "width": 800,
-      "checksum": "7841e078-436f-36ee-d8c1-c183097ad1e5"
+    "collection": {
+      "id": 3372,
+      "created_at": 1507558964,
+      "games": [
+        43897,
+        66121,
+        66123,
+        80862
+      ],
+      "name": "Capcom Generations",
+      "slug": "capcom-generations",
+      "updated_at": 1507558964,
+      "url": "https://www.igdb.com/collections/capcom-generations",
+      "checksum": "10748adb-d1e6-6339-607e-e0ae3313b94f"
     },
-    "first_release_date": 1131148800,
+    "cover": {
+      "id": 57163,
+      "game": 80862,
+      "height": 650,
+      "image_id": "sqm8ius8tqncvvhy2fi3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sqm8ius8tqncvvhy2fi3.jpg",
+      "width": 650,
+      "checksum": "4823429d-3674-26b9-e694-9229db5a3875"
+    },
+    "first_release_date": 910828800,
     "genres": [
       {
-        "id": 31,
-        "name": "Adventure"
+        "id": 5,
+        "name": "Shooter"
       }
     ],
     "involved_companies": [
       {
-        "id": 10207,
+        "id": 87664,
         "company": {
-          "id": 66,
-          "name": "Activision"
+          "id": 37,
+          "name": "Capcom"
         },
-        "created_at": 1390176000,
-        "developer": false,
-        "game": 3939,
+        "created_at": 1574467200,
+        "developer": true,
+        "game": 80862,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1390262400,
-        "checksum": "efc3d1d2-7b57-a3fc-2bd9-922ff286deb6"
+        "updated_at": 1574467200,
+        "checksum": "65fc8e94-1edb-98d0-b084-453a0f8e5a53"
       },
       {
-        "id": 19833,
+        "id": 87665,
         "company": {
-          "id": 318,
-          "name": "Rebellion Developments"
+          "id": 37,
+          "name": "Capcom"
         },
-        "created_at": 1416873600,
+        "created_at": 1574467200,
         "developer": true,
-        "game": 3939,
+        "game": 80862,
         "porting": false,
-        "publisher": false,
+        "publisher": true,
         "supporting": false,
-        "updated_at": 1416873600,
-        "checksum": "06003a18-c104-bf68-a687-d186f85868ea"
-      },
-      {
-        "id": 19834,
-        "company": {
-          "id": 90,
-          "name": "Neversoft Entertainment"
-        },
-        "created_at": 1416873600,
-        "developer": true,
-        "game": 3939,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1416873600,
-        "checksum": "c729bb2f-71da-f349-278e-266c83b39a22"
-      },
-      {
-        "id": 19835,
-        "company": {
-          "id": 432,
-          "name": "Beenox"
-        },
-        "created_at": 1416873600,
-        "developer": true,
-        "game": 3939,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1416873600,
-        "checksum": "1afbb5fd-ad24-7435-7aa0-f9d4c28fdec2"
+        "updated_at": 1574467200,
+        "checksum": "1735aae8-a115-ff5f-a0a6-15dd502faa2e"
       }
     ],
-    "name": "Gun",
+    "name": "Capcom Generations 4: Blazing Guns",
     "screenshots": [
       {
-        "id": 9751,
-        "game": 3939,
-        "height": 405,
-        "image_id": "aq38pzrrmwue3emmzww8",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aq38pzrrmwue3emmzww8.jpg",
-        "width": 720,
-        "checksum": "e0dbd1f9-1f7a-0b95-74f3-7827caee2965"
-      },
-      {
-        "id": 9752,
-        "game": 3939,
-        "height": 720,
-        "image_id": "vbidctklmstxwlqmm1re",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vbidctklmstxwlqmm1re.jpg",
-        "width": 1280,
-        "checksum": "4175860c-177f-8937-045a-a123fe27fcc6"
-      },
-      {
-        "id": 9753,
-        "game": 3939,
-        "height": 554,
-        "image_id": "uw0tso0gprnzgrmony0t",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/uw0tso0gprnzgrmony0t.jpg",
-        "width": 1024,
-        "checksum": "dd16e4cb-72af-368b-ae81-aefa9513b315"
-      },
-      {
-        "id": 9754,
-        "game": 3939,
-        "height": 405,
-        "image_id": "xqtp65jhhcc2hlhvld1w",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xqtp65jhhcc2hlhvld1w.jpg",
-        "width": 720,
-        "checksum": "225989c1-3630-089d-5fb0-f76101213e34"
-      },
-      {
-        "id": 9755,
-        "game": 3939,
-        "height": 405,
-        "image_id": "xcainvafcp9cbnalzroq",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xcainvafcp9cbnalzroq.jpg",
-        "width": 720,
-        "checksum": "7b890b77-5bcb-038d-9992-dc0c9b06d757"
+        "id": 343894,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 80862,
+        "height": 1080,
+        "image_id": "sc7dcm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7dcm.jpg",
+        "width": 630,
+        "checksum": "347fc16a-7a16-8c97-45e6-3a696ce7cde9"
       }
     ],
-    "slug": "gun",
-    "storyline": "Set in the American Old West, specifically Arizona, Colorado, Kansas and New Mexico in the year 1880, Colton White and his father Ned are hunting game along the Missouri River and after a close call with a grizzly they board a riverboat to sell meat. But after the riverboat is attacked by murderous preacher Reverend Josiah Reed, in the midst of the chaos Ned reveals to Colton that he is not his biological father, and then tells him to seek out a specific prostitute in Dodge City, prompting Colton White on an adventure of revenge and self discovery.",
-    "summary": "GUN is a realistic epic action/adventure that lets gamers experience the brutality of the lawless West.",
-    "total_rating": 69.80445723753985,
-    "total_rating_count": 110,
-    "url": "https://www.igdb.com/games/gun"
+    "slug": "capcom-generations-4-blazing-guns",
+    "summary": "A Japan-only compilation of three Capcom shooters.",
+    "url": "https://www.igdb.com/games/capcom-generations-4-blazing-guns",
+    "videos": [
+      {
+        "id": 31358,
+        "game": 80862,
+        "name": "Gameplay video",
+        "video_id": "3xSRdr_vEOg",
+        "checksum": "bf05b2d9-1c13-35e4-47fb-dc4b348dac25"
+      }
+    ]
   },
   {
     "id": 3926,
@@ -24282,117 +24154,112 @@
     "url": "https://www.igdb.com/games/hot-wheels-world-race"
   },
   {
-    "id": 3949,
+    "id": 45512,
     "cover": {
-      "id": 78909,
+      "id": 236901,
       "alpha_channel": false,
       "animated": false,
-      "game": 3949,
-      "height": 1954,
-      "image_id": "co1ovx",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ovx.jpg",
-      "width": 1466,
-      "checksum": "248322c5-fc8f-ce07-0edb-2b9f304d51a0"
+      "game": 45512,
+      "height": 800,
+      "image_id": "co52sl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52sl.jpg",
+      "width": 600,
+      "checksum": "56d901e3-7b3b-8fbc-6cca-3b1a805a43c3"
     },
-    "first_release_date": 1053993600,
-    "franchise": {
-      "id": 210,
-      "name": "Hulk"
-    },
+    "first_release_date": 860630400,
     "genres": [
       {
-        "id": 31,
-        "name": "Adventure"
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
       }
     ],
     "involved_companies": [
       {
-        "id": 10239,
+        "id": 175895,
         "company": {
-          "id": 813,
-          "name": "Universal Interactive Studios"
+          "id": 4,
+          "name": "Eidos Interactive"
         },
-        "created_at": 1390262400,
+        "created_at": 1655536883,
         "developer": false,
-        "game": 3949,
+        "game": 45512,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1390262400,
-        "checksum": "09ed55fd-1746-071b-6335-10e551d4a7b9"
+        "updated_at": 1655559233,
+        "checksum": "716b456b-aa32-d4c8-d6f4-f19d8095a739"
       },
       {
-        "id": 10240,
+        "id": 175896,
         "company": {
-          "id": 444,
-          "name": "Radical Entertainment"
+          "id": 1523,
+          "name": "Attention To Detail"
         },
-        "created_at": 1390262400,
+        "created_at": 1655536884,
         "developer": true,
-        "game": 3949,
+        "game": 45512,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1390262400,
-        "checksum": "527f7f93-0ec1-976e-a6ab-48065ff8f3d6"
+        "updated_at": 1655559233,
+        "checksum": "e717e73b-ff78-bfae-1ae3-8fa781b49706"
       },
       {
-        "id": 35309,
+        "id": 175897,
         "company": {
-          "id": 815,
-          "name": "Vivendi Universal Games"
+          "id": 1775,
+          "name": "Silicon Dreams Studios"
         },
-        "created_at": 1463356800,
+        "created_at": 1655536884,
         "developer": false,
-        "game": 3949,
+        "game": 45512,
         "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1463356800,
-        "checksum": "cfd84ffa-7857-95a9-96bf-06bcd4f01fc2"
+        "publisher": false,
+        "supporting": true,
+        "updated_at": 1655559233,
+        "checksum": "2740aee4-7185-024d-a2b7-ea75a76af8bd"
       }
     ],
-    "name": "Hulk",
+    "name": "The Incredible Hulk: The Pantheon Saga",
     "screenshots": [
       {
-        "id": 831927,
+        "id": 818532,
         "alpha_channel": false,
         "animated": false,
-        "game": 3949,
-        "height": 480,
-        "image_id": "schtx3",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schtx3.jpg",
-        "width": 640,
-        "checksum": "00e9d7e0-920e-87f8-ead3-3ed7ce26cac4"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl0.jpg",
+        "width": 320,
+        "checksum": "4bb94c0a-3966-6b61-8c89-58dd7725d70f"
       },
       {
-        "id": 831928,
+        "id": 818533,
         "alpha_channel": false,
         "animated": false,
-        "game": 3949,
-        "height": 480,
-        "image_id": "schtx4",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schtx4.jpg",
-        "width": 640,
-        "checksum": "700bdb47-13eb-db17-da4f-43ba868422e9"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl1.jpg",
+        "width": 320,
+        "checksum": "26d2280b-86ea-314f-f811-8d443f7c11bb"
       },
       {
-        "id": 831929,
+        "id": 818534,
         "alpha_channel": false,
         "animated": false,
-        "game": 3949,
-        "height": 480,
-        "image_id": "schtx5",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schtx5.jpg",
-        "width": 640,
-        "checksum": "54c39bf6-3a7c-c0fa-7f93-4765fda1feb5"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl2.jpg",
+        "width": 320,
+        "checksum": "64b61070-c894-c35e-2d78-dc231578172f"
       }
     ],
-    "slug": "hulk",
-    "summary": "Based after the events of the blockbuster movie (starring Eric Bana), you play Dr. Bruce Banner and his alter ego, green giant The Hulk. After fighting his way through the first year of his new identity, Bruce and The Hulk must now face a new enemy, The Leader, who wants to use the same gamma technology that created The Hulk in Bruce to develop an army of giants.\n\nLevels in the game have you controlling either Bruce or The Hulk. Bruce must use his smaller size to sneak around areas 'Splinter Cell' style, while The Hulk can bash and blast his way through enemy territory in every way possible, with over 40 different attacks to use.",
-    "total_rating": 64.6237821461242,
-    "total_rating_count": 27,
-    "url": "https://www.igdb.com/games/hulk"
+    "slug": "the-incredible-hulk-the-pantheon-saga",
+    "storyline": "Most levels include at least one arch-enemy, such as Piecemeal, Trauma & Lazarus or the U-Foes. Luckily, the Hulk’s regenerative powers allow him to regain health slowly. Little seems to be left of the Hulk’s legendary leaping capacity, however, so the green meat ball is forced to hop from platform to platform every now and then.",
+    "summary": "True to the comic books, the Hulk relies on no other weapons than his massive muscles to punch, kick and crush his enemies. When he has accumulated enough gamma energy, he may use powerful special moves like a Vortex Spin or the Floor Hammer. Rare bonus items also allow the Hulk to summon one of the four Pantheon team members Atalanta, Ulysses, Ajax and Hector to assist in the thick of battle.",
+    "url": "https://www.igdb.com/games/the-incredible-hulk-the-pantheon-saga"
   },
   {
     "id": 3950,
@@ -45295,17 +45162,50 @@
     "url": "https://www.igdb.com/games/r-racing-evolution-3f32c0cf-f126-4508-9ca8-2b93e68a0b4f"
   },
   {
-    "id": 4080,
-    "cover": {
-      "id": 4308,
-      "game": 4080,
-      "height": 303,
-      "image_id": "bp7zoti6ljg1d5lisgxo",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/bp7zoti6ljg1d5lisgxo.jpg",
-      "width": 215,
-      "checksum": "21d41507-1adf-4dff-51b3-ddda6c20ecc9"
+    "id": 1571,
+    "alternative_names": [
+      {
+        "id": 39592,
+        "name": "セガラリー・チャンピオンシップ"
+      },
+      {
+        "id": 39593,
+        "name": "Sega Rally Championship 1995"
+      },
+      {
+        "id": 39594,
+        "name": "Sega Rally"
+      }
+    ],
+    "collection": {
+      "id": 321,
+      "created_at": 1350222037,
+      "games": [
+        1571,
+        1572,
+        1573,
+        1574,
+        1575,
+        20592
+      ],
+      "name": "Sega Rally",
+      "slug": "sega-rally",
+      "updated_at": 1666909063,
+      "url": "https://www.igdb.com/collections/sega-rally",
+      "checksum": "d40134e9-77d2-4641-9704-3d010053af98"
     },
-    "first_release_date": 1022803200,
+    "cover": {
+      "id": 113086,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1571,
+      "height": 800,
+      "image_id": "co2f9a",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2f9a.jpg",
+      "width": 600,
+      "checksum": "91baff9a-c3c5-3a70-65a1-faebd44dde30"
+    },
+    "first_release_date": 781833600,
     "genres": [
       {
         "id": 10,
@@ -45318,57 +45218,121 @@
     ],
     "involved_companies": [
       {
-        "id": 10569,
+        "id": 10572,
         "company": {
-          "id": 485,
-          "name": "SCi Games"
+          "id": 112,
+          "name": "Sega"
         },
         "created_at": 1390435200,
         "developer": false,
-        "game": 4080,
+        "game": 1571,
         "porting": false,
         "publisher": true,
         "supporting": false,
         "updated_at": 1390521600,
-        "checksum": "b76e7404-6a8d-48b9-91fc-cfda1e6990e3"
+        "checksum": "205fb4c4-43b4-3dc1-87bc-b5d6c82208a5"
       },
       {
-        "id": 10570,
+        "id": 10573,
         "company": {
-          "id": 259,
-          "name": "Warthog Games"
+          "id": 2007,
+          "name": "AM5"
         },
         "created_at": 1390435200,
         "developer": true,
-        "game": 4080,
+        "game": 1571,
         "porting": false,
         "publisher": false,
         "supporting": false,
         "updated_at": 1390521600,
-        "checksum": "ab98eec4-2054-95b7-0749-9127f36958b6"
+        "checksum": "0722104c-70d4-485b-d2d5-a3b5747f4d1c"
       },
       {
-        "id": 10571,
+        "id": 10574,
         "company": {
-          "id": 2006,
-          "name": "Encore Software Inc."
+          "id": 2008,
+          "name": "AM3"
         },
         "created_at": 1390435200,
-        "developer": false,
-        "game": 4080,
+        "developer": true,
+        "game": 1571,
         "porting": false,
-        "publisher": true,
+        "publisher": false,
         "supporting": false,
         "updated_at": 1390521600,
-        "checksum": "493d92c3-75e6-7793-ea69-21900423fd76"
+        "checksum": "9961cae7-7e04-1dcb-1207-e89b16213b79"
+      },
+      {
+        "id": 10575,
+        "company": {
+          "id": 2009,
+          "name": "United Game Artists"
+        },
+        "created_at": 1390435200,
+        "developer": true,
+        "game": 1571,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1390521600,
+        "checksum": "1b60f836-fea3-821f-a57a-b1505588b3d1"
       }
     ],
-    "name": "Rally Championship",
-    "slug": "rally-championship",
-    "summary": "Mud! Sweat! Gears! \nDirt! Snow! Rain! \n \n-25 officially licensed rally racing cars. \n-33 races in 6 prestigious rallies over 4 global regions. \n-4-Player simultaneous split-screen intense action. \n-Real car physics simulate all wheel & 2-wheel drive. \n-Extreme weather conditions test your driving skills.",
-    "total_rating": 50,
-    "total_rating_count": 1,
-    "url": "https://www.igdb.com/games/rally-championship"
+    "name": "Sega Rally Championship",
+    "screenshots": [
+      {
+        "id": 108995,
+        "game": 1571,
+        "height": 1080,
+        "image_id": "kcoqmhikn2e5oopfnind",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kcoqmhikn2e5oopfnind.jpg",
+        "width": 1920,
+        "checksum": "aa55df7b-f568-792c-7dd1-2c805d02b628"
+      },
+      {
+        "id": 322857,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1571,
+        "height": 480,
+        "image_id": "sc6x49",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6x49.jpg",
+        "width": 640,
+        "checksum": "a9921bcf-0093-d410-e637-ad1128d7d8bb"
+      },
+      {
+        "id": 322858,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 1571,
+        "height": 256,
+        "image_id": "sc6x4a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6x4a.jpg",
+        "width": 352,
+        "checksum": "bafeac2f-3106-fc34-93cb-ef6f835bd5f4"
+      }
+    ],
+    "slug": "sega-rally-championship",
+    "summary": "Sega Rally Championship is a 1994 arcade racing game developed by AM5 on the Sega Model 2 board. The unique selling point of Sega Rally was the ability to drive on different surfaces (including asphalt, gravel and mud), with different friction properties, with the car's handling changing accordingly. As the first racing game to incorporate this feature, Sega Rally is considered to be one of the milestones in the evolution of the racing game genre.\n\nThe music for the arcade game was composed by Takenobu Mitsuyoshi, while the Sega Saturn port's soundtrack was done by Naofumi Hataya and the Guitar were played by Joe Satriani.",
+    "total_rating": 61.77563824881915,
+    "total_rating_count": 26,
+    "url": "https://www.igdb.com/games/sega-rally-championship",
+    "videos": [
+      {
+        "id": 39690,
+        "game": 1571,
+        "name": "Game Intro",
+        "video_id": "0fssVb9L0Mg",
+        "checksum": "f9eb1c54-2a82-a794-ec54-cc9763b6ea94"
+      },
+      {
+        "id": 39691,
+        "game": 1571,
+        "name": "Gameplay Video",
+        "video_id": "6REoftI1lbQ",
+        "checksum": "69f08cc8-c290-98bb-fd2b-5317f3e56224"
+      }
+    ]
   },
   {
     "id": 2634,
@@ -47448,53 +47412,151 @@
     ]
   },
   {
-    "id": 24869,
+    "id": 424,
     "alternative_names": [
       {
-        "id": 37401,
-        "name": "Обитель зла"
+        "id": 57549,
+        "name": "RE: Biohazard"
       },
       {
-        "id": 53999,
-        "name": "Resident Evil Remake"
-      },
-      {
-        "id": 54001,
-        "name": "Resident Evil Rebirth"
-      },
-      {
-        "id": 54002,
-        "name": "REbirth"
-      },
-      {
-        "id": 57372,
+        "id": 57551,
         "name": "Resident Evil Archives: Resident Evil"
       },
       {
-        "id": 57373,
-        "name": "REmake"
+        "id": 57552,
+        "name": "RE"
       },
       {
-        "id": 98145,
-        "name": "Resident Evil HD Remastered"
+        "id": 57554,
+        "name": "生化危机"
       },
       {
-        "id": 98146,
+        "id": 57555,
+        "name": "惡靈古堡"
+      },
+      {
+        "id": 57556,
+        "name": "バイオハザード"
+      },
+      {
+        "id": 97929,
         "name": "Biohazard"
       }
     ],
+    "collection": {
+      "id": 83,
+      "created_at": 1302721870,
+      "games": [
+        424,
+        847,
+        880,
+        966,
+        968,
+        970,
+        974,
+        1082,
+        8254,
+        9668,
+        15108,
+        19562,
+        19686,
+        20065,
+        20456,
+        20622,
+        21068,
+        21533,
+        21654,
+        21666,
+        22993,
+        23215,
+        23251,
+        23377,
+        24211,
+        24223,
+        24347,
+        24369,
+        24869,
+        27019,
+        27040,
+        27395,
+        41593,
+        41626,
+        41857,
+        41858,
+        41860,
+        41861,
+        41862,
+        44553,
+        53505,
+        53790,
+        55163,
+        57692,
+        75236,
+        75449,
+        79137,
+        82423,
+        82435,
+        90566,
+        99534,
+        102075,
+        102722,
+        110408,
+        110409,
+        111326,
+        112425,
+        115115,
+        116026,
+        116027,
+        116028,
+        116029,
+        130004,
+        132181,
+        132952,
+        136051,
+        142810,
+        142812,
+        142813,
+        145007,
+        145009,
+        145048,
+        145054,
+        145056,
+        145057,
+        145191,
+        145193,
+        145195,
+        145197,
+        145201,
+        170052,
+        170054,
+        170055,
+        172560,
+        186400,
+        204721,
+        204722,
+        213875,
+        221401,
+        221404,
+        222561
+      ],
+      "name": "Resident Evil",
+      "slug": "resident-evil",
+      "updated_at": 1668473726,
+      "url": "https://www.igdb.com/collections/resident-evil",
+      "checksum": "ff958811-b8eb-f7ec-d216-a8b773a88001"
+    },
     "cover": {
-      "id": 134756,
+      "id": 93733,
       "alpha_channel": false,
       "animated": false,
-      "game": 24869,
-      "height": 1333,
-      "image_id": "co2vz8",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vz8.jpg",
-      "width": 1000,
-      "checksum": "2f8e136f-c843-bbc2-2879-4e5e525f85a4"
+      "game": 424,
+      "height": 947,
+      "image_id": "co20bp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20bp.jpg",
+      "width": 710,
+      "checksum": "fd24ef4d-7b60-ff67-c752-4e195c44544d"
     },
-    "first_release_date": 1016755200,
+    "first_release_date": 827452800,
     "genres": [
       {
         "id": 9,
@@ -47507,191 +47569,225 @@
     ],
     "involved_companies": [
       {
-        "id": 182769,
+        "id": 153201,
         "company": {
           "id": 37,
           "name": "Capcom"
         },
-        "created_at": 1660434147,
+        "created_at": 1634176718,
         "developer": false,
-        "game": 24869,
+        "game": 424,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1660524453,
-        "checksum": "038781c7-902d-19e2-c53e-c6a07ff7b2a1"
+        "updated_at": 1634178655,
+        "checksum": "0b102a9e-4690-10c1-16ae-e1c056fd49ef"
       },
       {
-        "id": 182770,
+        "id": 182171,
         "company": {
-          "id": 663,
-          "name": "Capcom Production Studio 4"
+          "id": 17160,
+          "name": "Virgin Interactive Entertainment"
         },
-        "created_at": 1660434147,
+        "created_at": 1659991062,
+        "developer": false,
+        "game": 424,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1659991473,
+        "checksum": "8700df91-deb2-fa9d-0c22-00feb2fefabc"
+      },
+      {
+        "id": 182287,
+        "company": {
+          "id": 113,
+          "name": "Westwood Studios"
+        },
+        "created_at": 1660063551,
+        "developer": false,
+        "game": 424,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1660063557,
+        "checksum": "c9124ab0-da4e-caf5-9cd7-98c772cc9565"
+      },
+      {
+        "id": 182288,
+        "company": {
+          "id": 323,
+          "name": "Nextech"
+        },
+        "created_at": 1660063551,
+        "developer": false,
+        "game": 424,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1660063557,
+        "checksum": "ea61767c-c430-dc26-0cb5-62ecd64cb7ab"
+      },
+      {
+        "id": 182480,
+        "company": {
+          "id": 42627,
+          "name": "Capcom Planning Room 2"
+        },
+        "created_at": 1660256332,
         "developer": true,
-        "game": 24869,
+        "game": 424,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1660524453,
-        "checksum": "efd3a60b-38f6-609e-10ac-16962383ccba"
+        "updated_at": 1660256339,
+        "checksum": "0654a2a7-b33f-631d-1be8-e31331c99243"
       }
     ],
     "name": "Resident Evil",
     "screenshots": [
       {
-        "id": 855729,
+        "id": 853297,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scica9",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scica9.jpg",
+        "image_id": "sciaep",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaep.jpg",
         "width": 640,
-        "checksum": "4bb85e57-e8b6-90a8-319a-e41df7102e09"
+        "checksum": "7fc117ba-3a1b-8ef6-32ff-ce68e35ea163"
       },
       {
-        "id": 855730,
+        "id": 853298,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicaa",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicaa.jpg",
+        "image_id": "sciaeq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaeq.jpg",
         "width": 640,
-        "checksum": "bdcf89fa-f0dd-678c-44a4-4b54ef7488e1"
+        "checksum": "ff008a35-2cb5-f388-4fe7-1d4a4b373656"
       },
       {
-        "id": 855731,
+        "id": 853299,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicab",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicab.jpg",
+        "image_id": "sciaer",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaer.jpg",
         "width": 640,
-        "checksum": "c722b730-67f1-4ad3-6409-fbc9adf843b5"
+        "checksum": "d9e1b4f6-ee4c-7f21-ab75-274e2763458a"
       },
       {
-        "id": 855732,
+        "id": 853300,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicac",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicac.jpg",
+        "image_id": "sciaes",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaes.jpg",
         "width": 640,
-        "checksum": "a1a7eb86-d8e4-5afe-f09c-db866147eecd"
+        "checksum": "6abcef16-41e1-3891-1426-db736b95d257"
       },
       {
-        "id": 855733,
+        "id": 853301,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicad",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicad.jpg",
+        "image_id": "sciaet",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaet.jpg",
         "width": 640,
-        "checksum": "bc38e54e-464f-0dd1-7458-7055fac18d6d"
+        "checksum": "28e78c87-b07f-7ba4-d506-eafdf7aced8b"
       },
       {
-        "id": 855734,
+        "id": 853302,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicae",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicae.jpg",
+        "image_id": "sciaeu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaeu.jpg",
         "width": 640,
-        "checksum": "23d87989-8b0d-ed83-1688-174b5d201afb"
+        "checksum": "04e1608f-f0a6-f30d-93e5-c3f7e255806e"
       },
       {
-        "id": 855735,
+        "id": 853303,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicaf",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicaf.jpg",
+        "image_id": "sciaev",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaev.jpg",
         "width": 640,
-        "checksum": "0288a7c6-3c39-9ab3-217c-3d60a26980e3"
+        "checksum": "06480d21-4a2e-65b2-f2c8-1c88b1630a82"
       },
       {
-        "id": 855736,
+        "id": 853304,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicag",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicag.jpg",
+        "image_id": "sciaew",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaew.jpg",
         "width": 640,
-        "checksum": "ab9105f6-6a37-7969-44a7-dd2cf09aa5d2"
+        "checksum": "8d778fdc-5daf-258e-f164-414135469e91"
       },
       {
-        "id": 855737,
+        "id": 853305,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicah",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicah.jpg",
+        "image_id": "sciaex",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaex.jpg",
         "width": 640,
-        "checksum": "1a017e93-ce67-3fb2-057b-e54208aed0d4"
+        "checksum": "247bbc16-83c6-8acc-728d-cd5de3504f1b"
       },
       {
-        "id": 855738,
+        "id": 853306,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicai",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicai.jpg",
+        "image_id": "sciaey",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaey.jpg",
         "width": 640,
-        "checksum": "18fd7768-f180-9212-fc5e-4e4246959a03"
+        "checksum": "322d5512-8f8d-71f6-8540-8e48d06d3a67"
       },
       {
-        "id": 855739,
+        "id": 853307,
         "alpha_channel": false,
         "animated": false,
-        "game": 24869,
+        "game": 424,
         "height": 480,
-        "image_id": "scicaj",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicaj.jpg",
+        "image_id": "sciaez",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciaez.jpg",
         "width": 640,
-        "checksum": "4ca4b2da-ceab-c4aa-ebd7-14348f592383"
-      },
-      {
-        "id": 855740,
-        "alpha_channel": false,
-        "animated": false,
-        "game": 24869,
-        "height": 480,
-        "image_id": "scicak",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scicak.jpg",
-        "width": 640,
-        "checksum": "86190f37-db4b-1922-9303-077a21b169bc"
+        "checksum": "1c26d4a2-f4ca-d8e1-7c86-edd0c846f945"
       }
     ],
-    "slug": "resident-evil--1",
-    "storyline": "Special forces S.T.A.R.S. Bravo team's helicopter malfunctioned and crashed during their mission, disappearing into the Arklay Mountains. Now, S.T.A.R.S. Alpha team is sent on a mission to investigate a series of murders around Raccoon Forest. Spotting the Bravo team's helicopter, or what's left of it, they land nearby and investigate the surrounding area. Unaware of what they might expect, one member is attacked and devoured by zombified Dobermans. The rest of the team, with a little bit of luck, find shelter in a nearby mansion, not knowing it was probably better to stay out.",
-    "summary": "Resident Evil is the 2002 remake of the original 1996 video game of the same name featuring various improvements and gameplay overhaul. The game features all-new graphics and sound, and also incorporates gameplay elements from the earlier installments. While the overall plot remained mostly unchanged, several new areas and rooms were added to the game. This remake also features many additional modes, secrets and various endings over the original.",
-    "total_rating": 83.42645510560416,
-    "total_rating_count": 168,
-    "url": "https://www.igdb.com/games/resident-evil--1",
+    "slug": "resident-evil",
+    "storyline": "On July 24, 1998, when a series of bizarre murders occur on the outskirts of the Midwestern town of Raccoon City, the Raccoon City Police Department's S.T.A.R.S. team are assigned to investigate. After contact with Bravo Team is lost, Alpha Team is sent to investigate their disappearance. Alpha Team locates Bravo Team's crashed helicopter and land at the site, where they are suddenly attacked by a pack of monstrous dogs, killing one of the team's members. After Alpha Team's helicopter pilot, Brad Vickers, panics and takes off alone, the remaining members of the team (Chris Redfield, Jill Valentine, Albert Wesker and Barry Burton) are forced to seek refuge in a nearby abandoned mansion. It soon becomes very clear that it isn't just any mansion, but a hellish place where the undead walk the corridors and other horrors are lurking in the darkness, waiting to eat some heads.",
+    "summary": "Resident Evil is a survival horror classic in which a group of special forces agents, known as S.T.A.R.S, struggle against hordes of zombies and various other mutants in a mysterious mansion as they try to uncover the truth behind the terrifying infection. The gameplay environment consists of polygonal 3D characters placed over pre-rendered 2D backgrounds. As such, the game relies on pre-determined camera angles for a view of the action instead of a real-time camera like most games. The game is credited for coining the phrase \"survival horror\" and popularizing the genre.",
+    "total_rating": 78.1810203987794,
+    "total_rating_count": 322,
+    "url": "https://www.igdb.com/games/resident-evil",
     "videos": [
       {
-        "id": 73208,
-        "game": 24869,
-        "name": "Trailer",
-        "video_id": "mFhQrp5Bhhk",
-        "checksum": "f7adee47-0820-3d81-9349-3db2097c6835"
+        "id": 72992,
+        "game": 424,
+        "name": "Game Intro",
+        "video_id": "UWo0Hhx07Pc",
+        "checksum": "0bdb3dc2-dff1-7038-ba1e-dec5a72724dc"
       },
       {
-        "id": 73209,
-        "game": 24869,
+        "id": 72993,
+        "game": 424,
         "name": "Gameplay Video",
-        "video_id": "08YJsi7GaiM",
-        "checksum": "539e06b3-d924-0644-c35e-3ca4ee8c01d7"
+        "video_id": "sTzV88Ug7jY",
+        "checksum": "59c2fbc2-aa39-a621-5d3e-029625406c49"
       }
     ]
   },
@@ -48061,90 +48157,179 @@
     "url": "https://www.igdb.com/games/robotech-battlecry"
   },
   {
-    "id": 4091,
+    "id": 42563,
+    "alternative_names": [
+      {
+        "id": 52282,
+        "name": "第4次スーパーロボット大戦"
+      },
+      {
+        "id": 52283,
+        "name": "Super Robot Wars 4"
+      },
+      {
+        "id": 52284,
+        "name": "4th Super Robot Wars"
+      },
+      {
+        "id": 52285,
+        "name": "Super Robot Wars F"
+      },
+      {
+        "id": 52286,
+        "name": "Super Robot Wars Scramble"
+      }
+    ],
+    "collection": {
+      "id": 3051,
+      "created_at": 1506584592,
+      "games": [
+        21405,
+        26616,
+        37316,
+        37478,
+        37479,
+        37480,
+        37481,
+        37999,
+        42563,
+        44850,
+        45376,
+        49137,
+        56227,
+        58831,
+        61553,
+        65453,
+        66434,
+        70572,
+        71606,
+        72750,
+        72768,
+        72841,
+        72877,
+        76970,
+        78766,
+        78949,
+        79336,
+        79337,
+        79339,
+        79342,
+        79345,
+        80139,
+        80145,
+        80686,
+        112429,
+        112431
+      ],
+      "name": "Super Robot Taisen",
+      "slug": "super-robot-taisen",
+      "updated_at": 1667733142,
+      "url": "https://www.igdb.com/collections/super-robot-taisen",
+      "checksum": "f99bfb4c-039a-1175-66fc-48919c0f7ea0"
+    },
     "cover": {
-      "id": 79029,
-      "alpha_channel": false,
+      "id": 120038,
+      "alpha_channel": true,
       "animated": false,
-      "game": 4091,
-      "height": 1632,
-      "image_id": "co1oz9",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1oz9.jpg",
-      "width": 1224,
-      "checksum": "12999d0f-fd0b-978c-7999-7892c15756e9"
+      "game": 42563,
+      "height": 1600,
+      "image_id": "co2kme",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2kme.jpg",
+      "width": 1200,
+      "checksum": "13c4ff6c-e99d-09b3-b441-262d7f674931"
     },
-    "first_release_date": 1107475200,
-    "franchise": {
-      "id": 232,
-      "name": "Robots"
-    },
+    "first_release_date": 795398400,
     "genres": [
       {
-        "id": 8,
-        "name": "Platform"
+        "id": 12,
+        "name": "Role-playing (RPG)"
       },
       {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 10,
-        "name": "Racing"
+        "id": 15,
+        "name": "Strategy"
       }
     ],
     "involved_companies": [
       {
-        "id": 10600,
+        "id": 113282,
         "company": {
-          "id": 24,
-          "name": "Sierra Entertainment"
+          "id": 19966,
+          "name": "Banpresto Co., Ltd."
         },
-        "created_at": 1390521600,
-        "developer": false,
-        "game": 4091,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1390521600,
-        "checksum": "b427bc40-0b63-da24-2390-e0d01619895a"
-      },
-      {
-        "id": 10601,
-        "company": {
-          "id": 461,
-          "name": "Fox Interactive"
-        },
-        "created_at": 1390521600,
-        "developer": false,
-        "game": 4091,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1390521600,
-        "checksum": "54d54171-35dd-153c-64fb-67498234c96a"
-      },
-      {
-        "id": 10602,
-        "company": {
-          "id": 425,
-          "name": "Eurocom Entertainment Software"
-        },
-        "created_at": 1390521600,
+        "created_at": 1605571200,
         "developer": true,
-        "game": 4091,
+        "game": 42563,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1605571200,
+        "checksum": "4e3ebc89-6e73-cc89-ab54-fefef569a9f1"
+      },
+      {
+        "id": 113283,
+        "company": {
+          "id": 2905,
+          "name": "Winkysoft"
+        },
+        "created_at": 1605571200,
+        "developer": true,
+        "game": 42563,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1390521600,
-        "checksum": "48fbd7bb-025e-3bec-7495-a0f3b35ed828"
+        "updated_at": 1605571200,
+        "checksum": "4b75c840-6f71-1b51-6fce-2b4875f1c964"
       }
     ],
-    "name": "Robots",
-    "slug": "robots",
-    "summary": "Live the adventures of a genius inventor robot named Rodney Copperbottom as he moves to the big city to work for the company founded by his childhood hero. When Rodney uncovers a villain's plot to take over the city, the brave young bot, with the help of his new friends, overcomes all obstacles to realize his dreams -- and make the world a better place for all robots. Take wild rides in fast-paced robot vehicles, upgrade your gadgets with cooler, more useful parts, and team up with your trusty Wonderbot to solve challenging puzzles, battle evil bots, and explore a highly interactive 3D universe that brings the world of Robots the Movie to life.",
-    "total_rating": 54.56820648886495,
-    "total_rating_count": 8,
-    "url": "https://www.igdb.com/games/robots"
+    "name": "Dai-4-Ji Super Robot Taisen",
+    "screenshots": [
+      {
+        "id": 408799,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 42563,
+        "height": 224,
+        "image_id": "sc8rfj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8rfj.jpg",
+        "width": 256,
+        "checksum": "0168a64c-b04a-b3e8-dc98-00f08a0e0cee"
+      },
+      {
+        "id": 408800,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 42563,
+        "height": 224,
+        "image_id": "sc8rfk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8rfk.jpg",
+        "width": 256,
+        "checksum": "9355b8f8-fbad-62ef-3d3a-b4072432e697"
+      },
+      {
+        "id": 408801,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 42563,
+        "height": 336,
+        "image_id": "sc8rfl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8rfl.jpg",
+        "width": 384,
+        "checksum": "a1407645-95b0-9f2e-e404-4e8e335d81aa"
+      }
+    ],
+    "slug": "dai-4-ji-super-robot-taisen",
+    "storyline": "4 Months has passed since the Inspector Conflict, the Earth Sphere is once again in peace. But the increased number of terrorists that appeared throughout the world caused by the Divine Crusaders escalates, and put economic strains into the colonies which leads to some colonies in rebelling again the Earth Sphere. Brigander General Jamitov Hymem formed the group Titans to strengthen the army against the terrorists.\n\nAs Londo Bell returns from La Gaias after the events of EX, Bright Noah decides to leave his position for a while in search for Lieutenant Quarto Bajena, who went missing for unknown reasons. He parted with the Getter Team under the direction of John Kowen for his search and unravel some events happening in the current world. Things go to worse as Ondora Poseidal declared war on the surface world and even worse, the Divine Crusaders is revived by Neo Zeon Leader Haman Khan under the name Neue DC to take over the Earth Sphere.\n\nWith the war escalates, an unknown army from another galaxy called the Guests has arrived in the Earth Sphere led by the United Solar System Army Commander, Teniquette Zezenan. The reveal themselves to be part of the Zovorg Alliance which is where the Inspectors originated. With no options left, the Londo Bell must initiate Operation Final with their last fight against the Zovorg for the survival of their planet.",
+    "summary": "Dai-4-Ji Super Robot Taisen is a Sci-Fi Turn-Based Strategy game, developed and published by Banpresto, which was released in Japan in 1995.",
+    "url": "https://www.igdb.com/games/dai-4-ji-super-robot-taisen",
+    "videos": [
+      {
+        "id": 42943,
+        "game": 42563,
+        "name": "Gameplay Video",
+        "video_id": "fBFzmVOhdQY",
+        "checksum": "53283157-b370-7ad8-d430-00aa15ada5c6"
+      }
+    ]
   },
   {
     "id": 4092,
@@ -60665,120 +60850,112 @@
     "url": "https://www.igdb.com/games/the-incredible-hulk-ultimate-destruction"
   },
   {
-    "id": 3782,
-    "alternative_names": [
-      {
-        "id": 18709,
-        "name": "Incredibles"
-      },
-      {
-        "id": 40694,
-        "name": "Incredibles"
-      }
-    ],
+    "id": 45512,
     "cover": {
-      "id": 110404,
-      "alpha_channel": true,
+      "id": 236901,
+      "alpha_channel": false,
       "animated": false,
-      "game": 3782,
+      "game": 45512,
       "height": 800,
-      "image_id": "co2d6s",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2d6s.jpg",
+      "image_id": "co52sl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52sl.jpg",
       "width": 600,
-      "checksum": "5e72c23e-2fdd-248e-bcfa-c2c85cf1f3b4"
+      "checksum": "56d901e3-7b3b-8fbc-6cca-3b1a805a43c3"
     },
-    "first_release_date": 1098748800,
-    "franchise": {
-      "id": 168,
-      "name": "The Incredibles"
-    },
+    "first_release_date": 860630400,
     "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
       {
         "id": 25,
         "name": "Hack and slash/Beat 'em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
       }
     ],
     "involved_companies": [
       {
-        "id": 9794,
+        "id": 175895,
         "company": {
-          "id": 895,
-          "name": "Heavy Iron Studios"
+          "id": 4,
+          "name": "Eidos Interactive"
         },
-        "created_at": 1390003200,
-        "developer": true,
-        "game": 3782,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1390003200,
-        "checksum": "8410d041-b4f2-e96e-01d3-9ff8417f384e"
-      },
-      {
-        "id": 180171,
-        "company": {
-          "id": 197,
-          "name": "THQ"
-        },
-        "created_at": 1658748009,
+        "created_at": 1655536883,
         "developer": false,
-        "game": 3782,
+        "game": 45512,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1658748046,
-        "checksum": "e983449c-d8ac-28cb-7ece-706186c477e2"
+        "updated_at": 1655559233,
+        "checksum": "716b456b-aa32-d4c8-d6f4-f19d8095a739"
+      },
+      {
+        "id": 175896,
+        "company": {
+          "id": 1523,
+          "name": "Attention To Detail"
+        },
+        "created_at": 1655536884,
+        "developer": true,
+        "game": 45512,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1655559233,
+        "checksum": "e717e73b-ff78-bfae-1ae3-8fa781b49706"
+      },
+      {
+        "id": 175897,
+        "company": {
+          "id": 1775,
+          "name": "Silicon Dreams Studios"
+        },
+        "created_at": 1655536884,
+        "developer": false,
+        "game": 45512,
+        "porting": false,
+        "publisher": false,
+        "supporting": true,
+        "updated_at": 1655559233,
+        "checksum": "2740aee4-7185-024d-a2b7-ea75a76af8bd"
       }
     ],
-    "name": "The Incredibles",
+    "name": "The Incredible Hulk: The Pantheon Saga",
     "screenshots": [
       {
-        "id": 339831,
+        "id": 818532,
         "alpha_channel": false,
         "animated": false,
-        "game": 3782,
-        "height": 480,
-        "image_id": "sc7a7r",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7a7r.jpg",
-        "width": 640,
-        "checksum": "d691f4d3-e01c-7184-a1d2-6932f5d3df1a"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl0.jpg",
+        "width": 320,
+        "checksum": "4bb94c0a-3966-6b61-8c89-58dd7725d70f"
       },
       {
-        "id": 339832,
+        "id": 818533,
         "alpha_channel": false,
         "animated": false,
-        "game": 3782,
-        "height": 480,
-        "image_id": "sc7a7s",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7a7s.jpg",
-        "width": 640,
-        "checksum": "b46d2c55-6e26-98f3-8934-9bf56adaa619"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl1.jpg",
+        "width": 320,
+        "checksum": "26d2280b-86ea-314f-f811-8d443f7c11bb"
       },
       {
-        "id": 339833,
+        "id": 818534,
         "alpha_channel": false,
         "animated": false,
-        "game": 3782,
-        "height": 480,
-        "image_id": "sc7a7t",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7a7t.jpg",
-        "width": 640,
-        "checksum": "ae686e32-97b0-e672-92af-623c4bf9be3c"
+        "game": 45512,
+        "height": 240,
+        "image_id": "schjl2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schjl2.jpg",
+        "width": 320,
+        "checksum": "64b61070-c894-c35e-2d78-dc231578172f"
       }
     ],
-    "slug": "the-incredibles",
-    "summary": "Superstrength, superspeed, invisibility, and elasticity are all the powers you have to combat evil in The Incredibles. You'll need them, because your enemies throw bombs, bullets, and lasers at you. Based on the movie from Pixar, The Incredibles tells the story of a family of undercover superheroes that is trying to live a quiet, suburban life but is forced back into action to save the world. As the film's main characters, you must fight, race, and solve puzzles in more than 18 action-packed levels.",
-    "total_rating": 52.408911816623,
-    "total_rating_count": 29,
-    "url": "https://www.igdb.com/games/the-incredibles"
+    "slug": "the-incredible-hulk-the-pantheon-saga",
+    "storyline": "Most levels include at least one arch-enemy, such as Piecemeal, Trauma & Lazarus or the U-Foes. Luckily, the Hulk’s regenerative powers allow him to regain health slowly. Little seems to be left of the Hulk’s legendary leaping capacity, however, so the green meat ball is forced to hop from platform to platform every now and then.",
+    "summary": "True to the comic books, the Hulk relies on no other weapons than his massive muscles to punch, kick and crush his enemies. When he has accumulated enough gamma energy, he may use powerful special moves like a Vortex Spin or the Floor Hammer. Rare bonus items also allow the Hulk to summon one of the four Pantheon team members Atalanta, Ulysses, Ajax and Hector to assist in the thick of battle.",
+    "url": "https://www.igdb.com/games/the-incredible-hulk-the-pantheon-saga"
   },
   {
     "id": 3955,
@@ -63447,38 +63624,70 @@
     "url": "https://www.igdb.com/games/the-sims-bustin-out"
   },
   {
-    "id": 223,
+    "id": 7519,
     "alternative_names": [
       {
-        "id": 76948,
-        "name": "Les Sims"
+        "id": 57273,
+        "name": "Sim Tower"
       },
       {
-        "id": 97713,
-        "name": "Sims"
+        "id": 57274,
+        "name": "The Tower"
       },
       {
-        "id": 97714,
-        "name": "Los Sims"
+        "id": 57275,
+        "name": "SimTower: The Vertical Empire"
+      },
+      {
+        "id": 57277,
+        "name": "ザ・タワー"
+      },
+      {
+        "id": 57278,
+        "name": "Sim Tower: The Vertical Empire"
+      },
+      {
+        "id": 57282,
+        "name": "Za Tawaa"
       }
     ],
+    "collection": {
+      "id": 4628,
+      "created_at": 1512851081,
+      "games": [
+        869,
+        5438,
+        7519,
+        9520,
+        12768,
+        12907,
+        16613,
+        42017,
+        44456,
+        46438,
+        74020,
+        93048,
+        95477
+      ],
+      "name": "Sim",
+      "slug": "sim",
+      "updated_at": 1661849496,
+      "url": "https://www.igdb.com/collections/sim",
+      "checksum": "aae60060-6f65-8737-6465-3f5249dc1fe3"
+    },
     "cover": {
-      "id": 162453,
+      "id": 134597,
       "alpha_channel": false,
       "animated": false,
-      "game": 223,
-      "height": 957,
-      "image_id": "co3hcl",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3hcl.jpg",
-      "width": 718,
-      "checksum": "358bab35-9e21-c413-5cf8-ba1e70c4fc00"
+      "game": 7519,
+      "height": 1125,
+      "image_id": "co2vut",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vut.jpg",
+      "width": 844,
+      "checksum": "5b39029d-b1fb-b28b-1c55-86b96a2e9d55"
     },
-    "first_release_date": 949622400,
+    "first_release_date": 783648000,
     "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
       {
         "id": 13,
         "name": "Simulator"
@@ -63486,228 +63695,72 @@
       {
         "id": 15,
         "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
       }
     ],
     "involved_companies": [
       {
-        "id": 143283,
+        "id": 122250,
+        "company": {
+          "id": 3111,
+          "name": "OpenBook Co."
+        },
+        "created_at": 1616482473,
+        "developer": true,
+        "game": 7519,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1616489721,
+        "checksum": "d0b43729-bf1c-0e4d-5294-b8331b2ac425"
+      },
+      {
+        "id": 122251,
         "company": {
           "id": 284,
           "name": "Maxis"
         },
-        "created_at": 1627489617,
+        "created_at": 1616482473,
+        "developer": false,
+        "game": 7519,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1616489722,
+        "checksum": "e3811534-2475-e85d-33e9-798fffe81f1c"
+      },
+      {
+        "id": 122255,
+        "company": {
+          "id": 3111,
+          "name": "OpenBook Co."
+        },
+        "created_at": 1616485806,
         "developer": true,
-        "game": 223,
-        "porting": false,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1627489703,
-        "checksum": "052ce49f-13ac-8683-a2a7-e6ac7e3b1925"
-      },
-      {
-        "id": 143284,
-        "company": {
-          "id": 1,
-          "name": "Electronic Arts"
-        },
-        "created_at": 1627489617,
-        "developer": false,
-        "game": 223,
+        "game": 7519,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1627489704,
-        "checksum": "d3c746ed-1816-44a3-940a-e78e5f927bae"
-      },
-      {
-        "id": 143296,
-        "company": {
-          "id": 223,
-          "name": "Edge of Reality"
-        },
-        "created_at": 1627493586,
-        "developer": false,
-        "game": 223,
-        "porting": true,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1627493601,
-        "checksum": "ec923653-7500-0d3d-6628-11cd06cd9454"
-      },
-      {
-        "id": 143297,
-        "company": {
-          "id": 54,
-          "name": "TransGaming Technologies"
-        },
-        "created_at": 1627493586,
-        "developer": false,
-        "game": 223,
-        "porting": true,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1627493601,
-        "checksum": "1786a880-49d1-1b11-9bcb-954a1c9e8ce1"
-      },
-      {
-        "id": 143298,
-        "company": {
-          "id": 73,
-          "name": "Aspyr Media"
-        },
-        "created_at": 1627493586,
-        "developer": false,
-        "game": 223,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1627493601,
-        "checksum": "fe7adb48-7631-cee3-2361-9865a9b56d46"
-      },
-      {
-        "id": 143299,
-        "company": {
-          "id": 378,
-          "name": "Westlake Interactive"
-        },
-        "created_at": 1627493586,
-        "developer": false,
-        "game": 223,
-        "porting": true,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1627493601,
-        "checksum": "597cbee3-010a-a72d-8c6a-342485ea02e6"
+        "updated_at": 1616489722,
+        "checksum": "d16f0601-adfa-45d1-c74b-5517cb0e780a"
       }
     ],
-    "name": "The Sims",
+    "name": "SimTower",
     "screenshots": [
       {
-        "id": 16864,
-        "game": 223,
-        "height": 600,
-        "image_id": "hzr64b9fpcskwptxpseb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzr64b9fpcskwptxpseb.jpg",
-        "width": 800,
-        "checksum": "c7e55fda-46ae-e174-80ff-3208ee99b121"
-      },
-      {
-        "id": 176567,
-        "game": 223,
-        "height": 480,
-        "image_id": "vm94apmf4bn6iewh5xlm",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vm94apmf4bn6iewh5xlm.jpg",
-        "width": 640,
-        "checksum": "5152f64c-5f0b-fcfd-6b94-8b3b27f2e604"
-      },
-      {
-        "id": 176568,
-        "game": 223,
-        "height": 480,
-        "image_id": "mvxiohvyshzakeajurjb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mvxiohvyshzakeajurjb.jpg",
-        "width": 640,
-        "checksum": "8ac426fe-e336-5e11-195c-5985eafe7cb7"
-      },
-      {
-        "id": 176569,
-        "game": 223,
-        "height": 480,
-        "image_id": "jlkxp32t9vp91x7zolzk",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlkxp32t9vp91x7zolzk.jpg",
-        "width": 640,
-        "checksum": "825bca4d-1b0c-6ae8-2b2c-5cbfc48f0dc9"
-      },
-      {
-        "id": 176570,
-        "game": 223,
-        "height": 480,
-        "image_id": "ogsnhzo8ue7ifqxuusif",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ogsnhzo8ue7ifqxuusif.jpg",
-        "width": 640,
-        "checksum": "bf814d01-d716-256b-89ec-8fdfbbc34932"
-      },
-      {
-        "id": 176571,
-        "game": 223,
-        "height": 480,
-        "image_id": "slwwxi7jt8q8cpnoqx4x",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/slwwxi7jt8q8cpnoqx4x.jpg",
-        "width": 640,
-        "checksum": "4693636c-b94a-e3f8-6011-7a9c13df193d"
-      },
-      {
-        "id": 176572,
-        "game": 223,
-        "height": 480,
-        "image_id": "qxflu5g6y4k8vpbwz3v4",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxflu5g6y4k8vpbwz3v4.jpg",
-        "width": 640,
-        "checksum": "b63c6706-3a3a-0d21-e28a-fe229db3e10c"
-      },
-      {
-        "id": 176573,
-        "game": 223,
-        "height": 480,
-        "image_id": "t8bv2mpwqwkit2prerse",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/t8bv2mpwqwkit2prerse.jpg",
-        "width": 640,
-        "checksum": "32346418-3a61-9777-62ab-cad38a8d1976"
-      },
-      {
-        "id": 176574,
-        "game": 223,
-        "height": 480,
-        "image_id": "g0gonv6d0u7bwbflpktb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/g0gonv6d0u7bwbflpktb.jpg",
-        "width": 640,
-        "checksum": "ee920620-d590-41b7-a34e-7fbebc3568a9"
-      },
-      {
-        "id": 176575,
-        "game": 223,
-        "height": 480,
-        "image_id": "sx7lsbysfjwiwgj6fnw5",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sx7lsbysfjwiwgj6fnw5.jpg",
-        "width": 640,
-        "checksum": "00d35d95-c446-996a-7afe-8fbdcb6e6bff"
-      },
-      {
-        "id": 176576,
-        "game": 223,
-        "height": 480,
-        "image_id": "pc094vgatjiw2letns8o",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pc094vgatjiw2letns8o.jpg",
-        "width": 640,
-        "checksum": "da9a6cc1-f2be-38ba-e6fc-7ca6a214f526"
+        "id": 6164,
+        "game": 7519,
+        "height": 248,
+        "image_id": "mf0tbfc15ombsbompbh1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mf0tbfc15ombsbompbh1.jpg",
+        "width": 330,
+        "checksum": "174403a8-dd2d-0f69-db12-64c0c1b491d6"
       }
     ],
-    "slug": "the-sims",
-    "storyline": "Management in The Sims revolves around decision-making. From physical environmental layouts, to mental outlook, emotional makeup and skills of your Sims, you'll be immersed in their daily lives. Activities include buying and placing unique items for households and offices, selling and replacing worn out furnishings, and otherwise building and maintaining the world in which your Sims live.\n\nYou'll guide your Sims in life-development phases and chemistry between your Sims is a product of your manipulations as well - all form the level and style of interaction through conversations with other Sims.\n\nThe Sims has a range of ten career tracks for your breadwinners to follow and each career advancement requires specific skills for success. There are ten levels of positions within each of the ten career tracks - your Sims can work their way up in career fields.\n\nYour Sims can experience floods, fires, and robberies. Neglect, starvation, loss of energy, failure to perform basic bathroom visits - all can affect your Sims and even stop them in their tracks. Death is an option and entire families could be wiped out by complete neglect and starvation.",
-    "summary": "The Sims is a life-building simulation with emphasis on intimate details of individual characters rather than expansion of an entire society or civilization. You are in control of nearly every aspect of the lives of the individuals who make up your chosen population in the neighborhood. Characters are developed from the ground up and you infuse and mold them with personalities, looks, desires, moods, urges, living arrangements, career and personal choices, life styles, and reactions.",
-    "total_rating": 82.46687350853655,
-    "total_rating_count": 398,
-    "url": "https://www.igdb.com/games/the-sims",
-    "videos": [
-      {
-        "id": 1965,
-        "game": 223,
-        "name": "Trailer",
-        "video_id": "H6UHmDPZ3eQ",
-        "checksum": "e17f9f68-f677-f67f-be45-8401626dc0c2"
-      },
-      {
-        "id": 52876,
-        "game": 223,
-        "name": "Trailer",
-        "video_id": "8yLpvhNfoWA",
-        "checksum": "9638af4c-f722-b704-ce84-669861a46fa0"
-      }
-    ]
+    "slug": "simtower",
+    "summary": "Welcome to the building simulation game SimTower, which offers the chance to build and manage all the complex, interconnected operations of a modern skycraper. You build your empire from nothing and become the engineer and general manager of your structure. You can provide offices, coffee shops or apartments to anyone who is willing to pay.",
+    "total_rating": 65.15369539911279,
+    "total_rating_count": 14,
+    "url": "https://www.igdb.com/games/simtower"
   },
   {
     "id": 2767,
@@ -72409,217 +72462,181 @@
     "url": "https://www.igdb.com/games/xgra-extreme-g-racing-association"
   },
   {
-    "id": 1987,
+    "id": 9258,
     "alternative_names": [
       {
-        "id": 18289,
-        "name": "Thirteen"
-      },
-      {
-        "id": 36187,
-        "name": "XIII - Classic"
+        "id": 3928,
+        "name": "ブレインデッド13"
       }
     ],
     "cover": {
-      "id": 125170,
+      "id": 182161,
       "alpha_channel": false,
       "animated": false,
-      "game": 1987,
-      "height": 800,
-      "image_id": "co2oky",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2oky.jpg",
-      "width": 600,
-      "checksum": "99c4c199-3f3a-07aa-58e6-e1fef6055d62"
+      "game": 9258,
+      "height": 1870,
+      "image_id": "co3wk1",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wk1.jpg",
+      "width": 1403,
+      "checksum": "ee43dcaa-fb85-9e44-5037-64110994c665"
     },
-    "first_release_date": 1069113600,
-    "franchise": {
-      "id": 47,
-      "name": "XIII"
-    },
+    "first_release_date": 818985600,
     "genres": [
       {
-        "id": 5,
-        "name": "Shooter"
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
       }
     ],
     "involved_companies": [
       {
-        "id": 59108,
+        "id": 22533,
         "company": {
-          "id": 23,
-          "name": "Feral Interactive"
+          "id": 5058,
+          "name": "ReadySoft"
         },
-        "created_at": 1513468800,
+        "created_at": 1427241600,
+        "developer": true,
+        "game": 9258,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1427241600,
+        "checksum": "397d41c1-5454-2de9-afd6-ef2f7e7da268"
+      },
+      {
+        "id": 22534,
+        "company": {
+          "id": 2386,
+          "name": "Coconuts Japan"
+        },
+        "created_at": 1427241600,
         "developer": false,
-        "game": 1987,
+        "game": 9258,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "eca75031-cc52-004b-b753-bca5a59b2623"
+        "updated_at": 1427241600,
+        "checksum": "48035555-ef6c-075f-2234-9762b8c2b736"
       },
       {
-        "id": 59109,
+        "id": 22535,
         "company": {
-          "id": 933,
-          "name": "SouthEnd Interactive"
+          "id": 340,
+          "name": "Empire Interactive"
         },
-        "created_at": 1513468800,
+        "created_at": 1427241600,
         "developer": false,
-        "game": 1987,
-        "porting": true,
-        "publisher": false,
+        "game": 9258,
+        "porting": false,
+        "publisher": true,
         "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "3da741f5-0f41-07b8-33e6-7aa3bc3cda04"
+        "updated_at": 1427241600,
+        "checksum": "c028d050-d156-e3cb-f23a-dd562b2401f3"
       },
       {
-        "id": 59110,
+        "id": 22536,
         "company": {
-          "id": 841,
-          "name": "Ubisoft Paris"
+          "id": 5058,
+          "name": "ReadySoft"
         },
-        "created_at": 1513468800,
-        "developer": true,
-        "game": 1987,
+        "created_at": 1427241600,
+        "developer": false,
+        "game": 9258,
         "porting": false,
-        "publisher": false,
+        "publisher": true,
         "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "91453de6-1b26-9883-8d1a-56d57b4cb003"
+        "updated_at": 1427241600,
+        "checksum": "9ba18ac1-31bc-fc22-0406-e4124776301f"
       },
       {
-        "id": 192550,
+        "id": 22537,
         "company": {
-          "id": 631,
-          "name": "Zonic Limited"
+          "id": 2389,
+          "name": "Digital Leisure"
         },
-        "created_at": 1667073681,
-        "developer": true,
-        "game": 1987,
+        "created_at": 1427241600,
+        "developer": false,
+        "game": 9258,
         "porting": false,
-        "publisher": false,
+        "publisher": true,
         "supporting": false,
-        "updated_at": 1667123791,
-        "checksum": "ce932e9d-d502-4b1a-0156-b2c8cf7ab70f"
+        "updated_at": 1427241600,
+        "checksum": "fe99a84c-666e-a3ce-90c9-5b1d58737513"
+      },
+      {
+        "id": 22538,
+        "company": {
+          "id": 5058,
+          "name": "ReadySoft"
+        },
+        "created_at": 1427241600,
+        "developer": false,
+        "game": 9258,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1427241600,
+        "checksum": "abced3b6-a0f3-ea80-5baf-9c73c04128f2"
+      },
+      {
+        "id": 22539,
+        "company": {
+          "id": 2389,
+          "name": "Digital Leisure"
+        },
+        "created_at": 1427241600,
+        "developer": false,
+        "game": 9258,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1427241600,
+        "checksum": "985a30e5-6ad0-03cb-6715-508f9a33f6dc"
       }
     ],
-    "name": "XIII",
+    "name": "Brain Dead 13",
     "screenshots": [
       {
-        "id": 6282,
-        "game": 1987,
-        "height": 448,
-        "image_id": "mhcwlzn1shsexw8s1fui",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mhcwlzn1shsexw8s1fui.jpg",
-        "width": 640,
-        "checksum": "d18c13a1-16f9-fdbc-4001-a3147ae6ee89"
+        "id": 652861,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9258,
+        "height": 480,
+        "image_id": "scdzr1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdzr1.jpg",
+        "width": 720,
+        "checksum": "c138877a-733e-39ed-817a-d87e621cf62c"
       },
       {
-        "id": 178998,
-        "game": 1987,
+        "id": 652862,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9258,
         "height": 480,
-        "image_id": "knfh4shfz5ynd0vp7kxb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/knfh4shfz5ynd0vp7kxb.jpg",
-        "width": 640,
-        "checksum": "059c21f9-d13f-2f5d-bc4d-dccfacff6dc3"
+        "image_id": "scdzr2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdzr2.jpg",
+        "width": 720,
+        "checksum": "1750457f-89ab-7be7-17c7-26735f23de35"
       },
       {
-        "id": 178999,
-        "game": 1987,
+        "id": 652863,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 9258,
         "height": 480,
-        "image_id": "se33peflkbvoctge37te",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/se33peflkbvoctge37te.jpg",
-        "width": 640,
-        "checksum": "8d91b048-a8d6-bff1-eb27-82b1923bb4e9"
-      },
-      {
-        "id": 179000,
-        "game": 1987,
-        "height": 480,
-        "image_id": "o3i0cfwespn06ldvgwbj",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/o3i0cfwespn06ldvgwbj.jpg",
-        "width": 640,
-        "checksum": "a9d99d4a-a13e-aed4-2387-7984c2618b06"
-      },
-      {
-        "id": 179001,
-        "game": 1987,
-        "height": 480,
-        "image_id": "vzgmr1pdcyy4mdifopfv",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzgmr1pdcyy4mdifopfv.jpg",
-        "width": 640,
-        "checksum": "ff25a9bf-5d59-bb6a-80e7-48ec2a00b303"
-      },
-      {
-        "id": 179002,
-        "game": 1987,
-        "height": 480,
-        "image_id": "ly21nrebprkvbcizsymw",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ly21nrebprkvbcizsymw.jpg",
-        "width": 640,
-        "checksum": "fe989b91-4609-7b3d-c904-d13a567115cf"
-      },
-      {
-        "id": 179003,
-        "game": 1987,
-        "height": 480,
-        "image_id": "ziirj8dbr2nv51lo84sp",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ziirj8dbr2nv51lo84sp.jpg",
-        "width": 640,
-        "checksum": "a86305b6-0de0-911f-1994-d98432a16a83"
-      },
-      {
-        "id": 179004,
-        "game": 1987,
-        "height": 480,
-        "image_id": "xnrhnihlkjxonzxxykqz",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xnrhnihlkjxonzxxykqz.jpg",
-        "width": 640,
-        "checksum": "c0dcf723-609c-6026-8434-5b73c5e23381"
-      },
-      {
-        "id": 179005,
-        "game": 1987,
-        "height": 480,
-        "image_id": "vp0pxng8b5wigaxqejgp",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vp0pxng8b5wigaxqejgp.jpg",
-        "width": 640,
-        "checksum": "e68af968-c403-a688-96d7-b2c857bf591f"
-      },
-      {
-        "id": 179006,
-        "game": 1987,
-        "height": 480,
-        "image_id": "q4mxb10hhcgmwpv01ylj",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q4mxb10hhcgmwpv01ylj.jpg",
-        "width": 640,
-        "checksum": "6eadb844-88e1-12d9-ffe9-b20853e100ce"
-      },
-      {
-        "id": 179007,
-        "game": 1987,
-        "height": 480,
-        "image_id": "a6unpevk2xonqxdk9pi4",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/a6unpevk2xonqxdk9pi4.jpg",
-        "width": 640,
-        "checksum": "4c67a984-5242-d51a-0929-62e311addf04"
+        "image_id": "scdzr3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdzr3.jpg",
+        "width": 720,
+        "checksum": "abfffdb7-7cfc-46bd-81c6-e6dca27821ff"
       }
     ],
-    "slug": "xiii",
-    "summary": "The President of the United States of America has been assassinated and you're the world's prime suspect. The FBI, the CIA, and a gang of murderous killers are trying to hunt you down. Stricken with amnesia you remember nothing, not even who you are. You're on your own and there is no one you can trust. All you have is a safe deposit key, a mysterious tattoo, and a gun. Clear your name, solve the mystery, and catch the true assassin before he strikes again.",
-    "total_rating": 75.8679356717558,
-    "total_rating_count": 100,
-    "url": "https://www.igdb.com/games/xiii",
-    "videos": [
-      {
-        "id": 4039,
-        "game": 1987,
-        "name": "Trailer",
-        "video_id": "_yTNf3KYspE",
-        "checksum": "bad1973a-a753-3ff0-6ad0-f924678ab9a8"
-      }
-    ]
+    "slug": "brain-dead-13",
+    "summary": "In Braindead 13, the player takes on the role of a young computer expert who one day is called to fix a computer at some scary castle and in no time flat, finds himself in trouble.\n\nIt is up to the player to use the complex moves of an interactive movie to escape from the castle. This animated adventure is basically based on the player's judgment on which direction you think the character might go, and if the player guesses wrong, death.",
+    "url": "https://www.igdb.com/games/brain-dead-13"
   },
   {
     "id": 4582,

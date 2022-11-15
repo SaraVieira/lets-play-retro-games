@@ -11,6 +11,25 @@
         "name": "After Burner Complete"
       }
     ],
+    "collection": {
+      "id": 1975,
+      "created_at": 1451523272,
+      "games": [
+        5352,
+        5356,
+        5468,
+        20085,
+        23085,
+        46698,
+        113199,
+        200166
+      ],
+      "name": "After Burner",
+      "slug": "after-burner",
+      "updated_at": 1666315500,
+      "url": "https://www.igdb.com/collections/after-burner",
+      "checksum": "7b916f70-eefc-b6db-a727-a809a33ab137"
+    },
     "cover": {
       "id": 186809,
       "alpha_channel": false,
@@ -82,6 +101,20 @@
   },
   {
     "id": 5362,
+    "collection": {
+      "id": 1599,
+      "created_at": 1441119131,
+      "games": [
+        4371,
+        4516,
+        5362
+      ],
+      "name": "Chuck Rock",
+      "slug": "chuck-rock",
+      "updated_at": 1657289259,
+      "url": "https://www.igdb.com/collections/chuck-rock",
+      "checksum": "5a3a0722-71ce-2406-69f3-a30d1c85300c"
+    },
     "cover": {
       "id": 79230,
       "alpha_channel": false,
@@ -362,6 +395,19 @@
         "name": "Brutal Unleashed"
       }
     ],
+    "collection": {
+      "id": 5069,
+      "created_at": 1512982563,
+      "games": [
+        4449,
+        45879
+      ],
+      "name": "Brutal",
+      "slug": "brutal",
+      "updated_at": 1512982563,
+      "url": "https://www.igdb.com/collections/brutal",
+      "checksum": "3e1a7b36-c7b0-43e1-f126-46bdeffbfbd0"
+    },
     "cover": {
       "id": 27996,
       "game": 45879,
@@ -475,6 +521,23 @@
   },
   {
     "id": 45883,
+    "collection": {
+      "id": 4893,
+      "created_at": 1512904068,
+      "games": [
+        42003,
+        42005,
+        45866,
+        45883,
+        73449,
+        79496
+      ],
+      "name": "Cosmic Fantasy Series",
+      "slug": "cosmic-fantasy-series",
+      "updated_at": 1652184003,
+      "url": "https://www.igdb.com/collections/cosmic-fantasy-series",
+      "checksum": "2de6652f-b84e-724b-71b9-1a5e9ec4e94b"
+    },
     "cover": {
       "id": 27992,
       "game": 45883,
@@ -645,16 +708,63 @@
         "name": "DOOM95"
       }
     ],
+    "collection": {
+      "id": 129,
+      "created_at": 1317813766,
+      "games": [
+        280,
+        312,
+        672,
+        673,
+        3471,
+        6641,
+        6968,
+        7351,
+        8191,
+        8852,
+        10192,
+        22431,
+        25571,
+        26558,
+        37031,
+        41614,
+        52918,
+        76217,
+        101029,
+        101031,
+        103298,
+        119312,
+        119888,
+        126295,
+        129898,
+        132823,
+        136539,
+        144731,
+        145387,
+        148221,
+        148394,
+        165206,
+        167753,
+        170995,
+        211243,
+        224522
+      ],
+      "name": "Doom",
+      "slug": "doom",
+      "updated_at": 1668449546,
+      "url": "https://www.igdb.com/collections/doom",
+      "checksum": "02c4a450-eaad-133f-a901-7fb8d4293818"
+    },
     "cover": {
-      "id": 87099,
+      "id": 268663,
       "alpha_channel": false,
       "animated": false,
       "game": 673,
-      "height": 960,
-      "image_id": "co1v7f",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v7f.jpg",
-      "width": 720,
-      "checksum": "63f9d481-c1ac-e09b-e81a-32910a81cdf9"
+      "height": 1080,
+      "image_id": "co5rav",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rav.jpg",
+      "width": 810,
+      "checksum": "e666815f-c72c-db61-9f60-e0ce23e85752"
     },
     "first_release_date": 755481600,
     "genres": [
@@ -678,36 +788,6 @@
         "supporting": false,
         "updated_at": 1415836800,
         "checksum": "91266f57-5bf5-da22-b6b3-80d547758add"
-      },
-      {
-        "id": 19610,
-        "company": {
-          "id": 205,
-          "name": "GT Interactive"
-        },
-        "created_at": 1415836800,
-        "developer": false,
-        "game": 673,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1415836800,
-        "checksum": "d67618e8-d3b4-1603-928f-fb512fa58c4d"
-      },
-      {
-        "id": 19611,
-        "company": {
-          "id": 4112,
-          "name": "Soft Bank"
-        },
-        "created_at": 1415836800,
-        "developer": false,
-        "game": 673,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1415836800,
-        "checksum": "6d20745d-9f3c-ac44-e0c6-122c2e378d80"
       },
       {
         "id": 19612,
@@ -738,21 +818,6 @@
         "supporting": false,
         "updated_at": 1415836800,
         "checksum": "32946736-9f8b-97a0-b45c-adcf99d445cc"
-      },
-      {
-        "id": 19614,
-        "company": {
-          "id": 665,
-          "name": "Williams Entertainment"
-        },
-        "created_at": 1415836800,
-        "developer": false,
-        "game": 673,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1415836800,
-        "checksum": "f8047bb8-6689-5ee2-903b-bf74b0be633d"
       },
       {
         "id": 19615,
@@ -918,6 +983,51 @@
         "supporting": false,
         "updated_at": 1621246773,
         "checksum": "8c7dc7c1-1d6e-76b6-9995-ade09390abc8"
+      },
+      {
+        "id": 192344,
+        "company": {
+          "id": 4112,
+          "name": "Soft Bank"
+        },
+        "created_at": 1666942039,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1666951760,
+        "checksum": "4e3460df-9a9b-edab-a1c2-3e736a151534"
+      },
+      {
+        "id": 192345,
+        "company": {
+          "id": 205,
+          "name": "GT Interactive"
+        },
+        "created_at": 1666942039,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1666951760,
+        "checksum": "3c184f20-56a6-6e9a-460f-80b9ea5bdc7c"
+      },
+      {
+        "id": 192346,
+        "company": {
+          "id": 665,
+          "name": "Williams Entertainment"
+        },
+        "created_at": 1666942039,
+        "developer": false,
+        "game": 673,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1666951760,
+        "checksum": "2e15fd12-d04f-c45d-30a4-f029304f7160"
       }
     ],
     "name": "DOOM",
@@ -971,8 +1081,8 @@
     "slug": "doom",
     "storyline": "The player takes the role of a marine (unnamed to further represent the person playing), \"one of Earth's toughest, hardened in combat and trained for action\", who has been incarcerated on Mars after assaulting a senior officer when ordered to fire upon civilians. There, he works alongside the Union Aerospace Corporation (UAC), a multi-planetary conglomerate and military contractor performing secret experiments on interdimensional travel. Recently, the teleportation has shown signs of anomalies and instability, but the research continues nonetheless.\n\nSuddenly, something goes wrong and creatures from hell swarm out of the teleportation gates on Deimos and Phobos. A defensive response from base security fails to halt the invasion, and the bases are quickly overrun by monsters; all personnel are killed or turned into zombies\n\nA military detachment from Mars travels to Phobos to investigate the incident. The player is tasked with securing the perimeter, as the assault team and their heavy weapons are brought inside. Radio contact soon ceases and the player realizes that he is the only survivor. Being unable to pilot the shuttle off of Phobos by himself, the only way to escape is to go inside and fight through the complexes of the moon base.",
     "summary": "In the future, humans have left Earth and settled throughout the galaxy. On Mars, the Union Aerospace Corporation has established a radioactive waste facility and allowed the military to conduct teleportation experiments on the nearby moons of Deimos and Phobos. Hours ago, the base on Mars began receiving incoherent distress messages from Phobos, while Deimos has disappeared completely. With all attempts to establish contact failing, you and your team have been dispatched to investigate. Upon arrival, you secure the perimeter as the rest of your team enters the facility. As you stand guard, your radio crackles with the sound of gunfire, cracking bones and blood-curdling screams and eventually falls silent. Alone, with no way off the planet or means to defend yourself other than your trusty pistol, there’s only one way out - into the complex of death and the horrors that await you within. If you plan to get out of here alive you must fend off the hordes of demonic imps, haunting spectres and your undead, former comrades waiting to tear you limb from limb. So, grab the nearest shotgun and blast your way out of this fragging madness!",
-    "total_rating": 82.3448290129594,
-    "total_rating_count": 809,
+    "total_rating": 82.45512212150325,
+    "total_rating_count": 815,
     "url": "https://www.igdb.com/games/doom"
   },
   {
@@ -1175,6 +1285,87 @@
         "name": "Chaotix"
       }
     ],
+    "collection": {
+      "id": 2156,
+      "created_at": 1463667133,
+      "games": [
+        217,
+        506,
+        2267,
+        2607,
+        3192,
+        4156,
+        4157,
+        4438,
+        5169,
+        5452,
+        6231,
+        6797,
+        9473,
+        9474,
+        9475,
+        9476,
+        11219,
+        16036,
+        19538,
+        19556,
+        19762,
+        20502,
+        21062,
+        21902,
+        22297,
+        22510,
+        28000,
+        43321,
+        43322,
+        43323,
+        45986,
+        50924,
+        52188,
+        54556,
+        56739,
+        63904,
+        64842,
+        72822,
+        74882,
+        78430,
+        84657,
+        86807,
+        88912,
+        89889,
+        94873,
+        106274,
+        110061,
+        112095,
+        112884,
+        112897,
+        128798,
+        133933,
+        133935,
+        133938,
+        133942,
+        133943,
+        135370,
+        136662,
+        150005,
+        150007,
+        150010,
+        163458,
+        197602,
+        197603,
+        197617,
+        198580,
+        202966,
+        203489,
+        206597,
+        210300
+      ],
+      "name": "Sonic the Hedgehog",
+      "slug": "sonic-the-hedgehog",
+      "updated_at": 1668477750,
+      "url": "https://www.igdb.com/collections/sonic-the-hedgehog",
+      "checksum": "5265db0e-95ba-2aed-b658-fc480606abdb"
+    },
     "cover": {
       "id": 138048,
       "alpha_channel": false,
@@ -1345,8 +1536,8 @@
     "slug": "knuckles-chaotix",
     "storyline": "Story\nThe story of Knuckles' Chaotix varies between the Japanese and Western releases of the game, with completely irreconcilable storylines separating the two.\n\nJapanese\nA mysterious island rose from the southern sea a few months after the events of Sonic & Knuckles. Dr. Eggman discovered the island, and found a mysterious little ring inscribed with text dating from a legendary civilization. Soon after, Eggman found another ancient ring resembling one of the Super Rings of the Floating Island, which turned out to be the Special Ring once used by that lost people. The mysterious space the Special Ring created was filled with the Master Emerald Pillar's energy, which crystallized into six Chaos Rings. After this phenomenon, Eggman decided to continue the investigation of the Special Ring in order to uncover the secrets of the rings used by Sonic and friends, as well as to theoretically summon the coveted Master Emerald. Inspired, Eggman quickly converted the island into a resort he dubbed Newtrogic High Zone, serving as his high-tech research fortress. He crystallized energy into artificial Dark Rings for his machines, and began to develop Ring Power, which would create a space-time connection between Rings. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee all arrived at the island for different reasons, and ended up being captured and placed in the Combi Catcher machine by Eggman and Metal Sonic. Knuckles the Echidna, deducing that something was amplifying the power of the Master Emerald Pillar, also headed to the island and managed to rescue Espio along the way. The two then make their way to the World Entrance where they find the others, and go on to stop Dr. Eggman from succeeding in his plans.\n\nWestern\nThe plot starts out on the day before the opening day of Carnival Island, a huge amusement resort with the latest in high-tech rides and games. As the guardian of the island, Knuckles' job was to make sure nothing went wrong before the grand event.\n\nBehind the scenes, however, Dr. Robotnik was cooking up a new dastardly scheme. To fuel his latest diabolical device, Robotnik went to Carnival Island to find the Power Emerald that supplied electricity to the entire island- a tool which would fit into his plan perfectly. To further ensure that Knuckles and his friends would not interfere with his plans, Robotnik used his Combi Catcher to freeze Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee in time.\n\nWhen Knuckles returned from patrolling the far end of the island, he found Dr. Robotnik as he was imprisoning Espio the Chameleon in a Combi Catcher, scaring the villain off and rescuing Espio. After that, Knuckles discovered that he could rescue his other friends one at a time by using Ring Power, a power that holds two partners together like a magical rubber band. Never held back for long, Knuckles set out with his team to save Carnival Island from Robotnik before the grand opening.",
     "summary": "A mysterious island rose from the sea shortly after the events of Sonic & Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.",
-    "total_rating": 67.8523000996701,
-    "total_rating_count": 13,
+    "total_rating": 67.9700377442213,
+    "total_rating_count": 14,
     "url": "https://www.igdb.com/games/knuckles-chaotix",
     "videos": [
       {
@@ -1559,6 +1750,63 @@
         "name": "Mortal Kombat 2"
       }
     ],
+    "collection": {
+      "id": 22,
+      "created_at": 1300106860,
+      "games": [
+        119,
+        1610,
+        1612,
+        1613,
+        1614,
+        1615,
+        1616,
+        1617,
+        1618,
+        1619,
+        1620,
+        1621,
+        1622,
+        1623,
+        2977,
+        4121,
+        7292,
+        18150,
+        19832,
+        21526,
+        24215,
+        26635,
+        27887,
+        27889,
+        43251,
+        44618,
+        45153,
+        45155,
+        45156,
+        77992,
+        81899,
+        112916,
+        118730,
+        119130,
+        119131,
+        128009,
+        133266,
+        133273,
+        133274,
+        133275,
+        133276,
+        133277,
+        133278,
+        133950,
+        133955,
+        207160
+      ],
+      "name": "Mortal Kombat",
+      "slug": "mortal-kombat",
+      "updated_at": 1668421001,
+      "url": "https://www.igdb.com/collections/mortal-kombat",
+      "checksum": "974a0b89-3a3a-1def-0a00-ccbdd98ecb41"
+    },
     "cover": {
       "id": 90794,
       "alpha_channel": false,
@@ -1733,7 +1981,7 @@
     "slug": "mortal-kombat-ii",
     "storyline": "Following his defeat, Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and restores Tsung's youth. He extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The tournament is dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will unbalance the furies and allow Outworld to subsume Earthrealm.",
     "summary": "The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.",
-    "total_rating": 75.7197826992374,
+    "total_rating": 75.7185702259582,
     "total_rating_count": 222,
     "url": "https://www.igdb.com/games/mortal-kombat-ii",
     "videos": [
@@ -1824,10 +2072,30 @@
     "id": 19712,
     "alternative_names": [
       {
-        "id": 6710,
-        "name": "NBA JAMトーナメントエディション"
+        "id": 115594,
+        "name": "NBA Jam トーナメントエディション"
       }
     ],
+    "collection": {
+      "id": 610,
+      "created_at": 1389132618,
+      "games": [
+        3551,
+        3552,
+        5059,
+        6523,
+        8995,
+        8997,
+        19712,
+        21076,
+        40205
+      ],
+      "name": "NBA Jam",
+      "slug": "nba-jam",
+      "updated_at": 1666809306,
+      "url": "https://www.igdb.com/collections/nba-jam",
+      "checksum": "3b7fbe63-9bda-10a8-1906-9f8cf42bb15f"
+    },
     "cover": {
       "id": 111031,
       "alpha_channel": true,
@@ -1959,13 +2227,34 @@
     ],
     "name": "NBA Jam Tournament Edition",
     "slug": "nba-jam-tournament-edition",
-    "summary": "NBA JAM Tournament Edition brings you more senses-shattering slam dunking excitement than ever! More than twice as many NBA superstars, more than double the secret characters, Hot Spots, Super Jam Power-Ups, battery back-up and - OH MY - nine all-new rim-rattling slam dunks plus all the original jams! NBA JAM Tournament Edition... it's on FIRE!",
+    "summary": "NBA Jam Tournament Edition brings you more senses-shattering slam dunking excitement than ever! More than twice as many NBA superstars, more than double the secret characters, Hot Spots, Super Jam Power-Ups, battery back-up and - OH MY - nine all-new rim-rattling slam dunks plus all the original jams! NBA JAM Tournament Edition... it's on FIRE!",
     "total_rating": 63.2244101064885,
     "total_rating_count": 13,
     "url": "https://www.igdb.com/games/nba-jam-tournament-edition"
   },
   {
     "id": 114754,
+    "collection": {
+      "id": 613,
+      "created_at": 1389159561,
+      "games": [
+        3558,
+        3559,
+        3560,
+        4040,
+        20258,
+        25080,
+        47756,
+        49002,
+        49003,
+        114754
+      ],
+      "name": "NFL Quarterback Club",
+      "slug": "nfl-quarterback-club",
+      "updated_at": 1666574911,
+      "url": "https://www.igdb.com/collections/nfl-quarterback-club",
+      "checksum": "2f8abb26-d760-5231-230d-69b02bab8407"
+    },
     "cover": {
       "id": 111034,
       "alpha_channel": true,
@@ -2184,6 +2473,26 @@
   },
   {
     "id": 5410,
+    "collection": {
+      "id": 877,
+      "created_at": 1397822391,
+      "games": [
+        4070,
+        5410,
+        5411,
+        6125,
+        19908,
+        39509,
+        44980,
+        48233,
+        49861
+      ],
+      "name": "Pitfall",
+      "slug": "pitfall",
+      "updated_at": 1667989849,
+      "url": "https://www.igdb.com/collections/pitfall",
+      "checksum": "22cff2f9-263b-4ba6-ee38-c20169ed0201"
+    },
     "cover": {
       "id": 113773,
       "alpha_channel": true,
@@ -2684,6 +2993,44 @@
         "name": "三國志Ⅳ"
       }
     ],
+    "collection": {
+      "id": 766,
+      "created_at": 1391894746,
+      "games": [
+        5129,
+        5431,
+        7026,
+        7040,
+        7043,
+        7048,
+        7254,
+        7263,
+        7492,
+        7493,
+        14509,
+        17003,
+        21956,
+        23437,
+        34575,
+        37494,
+        37863,
+        42226,
+        49790,
+        55809,
+        59193,
+        59194,
+        59278,
+        60090,
+        64573,
+        71723,
+        121231
+      ],
+      "name": "Romance of the Three Kingdoms",
+      "slug": "romance-of-the-three-kingdoms",
+      "updated_at": 1667601208,
+      "url": "https://www.igdb.com/collections/romance-of-the-three-kingdoms",
+      "checksum": "bb7ccc84-4990-9385-f5b9-e3ca322a7905"
+    },
     "cover": {
       "id": 152826,
       "alpha_channel": false,
@@ -2869,22 +3216,22 @@
         "name": "Stellar Assault"
       },
       {
-        "id": 6743,
+        "id": 115622,
         "name": "ステラアサルト"
-      },
-      {
-        "id": 16814,
-        "name": "Stellar Assault  "
-      },
-      {
-        "id": 42924,
-        "name": "Stellar Assault"
-      },
-      {
-        "id": 56128,
-        "name": "Sutera Asaruto"
       }
     ],
+    "collection": {
+      "id": 6228,
+      "created_at": 1590196451,
+      "games": [
+        19763
+      ],
+      "name": "Stellar Assault",
+      "slug": "stellar-assault",
+      "updated_at": 1590196451,
+      "url": "https://www.igdb.com/collections/stellar-assault",
+      "checksum": "af602ba9-c1a3-e41a-b093-3aa4681ab2bf"
+    },
     "cover": {
       "id": 133062,
       "alpha_channel": false,
@@ -3006,7 +3353,7 @@
     ],
     "slug": "shadow-squadron",
     "storyline": "An adversary (who is not named) seems to be up to their old tricks, transmitting coded transmissions and exerting energy blooms from a number of large ships. An Acceleration Gate is still not fully assembled, so additional forces can not be moved quick enough to intercept, leaving the player as the lone opposition against the enemy armada.",
-    "summary": "Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. \n \nThere are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.",
+    "summary": "Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.\n\nThere are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.",
     "url": "https://www.igdb.com/games/shadow-squadron",
     "videos": [
       {
@@ -3021,13 +3368,15 @@
   {
     "id": 5439,
     "cover": {
-      "id": 5469,
+      "id": 269433,
+      "alpha_channel": false,
+      "animated": false,
       "game": 5439,
-      "height": 318,
-      "image_id": "ptgm9sxostk1asrskvhi",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ptgm9sxostk1asrskvhi.jpg",
-      "width": 220,
-      "checksum": "39ff24c3-4cc2-573e-96af-0192151b73f4"
+      "height": 800,
+      "image_id": "co5rw9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rw9.jpg",
+      "width": 600,
+      "checksum": "53cec17f-246b-2e3d-7bb6-d1adb6767d10"
     },
     "first_release_date": 783648000,
     "genres": [
@@ -3054,8 +3403,65 @@
       }
     ],
     "name": "Slam City with Scottie Pippen",
+    "screenshots": [
+      {
+        "id": 925499,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5439,
+        "height": 240,
+        "image_id": "scju4b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scju4b.jpg",
+        "width": 256,
+        "checksum": "c6395a80-6925-67bb-a052-6342d965542b"
+      },
+      {
+        "id": 925500,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5439,
+        "height": 240,
+        "image_id": "scju4c",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scju4c.jpg",
+        "width": 256,
+        "checksum": "1a0b1b3e-b2dd-2dcc-136e-a02246e49626"
+      },
+      {
+        "id": 925501,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5439,
+        "height": 240,
+        "image_id": "scju4d",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scju4d.jpg",
+        "width": 256,
+        "checksum": "4c0e2dc0-1fdb-3ded-aea2-06aad86b9323"
+      },
+      {
+        "id": 925502,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5439,
+        "height": 240,
+        "image_id": "scju4e",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scju4e.jpg",
+        "width": 256,
+        "checksum": "ee4a4b52-e5ee-97db-a906-d8cbcb16dd2a"
+      },
+      {
+        "id": 925503,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 5439,
+        "height": 240,
+        "image_id": "scju4f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scju4f.jpg",
+        "width": 256,
+        "checksum": "964b6d39-b166-e774-efb0-be87234c285b"
+      }
+    ],
     "slug": "slam-city-with-scottie-pippen",
-    "summary": "A Sega 32X game published on CD and playable on Sega CD or compatible systems. \n \nScottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.",
+    "summary": "A Sega 32X game published on CD and playable on Sega CD or compatible systems.\n\nScottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.",
     "url": "https://www.igdb.com/games/slam-city-with-scottie-pippen"
   },
   {
@@ -3066,6 +3472,23 @@
         "name": "スペースハリアー"
       }
     ],
+    "collection": {
+      "id": 1718,
+      "created_at": 1443302937,
+      "games": [
+        4498,
+        12857,
+        46126,
+        72972,
+        109270,
+        140407
+      ],
+      "name": "Space Harrier",
+      "slug": "space-harrier",
+      "updated_at": 1667788279,
+      "url": "https://www.igdb.com/collections/space-harrier",
+      "checksum": "e7d5e53c-1944-f30e-9890-35793157b8e7"
+    },
     "cover": {
       "id": 93867,
       "alpha_channel": false,
@@ -3456,6 +3879,67 @@
         "name": "Star Wars 1993"
       }
     ],
+    "collection": {
+      "id": 2172,
+      "created_at": 1465073721,
+      "games": [
+        143,
+        151,
+        155,
+        158,
+        159,
+        164,
+        210,
+        3760,
+        4180,
+        5194,
+        5599,
+        5706,
+        6159,
+        6606,
+        6607,
+        6608,
+        6609,
+        8560,
+        10203,
+        11289,
+        12594,
+        12842,
+        12858,
+        13483,
+        18044,
+        18046,
+        18950,
+        18951,
+        21335,
+        21743,
+        23116,
+        39822,
+        44463,
+        44675,
+        45379,
+        48939,
+        54649,
+        56127,
+        56217,
+        57943,
+        62669,
+        64562,
+        65161,
+        66235,
+        66424,
+        66790,
+        70221,
+        72636,
+        73217,
+        73254
+      ],
+      "name": "Star Wars",
+      "slug": "star-wars",
+      "updated_at": 1668146978,
+      "url": "https://www.igdb.com/collections/star-wars",
+      "checksum": "e6897587-a3ab-0739-9af5-253b74e535da"
+    },
     "cover": {
       "id": 136613,
       "alpha_channel": false,
@@ -3799,6 +4283,19 @@
   },
   {
     "id": 45881,
+    "collection": {
+      "id": 4760,
+      "created_at": 1512852856,
+      "games": [
+        45881,
+        46050
+      ],
+      "name": "Tempo",
+      "slug": "tempo",
+      "updated_at": 1668288798,
+      "url": "https://www.igdb.com/collections/tempo",
+      "checksum": "9e32063e-e81b-03bd-5698-d71e1eea6574"
+    },
     "cover": {
       "id": 234022,
       "alpha_channel": false,
@@ -3829,13 +4326,15 @@
   {
     "id": 19760,
     "cover": {
-      "id": 22463,
+      "id": 265817,
+      "alpha_channel": false,
+      "animated": false,
       "game": 19760,
-      "height": 1097,
-      "image_id": "u91xfhrdkhcwn7fulmom",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/u91xfhrdkhcwn7fulmom.jpg",
-      "width": 800,
-      "checksum": "0480d1bc-c170-af5f-6404-151cd1c2345b"
+      "height": 1152,
+      "image_id": "co5p3t",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5p3t.jpg",
+      "width": 864,
+      "checksum": "64781e89-33ea-c571-3b6f-074c497c8c05"
     },
     "first_release_date": 820368000,
     "genres": [
@@ -3947,6 +4446,37 @@
         "name": "Virtua Fighter"
       }
     ],
+    "collection": {
+      "id": 318,
+      "created_at": 1349897597,
+      "games": [
+        1546,
+        1547,
+        1548,
+        1549,
+        1550,
+        1551,
+        1552,
+        1553,
+        1554,
+        1555,
+        19734,
+        21669,
+        22239,
+        39668,
+        61862,
+        62491,
+        62492,
+        94701,
+        145524,
+        148696
+      ],
+      "name": "Virtua Fighter",
+      "slug": "virtua-fighter",
+      "updated_at": 1668286773,
+      "url": "https://www.igdb.com/collections/virtua-fighter",
+      "checksum": "b09ce707-aa2a-544b-af09-453d4435f35e"
+    },
     "cover": {
       "id": 142253,
       "alpha_channel": false,
@@ -4052,6 +4582,21 @@
         "name": "Virtua Racing Deluxe"
       }
     ],
+    "collection": {
+      "id": 5016,
+      "created_at": 1512941251,
+      "games": [
+        8172,
+        45880,
+        70773,
+        110062
+      ],
+      "name": "Virtua Racing",
+      "slug": "virtua-racing",
+      "updated_at": 1666786500,
+      "url": "https://www.igdb.com/collections/virtua-racing",
+      "checksum": "cd6f98d1-abaa-8867-386e-68580ce48557"
+    },
     "cover": {
       "id": 180104,
       "alpha_channel": false,
@@ -4229,6 +4774,55 @@
         "name": "WWE RAW"
       }
     ],
+    "collection": {
+      "id": 2183,
+      "created_at": 1465690243,
+      "games": [
+        2397,
+        4570,
+        4571,
+        4572,
+        4573,
+        4574,
+        5296,
+        5465,
+        6249,
+        6251,
+        6295,
+        6443,
+        6444,
+        6445,
+        6683,
+        6685,
+        6686,
+        7488,
+        8736,
+        19771,
+        23238,
+        38408,
+        39334,
+        39424,
+        45566,
+        46331,
+        47522,
+        48707,
+        49054,
+        49981,
+        52127,
+        52128,
+        58888,
+        64173,
+        76766,
+        77322,
+        79072,
+        80307
+      ],
+      "name": "WWE",
+      "slug": "wwe",
+      "updated_at": 1664910614,
+      "url": "https://www.igdb.com/collections/wwe",
+      "checksum": "d97c6823-7ce7-b0a8-2074-520039aede1a"
+    },
     "cover": {
       "id": 118310,
       "alpha_channel": false,
@@ -4488,6 +5082,24 @@
         "name": "SEGA SPORTS World Series Baseball Starring Deion Sanders"
       }
     ],
+    "collection": {
+      "id": 7331,
+      "created_at": 1632296235,
+      "games": [
+        6240,
+        46428,
+        46546,
+        81662,
+        94110,
+        171986,
+        198607
+      ],
+      "name": "SEGA SPORTS",
+      "slug": "sega-sports",
+      "updated_at": 1662275558,
+      "url": "https://www.igdb.com/collections/sega-sports",
+      "checksum": "6fd00a5f-a5d8-2f3b-e763-c0b3f39000e7"
+    },
     "cover": {
       "id": 180033,
       "alpha_channel": false,
@@ -4620,6 +5232,22 @@
         "name": "パラスコード"
       }
     ],
+    "collection": {
+      "id": 2206,
+      "created_at": 1466852710,
+      "games": [
+        2753,
+        19764,
+        22696,
+        46104,
+        64553
+      ],
+      "name": "Zaxxon",
+      "slug": "zaxxon",
+      "updated_at": 1663721085,
+      "url": "https://www.igdb.com/collections/zaxxon",
+      "checksum": "571889ae-63b7-fff0-f998-b5bf7645a8f0"
+    },
     "cover": {
       "id": 139698,
       "alpha_channel": false,

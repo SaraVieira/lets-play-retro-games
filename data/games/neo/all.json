@@ -6681,29 +6681,67 @@
     ]
   },
   {
-    "id": 1404,
+    "id": 43984,
     "alternative_names": [
       {
-        "id": 34081,
-        "name": "メタルスラッグ"
+        "id": 17416,
+        "name": "Metal Slug: Second Mission"
       },
       {
-        "id": 40716,
-        "name": "Metal Slug 3D"
+        "id": 42164,
+        "name": "Metal Slug: Second Mission"
+      },
+      {
+        "id": 97045,
+        "name": "메탈슬러그 세컨드 미션"
       }
     ],
+    "collection": {
+      "id": 298,
+      "created_at": 1349599834,
+      "games": [
+        1404,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        5004,
+        18840,
+        21760,
+        35593,
+        43984,
+        43986,
+        44687,
+        51223,
+        59100,
+        77988,
+        100053,
+        115990,
+        191477,
+        191478,
+        191479
+      ],
+      "name": "Metal Slug",
+      "slug": "metal-slug",
+      "updated_at": 1668134759,
+      "url": "https://www.igdb.com/collections/metal-slug",
+      "checksum": "96077a5d-c977-203e-18e5-6bc98e1e1b4c"
+    },
     "cover": {
-      "id": 93903,
+      "id": 130466,
       "alpha_channel": false,
       "animated": false,
-      "game": 1404,
-      "height": 1200,
-      "image_id": "co20gf",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20gf.jpg",
-      "width": 900,
-      "checksum": "54860ff9-a2f3-1142-2a7b-74a172fbf5ef"
+      "game": 43984,
+      "height": 800,
+      "image_id": "co2so2",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2so2.jpg",
+      "width": 600,
+      "checksum": "d71d919a-5fc8-ec7e-866a-d76859b63f53"
     },
-    "first_release_date": 822441600,
+    "first_release_date": 952560000,
     "genres": [
       {
         "id": 5,
@@ -6712,121 +6750,68 @@
       {
         "id": 8,
         "name": "Platform"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
       }
     ],
     "involved_companies": [
       {
-        "id": 98414,
-        "company": {
-          "id": 4501,
-          "name": "DotEmu"
-        },
-        "created_at": 1588723200,
-        "developer": false,
-        "game": 1404,
-        "porting": true,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1588723200,
-        "checksum": "972e6779-f2f8-d9db-0854-471360fe81cb"
-      },
-      {
-        "id": 181238,
+        "id": 57231,
         "company": {
           "id": 1474,
           "name": "SNK"
         },
-        "created_at": 1659301090,
+        "created_at": 1509926400,
         "developer": false,
-        "game": 1404,
+        "game": 43984,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1659363552,
-        "checksum": "0fa65498-d8fb-5361-e16b-5eb99f9916ef"
+        "updated_at": 1509926400,
+        "checksum": "21451f9f-72fe-2233-00f7-296b3b512a14"
       },
       {
-        "id": 181239,
+        "id": 92309,
         "company": {
-          "id": 2230,
-          "name": "Nazca Corporation"
+          "id": 15826,
+          "name": "Ukiyotei"
         },
-        "created_at": 1659301090,
+        "created_at": 1581120000,
         "developer": true,
-        "game": 1404,
+        "game": 43984,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1659363552,
-        "checksum": "76080eb0-e4a7-593f-33b4-7107145dc7bf"
+        "updated_at": 1581120000,
+        "checksum": "8ac33163-3470-1632-f7fc-f6b7197229a6"
       }
     ],
-    "name": "Metal Slug",
+    "name": "Metal Slug 2nd Mission",
     "screenshots": [
       {
-        "id": 85278,
-        "game": 1404,
-        "height": 720,
-        "image_id": "xwupa65o4su4fklevqwn",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xwupa65o4su4fklevqwn.jpg",
-        "width": 1280,
-        "checksum": "1365bf81-4db4-face-f0d7-01dcdcc65707"
+        "id": 355418,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43984,
+        "height": 240,
+        "image_id": "sc7m8q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8q.jpg",
+        "width": 254,
+        "checksum": "e0f974e8-af78-2b59-a7c4-b56ce6fe646e"
       },
       {
-        "id": 85279,
-        "game": 1404,
-        "height": 720,
-        "image_id": "pkgy0vh3uww0vbdavoi1",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pkgy0vh3uww0vbdavoi1.jpg",
-        "width": 1280,
-        "checksum": "b3ff2836-df97-f0c8-3916-b6333c20be64"
-      },
-      {
-        "id": 85280,
-        "game": 1404,
-        "height": 720,
-        "image_id": "stjez9zyonlugya3whub",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/stjez9zyonlugya3whub.jpg",
-        "width": 1280,
-        "checksum": "3fc895e4-b321-8720-f6b3-dba58fdc481d"
-      },
-      {
-        "id": 85281,
-        "game": 1404,
-        "height": 720,
-        "image_id": "qptrjpesvldzpxx7x8t9",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qptrjpesvldzpxx7x8t9.jpg",
-        "width": 1280,
-        "checksum": "bf6d327c-f184-654e-fdfa-cf2f64dc4a3f"
-      },
-      {
-        "id": 85282,
-        "game": 1404,
-        "height": 720,
-        "image_id": "oz5kmecrirjvycobbi1s",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oz5kmecrirjvycobbi1s.jpg",
-        "width": 1280,
-        "checksum": "0e6e900e-fe2f-80db-0194-0b0fd8b0079e"
+        "id": 355419,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43984,
+        "height": 240,
+        "image_id": "sc7m8r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8r.jpg",
+        "width": 254,
+        "checksum": "42c6f821-81a6-db1e-0bda-2072e408421c"
       }
     ],
-    "slug": "metal-slug",
-    "summary": "Metal Slug is a 1996 run and gun arcade video game originally developed by Nazca Corporation and released by SNK for the Neo Geo MVS. It is the first installment in the eponymous series. Set in 2028, players assume the role of Peregrine Falcon Strike Force soldiers Marco Rossi and Tarma Roving on a fight against the Rebel Army led by Donald Morden and overthrow his coup d'état to prevent a New World Order.",
-    "total_rating": 81.20295467688439,
-    "total_rating_count": 187,
-    "url": "https://www.igdb.com/games/metal-slug",
-    "videos": [
-      {
-        "id": 72539,
-        "game": 1404,
-        "name": "Gameplay Video",
-        "video_id": "FVFMQjuLXd4",
-        "checksum": "4b7effee-f075-6c5c-5e2f-f6337adb656a"
-      }
-    ]
+    "slug": "metal-slug-2nd-mission",
+    "summary": "Metal Slug: 2nd Mission is an Action game, developed by Ukiyotei and published by SNK, which was released in Japan in 2000.\n\nTake control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force \"Phantom.\" Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.",
+    "url": "https://www.igdb.com/games/metal-slug-2nd-mission"
   },
   {
     "id": 37280,
@@ -8690,116 +8675,44 @@
     "url": "https://www.igdb.com/games/puzzle-de-pon"
   },
   {
-    "id": 39962,
-    "alternative_names": [
-      {
-        "id": 35259,
-        "name": "ジョイジョイキッド"
-      },
-      {
-        "id": 43968,
-        "name": "Joy Joy Kid"
-      }
-    ],
+    "id": 44002,
     "cover": {
-      "id": 103571,
-      "alpha_channel": false,
-      "animated": false,
-      "game": 39962,
-      "height": 1133,
-      "image_id": "co27wz",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co27wz.jpg",
-      "width": 850,
-      "checksum": "8e98f18c-6b3a-ff5d-579f-d43ae1a78dd8"
+      "id": 37379,
+      "game": 44002,
+      "height": 736,
+      "image_id": "j8eiyac73iaxik8bkahy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/j8eiyac73iaxik8bkahy.jpg",
+      "width": 640,
+      "checksum": "c7bd972b-252a-c280-099c-6f89036b9e91"
     },
-    "first_release_date": 632793600,
+    "first_release_date": 883612800,
     "genres": [
       {
         "id": 9,
         "name": "Puzzle"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
       }
     ],
     "involved_companies": [
       {
-        "id": 54782,
+        "id": 57293,
         "company": {
-          "id": 1474,
-          "name": "SNK"
+          "id": 5675,
+          "name": "Yumekobo"
         },
-        "created_at": 1506384000,
-        "developer": true,
-        "game": 39962,
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 44002,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1506384000,
-        "checksum": "5ef9abe0-ae7a-e3a3-5338-557600073c9e"
+        "updated_at": 1509926400,
+        "checksum": "f3feff43-285c-c9ad-3cc2-3b6c14f5c332"
       }
     ],
-    "name": "Puzzled",
-    "screenshots": [
-      {
-        "id": 170314,
-        "game": 39962,
-        "height": 720,
-        "image_id": "ayrbdcbcwi9oku5plxm3",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ayrbdcbcwi9oku5plxm3.jpg",
-        "width": 918,
-        "checksum": "2ab41059-6f34-bfb9-8266-2439aedfa336"
-      },
-      {
-        "id": 170315,
-        "game": 39962,
-        "height": 720,
-        "image_id": "me0tqwugjvqlaevvckdc",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/me0tqwugjvqlaevvckdc.jpg",
-        "width": 917,
-        "checksum": "bfd05c01-58d4-ba63-6cf5-c0303d40166a"
-      },
-      {
-        "id": 170316,
-        "game": 39962,
-        "height": 720,
-        "image_id": "fwktktuama5re0hg2g2u",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fwktktuama5re0hg2g2u.jpg",
-        "width": 918,
-        "checksum": "8ef304f0-78b5-1ced-7477-5131848944eb"
-      },
-      {
-        "id": 170317,
-        "game": 39962,
-        "height": 720,
-        "image_id": "rhpikowwaoswh7i8khkc",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rhpikowwaoswh7i8khkc.jpg",
-        "width": 920,
-        "checksum": "74826d5e-97dd-51cf-79c6-b71036ded2ca"
-      },
-      {
-        "id": 170318,
-        "game": 39962,
-        "height": 720,
-        "image_id": "hx8iwtwssfgevu6idre9",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hx8iwtwssfgevu6idre9.jpg",
-        "width": 919,
-        "checksum": "05d3956d-552e-f821-63e0-44ac4d6a3f16"
-      },
-      {
-        "id": 170319,
-        "game": 39962,
-        "height": 720,
-        "image_id": "oceotswl3p0zjwtrnpf8",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/oceotswl3p0zjwtrnpf8.jpg",
-        "width": 918,
-        "checksum": "d496eea8-3c14-82f7-0108-3c756e83a535"
-      }
-    ],
-    "slug": "puzzled",
-    "summary": "Use your wisdom and courage to make your way through a block-filled tower to reach the God of the Sun!",
-    "url": "https://www.igdb.com/games/puzzled"
+    "name": "Puzzle Link",
+    "slug": "puzzle-link",
+    "summary": "Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve. \n \nThere are three different modes: In \"Normal\" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In \"Clear Mode\" you have to clear a given constellation of blocks. \"Battle Mode\" is a two player link-cable mode.",
+    "url": "https://www.igdb.com/games/puzzle-link"
   },
   {
     "id": 51692,
@@ -9800,178 +9713,18 @@
     ]
   },
   {
-    "id": 19986,
-    "alternative_names": [
-      {
-        "id": 13721,
-        "name": "Samurai Spirits! 2"
-      },
-      {
-        "id": 16059,
-        "name": "Samurai Shodown 2"
-      },
-      {
-        "id": 36341,
-        "name": "Shin Samurai Spirits: Haohmaru Jigokuhen"
-      },
-      {
-        "id": 36342,
-        "name": "True Samurai Spirits: Haohmaru Hell Change"
-      },
-      {
-        "id": 36343,
-        "name": "真サムライスピリッツ 覇王丸地獄変"
-      },
-      {
-        "id": 43884,
-        "name": "Samurai Shodown 2"
-      },
-      {
-        "id": 43885,
-        "name": "Shin Samurai Spirits: Haohmaru Jigokuhen"
-      },
-      {
-        "id": 96381,
-        "name": "사무라이 쇼다운2"
-      }
-    ],
-    "cover": {
-      "id": 128609,
-      "alpha_channel": false,
-      "animated": false,
-      "game": 19986,
-      "height": 800,
-      "image_id": "co2r8h",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2r8h.jpg",
-      "width": 600,
-      "checksum": "bef1abbe-f434-8a66-c1a7-12702a1fb742"
-    },
-    "first_release_date": 757468800,
+    "id": 200416,
+    "first_release_date": 925430400,
     "genres": [
       {
         "id": 4,
         "name": "Fighting"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
       }
     ],
-    "involved_companies": [
-      {
-        "id": 123342,
-        "company": {
-          "id": 1474,
-          "name": "SNK"
-        },
-        "created_at": 1617402910,
-        "developer": true,
-        "game": 19986,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1617528221,
-        "checksum": "778b9f20-8ac1-0688-3e63-0bbe4b2f06ad"
-      }
-    ],
-    "name": "Samurai Shodown II",
-    "screenshots": [
-      {
-        "id": 171700,
-        "game": 19986,
-        "height": 224,
-        "image_id": "z8mgmmhs1ujiecgnany8",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z8mgmmhs1ujiecgnany8.jpg",
-        "width": 320,
-        "checksum": "634108f8-f25f-f360-c46b-10ea73ea5a54"
-      },
-      {
-        "id": 171701,
-        "game": 19986,
-        "height": 224,
-        "image_id": "pbvqdvi7yr6i0ole4iwr",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbvqdvi7yr6i0ole4iwr.jpg",
-        "width": 320,
-        "checksum": "68cc61d6-c380-02ee-e9f2-e09603eeb900"
-      },
-      {
-        "id": 171702,
-        "game": 19986,
-        "height": 224,
-        "image_id": "lo0lrcwivbfujxb8wv9e",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lo0lrcwivbfujxb8wv9e.jpg",
-        "width": 320,
-        "checksum": "6ba11e48-3107-ffca-0633-65122194f923"
-      },
-      {
-        "id": 171703,
-        "game": 19986,
-        "height": 224,
-        "image_id": "qjvfdrhqyrzkwqhi3kuj",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjvfdrhqyrzkwqhi3kuj.jpg",
-        "width": 320,
-        "checksum": "41c158ac-42c9-b745-4961-9b214629ba30"
-      },
-      {
-        "id": 171704,
-        "game": 19986,
-        "height": 224,
-        "image_id": "rtuypdyw8jjxtdhwyvha",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtuypdyw8jjxtdhwyvha.jpg",
-        "width": 320,
-        "checksum": "4d60680d-e669-be4c-1406-b159367b7d62"
-      },
-      {
-        "id": 171705,
-        "game": 19986,
-        "height": 224,
-        "image_id": "ivk76grnhc8vyzbhtder",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivk76grnhc8vyzbhtder.jpg",
-        "width": 320,
-        "checksum": "6b9b514d-d5f8-9b92-d438-8e7a61c38a83"
-      },
-      {
-        "id": 171706,
-        "game": 19986,
-        "height": 224,
-        "image_id": "q5hsoybgftn3pdnfw8dz",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q5hsoybgftn3pdnfw8dz.jpg",
-        "width": 320,
-        "checksum": "6274ed97-ab0c-a16a-f051-a45c43c34bc6"
-      },
-      {
-        "id": 171707,
-        "game": 19986,
-        "height": 224,
-        "image_id": "psgcxvsocmq9mfusaayc",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/psgcxvsocmq9mfusaayc.jpg",
-        "width": 320,
-        "checksum": "0736d2db-c1fe-1f71-10bb-35a8e4a25f32"
-      },
-      {
-        "id": 171708,
-        "game": 19986,
-        "height": 224,
-        "image_id": "jed18yyfjzcroykfut5j",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jed18yyfjzcroykfut5j.jpg",
-        "width": 320,
-        "checksum": "6efa6189-eb22-1e96-a130-f325a6ffa708"
-      }
-    ],
-    "slug": "samurai-shodown-ii",
-    "summary": "One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.",
-    "total_rating": 80.7092568490543,
-    "total_rating_count": 26,
-    "url": "https://www.igdb.com/games/samurai-shodown-ii",
-    "videos": [
-      {
-        "id": 47439,
-        "game": 19986,
-        "name": "Trailer",
-        "video_id": "80OAvCdC9pM",
-        "checksum": "ce9a270f-723c-7bb3-c0e9-287603585eb3"
-      }
-    ]
+    "name": "Samurai Shodown! 2",
+    "slug": "samurai-shodown-2--1",
+    "summary": "Samurai Shodown! 2 is a handheld game in SNK's Samurai Shodown series of fighting games. Unlike its predecessor, it was released on the Neo-Geo Pocket Color system, so its graphics were no longer monochrome.\n\nIt was designed as a conversion from the most recent game in the Samurai Shodown series, Samurai Shodown 64: Warriors Rage, and almost all of its story events, endings and cutscenes are derived from its arcade cousin. Almost all of the characters from Samurai Shodown 64: Warriors Rage are included (the sole exception being Hanma Yagyu). It also re-added two series favorites who were not in the arcade, Charlotte and Yagyu Jubei.",
+    "url": "https://www.igdb.com/games/samurai-shodown-2--1"
   },
   {
     "id": 19987,
@@ -10665,178 +10418,18 @@
     ]
   },
   {
-    "id": 19986,
-    "alternative_names": [
-      {
-        "id": 13721,
-        "name": "Samurai Spirits! 2"
-      },
-      {
-        "id": 16059,
-        "name": "Samurai Shodown 2"
-      },
-      {
-        "id": 36341,
-        "name": "Shin Samurai Spirits: Haohmaru Jigokuhen"
-      },
-      {
-        "id": 36342,
-        "name": "True Samurai Spirits: Haohmaru Hell Change"
-      },
-      {
-        "id": 36343,
-        "name": "真サムライスピリッツ 覇王丸地獄変"
-      },
-      {
-        "id": 43884,
-        "name": "Samurai Shodown 2"
-      },
-      {
-        "id": 43885,
-        "name": "Shin Samurai Spirits: Haohmaru Jigokuhen"
-      },
-      {
-        "id": 96381,
-        "name": "사무라이 쇼다운2"
-      }
-    ],
-    "cover": {
-      "id": 128609,
-      "alpha_channel": false,
-      "animated": false,
-      "game": 19986,
-      "height": 800,
-      "image_id": "co2r8h",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2r8h.jpg",
-      "width": 600,
-      "checksum": "bef1abbe-f434-8a66-c1a7-12702a1fb742"
-    },
-    "first_release_date": 757468800,
+    "id": 200416,
+    "first_release_date": 925430400,
     "genres": [
       {
         "id": 4,
         "name": "Fighting"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
       }
     ],
-    "involved_companies": [
-      {
-        "id": 123342,
-        "company": {
-          "id": 1474,
-          "name": "SNK"
-        },
-        "created_at": 1617402910,
-        "developer": true,
-        "game": 19986,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1617528221,
-        "checksum": "778b9f20-8ac1-0688-3e63-0bbe4b2f06ad"
-      }
-    ],
-    "name": "Samurai Shodown II",
-    "screenshots": [
-      {
-        "id": 171700,
-        "game": 19986,
-        "height": 224,
-        "image_id": "z8mgmmhs1ujiecgnany8",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/z8mgmmhs1ujiecgnany8.jpg",
-        "width": 320,
-        "checksum": "634108f8-f25f-f360-c46b-10ea73ea5a54"
-      },
-      {
-        "id": 171701,
-        "game": 19986,
-        "height": 224,
-        "image_id": "pbvqdvi7yr6i0ole4iwr",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/pbvqdvi7yr6i0ole4iwr.jpg",
-        "width": 320,
-        "checksum": "68cc61d6-c380-02ee-e9f2-e09603eeb900"
-      },
-      {
-        "id": 171702,
-        "game": 19986,
-        "height": 224,
-        "image_id": "lo0lrcwivbfujxb8wv9e",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lo0lrcwivbfujxb8wv9e.jpg",
-        "width": 320,
-        "checksum": "6ba11e48-3107-ffca-0633-65122194f923"
-      },
-      {
-        "id": 171703,
-        "game": 19986,
-        "height": 224,
-        "image_id": "qjvfdrhqyrzkwqhi3kuj",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qjvfdrhqyrzkwqhi3kuj.jpg",
-        "width": 320,
-        "checksum": "41c158ac-42c9-b745-4961-9b214629ba30"
-      },
-      {
-        "id": 171704,
-        "game": 19986,
-        "height": 224,
-        "image_id": "rtuypdyw8jjxtdhwyvha",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rtuypdyw8jjxtdhwyvha.jpg",
-        "width": 320,
-        "checksum": "4d60680d-e669-be4c-1406-b159367b7d62"
-      },
-      {
-        "id": 171705,
-        "game": 19986,
-        "height": 224,
-        "image_id": "ivk76grnhc8vyzbhtder",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ivk76grnhc8vyzbhtder.jpg",
-        "width": 320,
-        "checksum": "6b9b514d-d5f8-9b92-d438-8e7a61c38a83"
-      },
-      {
-        "id": 171706,
-        "game": 19986,
-        "height": 224,
-        "image_id": "q5hsoybgftn3pdnfw8dz",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/q5hsoybgftn3pdnfw8dz.jpg",
-        "width": 320,
-        "checksum": "6274ed97-ab0c-a16a-f051-a45c43c34bc6"
-      },
-      {
-        "id": 171707,
-        "game": 19986,
-        "height": 224,
-        "image_id": "psgcxvsocmq9mfusaayc",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/psgcxvsocmq9mfusaayc.jpg",
-        "width": 320,
-        "checksum": "0736d2db-c1fe-1f71-10bb-35a8e4a25f32"
-      },
-      {
-        "id": 171708,
-        "game": 19986,
-        "height": 224,
-        "image_id": "jed18yyfjzcroykfut5j",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jed18yyfjzcroykfut5j.jpg",
-        "width": 320,
-        "checksum": "6efa6189-eb22-1e96-a130-f325a6ffa708"
-      }
-    ],
-    "slug": "samurai-shodown-ii",
-    "summary": "One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.",
-    "total_rating": 80.7092568490543,
-    "total_rating_count": 26,
-    "url": "https://www.igdb.com/games/samurai-shodown-ii",
-    "videos": [
-      {
-        "id": 47439,
-        "game": 19986,
-        "name": "Trailer",
-        "video_id": "80OAvCdC9pM",
-        "checksum": "ce9a270f-723c-7bb3-c0e9-287603585eb3"
-      }
-    ]
+    "name": "Samurai Shodown! 2",
+    "slug": "samurai-shodown-2--1",
+    "summary": "Samurai Shodown! 2 is a handheld game in SNK's Samurai Shodown series of fighting games. Unlike its predecessor, it was released on the Neo-Geo Pocket Color system, so its graphics were no longer monochrome.\n\nIt was designed as a conversion from the most recent game in the Samurai Shodown series, Samurai Shodown 64: Warriors Rage, and almost all of its story events, endings and cutscenes are derived from its arcade cousin. Almost all of the characters from Samurai Shodown 64: Warriors Rage are included (the sole exception being Hanma Yagyu). It also re-added two series favorites who were not in the arcade, Charlotte and Yagyu Jubei.",
+    "url": "https://www.igdb.com/games/samurai-shodown-2--1"
   },
   {
     "id": 39565,
@@ -14350,133 +13943,37 @@
     "url": "https://www.igdb.com/games/the-last-blade-2-heart-of-the-samurai"
   },
   {
-    "id": 22844,
-    "alternative_names": [
-      {
-        "id": 35306,
-        "name": "Bakumatsu Rouman: Gekka no Kenshi"
-      },
-      {
-        "id": 35307,
-        "name": "幕末浪漫 月華の剣士"
-      }
-    ],
+    "id": 75482,
     "cover": {
-      "id": 101647,
-      "alpha_channel": false,
-      "animated": false,
-      "game": 22844,
-      "height": 800,
-      "image_id": "co26fj",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co26fj.jpg",
+      "id": 44164,
+      "game": 75482,
+      "height": 583,
+      "image_id": "i3hh8sqqzwrmjayahu5m",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/i3hh8sqqzwrmjayahu5m.jpg",
       "width": 600,
-      "checksum": "e5fc4b02-d1d8-81d7-4a72-2b4205fc099c"
+      "checksum": "15001572-70eb-aedd-4ad3-114494ab83e7"
     },
-    "first_release_date": 881280000,
-    "genres": [
-      {
-        "id": 4,
-        "name": "Fighting"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
+    "first_release_date": 946684800,
     "involved_companies": [
       {
-        "id": 98606,
-        "company": {
-          "id": 4501,
-          "name": "DotEmu"
-        },
-        "created_at": 1588982400,
-        "developer": false,
-        "game": 22844,
-        "porting": true,
-        "publisher": false,
-        "supporting": false,
-        "updated_at": 1588982400,
-        "checksum": "96b77459-31d8-44f1-ca45-b76d77cbc93f"
-      },
-      {
-        "id": 98607,
+        "id": 57224,
         "company": {
           "id": 1474,
           "name": "SNK"
         },
-        "created_at": 1588982400,
-        "developer": true,
-        "game": 22844,
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75482,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1588982400,
-        "checksum": "6cff0f6a-2b6d-f0f5-dc60-dae8e7956c20"
+        "updated_at": 1509926400,
+        "checksum": "ebbec755-44d3-377d-bc04-dd83e0284bfc"
       }
     ],
-    "name": "The Last Blade",
-    "screenshots": [
-      {
-        "id": 56183,
-        "game": 22844,
-        "height": 1080,
-        "image_id": "wn97h7nsef6xp43qx1fe",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/wn97h7nsef6xp43qx1fe.jpg",
-        "width": 1920,
-        "checksum": "7c3e5d6f-9ea6-a832-7773-a665c35b85c0"
-      },
-      {
-        "id": 56184,
-        "game": 22844,
-        "height": 1080,
-        "image_id": "capn67ru5tass2ud2sbg",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/capn67ru5tass2ud2sbg.jpg",
-        "width": 1920,
-        "checksum": "22f950a2-aa78-24fe-fede-cb563c2b7993"
-      },
-      {
-        "id": 56185,
-        "game": 22844,
-        "height": 1080,
-        "image_id": "rotdrqpvsmtcjqs77nnb",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/rotdrqpvsmtcjqs77nnb.jpg",
-        "width": 1920,
-        "checksum": "44d68cad-dc16-37b9-898e-7b3e3d4e24dd"
-      },
-      {
-        "id": 56186,
-        "game": 22844,
-        "height": 1080,
-        "image_id": "ma0obxsyl5cprjif50on",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ma0obxsyl5cprjif50on.jpg",
-        "width": 1920,
-        "checksum": "2f8e359c-0c29-c0c9-b7c0-e7199c90f6a8"
-      },
-      {
-        "id": 56187,
-        "game": 22844,
-        "height": 1080,
-        "image_id": "mxecxyiwazps1xbirxvd",
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/mxecxyiwazps1xbirxvd.jpg",
-        "width": 1920,
-        "checksum": "de933413-7b95-4fa0-62d2-600d6cff78c6"
-      }
-    ],
-    "slug": "the-last-blade",
-    "summary": "The Last Blade, the first entry in the legendary 2D weapons-based fighting game series from SNK set during the final years of the Tokugawa shogunate, returns for another joust! Sharpen your blade, and be ready for some of the most epic battles!",
-    "total_rating": 70.13739424949955,
-    "total_rating_count": 16,
-    "url": "https://www.igdb.com/games/the-last-blade",
-    "videos": [
-      {
-        "id": 64394,
-        "game": 22844,
-        "name": "Trailer",
-        "video_id": "5voqT9LA_oE",
-        "checksum": "c8bec650-d569-b651-4a32-b3503557c4f4"
-      }
-    ]
+    "name": "The Last Blade (Best Collection)",
+    "slug": "the-last-blade-best-collection",
+    "url": "https://www.igdb.com/games/the-last-blade-best-collection"
   },
   {
     "id": 46838,

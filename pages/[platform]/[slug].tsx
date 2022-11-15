@@ -62,7 +62,11 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     where: {
       slug,
     },
+    include: {
+      genres: true
+    }
   })
+  console.log(result)
 
   return {
     props: {

@@ -607,6 +607,25 @@
         "name": "After Burner 2"
       }
     ],
+    "collection": {
+      "id": 1975,
+      "created_at": 1451523272,
+      "games": [
+        5352,
+        5356,
+        5468,
+        20085,
+        23085,
+        46698,
+        113199,
+        200166
+      ],
+      "name": "After Burner",
+      "slug": "after-burner",
+      "updated_at": 1666315500,
+      "url": "https://www.igdb.com/collections/after-burner",
+      "checksum": "7b916f70-eefc-b6db-a727-a809a33ab137"
+    },
     "cover": {
       "id": 97134,
       "alpha_channel": false,
@@ -858,6 +877,19 @@
         "name": "Bonkinator: Cyborg Punk"
       }
     ],
+    "collection": {
+      "id": 8115,
+      "created_at": 1658884015,
+      "games": [
+        42129,
+        73031
+      ],
+      "name": "Air Zonk",
+      "slug": "air-zonk",
+      "updated_at": 1658884021,
+      "url": "https://www.igdb.com/collections/air-zonk",
+      "checksum": "da6633a8-acc5-fbc4-7a72-45ae2bcc288e"
+    },
     "cover": {
       "id": 139741,
       "alpha_channel": false,
@@ -1082,6 +1114,29 @@
   },
   {
     "id": 12492,
+    "alternative_names": [
+      {
+        "id": 114100,
+        "name": "エイリアンクラッシュ "
+      }
+    ],
+    "collection": {
+      "id": 3065,
+      "created_at": 1506884764,
+      "games": [
+        12492,
+        38361,
+        45586,
+        46219,
+        51097,
+        67635
+      ],
+      "name": "Crush Pinball",
+      "slug": "crush-pinball",
+      "updated_at": 1666536711,
+      "url": "https://www.igdb.com/collections/crush-pinball",
+      "checksum": "41b5fdf4-7599-d1c3-7adf-a736e9c5fe17"
+    },
     "cover": {
       "id": 139320,
       "alpha_channel": false,
@@ -2447,6 +2502,38 @@
   },
   {
     "id": 42086,
+    "alternative_names": [
+      {
+        "id": 114327,
+        "name": "バトルロードランナー"
+      }
+    ],
+    "collection": {
+      "id": 870,
+      "created_at": 1397592295,
+      "games": [
+        3372,
+        4603,
+        6091,
+        26016,
+        37008,
+        38219,
+        38243,
+        42086,
+        46964,
+        48980,
+        64123,
+        64881,
+        69179,
+        73760,
+        109027
+      ],
+      "name": "Lode Runner",
+      "slug": "lode-runner",
+      "updated_at": 1667335763,
+      "url": "https://www.igdb.com/collections/lode-runner",
+      "checksum": "f6404502-c078-45e1-8897-62a20fbea22e"
+    },
     "cover": {
       "id": 61367,
       "game": 42086,
@@ -2644,6 +2731,18 @@
   },
   {
     "id": 80572,
+    "collection": {
+      "id": 6962,
+      "created_at": 1619727363,
+      "games": [
+        80572
+      ],
+      "name": "Benkei Gaiden",
+      "slug": "benkei-gaiden",
+      "updated_at": 1619727363,
+      "url": "https://www.igdb.com/collections/benkei-gaiden",
+      "checksum": "4cb70542-a29b-c443-c459-8207a4adce69"
+    },
     "cover": {
       "id": 138515,
       "alpha_channel": false,
@@ -2781,6 +2880,23 @@
         "name": "ビックリマンワールド"
       }
     ],
+    "collection": {
+      "id": 3759,
+      "created_at": 1507813148,
+      "games": [
+        42271,
+        43971,
+        48544,
+        49138,
+        64287,
+        135932
+      ],
+      "name": "Bikkuriman",
+      "slug": "bikkuriman",
+      "updated_at": 1507813148,
+      "url": "https://www.igdb.com/collections/bikkuriman",
+      "checksum": "00659265-e66d-ca35-1436-297a67137a0f"
+    },
     "cover": {
       "id": 111169,
       "alpha_channel": true,
@@ -2949,6 +3065,12 @@
   },
   {
     "id": 42125,
+    "alternative_names": [
+      {
+        "id": 114192,
+        "name": "ブレイジングレーザーズ "
+      }
+    ],
     "cover": {
       "id": 233671,
       "alpha_channel": false,
@@ -3320,6 +3442,12 @@
   },
   {
     "id": 42097,
+    "alternative_names": [
+      {
+        "id": 114712,
+        "name": "ボンバーマン '93"
+      }
+    ],
     "cover": {
       "id": 117757,
       "alpha_channel": true,
@@ -3471,8 +3599,51 @@
       {
         "id": 56350,
         "name": "Bomberman 08"
+      },
+      {
+        "id": 112494,
+        "name": "ボンバーマン '94 "
       }
     ],
+    "collection": {
+      "id": 549,
+      "created_at": 1381261499,
+      "games": [
+        2980,
+        3446,
+        3448,
+        3453,
+        3832,
+        6925,
+        7760,
+        14320,
+        18153,
+        18786,
+        22773,
+        27255,
+        27285,
+        28393,
+        39023,
+        39463,
+        42055,
+        45295,
+        45407,
+        49837,
+        56467,
+        58932,
+        59395,
+        64335,
+        64342,
+        66221,
+        67318,
+        69781
+      ],
+      "name": "Bomberman",
+      "slug": "bomberman",
+      "updated_at": 1668143742,
+      "url": "https://www.igdb.com/collections/bomberman",
+      "checksum": "df3e0cbd-a24c-1e6b-08e4-d143dfb032ae"
+    },
     "cover": {
       "id": 97333,
       "alpha_channel": false,
@@ -3582,6 +3753,45 @@
   },
   {
     "id": 42055,
+    "collection": {
+      "id": 549,
+      "created_at": 1381261499,
+      "games": [
+        2980,
+        3446,
+        3448,
+        3453,
+        3832,
+        6925,
+        7760,
+        14320,
+        18153,
+        18786,
+        22773,
+        27255,
+        27285,
+        28393,
+        39023,
+        39463,
+        42055,
+        45295,
+        45407,
+        49837,
+        56467,
+        58932,
+        59395,
+        64335,
+        64342,
+        66221,
+        67318,
+        69781
+      ],
+      "name": "Bomberman",
+      "slug": "bomberman",
+      "updated_at": 1668143742,
+      "url": "https://www.igdb.com/collections/bomberman",
+      "checksum": "df3e0cbd-a24c-1e6b-08e4-d143dfb032ae"
+    },
     "cover": {
       "id": 38013,
       "game": 42055,
@@ -3607,8 +3817,51 @@
       {
         "id": 56350,
         "name": "Bomberman 08"
+      },
+      {
+        "id": 112494,
+        "name": "ボンバーマン '94 "
       }
     ],
+    "collection": {
+      "id": 549,
+      "created_at": 1381261499,
+      "games": [
+        2980,
+        3446,
+        3448,
+        3453,
+        3832,
+        6925,
+        7760,
+        14320,
+        18153,
+        18786,
+        22773,
+        27255,
+        27285,
+        28393,
+        39023,
+        39463,
+        42055,
+        45295,
+        45407,
+        49837,
+        56467,
+        58932,
+        59395,
+        64335,
+        64342,
+        66221,
+        67318,
+        69781
+      ],
+      "name": "Bomberman",
+      "slug": "bomberman",
+      "updated_at": 1668143742,
+      "url": "https://www.igdb.com/collections/bomberman",
+      "checksum": "df3e0cbd-a24c-1e6b-08e4-d143dfb032ae"
+    },
     "cover": {
       "id": 97333,
       "alpha_channel": false,
@@ -3730,8 +3983,33 @@
       {
         "id": 68883,
         "name": "FC Genjin"
+      },
+      {
+        "id": 113353,
+        "name": "PC原人 "
       }
     ],
+    "collection": {
+      "id": 1053,
+      "created_at": 1411988872,
+      "games": [
+        7794,
+        7795,
+        9028,
+        37615,
+        42408,
+        51632,
+        64343,
+        64344,
+        98703,
+        191614
+      ],
+      "name": "Bonk",
+      "slug": "bonk",
+      "updated_at": 1666176586,
+      "url": "https://www.igdb.com/collections/bonk",
+      "checksum": "a61e99d5-f1b8-34d7-c998-24797141de5b"
+    },
     "cover": {
       "id": 181285,
       "alpha_channel": false,
@@ -3941,8 +4219,8 @@
     "slug": "bonks-adventure",
     "storyline": "Bonk, the title character, is a caveboy who battles various prehistoric creatures by \"bonking\" them with his large and invincible forehead. Bonk must rescue the Princess Za, who has been kidnapped by King Drool, the main villain of the game.",
     "summary": "Bonk's Adventure was developed by Red Company and Atlus and released on the TurboGrafx-16 in 1989 before being ported to the NES, Game Boy and Amiga. It is a 2D platform game that became quite popular, with subsequent remakes and sequels spawning from the game. It was later included in Nintendo's Virtual Console service as well as the PlayStation Store.",
-    "total_rating": 60.5179239425516,
-    "total_rating_count": 13,
+    "total_rating": 60.5116341222883,
+    "total_rating_count": 14,
     "url": "https://www.igdb.com/games/bonks-adventure",
     "videos": [
       {
@@ -3964,8 +4242,33 @@
       {
         "id": 68885,
         "name": "GB Genjin 2"
+      },
+      {
+        "id": 113574,
+        "name": "PC原人2 "
       }
     ],
+    "collection": {
+      "id": 1053,
+      "created_at": 1411988872,
+      "games": [
+        7794,
+        7795,
+        9028,
+        37615,
+        42408,
+        51632,
+        64343,
+        64344,
+        98703,
+        191614
+      ],
+      "name": "Bonk",
+      "slug": "bonk",
+      "updated_at": 1666176586,
+      "url": "https://www.igdb.com/collections/bonk",
+      "checksum": "a61e99d5-f1b8-34d7-c998-24797141de5b"
+    },
     "cover": {
       "id": 233672,
       "alpha_channel": true,
@@ -4156,6 +4459,27 @@
         "name": "PC Genjin 3: Pithecanthropus Computerurus"
       }
     ],
+    "collection": {
+      "id": 1053,
+      "created_at": 1411988872,
+      "games": [
+        7794,
+        7795,
+        9028,
+        37615,
+        42408,
+        51632,
+        64343,
+        64344,
+        98703,
+        191614
+      ],
+      "name": "Bonk",
+      "slug": "bonk",
+      "updated_at": 1666176586,
+      "url": "https://www.igdb.com/collections/bonk",
+      "checksum": "a61e99d5-f1b8-34d7-c998-24797141de5b"
+    },
     "cover": {
       "id": 199540,
       "alpha_channel": false,
@@ -4976,13 +5300,15 @@
   {
     "id": 37719,
     "cover": {
-      "id": 43284,
+      "id": 250201,
+      "alpha_channel": false,
+      "animated": false,
       "game": 37719,
-      "height": 469,
-      "image_id": "dwfk33qdmsqzq68sgqoh",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/dwfk33qdmsqzq68sgqoh.jpg",
-      "width": 470,
-      "checksum": "494077dd-1814-c591-a2a3-58830ee372be"
+      "height": 1000,
+      "image_id": "co5d21",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5d21.jpg",
+      "width": 750,
+      "checksum": "78254a6b-bc82-eec5-c4e7-fb1ebbe30740"
     },
     "first_release_date": 660528000,
     "genres": [
@@ -4991,7 +5317,70 @@
         "name": "Shooter"
       }
     ],
+    "involved_companies": [
+      {
+        "id": 188791,
+        "company": {
+          "id": 2839,
+          "name": "Naxat Soft"
+        },
+        "created_at": 1664250259,
+        "developer": true,
+        "game": 37719,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1664260283,
+        "checksum": "930ae103-cd00-10ab-2e46-1f43c91b9103"
+      }
+    ],
     "name": "Burning Angels",
+    "screenshots": [
+      {
+        "id": 887091,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 37719,
+        "height": 1440,
+        "image_id": "scj0hf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scj0hf.jpg",
+        "width": 1755,
+        "checksum": "dbc29ccb-e2b7-5d26-fdb5-2d7a52640e1f"
+      },
+      {
+        "id": 887092,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 37719,
+        "height": 1440,
+        "image_id": "scj0hg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scj0hg.jpg",
+        "width": 1755,
+        "checksum": "4f0eee55-7009-d13f-65ce-f10c9bdf1466"
+      },
+      {
+        "id": 887093,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 37719,
+        "height": 1440,
+        "image_id": "scj0hh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scj0hh.jpg",
+        "width": 1755,
+        "checksum": "22364c10-3e95-108c-cbdd-d90ea866c70e"
+      },
+      {
+        "id": 887094,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 37719,
+        "height": 1440,
+        "image_id": "scj0hi",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scj0hi.jpg",
+        "width": 1755,
+        "checksum": "64bab998-4d01-9471-e604-df6742daed96"
+      }
+    ],
     "slug": "burning-angels",
     "summary": "Evil forces have kidnapped the leader of the Burning Project! It's up to the Burning Angels to rescue her! And so starts another vertically scrolling shooter on the PC Engine. There are no surprises in the gameplay here - choose one of two ships, shoot down enemies and collect power upgrades and energy pods. Levels range from the city to the desert and the obligatory sci-fi enemy base. At the end of each level, defeat the large boss craft to move on.",
     "url": "https://www.igdb.com/games/burning-angels"
@@ -5016,6 +5405,26 @@
         "name": "Buster Bros."
       }
     ],
+    "collection": {
+      "id": 3701,
+      "created_at": 1507806157,
+      "games": [
+        6823,
+        20137,
+        23372,
+        38423,
+        39510,
+        39721,
+        40373,
+        64050,
+        114752
+      ],
+      "name": "Pang",
+      "slug": "pang",
+      "updated_at": 1667769583,
+      "url": "https://www.igdb.com/collections/pang",
+      "checksum": "c3f698af-93db-4896-61fd-c06b09d42ac7"
+    },
     "cover": {
       "id": 122813,
       "alpha_channel": false,
@@ -5138,13 +5547,15 @@
       }
     ],
     "cover": {
-      "id": 6979,
+      "id": 259910,
+      "alpha_channel": false,
+      "animated": false,
       "game": 6652,
-      "height": 398,
-      "image_id": "odcxnoe9khx3lebjxwbj",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/odcxnoe9khx3lebjxwbj.jpg",
-      "width": 400,
-      "checksum": "e8e35f75-45b0-42f8-13df-bf0f036edbe5"
+      "height": 1152,
+      "image_id": "co5kjq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5kjq.jpg",
+      "width": 864,
+      "checksum": "c7837bba-177d-a119-3d06-c0d123667644"
     },
     "first_release_date": 631065600,
     "genres": [
@@ -5303,6 +5714,19 @@
         "name": "Taito Chase H.Q."
       }
     ],
+    "collection": {
+      "id": 1601,
+      "created_at": 1441119159,
+      "games": [
+        6802,
+        11999
+      ],
+      "name": "Chase H.Q.",
+      "slug": "chase-hq",
+      "updated_at": 1666096952,
+      "url": "https://www.igdb.com/collections/chase-hq",
+      "checksum": "388e31c8-1ed4-3d09-4c08-632e1cc958d0"
+    },
     "cover": {
       "id": 115081,
       "alpha_channel": false,
@@ -5702,6 +6126,10 @@
       {
         "id": 96819,
         "name": "The Kung Fu"
+      },
+      {
+        "id": 114939,
+        "name": "THE 功夫"
       }
     ],
     "cover": {
@@ -7052,6 +7480,26 @@
   },
   {
     "id": 16471,
+    "alternative_names": [
+      {
+        "id": 107030,
+        "name": "サイバーナイト"
+      }
+    ],
+    "collection": {
+      "id": 2009,
+      "created_at": 1453132140,
+      "games": [
+        16471,
+        16472,
+        42548
+      ],
+      "name": "Cyber Knight",
+      "slug": "cyber-knight",
+      "updated_at": 1453132140,
+      "url": "https://www.igdb.com/collections/cyber-knight",
+      "checksum": "21183ef1-610c-b290-129f-26eb8044991c"
+    },
     "cover": {
       "id": 140279,
       "alpha_channel": false,
@@ -7467,6 +7915,44 @@
         "name": "Darius PC-Engine SuperGrafx TurboGrafx-16 HuCard"
       }
     ],
+    "collection": {
+      "id": 2083,
+      "created_at": 1457296299,
+      "games": [
+        6660,
+        6788,
+        6789,
+        18193,
+        20090,
+        22340,
+        37641,
+        38075,
+        38078,
+        39691,
+        39695,
+        42446,
+        44307,
+        44536,
+        49277,
+        93636,
+        99336,
+        104778,
+        138014,
+        139992,
+        139993,
+        145313,
+        145801,
+        145878,
+        145879,
+        146398,
+        146401
+      ],
+      "name": "Darius",
+      "slug": "darius",
+      "updated_at": 1667673258,
+      "url": "https://www.igdb.com/collections/darius",
+      "checksum": "59efe44d-a85f-c27b-6a4f-8a4465067129"
+    },
     "cover": {
       "id": 137257,
       "alpha_channel": true,
@@ -7628,6 +8114,232 @@
         "name": "DWD TG-16"
       }
     ],
+    "collection": {
+      "id": 2986,
+      "created_at": 1506583967,
+      "games": [
+        360,
+        2473,
+        2926,
+        3166,
+        3613,
+        3782,
+        3883,
+        3884,
+        3885,
+        3886,
+        3887,
+        4066,
+        4234,
+        4406,
+        4666,
+        4806,
+        5218,
+        5261,
+        6200,
+        6434,
+        6589,
+        6756,
+        8127,
+        8130,
+        8144,
+        8150,
+        8152,
+        8163,
+        8446,
+        8447,
+        8451,
+        8452,
+        9056,
+        10610,
+        10791,
+        12052,
+        12122,
+        12826,
+        12910,
+        13379,
+        17172,
+        17753,
+        17765,
+        17829,
+        18102,
+        18142,
+        19212,
+        19218,
+        19761,
+        19900,
+        20390,
+        20542,
+        21086,
+        22325,
+        22468,
+        23586,
+        24979,
+        27791,
+        30977,
+        36312,
+        40638,
+        40695,
+        43375,
+        43499,
+        43724,
+        43737,
+        43895,
+        44013,
+        44014,
+        44025,
+        44839,
+        44877,
+        45228,
+        45561,
+        45564,
+        45575,
+        46210,
+        46233,
+        46431,
+        46434,
+        46446,
+        46673,
+        47392,
+        47728,
+        47753,
+        47789,
+        47790,
+        47859,
+        47868,
+        48992,
+        49153,
+        49186,
+        49190,
+        49202,
+        49275,
+        49278,
+        49282,
+        49304,
+        49376,
+        49404,
+        49405,
+        49406,
+        49407,
+        49409,
+        49410,
+        49478,
+        49494,
+        49841,
+        49942,
+        50008,
+        50016,
+        50307,
+        50372,
+        50426,
+        50478,
+        51281,
+        51370,
+        56042,
+        57214,
+        57622,
+        57919,
+        57920,
+        58005,
+        58639,
+        58644,
+        58849,
+        59938,
+        59939,
+        60193,
+        60243,
+        60832,
+        61672,
+        61680,
+        61822,
+        61960,
+        62187,
+        62415,
+        63051,
+        63272,
+        63748,
+        65125,
+        65155,
+        65583,
+        67757,
+        68735,
+        69051,
+        69056,
+        69231,
+        69885,
+        70222,
+        70247,
+        70250,
+        70964,
+        71089,
+        71876,
+        71987,
+        72123,
+        72135,
+        72885,
+        73453,
+        73552,
+        73651,
+        76602,
+        77330,
+        78004,
+        78216,
+        78286,
+        78482,
+        78484,
+        78590,
+        78640,
+        78697,
+        78718,
+        79059,
+        79552,
+        79786,
+        79840,
+        79914,
+        79954,
+        80295,
+        81487,
+        83509,
+        83783,
+        85089,
+        85959,
+        86045,
+        89817,
+        91476,
+        97983,
+        98009,
+        98240,
+        98278,
+        98569,
+        108251,
+        109480,
+        111548,
+        113889,
+        120809,
+        122082,
+        122508,
+        123397,
+        123599,
+        124644,
+        127641,
+        132153,
+        133765,
+        140087,
+        145266,
+        146342,
+        204566,
+        204571,
+        204572,
+        204613,
+        204616,
+        204619
+      ],
+      "name": "Disney",
+      "slug": "disney",
+      "updated_at": 1668437338,
+      "url": "https://www.igdb.com/collections/disney",
+      "checksum": "3155e7b5-c0c3-a328-afe1-0562e3f4f690"
+    },
     "cover": {
       "id": 135761,
       "alpha_channel": false,
@@ -8064,8 +8776,37 @@
       {
         "id": 89109,
         "name": "Bells & Whistles"
+      },
+      {
+        "id": 112288,
+        "name": "出たな!! ツインビー "
       }
     ],
+    "collection": {
+      "id": 2830,
+      "created_at": 1500736908,
+      "games": [
+        4623,
+        39878,
+        42473,
+        48383,
+        51948,
+        52195,
+        71701,
+        73358,
+        137420,
+        144657,
+        149977,
+        202072,
+        202103,
+        202104
+      ],
+      "name": "TwinBee",
+      "slug": "twinbee",
+      "updated_at": 1666602226,
+      "url": "https://www.igdb.com/collections/twinbee",
+      "checksum": "b49f1b4c-81a0-e6d8-dbab-bbeb65901c68"
+    },
     "cover": {
       "id": 222525,
       "alpha_channel": false,
@@ -8112,8 +8853,24 @@
       {
         "id": 96821,
         "name": "Devil Crash"
+      },
+      {
+        "id": 113517,
+        "name": "デビルクラッシュ "
       }
     ],
+    "collection": {
+      "id": 939,
+      "created_at": 1400512166,
+      "games": [
+        6827
+      ],
+      "name": "Crush Pinbal",
+      "slug": "crush-pinbal",
+      "updated_at": 1400512166,
+      "url": "https://www.igdb.com/collections/crush-pinbal",
+      "checksum": "6b8611b9-6607-a747-b390-a47e5b4c6db8"
+    },
     "cover": {
       "id": 233538,
       "alpha_channel": false,
@@ -8278,6 +9035,25 @@
   },
   {
     "id": 47188,
+    "collection": {
+      "id": 4076,
+      "created_at": 1507928245,
+      "games": [
+        3876,
+        8234,
+        14641,
+        39527,
+        40549,
+        47188,
+        72331,
+        136862
+      ],
+      "name": "Die Hard",
+      "slug": "die-hard",
+      "updated_at": 1668146703,
+      "url": "https://www.igdb.com/collections/die-hard",
+      "checksum": "43bf8744-a579-3365-2b64-1512a9403784"
+    },
     "cover": {
       "id": 31698,
       "game": 47188,
@@ -8467,6 +9243,64 @@
   },
   {
     "id": 38077,
+    "collection": {
+      "id": 644,
+      "created_at": 1390215170,
+      "games": [
+        3473,
+        3474,
+        4771,
+        4818,
+        13517,
+        37224,
+        37357,
+        38077,
+        38127,
+        38128,
+        38130,
+        39895,
+        43194,
+        45730,
+        46316,
+        46320,
+        48523,
+        49228,
+        49265,
+        49596,
+        50587,
+        56993,
+        56994,
+        59055,
+        59056,
+        60544,
+        60545,
+        60749,
+        62554,
+        66034,
+        66134,
+        70797,
+        78393,
+        78578,
+        78579,
+        79111,
+        79457,
+        91772,
+        91773,
+        91775,
+        91776,
+        91777,
+        91778,
+        92176,
+        97373,
+        112091,
+        141725
+      ],
+      "name": "Doraemon",
+      "slug": "doraemon",
+      "updated_at": 1666315455,
+      "url": "https://www.igdb.com/collections/doraemon",
+      "checksum": "6f194a4c-d866-f522-ed13-679ff7111e98"
+    },
     "cover": {
       "id": 24867,
       "game": 38077,
@@ -8896,6 +9730,18 @@
   },
   {
     "id": 37716,
+    "collection": {
+      "id": 7531,
+      "created_at": 1641546280,
+      "games": [
+        37716
+      ],
+      "name": "DOWNLOAD",
+      "slug": "download",
+      "updated_at": 1641546280,
+      "url": "https://www.igdb.com/collections/download",
+      "checksum": "49b5651b-5919-bb4e-e5d1-74cb524d333e"
+    },
     "cover": {
       "id": 201727,
       "alpha_channel": false,
@@ -9398,67 +10244,94 @@
         "name": "ドラゴンナイトII"
       }
     ],
-    "cover": {
-      "id": 53957,
-      "game": 41779,
-      "height": 600,
-      "image_id": "c1niiei6ftskljrhjubs",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/c1niiei6ftskljrhjubs.jpg",
-      "width": 426,
-      "checksum": "32ca8d21-36ed-ea75-b6ec-9e4d231f0084"
+    "collection": {
+      "id": 3454,
+      "created_at": 1507574921,
+      "games": [
+        2518,
+        39628,
+        41779,
+        45959,
+        70822,
+        78427
+      ],
+      "name": "Dragon Knight",
+      "slug": "dragon-knight",
+      "updated_at": 1667123047,
+      "url": "https://www.igdb.com/collections/dragon-knight",
+      "checksum": "d416e776-7a33-3924-3aa0-1e8e546cfd0c"
     },
-    "first_release_date": 661651200,
+    "cover": {
+      "id": 265395,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 41779,
+      "height": 1983,
+      "image_id": "co5os3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5os3.jpg",
+      "width": 1487,
+      "checksum": "afb50a38-7278-ccb6-8f30-a4d2669d3fc8"
+    },
+    "first_release_date": 660009600,
     "genres": [
       {
         "id": 12,
         "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
       }
     ],
     "involved_companies": [
       {
-        "id": 59127,
+        "id": 191928,
         "company": {
           "id": 14081,
           "name": "ELF Corporation"
         },
-        "created_at": 1513468800,
+        "created_at": 1666577836,
         "developer": true,
         "game": 41779,
-        "porting": false,
+        "porting": true,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "38dfc4c3-bf32-00cd-699e-869dbd82ce5b"
+        "updated_at": 1666595224,
+        "checksum": "e2ae3f24-75d5-910f-be3c-5f5c9ebc4a06"
       },
       {
-        "id": 59128,
+        "id": 191929,
+        "company": {
+          "id": 12755,
+          "name": "NEC Avenue, Ltd."
+        },
+        "created_at": 1666577837,
+        "developer": false,
+        "game": 41779,
+        "porting": true,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1666595224,
+        "checksum": "eee277c0-0536-b4bf-76bf-dd9a9470d4a1"
+      },
+      {
+        "id": 191930,
         "company": {
           "id": 5386,
           "name": "Tamtam"
         },
-        "created_at": 1513468800,
+        "created_at": 1666577837,
         "developer": true,
         "game": 41779,
         "porting": false,
         "publisher": false,
         "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "7b2ba59e-34d0-80e8-ea25-3cf389d159c6"
-      },
-      {
-        "id": 59129,
-        "company": {
-          "id": 12755,
-          "name": "NEC Avenue, Ltd."
-        },
-        "created_at": 1513468800,
-        "developer": false,
-        "game": 41779,
-        "porting": false,
-        "publisher": true,
-        "supporting": false,
-        "updated_at": 1513468800,
-        "checksum": "71055e05-fedb-25f9-3de5-fc55f83e9cea"
+        "updated_at": 1666595224,
+        "checksum": "50aaf2c8-21ce-28d9-41bc-4ca26852de9a"
       }
     ],
     "name": "Dragon Knight II",
@@ -9495,14 +10368,70 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc68qk.jpg",
         "width": 544,
         "checksum": "e1769374-7070-5ec2-6873-363af168f2aa"
+      },
+      {
+        "id": 907472,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 41779,
+        "height": 400,
+        "image_id": "scjg7k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjg7k.jpg",
+        "width": 640,
+        "checksum": "ff473082-cce2-b1b7-269c-7e07a696f952"
+      },
+      {
+        "id": 907473,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 41779,
+        "height": 400,
+        "image_id": "scjg7l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjg7l.jpg",
+        "width": 640,
+        "checksum": "54520e3b-ede7-3be6-b595-7a31ba3a84b6"
+      },
+      {
+        "id": 907474,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 41779,
+        "height": 400,
+        "image_id": "scjg7m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjg7m.jpg",
+        "width": 640,
+        "checksum": "92a956f2-8679-6da2-0b83-938acdd6328f"
       }
     ],
     "slug": "dragon-knight-ii",
-    "summary": "Strawberry Fields - a magic country populated almost exclusively by beautiful young girls (that is, if we don't count the Wise Old Man and a couple of other male exceptions). All went well in this peaceful place, until the evil witch Mesaana abducted some of the country's lovely inhabitants and placed a curse upon them, turning them into hideous monsters. Enter Takeru Yamato (whom you might know as Desmond, the hero of Knights of Xentar), a young adventurer who happens to be in Strawberry Fields at that time. Takeru is told that in order to remove the curse one has to find three sacred writings, buried deep within three dangerous dungeons. Looks like a job for our adventurer - especially because the rescued girls will probably be very grateful!.",
-    "url": "https://www.igdb.com/games/dragon-knight-ii"
+    "storyline": "Strawberry Fields - a magic country populated almost exclusively by beautiful young girls (that is, if we don't count the Wise Old Man and a couple of other male exceptions). All went well in this peaceful place, until the evil witch Mesaana abducted some of the country's lovely inhabitants and placed a curse upon them, turning them into hideous monsters. Enter Takeru Yamato (whom you might know as Desmond, the hero of Knights of Xentar), a young adventurer who happens to be in Strawberry Fields at that time. Takeru is told that in order to remove the curse one has to find three sacred writings, buried deep within three dangerous dungeons. Looks like a job for our adventurer - especially because the rescued girls will probably be very grateful!.",
+    "summary": "Dragon Knight II is the predecessor to Knights of Xentar, the only Dragon Knight game that was ever translated into English. This is a first-person game that is mainly dedicated to dungeon exploring. Takeru has to explore the three dungeons, fighting enemies and sometimes talking to dungeon inhabitants. The enemies are the girls who were turned into monsters by Mesaana. In town, Takeru can also buy weapons, armor, and items, and talk to various people.",
+    "url": "https://www.igdb.com/games/dragon-knight-ii",
+    "videos": [
+      {
+        "id": 76894,
+        "game": 41779,
+        "name": "Gameplay Video",
+        "video_id": "i9x3G1b44OY",
+        "checksum": "92e1d3f3-1519-77cc-972d-118652460e18"
+      }
+    ]
   },
   {
     "id": 38097,
+    "collection": {
+      "id": 2899,
+      "created_at": 1504159079,
+      "games": [
+        12055,
+        38097
+      ],
+      "name": "Dragon Spirit",
+      "slug": "dragon-spirit",
+      "updated_at": 1667598634,
+      "url": "https://www.igdb.com/collections/dragon-spirit",
+      "checksum": "72b24b5a-76a2-3f7d-5354-62d0f4a7339b"
+    },
     "cover": {
       "id": 126035,
       "alpha_channel": false,
@@ -9673,6 +10602,22 @@
         "name": "Dragon Slayer: The Legend of Heroes 2"
       }
     ],
+    "collection": {
+      "id": 817,
+      "created_at": 1394943058,
+      "games": [
+        4393,
+        5579,
+        10942,
+        10943,
+        10944
+      ],
+      "name": "Dragon Slayer: The Legend of Heroes",
+      "slug": "dragon-slayer-the-legend-of-heroes",
+      "updated_at": 1660675109,
+      "url": "https://www.igdb.com/collections/dragon-slayer-the-legend-of-heroes",
+      "checksum": "2c340057-4856-2232-e371-ca69163d2672"
+    },
     "cover": {
       "id": 113139,
       "alpha_channel": false,
@@ -9839,6 +10784,22 @@
         "name": "Dragon Slayer: The Legend of Heroes 2"
       }
     ],
+    "collection": {
+      "id": 817,
+      "created_at": 1394943058,
+      "games": [
+        4393,
+        5579,
+        10942,
+        10943,
+        10944
+      ],
+      "name": "Dragon Slayer: The Legend of Heroes",
+      "slug": "dragon-slayer-the-legend-of-heroes",
+      "updated_at": 1660675109,
+      "url": "https://www.igdb.com/collections/dragon-slayer-the-legend-of-heroes",
+      "checksum": "2c340057-4856-2232-e371-ca69163d2672"
+    },
     "cover": {
       "id": 113139,
       "alpha_channel": false,
@@ -9975,6 +10936,19 @@
   },
   {
     "id": 12055,
+    "collection": {
+      "id": 2899,
+      "created_at": 1504159079,
+      "games": [
+        12055,
+        38097
+      ],
+      "name": "Dragon Spirit",
+      "slug": "dragon-spirit",
+      "updated_at": 1667598634,
+      "url": "https://www.igdb.com/collections/dragon-spirit",
+      "checksum": "72b24b5a-76a2-3f7d-5354-62d0f4a7339b"
+    },
     "cover": {
       "id": 114103,
       "alpha_channel": false,
@@ -10319,6 +11293,26 @@
   },
   {
     "id": 74314,
+    "alternative_names": [
+      {
+        "id": 113654,
+        "name": "ダンジョンエクスプローラー"
+      }
+    ],
+    "collection": {
+      "id": 2006,
+      "created_at": 1452860601,
+      "games": [
+        16297,
+        42022,
+        74314
+      ],
+      "name": "Dungeon Explorer",
+      "slug": "dungeon-explorer",
+      "updated_at": 1664778907,
+      "url": "https://www.igdb.com/collections/dungeon-explorer",
+      "checksum": "c2edabe3-5fcc-4d01-961b-60827b94a10e"
+    },
     "cover": {
       "id": 104049,
       "alpha_channel": false,
@@ -10562,6 +11556,52 @@
         "name": "Dungeons and Dragons: Order of the Griffon"
       }
     ],
+    "collection": {
+      "id": 3395,
+      "created_at": 1507569190,
+      "games": [
+        2418,
+        2504,
+        2508,
+        2515,
+        2529,
+        4270,
+        5467,
+        5629,
+        5631,
+        5819,
+        9179,
+        10253,
+        12041,
+        12113,
+        14474,
+        15127,
+        19503,
+        20608,
+        21567,
+        22831,
+        39328,
+        40122,
+        42102,
+        43178,
+        47126,
+        49197,
+        69593,
+        70451,
+        71131,
+        71492,
+        71692,
+        71724,
+        73446,
+        80495,
+        141477
+      ],
+      "name": "Dungeons & Dragons",
+      "slug": "dungeons-and-dragons",
+      "updated_at": 1668422342,
+      "url": "https://www.igdb.com/collections/dungeons-and-dragons",
+      "checksum": "7a8e1791-64e5-9dcc-9e60-5165d0034f50"
+    },
     "cover": {
       "id": 90526,
       "alpha_channel": false,
@@ -11298,6 +12338,27 @@
   },
   {
     "id": 44328,
+    "collection": {
+      "id": 3209,
+      "created_at": 1507207019,
+      "games": [
+        37714,
+        37715,
+        42265,
+        42266,
+        42267,
+        42268,
+        42269,
+        44328,
+        45865,
+        125458
+      ],
+      "name": "F1 Circus",
+      "slug": "f1-circus",
+      "updated_at": 1656923379,
+      "url": "https://www.igdb.com/collections/f1-circus",
+      "checksum": "6cbe900e-88d2-d12c-ba53-8d24a87f0941"
+    },
     "cover": {
       "id": 35137,
       "game": 44328,
@@ -11402,6 +12463,27 @@
   },
   {
     "id": 37715,
+    "collection": {
+      "id": 3209,
+      "created_at": 1507207019,
+      "games": [
+        37714,
+        37715,
+        42265,
+        42266,
+        42267,
+        42268,
+        42269,
+        44328,
+        45865,
+        125458
+      ],
+      "name": "F1 Circus",
+      "slug": "f1-circus",
+      "updated_at": 1656923379,
+      "url": "https://www.igdb.com/collections/f1-circus",
+      "checksum": "6cbe900e-88d2-d12c-ba53-8d24a87f0941"
+    },
     "cover": {
       "id": 171112,
       "alpha_channel": false,
@@ -11717,6 +12799,37 @@
         "name": "ファンタジーゾーン"
       }
     ],
+    "collection": {
+      "id": 2092,
+      "created_at": 1457517398,
+      "games": [
+        6684,
+        6687,
+        18278,
+        18292,
+        42007,
+        45652,
+        45658,
+        48627,
+        117158,
+        202907,
+        202909,
+        202910,
+        202913,
+        202914,
+        202915,
+        205208,
+        206230,
+        206231,
+        206314,
+        215746
+      ],
+      "name": "Fantasy Zone",
+      "slug": "fantasy-zone",
+      "updated_at": 1667845411,
+      "url": "https://www.igdb.com/collections/fantasy-zone",
+      "checksum": "86ea4e86-1773-9ce2-1019-5ed1916d3cc3"
+    },
     "cover": {
       "id": 241485,
       "alpha_channel": false,
@@ -12102,6 +13215,22 @@
   },
   {
     "id": 42124,
+    "collection": {
+      "id": 1422,
+      "created_at": 1432762866,
+      "games": [
+        5691,
+        10708,
+        12337,
+        21875,
+        42124
+      ],
+      "name": "Pole Position",
+      "slug": "pole-position",
+      "updated_at": 1642517915,
+      "url": "https://www.igdb.com/collections/pole-position",
+      "checksum": "85d9e24d-4973-502e-ffa1-2a5db8045f62"
+    },
     "cover": {
       "id": 26031,
       "game": 42124,
@@ -12125,6 +13254,20 @@
   },
   {
     "id": 42060,
+    "collection": {
+      "id": 3753,
+      "created_at": 1507813095,
+      "games": [
+        42060,
+        42264,
+        61245
+      ],
+      "name": "Final Match Tennis",
+      "slug": "final-match-tennis",
+      "updated_at": 1507813095,
+      "url": "https://www.igdb.com/collections/final-match-tennis",
+      "checksum": "574ea9d5-526d-0b3b-e7c5-a57b53476154"
+    },
     "cover": {
       "id": 37836,
       "game": 42060,
@@ -12148,6 +13291,12 @@
   },
   {
     "id": 37712,
+    "alternative_names": [
+      {
+        "id": 114111,
+        "name": "ファイナルソルジャー "
+      }
+    ],
     "cover": {
       "id": 117763,
       "alpha_channel": true,
@@ -12399,6 +13548,39 @@
   },
   {
     "id": 57795,
+    "collection": {
+      "id": 903,
+      "created_at": 1398286240,
+      "games": [
+        6407,
+        6408,
+        27547,
+        28767,
+        38087,
+        38282,
+        38283,
+        38284,
+        38286,
+        38287,
+        38290,
+        38420,
+        42071,
+        42614,
+        44762,
+        45074,
+        46092,
+        46364,
+        57795,
+        60949,
+        64545,
+        67040
+      ],
+      "name": "Fire Pro Wrestling",
+      "slug": "fire-pro-wrestling",
+      "updated_at": 1658905387,
+      "url": "https://www.igdb.com/collections/fire-pro-wrestling",
+      "checksum": "f7e210a7-53d9-f067-5be1-661975aab40c"
+    },
     "cover": {
       "id": 229093,
       "alpha_channel": false,
@@ -12495,6 +13677,39 @@
   },
   {
     "id": 42071,
+    "collection": {
+      "id": 903,
+      "created_at": 1398286240,
+      "games": [
+        6407,
+        6408,
+        27547,
+        28767,
+        38087,
+        38282,
+        38283,
+        38284,
+        38286,
+        38287,
+        38290,
+        38420,
+        42071,
+        42614,
+        44762,
+        45074,
+        46092,
+        46364,
+        57795,
+        60949,
+        64545,
+        67040
+      ],
+      "name": "Fire Pro Wrestling",
+      "slug": "fire-pro-wrestling",
+      "updated_at": 1658905387,
+      "url": "https://www.igdb.com/collections/fire-pro-wrestling",
+      "checksum": "f7e210a7-53d9-f067-5be1-661975aab40c"
+    },
     "cover": {
       "id": 66457,
       "game": 42071,
@@ -12554,6 +13769,39 @@
   },
   {
     "id": 38087,
+    "collection": {
+      "id": 903,
+      "created_at": 1398286240,
+      "games": [
+        6407,
+        6408,
+        27547,
+        28767,
+        38087,
+        38282,
+        38283,
+        38284,
+        38286,
+        38287,
+        38290,
+        38420,
+        42071,
+        42614,
+        44762,
+        45074,
+        46092,
+        46364,
+        57795,
+        60949,
+        64545,
+        67040
+      ],
+      "name": "Fire Pro Wrestling",
+      "slug": "fire-pro-wrestling",
+      "updated_at": 1658905387,
+      "url": "https://www.igdb.com/collections/fire-pro-wrestling",
+      "checksum": "f7e210a7-53d9-f067-5be1-661975aab40c"
+    },
     "cover": {
       "id": 66403,
       "game": 38087,
@@ -12900,6 +14148,20 @@
         "name": "Formation Soccer on J.League"
       }
     ],
+    "collection": {
+      "id": 3214,
+      "created_at": 1507208308,
+      "games": [
+        42046,
+        44329,
+        49575
+      ],
+      "name": "Formation Soccer",
+      "slug": "formation-soccer",
+      "updated_at": 1660524808,
+      "url": "https://www.igdb.com/collections/formation-soccer",
+      "checksum": "a9645dc8-2e35-0357-5cd2-361c98415146"
+    },
     "cover": {
       "id": 38364,
       "game": 44329,
@@ -12933,10 +14195,10 @@
         "checksum": "87657a66-f6ee-6232-e39c-f5c04e9d943e"
       }
     ],
-    "name": "Formation Soccer On J. League",
-    "slug": "formation-soccer-on-j-league",
+    "name": "Formation Soccer On J.League",
+    "slug": "formation-soccer-on-jleague",
     "summary": "A soccer game for the PC Engine and part of Human's Formation Soccer series.\n\nFormation Soccer on J-League is a soccer game for the PC Engine and part of Human Entertainment's Formation Soccer series. The game focuses on Japan's top soccer league, the J-League, and features all ten teams active in the 1993-94 season. Formation Soccer on J-League was the penultimate game released officially on the PC Engine/TurboGrafx-16's HuCard format.\n\nThe game features a standard exhibition mode, a league mode that recreates the 1993-94 J-League, and an All-Stars mode that features two teams comprised of all the best players. The Exhibition and All-Stars modes can be played with up to four human players. The J-League mode allows for two players to be on the same team and take on the CPU-controlled league cooperatively.",
-    "url": "https://www.igdb.com/games/formation-soccer-on-j-league"
+    "url": "https://www.igdb.com/games/formation-soccer-on-jleague"
   },
   {
     "id": 65273,
@@ -12992,18 +14254,30 @@
     "id": 42063,
     "alternative_names": [
       {
-        "id": 52753,
-        "name": "ガイアの紋章"
-      },
-      {
         "id": 52754,
         "name": "Crest of Gaia"
       },
       {
         "id": 52755,
         "name": "History of Elthlead"
+      },
+      {
+        "id": 114634,
+        "name": "ガイアの紋章"
       }
     ],
+    "collection": {
+      "id": 6640,
+      "created_at": 1607025898,
+      "games": [
+        42063
+      ],
+      "name": "Elthlead",
+      "slug": "elthlead",
+      "updated_at": 1607025898,
+      "url": "https://www.igdb.com/collections/elthlead",
+      "checksum": "b9f64edd-7756-5ad2-3e36-3888b2e66d44"
+    },
     "cover": {
       "id": 121016,
       "alpha_channel": true,
@@ -13128,6 +14402,10 @@
       {
         "id": 96840,
         "name": "Gai Flame"
+      },
+      {
+        "id": 111595,
+        "name": "ガイフレーム"
       }
     ],
     "cover": {
@@ -13611,6 +14889,27 @@
   },
   {
     "id": 63467,
+    "collection": {
+      "id": 2194,
+      "created_at": 1466329386,
+      "games": [
+        5663,
+        19671,
+        19688,
+        43929,
+        44741,
+        63467,
+        64652,
+        72976,
+        112542,
+        202996
+      ],
+      "name": "Simple 1500",
+      "slug": "simple-1500",
+      "updated_at": 1657863252,
+      "url": "https://www.igdb.com/collections/simple-1500",
+      "checksum": "7d3367d3-bf55-7b0c-026a-58dba3ca92c7"
+    },
     "cover": {
       "id": 37255,
       "game": 63467,
@@ -13991,6 +15290,55 @@
         "name": "ゴジラ 爆闘烈伝"
       }
     ],
+    "collection": {
+      "id": 3301,
+      "created_at": 1507370339,
+      "games": [
+        3935,
+        4891,
+        5847,
+        8731,
+        21512,
+        26409,
+        36739,
+        38418,
+        45823,
+        45824,
+        46315,
+        48160,
+        48161,
+        49298,
+        60660,
+        61543,
+        61983,
+        63049,
+        72723,
+        72803,
+        72806,
+        72828,
+        75884,
+        75885,
+        75886,
+        75887,
+        75888,
+        75890,
+        75891,
+        77247,
+        119058,
+        135560,
+        135573,
+        135594,
+        135595,
+        145860,
+        145862,
+        145864
+      ],
+      "name": "Godzilla",
+      "slug": "godzilla",
+      "updated_at": 1668088146,
+      "url": "https://www.igdb.com/collections/godzilla",
+      "checksum": "9545f3c3-81fb-3e56-46b7-2faa1642cfad"
+    },
     "cover": {
       "id": 134673,
       "alpha_channel": false,
@@ -14175,6 +15523,27 @@
         "name": "Golden Axe Classic"
       }
     ],
+    "collection": {
+      "id": 956,
+      "created_at": 1401216077,
+      "games": [
+        5565,
+        7001,
+        16214,
+        16369,
+        19485,
+        39285,
+        39349,
+        46147,
+        140044,
+        202829
+      ],
+      "name": "Golden Axe",
+      "slug": "golden-axe",
+      "updated_at": 1667845168,
+      "url": "https://www.igdb.com/collections/golden-axe",
+      "checksum": "c0a4690a-d702-3901-cb94-573359768bd3"
+    },
     "cover": {
       "id": 100757,
       "alpha_channel": false,
@@ -14259,19 +15628,19 @@
         "checksum": "e95fe1ee-ef10-3da5-96b5-47bce1cf7c6a"
       },
       {
-        "id": 94572,
+        "id": 186643,
         "company": {
-          "id": 4981,
-          "name": "Sega Enterprises"
+          "id": 112,
+          "name": "Sega"
         },
-        "created_at": 1584662400,
+        "created_at": 1662836726,
         "developer": false,
         "game": 5565,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1584662400,
-        "checksum": "5e2ad2da-c593-6541-3884-a7f153713dbd"
+        "updated_at": 1662843639,
+        "checksum": "5f0ebd2d-e87a-a8ad-8648-52ac4a8a1094"
       }
     ],
     "name": "Golden Axe",
@@ -14388,8 +15757,8 @@
     "slug": "golden-axe",
     "storyline": "The game takes place in the fictional land of Yuria, a Conan the Barbarian-style high fantasy medieval world. An evil entity known as Death Adder has captured the King and his daughter, and holds them captive in their castle. He also finds the Golden Axe, the magical emblem of Yuria, and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. Three warriors set out on a quest to rescue Yuria and avenge their losses at the hands of Death Adder. The first is a battle axe-wielding dwarf, Gilius Thunderhead, from the mines of Wolud, whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian, Ax Battler, wielding a two-handed broadsword, looking for revenge for the murder of his mother. The last is a longsword-wielding Tyris Flare, an amazon, whose parents were both killed by Death Adder.\n\nThe warriors rescue the inhabitants of the ransacked Turtle Village, which turns out to be situated on the shell of a giant turtle. The turtle takes the characters across the sea, and they then fly to the castle itself on the back of a giant eagle. Once at the castle they defeat Death Adder, who is wielding the Golden Axe, and save the land. In the Mega Drive and PC versions, and also in other ports, the characters also battle Death Adder's mentor, Death Bringer, as the true final boss. After the final battle, the warriors receive a magical golden axe that imbues the player with immortality.",
     "summary": "Progress is made through the game by fighting through Death Adder's henchmen, including men armed with clubs and maces, skeleton warriors, and knights. Players are able to attack using their weapon, jump and cast spells that hurt all enemies on the screen. The force of this magic depends on the number of \"bars\" of magic power currently available. The bars are filled by collecting blue 'magic potions' attained by kicking little sprites who then drop the potions. These sprites appear during regular levels and during bonus stages in between levels. The male warrior Ax is able to cast earth spells. The dwarf Gilius, casts lightning spells and the female warrior Tyris casts fire magic. Each character has a different number of maximum magic bars and varying ranges of attack.\n\nVarious steeds known as bizarrians are found in the game. These can be ridden when the enemy rider is knocked off, or if one is found dormant. The least powerful steed is known as the Cockatrice, which can be used to knock down enemies with a swipe of its tail. The more powerful dragon, which can either shoot fireballs or breathe fire, is found later in the game.",
-    "total_rating": 70.3802178918816,
-    "total_rating_count": 156,
+    "total_rating": 70.37717473409549,
+    "total_rating_count": 157,
     "url": "https://www.igdb.com/games/golden-axe",
     "videos": [
       {
@@ -14438,6 +15807,43 @@
         "name": "Gradius II: Gofer no Yabou"
       }
     ],
+    "collection": {
+      "id": 311,
+      "created_at": 1349642227,
+      "games": [
+        1476,
+        1479,
+        1480,
+        1481,
+        1483,
+        1484,
+        1485,
+        1486,
+        1488,
+        1489,
+        18192,
+        18630,
+        23037,
+        39999,
+        48646,
+        48996,
+        77990,
+        83284,
+        98976,
+        106251,
+        174945,
+        213188,
+        213189,
+        213190,
+        213191,
+        214653
+      ],
+      "name": "Gradius",
+      "slug": "gradius",
+      "updated_at": 1668416062,
+      "url": "https://www.igdb.com/collections/gradius",
+      "checksum": "d0da34ac-a43c-3604-ec24-deba7e2c3cd8"
+    },
     "cover": {
       "id": 239470,
       "alpha_channel": false,
@@ -14508,6 +15914,43 @@
   },
   {
     "id": 213188,
+    "collection": {
+      "id": 311,
+      "created_at": 1349642227,
+      "games": [
+        1476,
+        1479,
+        1480,
+        1481,
+        1483,
+        1484,
+        1485,
+        1486,
+        1488,
+        1489,
+        18192,
+        18630,
+        23037,
+        39999,
+        48646,
+        48996,
+        77990,
+        83284,
+        98976,
+        106251,
+        174945,
+        213188,
+        213189,
+        213190,
+        213191,
+        214653
+      ],
+      "name": "Gradius",
+      "slug": "gradius",
+      "updated_at": 1668416062,
+      "url": "https://www.igdb.com/collections/gradius",
+      "checksum": "d0da34ac-a43c-3604-ec24-deba7e2c3cd8"
+    },
     "cover": {
       "id": 236841,
       "alpha_channel": true,
@@ -14994,16 +16437,29 @@
         "name": "イメージファイト"
       }
     ],
+    "collection": {
+      "id": 3590,
+      "created_at": 1507700718,
+      "games": [
+        10452,
+        37623
+      ],
+      "name": "Image Fight",
+      "slug": "image-fight",
+      "updated_at": 1663570122,
+      "url": "https://www.igdb.com/collections/image-fight",
+      "checksum": "7a2aa434-4c68-6226-5200-5b007667f21f"
+    },
     "cover": {
-      "id": 138620,
+      "id": 246853,
       "alpha_channel": false,
       "animated": false,
       "game": 10452,
-      "height": 846,
-      "image_id": "co2yyk",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2yyk.jpg",
-      "width": 600,
-      "checksum": "79eda14a-a884-eed0-e45b-74dd15413582"
+      "height": 793,
+      "image_id": "co5ah1",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ah1.jpg",
+      "width": 595,
+      "checksum": "57d245d3-f803-a99c-fb17-ed7ce320e79a"
     },
     "first_release_date": 599529600,
     "genres": [
@@ -15070,6 +16526,22 @@
   },
   {
     "id": 12611,
+    "collection": {
+      "id": 1747,
+      "created_at": 1444593119,
+      "games": [
+        12611,
+        13350,
+        23058,
+        26278,
+        26279
+      ],
+      "name": "Monty Mole",
+      "slug": "monty-mole",
+      "updated_at": 1666269149,
+      "url": "https://www.igdb.com/collections/monty-mole",
+      "checksum": "2080ae38-e9c1-fa04-555b-78438bd417b4"
+    },
     "cover": {
       "id": 191190,
       "alpha_channel": false,
@@ -15415,6 +16887,18 @@
         "name": "Jack Nicklaus World Golf Tour"
       }
     ],
+    "collection": {
+      "id": 4184,
+      "created_at": 1508923425,
+      "games": [
+        18101
+      ],
+      "name": "Jack Nicklaus' Golf",
+      "slug": "jack-nicklaus-golf",
+      "updated_at": 1508923425,
+      "url": "https://www.igdb.com/collections/jack-nicklaus-golf",
+      "checksum": "4de08218-84f2-8594-9c84-3f9d5c2af48e"
+    },
     "cover": {
       "id": 14312,
       "game": 18101,
@@ -15525,6 +17009,24 @@
         "name": "ジャッキー・チェン"
       }
     ],
+    "collection": {
+      "id": 3710,
+      "created_at": 1507806206,
+      "games": [
+        8154,
+        8155,
+        10444,
+        12522,
+        18943,
+        39606,
+        39607
+      ],
+      "name": "Jackie Chan",
+      "slug": "jackie-chan",
+      "updated_at": 1666925099,
+      "url": "https://www.igdb.com/collections/jackie-chan",
+      "checksum": "2ddb1c9e-2f2f-f1d8-8752-2e0f7893d09a"
+    },
     "cover": {
       "id": 223767,
       "alpha_channel": true,
@@ -15659,6 +17161,10 @@
       {
         "id": 39693,
         "name": "Necromancer"
+      },
+      {
+        "id": 112312,
+        "name": "邪聖剣ネクロマンサー"
       }
     ],
     "cover": {
@@ -16037,6 +17543,24 @@
   },
   {
     "id": 213228,
+    "collection": {
+      "id": 5027,
+      "created_at": 1512941616,
+      "games": [
+        1534,
+        1535,
+        41269,
+        144285,
+        213228,
+        213257,
+        213258
+      ],
+      "name": "Pocky & Rocky",
+      "slug": "pocky-and-rocky--1",
+      "updated_at": 1660524531,
+      "url": "https://www.igdb.com/collections/pocky-and-rocky--1",
+      "checksum": "8bc5dea6-4335-a04f-9e89-a36071a662b9"
+    },
     "cover": {
       "id": 236898,
       "alpha_channel": false,
@@ -16268,6 +17792,21 @@
   },
   {
     "id": 42058,
+    "collection": {
+      "id": 2353,
+      "created_at": 1470584723,
+      "games": [
+        22369,
+        22370,
+        26290,
+        42058
+      ],
+      "name": "Knight Rider",
+      "slug": "knight-rider",
+      "updated_at": 1470584723,
+      "url": "https://www.igdb.com/collections/knight-rider",
+      "checksum": "5f53b650-2b10-80bc-40bd-e85e64b77081"
+    },
     "cover": {
       "id": 33289,
       "game": 42058,
@@ -16295,6 +17834,19 @@
   },
   {
     "id": 37686,
+    "collection": {
+      "id": 3215,
+      "created_at": 1507208337,
+      "games": [
+        37686,
+        42037
+      ],
+      "name": "Kore ga Pro Yakyuu",
+      "slug": "kore-ga-pro-yakyuu",
+      "updated_at": 1507208337,
+      "url": "https://www.igdb.com/collections/kore-ga-pro-yakyuu",
+      "checksum": "e7f77aa2-84ed-72a4-0275-3c9268fadc8a"
+    },
     "cover": {
       "id": 32890,
       "game": 37686,
@@ -17017,6 +18569,18 @@
         "name": "The Legendary Axe 2"
       }
     ],
+    "collection": {
+      "id": 5118,
+      "created_at": 1513006176,
+      "games": [
+        42120
+      ],
+      "name": "The Legendary Axe",
+      "slug": "the-legendary-axe",
+      "updated_at": 1513006176,
+      "url": "https://www.igdb.com/collections/the-legendary-axe",
+      "checksum": "cccd540f-423a-4d5d-f94e-611f2bbd326f"
+    },
     "cover": {
       "id": 26035,
       "game": 42120,
@@ -17146,6 +18710,18 @@
         "name": "Makyou Densetsu"
       }
     ],
+    "collection": {
+      "id": 3594,
+      "created_at": 1507701286,
+      "games": [
+        42121
+      ],
+      "name": "Legendary Axe",
+      "slug": "legendary-axe",
+      "updated_at": 1507701286,
+      "url": "https://www.igdb.com/collections/legendary-axe",
+      "checksum": "89d2d919-bd60-0a47-3efb-79c99361dd92"
+    },
     "cover": {
       "id": 26034,
       "game": 42121,
@@ -18181,6 +19757,18 @@
         "name": "Mahjong Goku Special"
       }
     ],
+    "collection": {
+      "id": 5243,
+      "created_at": 1515783365,
+      "games": [
+        37677
+      ],
+      "name": "Mahjong Gokū",
+      "slug": "mahjong-goku",
+      "updated_at": 1515783365,
+      "url": "https://www.igdb.com/collections/mahjong-goku",
+      "checksum": "9bed6d11-e5b0-1c65-d929-ddcadbf72de7"
+    },
     "cover": {
       "id": 32849,
       "game": 37677,
@@ -18947,6 +20535,19 @@
         "name": "Nectaris"
       }
     ],
+    "collection": {
+      "id": 4177,
+      "created_at": 1508485846,
+      "games": [
+        42009,
+        44334
+      ],
+      "name": "Nectaris",
+      "slug": "nectaris",
+      "updated_at": 1658882718,
+      "url": "https://www.igdb.com/collections/nectaris",
+      "checksum": "a0a10c33-2082-d571-30d9-8b10814816ee"
+    },
     "cover": {
       "id": 210438,
       "alpha_channel": false,
@@ -19146,6 +20747,30 @@
         "name": "桃太郎活劇"
       }
     ],
+    "collection": {
+      "id": 3752,
+      "created_at": 1507813089,
+      "games": [
+        37655,
+        37673,
+        38082,
+        42049,
+        42297,
+        64411,
+        64413,
+        64421,
+        78941,
+        186765,
+        186780,
+        186960,
+        186961
+      ],
+      "name": "Momotaro Densetsu",
+      "slug": "momotaro-densetsu",
+      "updated_at": 1665772866,
+      "url": "https://www.igdb.com/collections/momotaro-densetsu",
+      "checksum": "e5a21cab-0732-00ad-3911-dc2ff30ac80a"
+    },
     "cover": {
       "id": 37930,
       "game": 38082,
@@ -19192,6 +20817,30 @@
         "name": "Momotarou Densetsu Turbo"
       }
     ],
+    "collection": {
+      "id": 3752,
+      "created_at": 1507813089,
+      "games": [
+        37655,
+        37673,
+        38082,
+        42049,
+        42297,
+        64411,
+        64413,
+        64421,
+        78941,
+        186765,
+        186780,
+        186960,
+        186961
+      ],
+      "name": "Momotaro Densetsu",
+      "slug": "momotaro-densetsu",
+      "updated_at": 1665772866,
+      "url": "https://www.igdb.com/collections/momotaro-densetsu",
+      "checksum": "e5a21cab-0732-00ad-3911-dc2ff30ac80a"
+    },
     "cover": {
       "id": 51756,
       "game": 42049,
@@ -19258,6 +20907,35 @@
   },
   {
     "id": 42019,
+    "collection": {
+      "id": 693,
+      "created_at": 1390810586,
+      "games": [
+        4481,
+        5560,
+        19452,
+        31404,
+        37265,
+        42019,
+        46304,
+        115993,
+        117160,
+        137048,
+        191754,
+        212862,
+        212864,
+        212865,
+        212866,
+        212868,
+        212884,
+        212885
+      ],
+      "name": "Wonder Boy",
+      "slug": "wonder-boy",
+      "updated_at": 1668385471,
+      "url": "https://www.igdb.com/collections/wonder-boy",
+      "checksum": "cf4c4d12-368b-66e5-ce75-b92bdb61101c"
+    },
     "cover": {
       "id": 236339,
       "alpha_channel": false,
@@ -19526,8 +21204,25 @@
       {
         "id": 71697,
         "name": "Motoroader II"
+      },
+      {
+        "id": 114832,
+        "name": "モトローダーII"
       }
     ],
+    "collection": {
+      "id": 4178,
+      "created_at": 1508485878,
+      "games": [
+        37708,
+        42104
+      ],
+      "name": "Moto Roader",
+      "slug": "moto-roader",
+      "updated_at": 1508485878,
+      "url": "https://www.igdb.com/collections/moto-roader",
+      "checksum": "21e21bda-1183-817a-45c8-76a7d962518f"
+    },
     "cover": {
       "id": 171321,
       "alpha_channel": false,
@@ -19632,8 +21327,25 @@
       {
         "id": 71697,
         "name": "Motoroader II"
+      },
+      {
+        "id": 114832,
+        "name": "モトローダーII"
       }
     ],
+    "collection": {
+      "id": 4178,
+      "created_at": 1508485878,
+      "games": [
+        37708,
+        42104
+      ],
+      "name": "Moto Roader",
+      "slug": "moto-roader",
+      "updated_at": 1508485878,
+      "url": "https://www.igdb.com/collections/moto-roader",
+      "checksum": "21e21bda-1183-817a-45c8-76a7d962518f"
+    },
     "cover": {
       "id": 171321,
       "alpha_channel": false,
@@ -19852,8 +21564,25 @@
       {
         "id": 96820,
         "name": "Neutopia 2"
+      },
+      {
+        "id": 114150,
+        "name": "ニュートピアII "
       }
     ],
+    "collection": {
+      "id": 2704,
+      "created_at": 1494319455,
+      "games": [
+        28523,
+        28524
+      ],
+      "name": "Neutopia",
+      "slug": "neutopia",
+      "updated_at": 1666228819,
+      "url": "https://www.igdb.com/collections/neutopia",
+      "checksum": "d2872702-9490-9283-465b-d347ee673b15"
+    },
     "cover": {
       "id": 117765,
       "alpha_channel": false,
@@ -20043,8 +21772,25 @@
       {
         "id": 96820,
         "name": "Neutopia 2"
+      },
+      {
+        "id": 114150,
+        "name": "ニュートピアII "
       }
     ],
+    "collection": {
+      "id": 2704,
+      "created_at": 1494319455,
+      "games": [
+        28523,
+        28524
+      ],
+      "name": "Neutopia",
+      "slug": "neutopia",
+      "updated_at": 1666228819,
+      "url": "https://www.igdb.com/collections/neutopia",
+      "checksum": "d2872702-9490-9283-465b-d347ee673b15"
+    },
     "cover": {
       "id": 117765,
       "alpha_channel": false,
@@ -20244,6 +21990,26 @@
         "name": "高橋名人の新冒険島"
       }
     ],
+    "collection": {
+      "id": 1019,
+      "created_at": 1407094046,
+      "games": [
+        4594,
+        6471,
+        8737,
+        28521,
+        41748,
+        50697,
+        84868,
+        84885,
+        141679
+      ],
+      "name": "Adventure Island",
+      "slug": "adventure-island",
+      "updated_at": 1666920158,
+      "url": "https://www.igdb.com/collections/adventure-island",
+      "checksum": "8e08d12e-e0e7-d09f-4c1f-a3c4a9d04c90"
+    },
     "cover": {
       "id": 177190,
       "alpha_channel": false,
@@ -20909,6 +22675,117 @@
     "url": "https://www.igdb.com/games/niko-niko-pun"
   },
   {
+    "id": 38083,
+    "alternative_names": [
+      {
+        "id": 96834,
+        "name": "Ninja Ryūkenden"
+      },
+      {
+        "id": 111217,
+        "name": "忍者龍剣伝"
+      },
+      {
+        "id": 111218,
+        "name": "Ninja Ryuukenden"
+      }
+    ],
+    "collection": {
+      "id": 783,
+      "created_at": 1392133625,
+      "games": [
+        5317,
+        5617,
+        5972,
+        5974,
+        6782,
+        6878,
+        7122,
+        7385,
+        7558,
+        15540,
+        17249,
+        18735,
+        19507,
+        21000,
+        21466,
+        21569,
+        38083,
+        42729,
+        48929,
+        65046,
+        136620,
+        210484,
+        215249,
+        215548,
+        221646
+      ],
+      "name": "Ninja Gaiden",
+      "slug": "ninja-gaiden",
+      "updated_at": 1668389074,
+      "url": "https://www.igdb.com/collections/ninja-gaiden",
+      "checksum": "07b81dc7-0714-ca86-0b51-36fdbb8b6a32"
+    },
+    "cover": {
+      "id": 74213,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 38083,
+      "height": 799,
+      "image_id": "co1l9h",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1l9h.jpg",
+      "width": 800,
+      "checksum": "b4de33bf-8d03-aa66-ab5a-60065438a42b"
+    },
+    "first_release_date": 696211200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 180617,
+        "company": {
+          "id": 864,
+          "name": "Hudson Soft"
+        },
+        "created_at": 1658852866,
+        "developer": false,
+        "game": 38083,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1658860676,
+        "checksum": "2b75b372-4203-4f70-fc8d-901eddad9e1e"
+      },
+      {
+        "id": 180838,
+        "company": {
+          "id": 14776,
+          "name": "Tecmo"
+        },
+        "created_at": 1658964365,
+        "developer": false,
+        "game": 38083,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1658968592,
+        "checksum": "62430547-1d56-330f-4acf-badd8f483db3"
+      }
+    ],
+    "name": "Ninja Ryukenden",
+    "slug": "ninja-ryukenden",
+    "summary": "Ninja Action! The stage is set for conspiracy, mystery and evil in America. Come with Ninja Ryu as he takes you on his fateful journey. Tecmo's unique cinema display system develops the story stage by stage. You piece together the puzzle, while watching the movie-like graphics. Decide what action to take. Use the secret sword and items collected during the action scenes to fight your way to the goal!",
+    "url": "https://www.igdb.com/games/ninja-ryukenden"
+  },
+  {
     "id": 6819,
     "alternative_names": [
       {
@@ -21144,14 +23021,28 @@
         "name": "The Ninjawarriors"
       }
     ],
+    "collection": {
+      "id": 2906,
+      "created_at": 1504371048,
+      "games": [
+        5406
+      ],
+      "name": "Ninja Warriors",
+      "slug": "ninja-warriors",
+      "updated_at": 1659454424,
+      "url": "https://www.igdb.com/collections/ninja-warriors",
+      "checksum": "b2c5ac14-8732-e3c7-9e6e-787c388f7c2a"
+    },
     "cover": {
-      "id": 29706,
+      "id": 257223,
+      "alpha_channel": false,
+      "animated": false,
       "game": 5406,
-      "height": 988,
-      "image_id": "cvy6on2updlgmaubqtfs",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cvy6on2updlgmaubqtfs.jpg",
-      "width": 1000,
-      "checksum": "0500999e-0fb5-56fb-5f65-7959274bb54a"
+      "height": 1200,
+      "image_id": "co5ih3",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ih3.jpg",
+      "width": 900,
+      "checksum": "6744cfcb-c5a9-6273-35a8-69fef245ccf5"
     },
     "first_release_date": 599529600,
     "genres": [
@@ -21249,6 +23140,20 @@
   },
   {
     "id": 12190,
+    "collection": {
+      "id": 2914,
+      "created_at": 1504768680,
+      "games": [
+        12190,
+        12191,
+        40377
+      ],
+      "name": "Operation Wolf",
+      "slug": "operation-wolf",
+      "updated_at": 1646089963,
+      "url": "https://www.igdb.com/collections/operation-wolf",
+      "checksum": "b821bb43-4eda-4aa1-5602-bcf6adcf9bb6"
+    },
     "cover": {
       "id": 210594,
       "alpha_channel": false,
@@ -21870,6 +23775,25 @@
   },
   {
     "id": 6822,
+    "alternative_names": [
+      {
+        "id": 111607,
+        "name": "パックランド"
+      }
+    ],
+    "collection": {
+      "id": 526,
+      "created_at": 1374439121,
+      "games": [
+        6822,
+        14470
+      ],
+      "name": "Pacman",
+      "slug": "pacman",
+      "updated_at": 1665598985,
+      "url": "https://www.igdb.com/collections/pacman",
+      "checksum": "69439610-fac6-b575-b503-e29d90989e30"
+    },
     "cover": {
       "id": 151600,
       "alpha_channel": false,
@@ -22027,8 +23951,8 @@
     ],
     "slug": "pac-land",
     "summary": "Pac-Land itself is split into trips. In each of these trips the objective is to get the fairy (that is kept under Pac-man's hat) to Fairyland and also to return home to Pac-Man's house. The majority of the trip involves moving from left to right avoiding various obstacles such as the enemy ghosts, water spurts and quicksand traps. Each trip is divided into a number of rounds, the end of which provides Pac-Man with bonus points depending on how much time he has left and also his position in jumping at the end of each round. If the player runs out of time before finishing the round, Sue, the purple ghost, will speed up rapidly.\n\nThe penultimate round of a trip ends with Pac-Man entering Fairyland and returning the fairy under his hat to the Fairy Queen. In return the Fairy Queen gives Pac-Man magic boots. For the final round of the trip, Pac-Man has to travel from right to left back home. For assistance he uses the magic boots, which allow him to jump repeatedly while in mid-air. Once Pac-Man completes the trip, he is greeted by Ms. Pac-Man and Baby Pac-Man. In the US release of the game, Pac-Man's cat and dog in the cartoon series, Sour Puss and Chomp-Chomp, are also there to welcome Pac-Man home. Pac-Man then begins his next trip following the same objectives as before, although the difficulty increases.\n\nAs in the original Pac-Man, there are fruit which appear to eat for bonus points and power pellets to turn the ghosts blue and vulnerable. A hidden item (sometimes accidentally dropped by the ghosts) is a Flagship from Galaxian, which rewards 7650 points when collected (a reference to Namco's goroawase number of 765). The Galaxian Flagship is a long running cameo that appears in the Namco-made Pac-Man games. There are also hidden bonuses in the game, eating ghosts in a certain order will give extra time and pushing an obstacle in the opposite direction can give extra lives, invincibility, and balloons to collect for points and warps.",
-    "total_rating": 69.8859462256784,
-    "total_rating_count": 14,
+    "total_rating": 69.9271906461117,
+    "total_rating_count": 15,
     "url": "https://www.igdb.com/games/pac-land",
     "videos": [
       {
@@ -22052,6 +23976,33 @@
         "name": "パチ夫くん十番勝負"
       }
     ],
+    "collection": {
+      "id": 7542,
+      "created_at": 1641866516,
+      "games": [
+        38352,
+        46501,
+        48634,
+        48776,
+        48833,
+        48834,
+        48835,
+        48836,
+        59507,
+        59508,
+        59509,
+        59510,
+        59511,
+        59514,
+        59519,
+        86125
+      ],
+      "name": "Pachio-kun",
+      "slug": "pachio-kun",
+      "updated_at": 1661863372,
+      "url": "https://www.igdb.com/collections/pachio-kun",
+      "checksum": "271a3e17-56ce-0afe-bea0-8f8f7b7bfc8a"
+    },
     "cover": {
       "id": 38489,
       "game": 46501,
@@ -22235,6 +24186,31 @@
         "name": "Parasol Stars"
       }
     ],
+    "collection": {
+      "id": 6671,
+      "created_at": 1609076731,
+      "games": [
+        4405,
+        21241,
+        22598,
+        23087,
+        37496,
+        39027,
+        42101,
+        45684,
+        45749,
+        48278,
+        78444,
+        194445,
+        194446,
+        194448
+      ],
+      "name": "Rainbow Islands",
+      "slug": "rainbow-islands",
+      "updated_at": 1662023511,
+      "url": "https://www.igdb.com/collections/rainbow-islands",
+      "checksum": "cf6bfb19-17ad-5673-1b42-d891de33067b"
+    },
     "cover": {
       "id": 233659,
       "alpha_channel": false,
@@ -22361,6 +24337,31 @@
   },
   {
     "id": 42095,
+    "collection": {
+      "id": 2200,
+      "created_at": 1466625045,
+      "games": [
+        19714,
+        37305,
+        37307,
+        38390,
+        38391,
+        39485,
+        41712,
+        42094,
+        42095,
+        45458,
+        174910,
+        174923,
+        174933,
+        186142
+      ],
+      "name": "Parodius",
+      "slug": "parodius",
+      "updated_at": 1665751345,
+      "url": "https://www.igdb.com/collections/parodius",
+      "checksum": "b4808deb-a4c1-eb36-5501-1d436285d164"
+    },
     "cover": {
       "id": 237630,
       "alpha_channel": false,
@@ -22603,6 +24604,25 @@
   },
   {
     "id": 248,
+    "collection": {
+      "id": 1207,
+      "created_at": 1422788171,
+      "games": [
+        248,
+        5525,
+        8893,
+        8894,
+        8895,
+        8896,
+        8897,
+        8898
+      ],
+      "name": "Populous",
+      "slug": "populous",
+      "updated_at": 1662343662,
+      "url": "https://www.igdb.com/collections/populous",
+      "checksum": "c051c5ef-a077-b5ac-21e2-fa66951ded2d"
+    },
     "cover": {
       "id": 118635,
       "alpha_channel": true,
@@ -23023,6 +25043,21 @@
         "name": "パワーイレブン"
       }
     ],
+    "collection": {
+      "id": 3827,
+      "created_at": 1507814917,
+      "games": [
+        37662,
+        42043,
+        42100,
+        43198
+      ],
+      "name": "Power Sports",
+      "slug": "power-sports",
+      "updated_at": 1660524622,
+      "url": "https://www.igdb.com/collections/power-sports",
+      "checksum": "c1e4d2ce-d195-20db-0b19-9ac8a7e9a9a8"
+    },
     "cover": {
       "id": 233563,
       "alpha_channel": false,
@@ -23103,6 +25138,27 @@
   },
   {
     "id": 42100,
+    "alternative_names": [
+      {
+        "id": 111622,
+        "name": "パワーゴルフ "
+      }
+    ],
+    "collection": {
+      "id": 3827,
+      "created_at": 1507814917,
+      "games": [
+        37662,
+        42043,
+        42100,
+        43198
+      ],
+      "name": "Power Sports",
+      "slug": "power-sports",
+      "updated_at": 1660524622,
+      "url": "https://www.igdb.com/collections/power-sports",
+      "checksum": "c1e4d2ce-d195-20db-0b19-9ac8a7e9a9a8"
+    },
     "cover": {
       "id": 236971,
       "alpha_channel": false,
@@ -23241,6 +25297,21 @@
   },
   {
     "id": 37662,
+    "collection": {
+      "id": 3827,
+      "created_at": 1507814917,
+      "games": [
+        37662,
+        42043,
+        42100,
+        43198
+      ],
+      "name": "Power Sports",
+      "slug": "power-sports",
+      "updated_at": 1660524622,
+      "url": "https://www.igdb.com/collections/power-sports",
+      "checksum": "c1e4d2ce-d195-20db-0b19-9ac8a7e9a9a8"
+    },
     "cover": {
       "id": 38365,
       "game": 37662,
@@ -23270,6 +25341,27 @@
         "name": "Power League 4"
       }
     ],
+    "collection": {
+      "id": 3098,
+      "created_at": 1507190363,
+      "games": [
+        3576,
+        37661,
+        38089,
+        42096,
+        42261,
+        42262,
+        42263,
+        43191,
+        44431,
+        65284
+      ],
+      "name": "Power League",
+      "slug": "power-league",
+      "updated_at": 1658849629,
+      "url": "https://www.igdb.com/collections/power-league",
+      "checksum": "da61a086-0e09-5585-dd59-8b44839fd53d"
+    },
     "cover": {
       "id": 233796,
       "alpha_channel": false,
@@ -23333,6 +25425,27 @@
         "name": "Power League 2"
       }
     ],
+    "collection": {
+      "id": 3098,
+      "created_at": 1507190363,
+      "games": [
+        3576,
+        37661,
+        38089,
+        42096,
+        42261,
+        42262,
+        42263,
+        43191,
+        44431,
+        65284
+      ],
+      "name": "Power League",
+      "slug": "power-league",
+      "updated_at": 1658849629,
+      "url": "https://www.igdb.com/collections/power-league",
+      "checksum": "da61a086-0e09-5585-dd59-8b44839fd53d"
+    },
     "cover": {
       "id": 38982,
       "game": 38089,
@@ -23362,6 +25475,27 @@
         "name": "Power League 3"
       }
     ],
+    "collection": {
+      "id": 3098,
+      "created_at": 1507190363,
+      "games": [
+        3576,
+        37661,
+        38089,
+        42096,
+        42261,
+        42262,
+        42263,
+        43191,
+        44431,
+        65284
+      ],
+      "name": "Power League",
+      "slug": "power-league",
+      "updated_at": 1658849629,
+      "url": "https://www.igdb.com/collections/power-league",
+      "checksum": "da61a086-0e09-5585-dd59-8b44839fd53d"
+    },
     "cover": {
       "id": 32877,
       "game": 42096,
@@ -23391,6 +25525,27 @@
         "name": "Power League V"
       }
     ],
+    "collection": {
+      "id": 3098,
+      "created_at": 1507190363,
+      "games": [
+        3576,
+        37661,
+        38089,
+        42096,
+        42261,
+        42262,
+        42263,
+        43191,
+        44431,
+        65284
+      ],
+      "name": "Power League",
+      "slug": "power-league",
+      "updated_at": 1658849629,
+      "url": "https://www.igdb.com/collections/power-league",
+      "checksum": "da61a086-0e09-5585-dd59-8b44839fd53d"
+    },
     "cover": {
       "id": 26050,
       "game": 37661,
@@ -23432,6 +25587,52 @@
         "name": "Prince of Persia Retro"
       }
     ],
+    "collection": {
+      "id": 187,
+      "created_at": 1320263570,
+      "games": [
+        836,
+        837,
+        2437,
+        2438,
+        2468,
+        2472,
+        3164,
+        3165,
+        20485,
+        21267,
+        21715,
+        21797,
+        22020,
+        22565,
+        43430,
+        44706,
+        45292,
+        47459,
+        59596,
+        99585,
+        99586,
+        134933,
+        138383,
+        142256,
+        142472,
+        142514,
+        142650,
+        142709,
+        142710,
+        142712,
+        143442,
+        154143,
+        204142,
+        204643,
+        213263
+      ],
+      "name": "Prince of Persia",
+      "slug": "prince-of-persia",
+      "updated_at": 1668475607,
+      "url": "https://www.igdb.com/collections/prince-of-persia",
+      "checksum": "cdc7a8b6-58be-8da2-ed6e-2bc01f76ad10"
+    },
     "cover": {
       "id": 88016,
       "alpha_channel": false,
@@ -23596,8 +25797,8 @@
     "slug": "prince-of-persia--2",
     "storyline": "The game is set in ancient Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the Sultan's daughter (although the game never specifically mentions how). Jaffar locks her in a tower and orders her to become his wife, or she would die within 60 minutes (extended to 120 minutes in the Super NES version, which has longer and harder levels). The game's unnamed protagonist, whom the Princess loves, is thrown prisoner into the palace dungeons. In order to free her, he must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. But in addition to guards, various traps and dungeons, the protagonist is further hindered by his own doppelgänger, an apparition of his own self that is conjured out of a magic mirror.",
     "summary": "The game is set in ancient Persia. While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. Jaffar's only obstacle to the throne is the Sultan's daughter (although the game never specifically mentions how). Jaffar locks her in a tower and orders her, under threat of execution, to become his wife. The game's nameless protagonist, whom the Princess loves, is thrown into the palace dungeons. The player must lead the protagonist out of the dungeons and to the palace tower, defeating Jaffar and freeing the Princess in under 60 minutes. In addition to guards, various traps and dungeons, the protagonist is further hindered by his own doppelgänger, an apparition of his own self that is conjured out of a magic mirror.",
-    "total_rating": 82.41287512435781,
-    "total_rating_count": 208,
+    "total_rating": 82.46424573921149,
+    "total_rating_count": 211,
     "url": "https://www.igdb.com/games/prince-of-persia--2",
     "videos": [
       {
@@ -23668,6 +25869,23 @@
   },
   {
     "id": 37660,
+    "collection": {
+      "id": 3043,
+      "created_at": 1506584538,
+      "games": [
+        37660,
+        38101,
+        40569,
+        54755,
+        54757,
+        62299
+      ],
+      "name": "World Stadium",
+      "slug": "world-stadium",
+      "updated_at": 1663806797,
+      "url": "https://www.igdb.com/collections/world-stadium",
+      "checksum": "7bead7c6-52e4-b395-445e-7143cef00bb0"
+    },
     "cover": {
       "id": 35140,
       "game": 37660,
@@ -23691,6 +25909,23 @@
   },
   {
     "id": 62299,
+    "collection": {
+      "id": 3043,
+      "created_at": 1506584538,
+      "games": [
+        37660,
+        38101,
+        40569,
+        54755,
+        54757,
+        62299
+      ],
+      "name": "World Stadium",
+      "slug": "world-stadium",
+      "updated_at": 1663806797,
+      "url": "https://www.igdb.com/collections/world-stadium",
+      "checksum": "7bead7c6-52e4-b395-445e-7143cef00bb0"
+    },
     "cover": {
       "id": 42284,
       "game": 62299,
@@ -23924,6 +26159,35 @@
         "name": "R-Type Part I"
       }
     ],
+    "collection": {
+      "id": 1391,
+      "created_at": 1432071166,
+      "games": [
+        6550,
+        6840,
+        6854,
+        6855,
+        10448,
+        21250,
+        22892,
+        23036,
+        24109,
+        24293,
+        28397,
+        49829,
+        112105,
+        116899,
+        210579,
+        210580,
+        210582,
+        210583
+      ],
+      "name": "R-Type",
+      "slug": "r-type",
+      "updated_at": 1668090137,
+      "url": "https://www.igdb.com/collections/r-type",
+      "checksum": "07f93a63-f6d2-94da-34ba-be48bd289029"
+    },
     "cover": {
       "id": 233712,
       "alpha_channel": false,
@@ -24002,6 +26266,35 @@
         "name": "R-Type Part II"
       }
     ],
+    "collection": {
+      "id": 1391,
+      "created_at": 1432071166,
+      "games": [
+        6550,
+        6840,
+        6854,
+        6855,
+        10448,
+        21250,
+        22892,
+        23036,
+        24109,
+        24293,
+        28397,
+        49829,
+        112105,
+        116899,
+        210579,
+        210580,
+        210582,
+        210583
+      ],
+      "name": "R-Type",
+      "slug": "r-type",
+      "updated_at": 1668090137,
+      "url": "https://www.igdb.com/collections/r-type",
+      "checksum": "07f93a63-f6d2-94da-34ba-be48bd289029"
+    },
     "cover": {
       "id": 233713,
       "alpha_channel": false,
@@ -24059,6 +26352,35 @@
   },
   {
     "id": 210582,
+    "collection": {
+      "id": 1391,
+      "created_at": 1432071166,
+      "games": [
+        6550,
+        6840,
+        6854,
+        6855,
+        10448,
+        21250,
+        22892,
+        23036,
+        24109,
+        24293,
+        28397,
+        49829,
+        112105,
+        116899,
+        210579,
+        210580,
+        210582,
+        210583
+      ],
+      "name": "R-Type",
+      "slug": "r-type",
+      "updated_at": 1668090137,
+      "url": "https://www.igdb.com/collections/r-type",
+      "checksum": "07f93a63-f6d2-94da-34ba-be48bd289029"
+    },
     "cover": {
       "id": 233932,
       "alpha_channel": false,
@@ -24253,14 +26575,34 @@
         "name": "雷電伝説"
       },
       {
-        "id": 26316,
+        "id": 115601,
         "name": "雷電"
-      },
-      {
-        "id": 26317,
-        "name": "Raiden Trad"
       }
     ],
+    "collection": {
+      "id": 825,
+      "created_at": 1395934481,
+      "games": [
+        5646,
+        6841,
+        7154,
+        8855,
+        8856,
+        8857,
+        19848,
+        20301,
+        34344,
+        46211,
+        54822,
+        141863,
+        181616
+      ],
+      "name": "Raiden",
+      "slug": "raiden",
+      "updated_at": 1667527752,
+      "url": "https://www.igdb.com/collections/raiden",
+      "checksum": "83cf2cb7-936e-886a-4169-ee13edd15fb3"
+    },
     "cover": {
       "id": 113583,
       "alpha_channel": false,
@@ -24658,6 +27000,31 @@
         "name": "Rainbow Islands"
       }
     ],
+    "collection": {
+      "id": 6671,
+      "created_at": 1609076731,
+      "games": [
+        4405,
+        21241,
+        22598,
+        23087,
+        37496,
+        39027,
+        42101,
+        45684,
+        45749,
+        48278,
+        78444,
+        194445,
+        194446,
+        194448
+      ],
+      "name": "Rainbow Islands",
+      "slug": "rainbow-islands",
+      "updated_at": 1662023511,
+      "url": "https://www.igdb.com/collections/rainbow-islands",
+      "checksum": "cf6bfb19-17ad-5673-1b42-d891de33067b"
+    },
     "cover": {
       "id": 213191,
       "alpha_channel": false,
@@ -24972,6 +27339,21 @@
         "name": "ラスタンサーガII"
       }
     ],
+    "collection": {
+      "id": 2821,
+      "created_at": 1500414809,
+      "games": [
+        3793,
+        4466,
+        6875,
+        69102
+      ],
+      "name": "Rastan",
+      "slug": "rastan",
+      "updated_at": 1662023544,
+      "url": "https://www.igdb.com/collections/rastan",
+      "checksum": "2390f52f-9fc1-ce9b-fc41-92776c0f69db"
+    },
     "cover": {
       "id": 233708,
       "alpha_channel": false,
@@ -25555,6 +27937,19 @@
         "name": "Genpei Touma Den: Kannoni"
       }
     ],
+    "collection": {
+      "id": 3744,
+      "created_at": 1507812798,
+      "games": [
+        42035,
+        42119
+      ],
+      "name": "Genpei Touma Den",
+      "slug": "genpei-touma-den",
+      "updated_at": 1658884243,
+      "url": "https://www.igdb.com/collections/genpei-touma-den",
+      "checksum": "b7a849d9-6cdd-010c-e0d4-2bc4c70028fd"
+    },
     "cover": {
       "id": 233668,
       "alpha_channel": false,
@@ -26066,6 +28461,35 @@
         "name": "상하이 2"
       }
     ],
+    "collection": {
+      "id": 1691,
+      "created_at": 1442677488,
+      "games": [
+        4265,
+        4450,
+        12765,
+        21549,
+        37487,
+        38249,
+        43981,
+        45304,
+        49725,
+        58523,
+        62292,
+        64253,
+        64254,
+        69131,
+        70483,
+        71570,
+        71959,
+        78447
+      ],
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "updated_at": 1667423496,
+      "url": "https://www.igdb.com/collections/shanghai",
+      "checksum": "6fa04013-b4a7-b6f7-7611-5d1c13b21929"
+    },
     "cover": {
       "id": 43091,
       "game": 21549,
@@ -26170,6 +28594,35 @@
   },
   {
     "id": 12765,
+    "collection": {
+      "id": 1691,
+      "created_at": 1442677488,
+      "games": [
+        4265,
+        4450,
+        12765,
+        21549,
+        37487,
+        38249,
+        43981,
+        45304,
+        49725,
+        58523,
+        62292,
+        64253,
+        64254,
+        69131,
+        70483,
+        71570,
+        71959,
+        78447
+      ],
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "updated_at": 1667423496,
+      "url": "https://www.igdb.com/collections/shanghai",
+      "checksum": "6fa04013-b4a7-b6f7-7611-5d1c13b21929"
+    },
     "cover": {
       "id": 12607,
       "game": 12765,
@@ -26282,16 +28735,7 @@
     "summary": "Shanghai is a computerized version of mahjong solitaire. After winning a game, the tiles reveal the three-dimensional blinking eye of a dragon behind the game screen. The Macintosh and Sega Master System version shows an animated dragon spitting fire.",
     "total_rating": 89.7855881837645,
     "total_rating_count": 11,
-    "url": "https://www.igdb.com/games/shanghai",
-    "videos": [
-      {
-        "id": 28795,
-        "game": 12765,
-        "name": "Gameplay video",
-        "video_id": "yAP3UHUW124",
-        "checksum": "4a9cbbe5-8fbf-2d0c-916d-1be663809fd0"
-      }
-    ]
+    "url": "https://www.igdb.com/games/shanghai"
   },
   {
     "id": 44308,
@@ -26532,8 +28976,39 @@
       {
         "id": 41291,
         "name": "Shinobi 3DS"
+      },
+      {
+        "id": 114347,
+        "name": "The GG 忍"
       }
     ],
+    "collection": {
+      "id": 512,
+      "created_at": 1374093877,
+      "games": [
+        2623,
+        3327,
+        6876,
+        6888,
+        6899,
+        10217,
+        10218,
+        10219,
+        10220,
+        10221,
+        10222,
+        10223,
+        10224,
+        67371,
+        86252,
+        110805
+      ],
+      "name": "Shinobi",
+      "slug": "shinobi",
+      "updated_at": 1667565752,
+      "url": "https://www.igdb.com/collections/shinobi",
+      "checksum": "cfd12cb4-5df3-2aae-d9b7-162f36303b16"
+    },
     "cover": {
       "id": 135362,
       "alpha_channel": false,
@@ -26775,8 +29250,8 @@
     "slug": "shinobi",
     "storyline": "The player controls a ninja named Joe Musashi who has to stop a criminal organization called \"Zeed\" who are kidnapping the children of his ninja clan. Through five missions (consisting of three stages for the first mission and four stages each for the rest), Musashi must make his way to Zeed's headquarters and free all the hostages in the first two or three stages before confronting the boss at the final stage of each mission. At the start of each mission, the player is shown their objective, followed by a file containing a photograph of the enemy boss and a map display pinpointing the location of the next stage.",
     "summary": "The five missions in the game are each three or four stages long. Several hostages are being held in each stage; Joe must rescue all of them before he is allowed to finish the stage. The last stage in each mission has no hostages, but instead features a powerful boss character whom Joe must defeat. After completing each of the first four missions the player is taken to a bonus stage, where he can earn an extra life if he is able to kill all of the ninjas leaping towards him. Completing the fifth mission ends the game. Also, once the fifth mission begins, continues are no longer allowed; the player has to finish the game with however many lives he has left at that point. If the player earns a place on the high score board, the number of credits it took him to get that score is displayed along with his score.\n\nJoe's standard weapons are an unlimited supply of shuriken, along with punches and kicks when attacking at close range. One hostage per stage gives him a power-up. When powered-up, his throwing stars are replaced by a gun that fires large, explosive bullets, and his close-range attack becomes a katana slash. Joe can also perform \"ninja magic,\" which may be used only once per stage and kills (or damages, in the case of bosses) all enemies on the screen. The game also allows the enemies to hide behind boxes or use shields to block Musashi's shurikens.[4]\n\nJoe can be killed with one hit, provided he is hit by a projectile or melee attack, but if he does not find himself in those situations, the player can touch regular enemies and just be pushed back without being damaged. Since most enemies appear in the same place on each level, it is possible to master the game by memorizing their locations and devising patterns to defeat them.\n\nAt the end of each stage, the player receives score bonuses based on performance. Completing the stage without using ninja magic or without using any throwing stars or bullets earns the player a point bonus. The player has three minutes to complete each stage; remaining time at the end of the stage is also converted to bonus points and added to the player's score.",
-    "total_rating": 59.3417240827611,
-    "total_rating_count": 32,
+    "total_rating": 59.35413827153565,
+    "total_rating_count": 33,
     "url": "https://www.igdb.com/games/shinobi",
     "videos": [
       {
@@ -26885,6 +29360,21 @@
         "name": "Shock Man"
       }
     ],
+    "collection": {
+      "id": 2941,
+      "created_at": 1506493074,
+      "games": [
+        37583,
+        38226,
+        42052,
+        42098
+      ],
+      "name": "Kaizou Choujin Shubibinman",
+      "slug": "kaizou-choujin-shubibinman",
+      "updated_at": 1664518468,
+      "url": "https://www.igdb.com/collections/kaizou-choujin-shubibinman",
+      "checksum": "1bbacb2d-531e-2ea3-9f7d-002eec3f4fb4"
+    },
     "cover": {
       "id": 233674,
       "alpha_channel": false,
@@ -27871,6 +30361,30 @@
   },
   {
     "id": 15841,
+    "alternative_names": [
+      {
+        "id": 114053,
+        "name": "ソルジャーブレイド "
+      }
+    ],
+    "collection": {
+      "id": 1987,
+      "created_at": 1452256422,
+      "games": [
+        3604,
+        15841,
+        37605,
+        42280,
+        44339,
+        48240,
+        62248
+      ],
+      "name": "Star Soldier",
+      "slug": "star-soldier",
+      "updated_at": 1666143437,
+      "url": "https://www.igdb.com/collections/star-soldier",
+      "checksum": "e0e8d959-366f-6042-bae7-e8f77bc78d73"
+    },
     "cover": {
       "id": 13754,
       "game": 15841,
@@ -28015,7 +30529,7 @@
     "slug": "soldier-blade",
     "summary": "Vertical sci-fi shoot ‘em up from the Hudson stable. Soldier Blade sticks to the tried and tested formula of Hudson’s previous games in the 'series', while throwing in some extra graphical effects. This time, the power up system involves collecting coloured pods - you can have three pods in stock at any one time, and the colour of the 'active' pod determines your weapon style. You also have the choice of ejecting a pod at any time, which results in a weapon-specific super attack.",
     "total_rating": 90,
-    "total_rating_count": 3,
+    "total_rating_count": 4,
     "url": "https://www.igdb.com/games/soldier-blade"
   },
   {
@@ -28156,6 +30670,20 @@
         "name": "Son Son 2"
       }
     ],
+    "collection": {
+      "id": 3592,
+      "created_at": 1507701111,
+      "games": [
+        37689,
+        40010,
+        43196
+      ],
+      "name": "SonSon",
+      "slug": "sonson",
+      "updated_at": 1663410985,
+      "url": "https://www.igdb.com/collections/sonson",
+      "checksum": "1eec360d-de00-1678-f854-2c3904a46577"
+    },
     "cover": {
       "id": 235717,
       "alpha_channel": false,
@@ -28252,6 +30780,22 @@
         "name": "Sorcerian: Master Scenario"
       }
     ],
+    "collection": {
+      "id": 3199,
+      "created_at": 1507202651,
+      "games": [
+        14486,
+        70777,
+        71670,
+        93286,
+        182238
+      ],
+      "name": "Sorcerian",
+      "slug": "sorcerian",
+      "updated_at": 1665839288,
+      "url": "https://www.igdb.com/collections/sorcerian",
+      "checksum": "cae2d900-4c09-3d86-2133-719570940f5e"
+    },
     "cover": {
       "id": 155531,
       "alpha_channel": false,
@@ -28413,6 +30957,23 @@
         "name": "スペースハリアー"
       }
     ],
+    "collection": {
+      "id": 1718,
+      "created_at": 1443302937,
+      "games": [
+        4498,
+        12857,
+        46126,
+        72972,
+        109270,
+        140407
+      ],
+      "name": "Space Harrier",
+      "slug": "space-harrier",
+      "updated_at": 1667788279,
+      "url": "https://www.igdb.com/collections/space-harrier",
+      "checksum": "e7d5e53c-1944-f30e-9890-35793157b8e7"
+    },
     "cover": {
       "id": 93867,
       "alpha_channel": false,
@@ -28606,8 +31167,8 @@
     ],
     "slug": "space-harrier",
     "summary": "Run… fly… dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!\n\nOriginating in the arcades, Space Harrier is a third-person rail shooter with pseudo-3D graphics, set in the same world as Fantasy Zone. The lone titular hero fights aliens with a fireball-launching cannon, which can also be used to transform the hero into a flying rocket. The protagonist is constantly in motion, but the speed of his movement can be regulated by the player.",
-    "total_rating": 66.3152804724813,
-    "total_rating_count": 24,
+    "total_rating": 66.36539330921791,
+    "total_rating_count": 25,
     "url": "https://www.igdb.com/games/space-harrier"
   },
   {
@@ -28830,6 +31391,22 @@
   },
   {
     "id": 6929,
+    "collection": {
+      "id": 972,
+      "created_at": 1401531589,
+      "games": [
+        6929,
+        7191,
+        46194,
+        46248,
+        48653
+      ],
+      "name": "Splatterhouse",
+      "slug": "splatterhouse",
+      "updated_at": 1667864605,
+      "url": "https://www.igdb.com/collections/splatterhouse",
+      "checksum": "df0439ac-f843-bc84-9d00-ce95a4de39b8"
+    },
     "cover": {
       "id": 130703,
       "alpha_channel": false,
@@ -29025,8 +31602,8 @@
     "slug": "splatterhouse--1",
     "storyline": "Two college students, Rick Taylor and Jennifer Willis, take refuge from a storm in West Mansion, a local landmark known as \"Splatterhouse\" for the rumors of hideous experiments purportedly conducted there by Dr. West, a renowned and missing parapsychologist. As they enter the mansion and the door shuts behind them, Jennifer screams.\n\nRick awakens in the dungeon of the mansion to discover that he is still alive thanks to the influence of the \"Terror Mask\", or in some versions, the \"Hell Mask\", a Mayan sacrificial artifact from West's house which is capable of sentient thought. The mask attaches itself to Rick, fusing with his body and transforming him into a monster with superhuman strength. With the mask's encouragement, Rick goes on a rampage through the dungeon and the mansion grounds, killing hordes of monsters. Inside the mansion, Rick finds Jennifer, prone on a couch and surrounded by a throng of creatures that retreat upon his arrival. After their departure, Jennifer transforms into a giant, fanged monster that attempts to kill Rick while begging him for help. Rick is forced to kill Jennifer, who transforms back to normal and thanks him before she dies. Infuriated, Rick tracks the remaining monsters to a giant, bloody hole in the mansion's floor. Upon entering it, Rick discovers that the mansion itself is alive. He follows a bloody hallway to the house's \"womb\", which produces fetus-like monsters that attack him. Rick destroys the womb, which causes the house to burst into flames as it \"dies\".\n\nEscaping the burning mansion, Rick comes across a grave marker. The Terror Mask releases energy into the grave, reviving a giant monster named \"Hell Chaos\" that claws its way up from the earth and attempts to kill Rick. Rick destroys the creature, which unleashes a tormented ghost that dissipates into a series of bright lights. As the lights vanish, the mask shatters, turning Rick back to normal, and he flees as the house burns to the ground and the credits roll. However, after he leaves and the credits end, the Terror Mask reassembles itself and laughs evilly, staying there for 45 seconds, with the word \"END\" appearing on the bottom right corner of the screen.",
     "summary": "Splatterhouse is a sidescrolling beat 'em up video game in which the player controls Rick, a parapsychology student who is trapped inside West Mansion. After his resurrection by the Terror Mask, Rick makes his way through the mansion, fighting off hordes of creatures in a vain attempt to save his girlfriend Jennifer from a grisly fate. Players of this game will also recognize a number of western horror film influences, such as Friday the 13th and Evil Dead 2.\n\nSimilar to many sidescrolling beat 'em up games, Rick can only move in a two-dimensional environment. The playing field does not feature a three-dimensional area, a feature that was added later in the series with Splatterhouse 3. He has the ability to jump and can punch and kick. Rick also has a Special Attack, where he will perform a drop kick that sends him skidding along the ground, damaging any enemies he hits. Rick can also perform a low kick, low punch, and jumping attacks, as well as pick up and use various weapons placed in the levels.\n\nAll of the levels consist of walking left to right, with occasional auto-scrolling segments. However, alternative pathways through sections of the house are possible by falling down through holes or jumping up onto ladders. In this way, branching gameplay is possible, if only prevalent in the middle levels. Levels culminate in boss fights that take place in a single room. Unlike traditional side-scrolling fighters, boss fights have varying objectives and styles. Unlike most arcade games in the genre, Splatterhouse sends players back to checkpoints after losing lives or reaching game over, discouraging \"credit feeding\" as a method of overcoming the various challenges.",
-    "total_rating": 66.121250230617,
-    "total_rating_count": 15,
+    "total_rating": 66.1708656838774,
+    "total_rating_count": 17,
     "url": "https://www.igdb.com/games/splatterhouse--1",
     "videos": [
       {
@@ -29385,6 +31962,36 @@
         "name": "Street Fighter II Dash: Champion Edition"
       }
     ],
+    "collection": {
+      "id": 2879,
+      "created_at": 1503069992,
+      "games": [
+        3186,
+        4238,
+        4367,
+        6178,
+        12860,
+        18626,
+        20878,
+        21796,
+        26773,
+        39496,
+        45192,
+        45195,
+        45198,
+        55059,
+        55060,
+        55062,
+        55063,
+        80848,
+        126269
+      ],
+      "name": "Street Fighter II",
+      "slug": "street-fighter-ii",
+      "updated_at": 1668295326,
+      "url": "https://www.igdb.com/collections/street-fighter-ii",
+      "checksum": "bde9ab0a-25f8-4b51-044d-79228dca7144"
+    },
     "cover": {
       "id": 177601,
       "alpha_channel": false,
@@ -29674,6 +32281,37 @@
         "name": "Super Dai Senryaku"
       }
     ],
+    "collection": {
+      "id": 2943,
+      "created_at": 1506528417,
+      "games": [
+        27970,
+        41782,
+        44420,
+        44421,
+        46293,
+        56396,
+        56397,
+        60804,
+        65049,
+        65524,
+        69002,
+        80725,
+        83308,
+        83310,
+        83311,
+        83312,
+        113395,
+        136748,
+        140284,
+        140293
+      ],
+      "name": "Daisenryaku",
+      "slug": "daisenryaku",
+      "updated_at": 1666098831,
+      "url": "https://www.igdb.com/collections/daisenryaku",
+      "checksum": "e2c084df-6b69-97df-782e-7dbc4c997e53"
+    },
     "cover": {
       "id": 21499,
       "game": 27970,
@@ -30267,6 +32905,63 @@
         "name": "スーパー桃太郎電鉄"
       }
     ],
+    "collection": {
+      "id": 656,
+      "created_at": 1390429281,
+      "games": [
+        4014,
+        4015,
+        12703,
+        37810,
+        37923,
+        38067,
+        38068,
+        38343,
+        38344,
+        48771,
+        48888,
+        49720,
+        64403,
+        64404,
+        64405,
+        64406,
+        64408,
+        64409,
+        64410,
+        64414,
+        64416,
+        64419,
+        64420,
+        67826,
+        79234,
+        79273,
+        79557,
+        122290,
+        186768,
+        186769,
+        186770,
+        186771,
+        186772,
+        186773,
+        186774,
+        186775,
+        186776,
+        186777,
+        186778,
+        186779,
+        186781,
+        186782,
+        186783,
+        186787,
+        186791,
+        186915
+      ],
+      "name": "Momotaro Dentetsu",
+      "slug": "momotaro-dentetsu",
+      "updated_at": 1666188719,
+      "url": "https://www.igdb.com/collections/momotaro-dentetsu",
+      "checksum": "64f8b849-7367-6a0a-3a83-816000eec9ae"
+    },
     "cover": {
       "id": 202452,
       "alpha_channel": false,
@@ -30331,6 +33026,63 @@
         "name": "スーパー桃太郎電鉄II"
       }
     ],
+    "collection": {
+      "id": 656,
+      "created_at": 1390429281,
+      "games": [
+        4014,
+        4015,
+        12703,
+        37810,
+        37923,
+        38067,
+        38068,
+        38343,
+        38344,
+        48771,
+        48888,
+        49720,
+        64403,
+        64404,
+        64405,
+        64406,
+        64408,
+        64409,
+        64410,
+        64414,
+        64416,
+        64419,
+        64420,
+        67826,
+        79234,
+        79273,
+        79557,
+        122290,
+        186768,
+        186769,
+        186770,
+        186771,
+        186772,
+        186773,
+        186774,
+        186775,
+        186776,
+        186777,
+        186778,
+        186779,
+        186781,
+        186782,
+        186783,
+        186787,
+        186791,
+        186915
+      ],
+      "name": "Momotaro Dentetsu",
+      "slug": "momotaro-dentetsu",
+      "updated_at": 1666188719,
+      "url": "https://www.igdb.com/collections/momotaro-dentetsu",
+      "checksum": "64f8b849-7367-6a0a-3a83-816000eec9ae"
+    },
     "cover": {
       "id": 202310,
       "alpha_channel": false,
@@ -30476,8 +33228,30 @@
       {
         "id": 95443,
         "name": "슈퍼 스타 솔져"
+      },
+      {
+        "id": 113625,
+        "name": "スーパースターソルジャー "
       }
     ],
+    "collection": {
+      "id": 1987,
+      "created_at": 1452256422,
+      "games": [
+        3604,
+        15841,
+        37605,
+        42280,
+        44339,
+        48240,
+        62248
+      ],
+      "name": "Star Soldier",
+      "slug": "star-soldier",
+      "updated_at": 1666143437,
+      "url": "https://www.igdb.com/collections/star-soldier",
+      "checksum": "e0e8d959-366f-6042-bae7-e8f77bc78d73"
+    },
     "cover": {
       "id": 205751,
       "alpha_channel": true,
@@ -30709,6 +33483,23 @@
   },
   {
     "id": 8672,
+    "collection": {
+      "id": 1166,
+      "created_at": 1421546013,
+      "games": [
+        8671,
+        8672,
+        8673,
+        8674,
+        8675,
+        14280
+      ],
+      "name": "TV Sports",
+      "slug": "tv-sports",
+      "updated_at": 1646119972,
+      "url": "https://www.igdb.com/collections/tv-sports",
+      "checksum": "3ba245be-8300-92c8-d2e7-a6adbb9024f8"
+    },
     "cover": {
       "id": 9160,
       "game": 8672,
@@ -30790,6 +33581,23 @@
   },
   {
     "id": 8675,
+    "collection": {
+      "id": 1166,
+      "created_at": 1421546013,
+      "games": [
+        8671,
+        8672,
+        8673,
+        8674,
+        8675,
+        14280
+      ],
+      "name": "TV Sports",
+      "slug": "tv-sports",
+      "updated_at": 1646119972,
+      "url": "https://www.igdb.com/collections/tv-sports",
+      "checksum": "3ba245be-8300-92c8-d2e7-a6adbb9024f8"
+    },
     "cover": {
       "id": 129292,
       "alpha_channel": false,
@@ -30882,6 +33690,23 @@
   },
   {
     "id": 8671,
+    "collection": {
+      "id": 1166,
+      "created_at": 1421546013,
+      "games": [
+        8671,
+        8672,
+        8673,
+        8674,
+        8675,
+        14280
+      ],
+      "name": "TV Sports",
+      "slug": "tv-sports",
+      "updated_at": 1646119972,
+      "url": "https://www.igdb.com/collections/tv-sports",
+      "checksum": "3ba245be-8300-92c8-d2e7-a6adbb9024f8"
+    },
     "cover": {
       "id": 9159,
       "game": 8671,
@@ -31442,6 +34267,22 @@
         "name": "Terra Cresta II: Mandler Strikes Back"
       }
     ],
+    "collection": {
+      "id": 2143,
+      "created_at": 1460709073,
+      "games": [
+        14876,
+        18762,
+        58548,
+        58549,
+        58554
+      ],
+      "name": "Cresta",
+      "slug": "cresta",
+      "updated_at": 1667599235,
+      "url": "https://www.igdb.com/collections/cresta",
+      "checksum": "901b57e5-958f-1a8e-c0a0-f4422259ba92"
+    },
     "cover": {
       "id": 164867,
       "alpha_channel": false,
@@ -32219,8 +35060,30 @@
       {
         "id": 76684,
         "name": "Druaga no Tou"
+      },
+      {
+        "id": 112499,
+        "name": "ドルアーガの塔"
       }
     ],
+    "collection": {
+      "id": 3031,
+      "created_at": 1506584455,
+      "games": [
+        4207,
+        38183,
+        39952,
+        43659,
+        48353,
+        54947,
+        59876
+      ],
+      "name": "Babylonian Castle Saga",
+      "slug": "babylonian-castle-saga",
+      "updated_at": 1666030084,
+      "url": "https://www.igdb.com/collections/babylonian-castle-saga",
+      "checksum": "d3ec28ce-44bf-a1bc-7d05-ea71d2fb210f"
+    },
     "cover": {
       "id": 4451,
       "game": 4207,
@@ -32299,6 +35162,19 @@
         "name": "ThunderBlade"
       }
     ],
+    "collection": {
+      "id": 5155,
+      "created_at": 1513073838,
+      "games": [
+        4471,
+        12862
+      ],
+      "name": "Thunder Blade",
+      "slug": "thunder-blade",
+      "updated_at": 1662283510,
+      "url": "https://www.igdb.com/collections/thunder-blade",
+      "checksum": "2817d138-c56b-8420-db2c-fab244a0ea81"
+    },
     "cover": {
       "id": 23260,
       "game": 12862,
@@ -32750,19 +35626,19 @@
         "checksum": "1f2e1dc4-9abf-2d39-575d-b10ea4e9349c"
       },
       {
-        "id": 18190,
+        "id": 188379,
         "company": {
-          "id": 608,
-          "name": "Broderbund"
+          "id": 195,
+          "name": "Brøderbund Software"
         },
-        "created_at": 1411948800,
+        "created_at": 1663911073,
         "developer": false,
         "game": 7791,
         "porting": false,
         "publisher": true,
         "supporting": false,
-        "updated_at": 1411948800,
-        "checksum": "807ba8e5-4990-354c-302a-58976ea608a2"
+        "updated_at": 1663916248,
+        "checksum": "c89590a5-d972-c002-1df3-69f65e6de93e"
       }
     ],
     "name": "Timeball",
@@ -33088,15 +35964,15 @@
       }
     ],
     "cover": {
-      "id": 166999,
+      "id": 247379,
       "alpha_channel": false,
       "animated": false,
       "game": 92879,
-      "height": 1000,
-      "image_id": "co3kuv",
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3kuv.jpg",
-      "width": 1000,
-      "checksum": "1c32d638-7270-c6f4-7330-a42289a29751"
+      "height": 1235,
+      "image_id": "co5avn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5avn.jpg",
+      "width": 926,
+      "checksum": "1b37d1c6-b658-b4ac-3c97-eb96b8f52973"
     },
     "name": "Tricky Kick",
     "slug": "tricky-kick",
@@ -33114,6 +35990,22 @@
         "name": "Tsuppari Ozumo: Heisei-han"
       }
     ],
+    "collection": {
+      "id": 3619,
+      "created_at": 1507800315,
+      "games": [
+        37780,
+        37857,
+        51115,
+        62527,
+        79226
+      ],
+      "name": "Tsuppari Oozumou",
+      "slug": "tsuppari-oozumou",
+      "updated_at": 1652253648,
+      "url": "https://www.igdb.com/collections/tsuppari-oozumou",
+      "checksum": "9d3d8788-2f77-eb78-d7e6-6c3b541231cb"
+    },
     "cover": {
       "id": 36524,
       "game": 62527,
@@ -33154,6 +36046,31 @@
   },
   {
     "id": 5164,
+    "collection": {
+      "id": 1695,
+      "created_at": 1442693175,
+      "games": [
+        5164,
+        11845,
+        12803,
+        42447,
+        48231,
+        85286,
+        137324,
+        137325,
+        137329,
+        137330,
+        140253,
+        172518,
+        191878,
+        195988
+      ],
+      "name": "Turrican",
+      "slug": "turrican",
+      "updated_at": 1667248290,
+      "url": "https://www.igdb.com/collections/turrican",
+      "checksum": "58b78757-77ee-3d3d-927b-54df5e8c606c"
+    },
     "cover": {
       "id": 120559,
       "alpha_channel": false,
@@ -34011,6 +36928,24 @@
         "name": "Valkyrie no Densetsu"
       }
     ],
+    "collection": {
+      "id": 3359,
+      "created_at": 1507492130,
+      "games": [
+        41081,
+        46588,
+        48592,
+        63477,
+        146660,
+        146662,
+        205710
+      ],
+      "name": "Legend of Valkyrie",
+      "slug": "legend-of-valkyrie",
+      "updated_at": 1667513259,
+      "url": "https://www.igdb.com/collections/legend-of-valkyrie",
+      "checksum": "fd6f0b92-2778-a6ab-4d22-63737f153b53"
+    },
     "cover": {
       "id": 138956,
       "alpha_channel": false,
@@ -34729,6 +37664,30 @@
   },
   {
     "id": 10444,
+    "alternative_names": [
+      {
+        "id": 108066,
+        "name": "ビジランテ "
+      }
+    ],
+    "collection": {
+      "id": 3710,
+      "created_at": 1507806206,
+      "games": [
+        8154,
+        8155,
+        10444,
+        12522,
+        18943,
+        39606,
+        39607
+      ],
+      "name": "Jackie Chan",
+      "slug": "jackie-chan",
+      "updated_at": 1666925099,
+      "url": "https://www.igdb.com/collections/jackie-chan",
+      "checksum": "2ddb1c9e-2f2f-f1d8-8752-2e0f7893d09a"
+    },
     "cover": {
       "id": 23550,
       "game": 10444,
@@ -34977,6 +37936,18 @@
         "name": "Volfied"
       }
     ],
+    "collection": {
+      "id": 8116,
+      "created_at": 1658905301,
+      "games": [
+        4469
+      ],
+      "name": "Volfied",
+      "slug": "volfied",
+      "updated_at": 1658905302,
+      "url": "https://www.igdb.com/collections/volfied",
+      "checksum": "83392de0-f7b0-7f5a-d526-6e9a56de8da6"
+    },
     "cover": {
       "id": 5432,
       "game": 4469,
@@ -35061,6 +38032,10 @@
       {
         "id": 96964,
         "name": "Wallaby!!"
+      },
+      {
+        "id": 114247,
+        "name": "うさぎの国のカンガルーレース ワラビー!!"
       }
     ],
     "cover": {
@@ -36074,6 +39049,25 @@
         "name": "Xevious: Fardraut Densetsu"
       }
     ],
+    "collection": {
+      "id": 2237,
+      "created_at": 1468102788,
+      "games": [
+        12346,
+        20128,
+        20133,
+        39805,
+        62784,
+        67553,
+        68878,
+        184275
+      ],
+      "name": "Xevious",
+      "slug": "xevious",
+      "updated_at": 1667598856,
+      "url": "https://www.igdb.com/collections/xevious",
+      "checksum": "e8efa6f3-3901-5edb-fc92-976f8d43ce87"
+    },
     "cover": {
       "id": 205761,
       "alpha_channel": true,

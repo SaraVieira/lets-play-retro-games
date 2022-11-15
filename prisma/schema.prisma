@@ -31,15 +31,31 @@ enum CONSOLES {
   atari2600
 }
 
+model Genre {
+  id   Int    @id
+  name String
+  slug String
+  Game Game[]
+}
+
+model Collection {
+  id    Int    @id
+  games Int[]
+  name  String
+  slug  String @unique
+  Game  Game[]
+}
+
 model Game {
   igdb_id            Int
-  id                 Int      @id @default(autoincrement())
+  id                 Int          @id @default(autoincrement())
   console            CONSOLES
   alternative_names  Json?
   cover              Json?
   first_release_date Int?
   franchise          Json?
-  genres             Json?
+  genres             Genre[]
+  collections        Collection[]
   involved_companies Json?
   name               String
   screenshots        Json?
@@ -50,9 +66,9 @@ model Game {
   total_rating       Float?
   url                String
   videos             Json?
-  finishedGames      User[]   @relation(name: "finishedGames")
-  favoriteGames      User[]   @relation(name: "favoriteGames")
-  playingGames       User[]   @relation(name: "playingGames")
+  finishedGames      User[]       @relation(name: "finishedGames")
+  favoriteGames      User[]       @relation(name: "favoriteGames")
+  playingGames       User[]       @relation(name: "playingGames")
 }
 
 model Account {

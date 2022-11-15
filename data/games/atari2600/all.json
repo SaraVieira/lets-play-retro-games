@@ -20,6 +20,24 @@
   },
   {
     "id": 11854,
+    "collection": {
+      "id": 3008,
+      "created_at": 1506584183,
+      "games": [
+        11854,
+        18586,
+        35501,
+        54692,
+        65063,
+        65075,
+        80892
+      ],
+      "name": "Tic-Tac-Toe",
+      "slug": "tic-tac-toe",
+      "updated_at": 1653252462,
+      "url": "https://www.igdb.com/collections/tic-tac-toe",
+      "checksum": "6e2be7ed-6994-d892-488f-3a5efdae52f8"
+    },
     "cover": {
       "id": 14070,
       "game": 11854,
@@ -322,6 +340,45 @@
         "name": "Adventure 1-2-3"
       }
     ],
+    "collection": {
+      "id": 2111,
+      "created_at": 1459275578,
+      "games": [
+        2298,
+        2299,
+        8253,
+        18512,
+        18513,
+        18517,
+        18518,
+        18519,
+        18520,
+        18521,
+        18522,
+        18523,
+        18524,
+        18525,
+        18526,
+        18527,
+        55925,
+        61384,
+        68961,
+        69247,
+        69658,
+        70169,
+        70319,
+        70803,
+        71451,
+        72537,
+        80650,
+        80766
+      ],
+      "name": "Scott Adams Classic Adventures",
+      "slug": "scott-adams-classic-adventures",
+      "updated_at": 1667756931,
+      "url": "https://www.igdb.com/collections/scott-adams-classic-adventures",
+      "checksum": "8f0b4c39-dff5-52f6-d838-d42c71b36cf6"
+    },
     "cover": {
       "id": 141798,
       "alpha_channel": true,
@@ -1030,6 +1087,54 @@
   },
   {
     "id": 3252,
+    "collection": {
+      "id": 3194,
+      "created_at": 1507193402,
+      "games": [
+        3252,
+        3253,
+        4276,
+        10611,
+        20235,
+        25175,
+        40587,
+        40633,
+        40714,
+        44031,
+        45945,
+        46198,
+        46558,
+        46912,
+        48248,
+        48275,
+        49916,
+        50935,
+        58391,
+        58393,
+        59162,
+        59164,
+        62112,
+        69682,
+        70037,
+        70103,
+        70149,
+        70692,
+        70700,
+        70750,
+        71441,
+        71511,
+        71798,
+        78035,
+        213131,
+        213176,
+        213177
+      ],
+      "name": "Sesame Street",
+      "slug": "sesame-street",
+      "updated_at": 1666939306,
+      "url": "https://www.igdb.com/collections/sesame-street",
+      "checksum": "c228dcda-033c-089d-c817-7abcc5ecd025"
+    },
     "cover": {
       "id": 3289,
       "game": 3252,
@@ -1469,6 +1574,34 @@
   },
   {
     "id": 12242,
+    "collection": {
+      "id": 706,
+      "created_at": 1391161876,
+      "games": [
+        2313,
+        4681,
+        7757,
+        8501,
+        12242,
+        12888,
+        13339,
+        14272,
+        14452,
+        19486,
+        19781,
+        43869,
+        45232,
+        45944,
+        50019,
+        71703,
+        82102
+      ],
+      "name": "Asterix",
+      "slug": "asterix",
+      "updated_at": 1667992396,
+      "url": "https://www.igdb.com/collections/asterix",
+      "checksum": "ed072590-631a-c1f0-fc97-34ed4c57603c"
+    },
     "first_release_date": 599529600,
     "genres": [
       {
@@ -1524,6 +1657,31 @@
   },
   {
     "id": 172788,
+    "collection": {
+      "id": 1777,
+      "created_at": 1445275338,
+      "games": [
+        7758,
+        10606,
+        10664,
+        11967,
+        13689,
+        40863,
+        64402,
+        70183,
+        73043,
+        78656,
+        80932,
+        120375,
+        150203,
+        172788
+      ],
+      "name": "Asteroids",
+      "slug": "asteroids",
+      "updated_at": 1666914253,
+      "url": "https://www.igdb.com/collections/asteroids",
+      "checksum": "de03072a-84a7-32be-3937-3b5a40d99f9c"
+    },
     "cover": {
       "id": 182582,
       "alpha_channel": true,
@@ -2473,8 +2631,8 @@
     ],
     "slug": "basketball--2",
     "summary": "Basketball is an Atari 2600 game loosely based on the sport of the same name. The game features a simple game of one-on-one basketball playable by one or two players, one of the few early Atari 2600 to have a true single player feature with an AI-controlled opponent.",
-    "total_rating": 59.9732609641277,
-    "total_rating_count": 7,
+    "total_rating": 59.9655179566833,
+    "total_rating_count": 8,
     "url": "https://www.igdb.com/games/basketball--2",
     "videos": [
       {
@@ -2488,6 +2646,26 @@
   },
   {
     "id": 12916,
+    "collection": {
+      "id": 1706,
+      "created_at": 1443044957,
+      "games": [
+        613,
+        3423,
+        12916,
+        14368,
+        20076,
+        24122,
+        28745,
+        76424,
+        97044
+      ],
+      "name": "Battlezone",
+      "slug": "battlezone",
+      "updated_at": 1667437765,
+      "url": "https://www.igdb.com/collections/battlezone",
+      "checksum": "44dd53af-8b34-6b6c-375d-b730b93db106"
+    },
     "cover": {
       "id": 169660,
       "alpha_channel": false,
@@ -2837,6 +3015,25 @@
   },
   {
     "id": 40634,
+    "collection": {
+      "id": 4439,
+      "created_at": 1512741535,
+      "games": [
+        22989,
+        40634,
+        46539,
+        49311,
+        49932,
+        65987,
+        66853,
+        71548
+      ],
+      "name": "Berenstain Bears",
+      "slug": "berenstain-bears",
+      "updated_at": 1656009540,
+      "url": "https://www.igdb.com/collections/berenstain-bears",
+      "checksum": "0fd5eac6-37ae-cd32-6a9b-cd4771951577"
+    },
     "cover": {
       "id": 52071,
       "game": 40634,
@@ -2960,6 +3157,19 @@
   },
   {
     "id": 2391,
+    "collection": {
+      "id": 2142,
+      "created_at": 1460709070,
+      "games": [
+        2391,
+        13717
+      ],
+      "name": "Berzerk",
+      "slug": "berzerk",
+      "updated_at": 1460709070,
+      "url": "https://www.igdb.com/collections/berzerk",
+      "checksum": "27eb1276-3cee-d4f6-a1d9-5753b9eb64f2"
+    },
     "cover": {
       "id": 232992,
       "alpha_channel": false,
@@ -3112,6 +3322,54 @@
   },
   {
     "id": 40633,
+    "collection": {
+      "id": 3194,
+      "created_at": 1507193402,
+      "games": [
+        3252,
+        3253,
+        4276,
+        10611,
+        20235,
+        25175,
+        40587,
+        40633,
+        40714,
+        44031,
+        45945,
+        46198,
+        46558,
+        46912,
+        48248,
+        48275,
+        49916,
+        50935,
+        58391,
+        58393,
+        59162,
+        59164,
+        62112,
+        69682,
+        70037,
+        70103,
+        70149,
+        70692,
+        70700,
+        70750,
+        71441,
+        71511,
+        71798,
+        78035,
+        213131,
+        213176,
+        213177
+      ],
+      "name": "Sesame Street",
+      "slug": "sesame-street",
+      "updated_at": 1666939306,
+      "url": "https://www.igdb.com/collections/sesame-street",
+      "checksum": "c228dcda-033c-089d-c817-7abcc5ecd025"
+    },
     "cover": {
       "id": 52737,
       "game": 40633,
@@ -3569,6 +3827,24 @@
   },
   {
     "id": 2754,
+    "collection": {
+      "id": 1634,
+      "created_at": 1441450637,
+      "games": [
+        2754,
+        12321,
+        40816,
+        41224,
+        64400,
+        64401,
+        64539
+      ],
+      "name": "Breakout",
+      "slug": "breakout",
+      "updated_at": 1666267759,
+      "url": "https://www.igdb.com/collections/breakout",
+      "checksum": "cea44aca-a680-e075-ca2b-50a6680effdb"
+    },
     "cover": {
       "id": 120810,
       "alpha_channel": false,
@@ -3684,6 +3960,20 @@
         "name": "Kid-Venture 1: Little Red Riding Hood"
       }
     ],
+    "collection": {
+      "id": 3022,
+      "created_at": 1506584365,
+      "games": [
+        55105,
+        55827,
+        55830
+      ],
+      "name": "Kid Venture",
+      "slug": "kid-venture",
+      "updated_at": 1506584365,
+      "url": "https://www.igdb.com/collections/kid-venture",
+      "checksum": "cb10b7c1-545c-c629-ee30-12b284169d02"
+    },
     "cover": {
       "id": 29573,
       "game": 55105,
@@ -3728,6 +4018,20 @@
   },
   {
     "id": 11142,
+    "collection": {
+      "id": 3500,
+      "created_at": 1507583279,
+      "games": [
+        2436,
+        11142,
+        14499
+      ],
+      "name": "Buck Rogers",
+      "slug": "buck-rogers",
+      "updated_at": 1668007884,
+      "url": "https://www.igdb.com/collections/buck-rogers",
+      "checksum": "ee9d5bc7-255e-dec8-ef84-1c0a59d07ec5"
+    },
     "cover": {
       "id": 10451,
       "game": 11142,
@@ -3874,6 +4178,26 @@
         "name": "Burning Rubber"
       }
     ],
+    "collection": {
+      "id": 6162,
+      "created_at": 1589271543,
+      "games": [
+        5664,
+        14354,
+        82533,
+        133876,
+        133877,
+        172643,
+        172645,
+        172646,
+        172647
+      ],
+      "name": "Burnin' Rubber",
+      "slug": "burnin-rubber",
+      "updated_at": 1664500111,
+      "url": "https://www.igdb.com/collections/burnin-rubber",
+      "checksum": "e1c77f03-9469-48d1-ea98-c95b5d1152fa"
+    },
     "cover": {
       "id": 135723,
       "alpha_channel": false,
@@ -4609,6 +4933,26 @@
         "name": "Calgames"
       }
     ],
+    "collection": {
+      "id": 2370,
+      "created_at": 1471267363,
+      "games": [
+        11984,
+        11985,
+        12268,
+        12340,
+        12831,
+        22524,
+        47196,
+        47197,
+        154872
+      ],
+      "name": "Summer Games",
+      "slug": "summer-games",
+      "updated_at": 1667440202,
+      "url": "https://www.igdb.com/collections/summer-games",
+      "checksum": "55b26d73-58af-249c-fc5d-098ed6a90a97"
+    },
     "cover": {
       "id": 112797,
       "alpha_channel": true,
@@ -5199,6 +5543,40 @@
   },
   {
     "id": 218804,
+    "collection": {
+      "id": 714,
+      "created_at": 1391261709,
+      "games": [
+        2235,
+        2237,
+        4604,
+        4760,
+        64399,
+        79816,
+        151643,
+        199424,
+        218800,
+        218804,
+        218805,
+        218807,
+        218808,
+        218809,
+        218810,
+        218812,
+        218813,
+        218814,
+        218815,
+        218817,
+        218818,
+        218819,
+        218820
+      ],
+      "name": "Centipede",
+      "slug": "centipede",
+      "updated_at": 1665911051,
+      "url": "https://www.igdb.com/collections/centipede",
+      "checksum": "9ad01825-4131-f0eb-e9f0-c15b62458b1f"
+    },
     "cover": {
       "id": 249885,
       "alpha_channel": false,
@@ -6077,6 +6455,20 @@
         "name": "Senjou no Okami"
       }
     ],
+    "collection": {
+      "id": 4968,
+      "created_at": 1512905943,
+      "games": [
+        5668,
+        21342,
+        39407
+      ],
+      "name": "Commando",
+      "slug": "commando",
+      "updated_at": 1648321165,
+      "url": "https://www.igdb.com/collections/commando",
+      "checksum": "0b68fac2-9535-3e1a-7205-6e745f8147b3"
+    },
     "cover": {
       "id": 119375,
       "alpha_channel": false,
@@ -6480,6 +6872,54 @@
   },
   {
     "id": 40587,
+    "collection": {
+      "id": 3194,
+      "created_at": 1507193402,
+      "games": [
+        3252,
+        3253,
+        4276,
+        10611,
+        20235,
+        25175,
+        40587,
+        40633,
+        40714,
+        44031,
+        45945,
+        46198,
+        46558,
+        46912,
+        48248,
+        48275,
+        49916,
+        50935,
+        58391,
+        58393,
+        59162,
+        59164,
+        62112,
+        69682,
+        70037,
+        70103,
+        70149,
+        70692,
+        70700,
+        70750,
+        71441,
+        71511,
+        71798,
+        78035,
+        213131,
+        213176,
+        213177
+      ],
+      "name": "Sesame Street",
+      "slug": "sesame-street",
+      "updated_at": 1666939306,
+      "url": "https://www.igdb.com/collections/sesame-street",
+      "checksum": "c228dcda-033c-089d-c817-7abcc5ecd025"
+    },
     "cover": {
       "id": 54185,
       "game": 40587,
@@ -6870,6 +7310,22 @@
         "name": "クレイジークライマー  "
       }
     ],
+    "collection": {
+      "id": 4063,
+      "created_at": 1507926691,
+      "games": [
+        4611,
+        39808,
+        61831,
+        61832,
+        73389
+      ],
+      "name": "Crazy Climber",
+      "slug": "crazy-climber",
+      "updated_at": 1646279547,
+      "url": "https://www.igdb.com/collections/crazy-climber",
+      "checksum": "3c4772ef-9664-9d12-6508-bc882e3a123c"
+    },
     "cover": {
       "id": 135902,
       "alpha_channel": false,
@@ -7528,6 +7984,19 @@
         "name": "Dandy"
       }
     ],
+    "collection": {
+      "id": 7075,
+      "created_at": 1623053125,
+      "games": [
+        11869,
+        13568
+      ],
+      "name": "Dandy Dungeon",
+      "slug": "dandy-dungeon",
+      "updated_at": 1623053125,
+      "url": "https://www.igdb.com/collections/dandy-dungeon",
+      "checksum": "0226d022-c055-3db4-a2d7-76ff060f96a6"
+    },
     "cover": {
       "id": 146513,
       "alpha_channel": true,
@@ -7715,6 +8184,24 @@
   },
   {
     "id": 5710,
+    "collection": {
+      "id": 779,
+      "created_at": 1392017245,
+      "games": [
+        5246,
+        5247,
+        5698,
+        5710,
+        6217,
+        7220,
+        89933
+      ],
+      "name": "Tron",
+      "slug": "tron",
+      "updated_at": 1667463529,
+      "url": "https://www.igdb.com/collections/tron",
+      "checksum": "b2778827-3177-af4a-7784-1458fa6d8ac7"
+    },
     "cover": {
       "id": 79663,
       "alpha_channel": false,
@@ -7903,6 +8390,25 @@
         "name": "Defender 2"
       }
     ],
+    "collection": {
+      "id": 2361,
+      "created_at": 1470989304,
+      "games": [
+        3873,
+        4502,
+        17459,
+        40817,
+        56591,
+        85569,
+        102663,
+        150104
+      ],
+      "name": "Defender",
+      "slug": "defender",
+      "updated_at": 1666061641,
+      "url": "https://www.igdb.com/collections/defender",
+      "checksum": "5fe97faf-a192-0a8a-ec45-eafcffefeb4f"
+    },
     "cover": {
       "id": 14129,
       "game": 17459,
@@ -8056,6 +8562,25 @@
         "name": "Earth Attack"
       }
     ],
+    "collection": {
+      "id": 2361,
+      "created_at": 1470989304,
+      "games": [
+        3873,
+        4502,
+        17459,
+        40817,
+        56591,
+        85569,
+        102663,
+        150104
+      ],
+      "name": "Defender",
+      "slug": "defender",
+      "updated_at": 1666061641,
+      "url": "https://www.igdb.com/collections/defender",
+      "checksum": "5fe97faf-a192-0a8a-ec45-eafcffefeb4f"
+    },
     "cover": {
       "id": 141899,
       "alpha_channel": true,
@@ -8742,6 +9267,45 @@
   },
   {
     "id": 218861,
+    "collection": {
+      "id": 532,
+      "created_at": 1374863384,
+      "games": [
+        2636,
+        2736,
+        2737,
+        61764,
+        132160,
+        178410,
+        218770,
+        218860,
+        218861,
+        218862,
+        218863,
+        218864,
+        218865,
+        218866,
+        218867,
+        218868,
+        218869,
+        218870,
+        218871,
+        218872,
+        218874,
+        218875,
+        218876,
+        218877,
+        218878,
+        218879,
+        218880,
+        218881
+      ],
+      "name": "Dig Dug",
+      "slug": "dig-dug",
+      "updated_at": 1667320271,
+      "url": "https://www.igdb.com/collections/dig-dug",
+      "checksum": "9163510a-fb5c-84c5-7a72-028e70af9fbe"
+    },
     "cover": {
       "id": 250828,
       "alpha_channel": false,
@@ -8999,6 +9563,232 @@
   },
   {
     "id": 40638,
+    "collection": {
+      "id": 2986,
+      "created_at": 1506583967,
+      "games": [
+        360,
+        2473,
+        2926,
+        3166,
+        3613,
+        3782,
+        3883,
+        3884,
+        3885,
+        3886,
+        3887,
+        4066,
+        4234,
+        4406,
+        4666,
+        4806,
+        5218,
+        5261,
+        6200,
+        6434,
+        6589,
+        6756,
+        8127,
+        8130,
+        8144,
+        8150,
+        8152,
+        8163,
+        8446,
+        8447,
+        8451,
+        8452,
+        9056,
+        10610,
+        10791,
+        12052,
+        12122,
+        12826,
+        12910,
+        13379,
+        17172,
+        17753,
+        17765,
+        17829,
+        18102,
+        18142,
+        19212,
+        19218,
+        19761,
+        19900,
+        20390,
+        20542,
+        21086,
+        22325,
+        22468,
+        23586,
+        24979,
+        27791,
+        30977,
+        36312,
+        40638,
+        40695,
+        43375,
+        43499,
+        43724,
+        43737,
+        43895,
+        44013,
+        44014,
+        44025,
+        44839,
+        44877,
+        45228,
+        45561,
+        45564,
+        45575,
+        46210,
+        46233,
+        46431,
+        46434,
+        46446,
+        46673,
+        47392,
+        47728,
+        47753,
+        47789,
+        47790,
+        47859,
+        47868,
+        48992,
+        49153,
+        49186,
+        49190,
+        49202,
+        49275,
+        49278,
+        49282,
+        49304,
+        49376,
+        49404,
+        49405,
+        49406,
+        49407,
+        49409,
+        49410,
+        49478,
+        49494,
+        49841,
+        49942,
+        50008,
+        50016,
+        50307,
+        50372,
+        50426,
+        50478,
+        51281,
+        51370,
+        56042,
+        57214,
+        57622,
+        57919,
+        57920,
+        58005,
+        58639,
+        58644,
+        58849,
+        59938,
+        59939,
+        60193,
+        60243,
+        60832,
+        61672,
+        61680,
+        61822,
+        61960,
+        62187,
+        62415,
+        63051,
+        63272,
+        63748,
+        65125,
+        65155,
+        65583,
+        67757,
+        68735,
+        69051,
+        69056,
+        69231,
+        69885,
+        70222,
+        70247,
+        70250,
+        70964,
+        71089,
+        71876,
+        71987,
+        72123,
+        72135,
+        72885,
+        73453,
+        73552,
+        73651,
+        76602,
+        77330,
+        78004,
+        78216,
+        78286,
+        78482,
+        78484,
+        78590,
+        78640,
+        78697,
+        78718,
+        79059,
+        79552,
+        79786,
+        79840,
+        79914,
+        79954,
+        80295,
+        81487,
+        83509,
+        83783,
+        85089,
+        85959,
+        86045,
+        89817,
+        91476,
+        97983,
+        98009,
+        98240,
+        98278,
+        98569,
+        108251,
+        109480,
+        111548,
+        113889,
+        120809,
+        122082,
+        122508,
+        123397,
+        123599,
+        124644,
+        127641,
+        132153,
+        133765,
+        140087,
+        145266,
+        146342,
+        204566,
+        204571,
+        204572,
+        204613,
+        204616,
+        204619
+      ],
+      "name": "Disney",
+      "slug": "disney",
+      "updated_at": 1668437338,
+      "url": "https://www.igdb.com/collections/disney",
+      "checksum": "3155e7b5-c0c3-a328-afe1-0562e3f4f690"
+    },
     "cover": {
       "id": 31090,
       "game": 40638,
@@ -9022,6 +9812,64 @@
   },
   {
     "id": 192911,
+    "collection": {
+      "id": 242,
+      "created_at": 1340040606,
+      "games": [
+        1086,
+        1087,
+        1088,
+        1089,
+        5692,
+        48175,
+        56218,
+        77964,
+        84699,
+        85097,
+        131900,
+        131901,
+        131902,
+        131903,
+        141959,
+        142130,
+        152066,
+        170008,
+        170011,
+        170016,
+        171951,
+        171952,
+        171953,
+        171954,
+        171956,
+        171961,
+        171964,
+        172013,
+        172014,
+        172015,
+        172016,
+        172017,
+        172018,
+        172019,
+        172020,
+        172538,
+        178166,
+        178167,
+        185889,
+        192910,
+        192911,
+        192912,
+        192913,
+        192914,
+        192915,
+        192916,
+        200536
+      ],
+      "name": "Donkey Kong",
+      "slug": "donkey-kong",
+      "updated_at": 1668438256,
+      "url": "https://www.igdb.com/collections/donkey-kong",
+      "checksum": "e22a35d7-92fe-edd0-37d3-c4386de3a180"
+    },
     "cover": {
       "id": 211669,
       "alpha_channel": false,
@@ -9065,6 +9913,64 @@
   },
   {
     "id": 152066,
+    "collection": {
+      "id": 242,
+      "created_at": 1340040606,
+      "games": [
+        1086,
+        1087,
+        1088,
+        1089,
+        5692,
+        48175,
+        56218,
+        77964,
+        84699,
+        85097,
+        131900,
+        131901,
+        131902,
+        131903,
+        141959,
+        142130,
+        152066,
+        170008,
+        170011,
+        170016,
+        171951,
+        171952,
+        171953,
+        171954,
+        171956,
+        171961,
+        171964,
+        172013,
+        172014,
+        172015,
+        172016,
+        172017,
+        172018,
+        172019,
+        172020,
+        172538,
+        178166,
+        178167,
+        185889,
+        192910,
+        192911,
+        192912,
+        192913,
+        192914,
+        192915,
+        192916,
+        200536
+      ],
+      "name": "Donkey Kong",
+      "slug": "donkey-kong",
+      "updated_at": 1668438256,
+      "url": "https://www.igdb.com/collections/donkey-kong",
+      "checksum": "e22a35d7-92fe-edd0-37d3-c4386de3a180"
+    },
     "cover": {
       "id": 209667,
       "alpha_channel": true,
@@ -9177,6 +10083,42 @@
         "name": "DD"
       }
     ],
+    "collection": {
+      "id": 694,
+      "created_at": 1390810623,
+      "games": [
+        4475,
+        5968,
+        6384,
+        6787,
+        6790,
+        9929,
+        10194,
+        21001,
+        23805,
+        26621,
+        46277,
+        48923,
+        71231,
+        79335,
+        136134,
+        138806,
+        175799,
+        198727,
+        198728,
+        198729,
+        198931,
+        200154,
+        201319,
+        201321,
+        201322
+      ],
+      "name": "Double Dragon",
+      "slug": "double-dragon",
+      "updated_at": 1668435679,
+      "url": "https://www.igdb.com/collections/double-dragon",
+      "checksum": "214108bb-0408-5032-89a8-e597c135ce34"
+    },
     "cover": {
       "id": 93864,
       "alpha_channel": false,
@@ -9745,6 +10687,19 @@
         "name": "Dandy"
       }
     ],
+    "collection": {
+      "id": 7075,
+      "created_at": 1623053125,
+      "games": [
+        11869,
+        13568
+      ],
+      "name": "Dandy Dungeon",
+      "slug": "dandy-dungeon",
+      "updated_at": 1623053125,
+      "url": "https://www.igdb.com/collections/dandy-dungeon",
+      "checksum": "0226d022-c055-3db4-a2d7-76ff060f96a6"
+    },
     "cover": {
       "id": 146513,
       "alpha_channel": true,
@@ -9942,6 +10897,25 @@
         "name": "ET"
       }
     ],
+    "collection": {
+      "id": 3749,
+      "created_at": 1507813078,
+      "games": [
+        6706,
+        44985,
+        49937,
+        49938,
+        64395,
+        68781,
+        72875,
+        78414
+      ],
+      "name": "E.T.",
+      "slug": "et",
+      "updated_at": 1664152631,
+      "url": "https://www.igdb.com/collections/et",
+      "checksum": "a9178bed-a3fa-e0cf-5d5a-ba5922b37d1c"
+    },
     "cover": {
       "id": 6847,
       "game": 6706,
@@ -11242,6 +12216,21 @@
         "name": "Sparker Gardon"
       }
     ],
+    "collection": {
+      "id": 4744,
+      "created_at": 1512852691,
+      "games": [
+        12569,
+        22735,
+        25691,
+        28958
+      ],
+      "name": "Flash Gordon",
+      "slug": "flash-gordon",
+      "updated_at": 1512852691,
+      "url": "https://www.igdb.com/collections/flash-gordon",
+      "checksum": "d783c331-931b-38b8-2c66-fa6536302c03"
+    },
     "cover": {
       "id": 16797,
       "game": 22735,
@@ -11469,6 +12458,81 @@
         "name": "Frogger 2: Threeedeep!"
       }
     ],
+    "collection": {
+      "id": 646,
+      "created_at": 1390241134,
+      "games": [
+        3922,
+        3923,
+        3924,
+        6412,
+        6772,
+        6795,
+        11464,
+        11465,
+        11466,
+        11467,
+        11469,
+        11470,
+        11471,
+        11472,
+        11473,
+        11474,
+        11475,
+        11476,
+        11477,
+        11478,
+        11479,
+        11480,
+        11481,
+        11482,
+        11483,
+        11484,
+        18288,
+        46517,
+        63920,
+        67754,
+        99998,
+        111559,
+        117011,
+        218547,
+        218554,
+        218556,
+        218557,
+        218558,
+        218559,
+        218560,
+        218561,
+        218566,
+        218567,
+        218568,
+        218570,
+        218571,
+        218572,
+        218573,
+        218574,
+        218576,
+        218577,
+        218578,
+        218579,
+        218580,
+        218581,
+        218590,
+        218591,
+        218592,
+        218595,
+        218596,
+        218597,
+        218603,
+        218612,
+        218768
+      ],
+      "name": "Frogger",
+      "slug": "frogger",
+      "updated_at": 1666114248,
+      "url": "https://www.igdb.com/collections/frogger",
+      "checksum": "e9d515fc-ed79-d59f-e381-cdbffdd07a79"
+    },
     "cover": {
       "id": 17773,
       "game": 11464,
@@ -11584,6 +12648,81 @@
         "name": "Frogger 2: Threeedeep!"
       }
     ],
+    "collection": {
+      "id": 646,
+      "created_at": 1390241134,
+      "games": [
+        3922,
+        3923,
+        3924,
+        6412,
+        6772,
+        6795,
+        11464,
+        11465,
+        11466,
+        11467,
+        11469,
+        11470,
+        11471,
+        11472,
+        11473,
+        11474,
+        11475,
+        11476,
+        11477,
+        11478,
+        11479,
+        11480,
+        11481,
+        11482,
+        11483,
+        11484,
+        18288,
+        46517,
+        63920,
+        67754,
+        99998,
+        111559,
+        117011,
+        218547,
+        218554,
+        218556,
+        218557,
+        218558,
+        218559,
+        218560,
+        218561,
+        218566,
+        218567,
+        218568,
+        218570,
+        218571,
+        218572,
+        218573,
+        218574,
+        218576,
+        218577,
+        218578,
+        218579,
+        218580,
+        218581,
+        218590,
+        218591,
+        218592,
+        218595,
+        218596,
+        218597,
+        218603,
+        218612,
+        218768
+      ],
+      "name": "Frogger",
+      "slug": "frogger",
+      "updated_at": 1666114248,
+      "url": "https://www.igdb.com/collections/frogger",
+      "checksum": "e9d515fc-ed79-d59f-e381-cdbffdd07a79"
+    },
     "cover": {
       "id": 17773,
       "game": 11464,
@@ -11695,6 +12834,18 @@
         "name": "FRONT LINE フロントライン"
       }
     ],
+    "collection": {
+      "id": 4899,
+      "created_at": 1512904171,
+      "games": [
+        22771
+      ],
+      "name": "Front Line",
+      "slug": "front-line",
+      "updated_at": 1512904171,
+      "url": "https://www.igdb.com/collections/front-line",
+      "checksum": "1d08bd3a-a850-7570-55a8-c0d59396f8a3"
+    },
     "cover": {
       "id": 16851,
       "game": 22771,
@@ -11994,6 +13145,26 @@
         "name": "Action Force"
       }
     ],
+    "collection": {
+      "id": 3998,
+      "created_at": 1507819303,
+      "games": [
+        4877,
+        8165,
+        8166,
+        22697,
+        25981,
+        59503,
+        67762,
+        73255,
+        178246
+      ],
+      "name": "G.I. Joe",
+      "slug": "gi-joe",
+      "updated_at": 1660894990,
+      "url": "https://www.igdb.com/collections/gi-joe",
+      "checksum": "1dccfce0-e84b-179a-5ebf-f8a9dfdb34ad"
+    },
     "cover": {
       "id": 16747,
       "game": 22697,
@@ -12048,6 +13219,24 @@
         "name": "Gyarakushian"
       }
     ],
+    "collection": {
+      "id": 3307,
+      "created_at": 1507371819,
+      "games": [
+        4614,
+        21678,
+        21872,
+        43774,
+        58775,
+        61014,
+        62563
+      ],
+      "name": "Galaxian",
+      "slug": "galaxian",
+      "updated_at": 1664931164,
+      "url": "https://www.igdb.com/collections/galaxian",
+      "checksum": "647858db-9ead-e41f-d973-4bd55776ce92"
+    },
     "cover": {
       "id": 103109,
       "alpha_channel": false,
@@ -12399,6 +13588,34 @@
   },
   {
     "id": 6054,
+    "collection": {
+      "id": 1854,
+      "created_at": 1447590516,
+      "games": [
+        3658,
+        4534,
+        6054,
+        8160,
+        8161,
+        8162,
+        12841,
+        14552,
+        14555,
+        14849,
+        18815,
+        58665,
+        60235,
+        63144,
+        77275,
+        80815,
+        119170
+      ],
+      "name": "Ghostbusters",
+      "slug": "ghostbusters",
+      "updated_at": 1668077260,
+      "url": "https://www.igdb.com/collections/ghostbusters",
+      "checksum": "c78c15c4-e6c9-2396-f44d-41566b4ea657"
+    },
     "cover": {
       "id": 177458,
       "alpha_channel": false,
@@ -12750,8 +13967,8 @@
     "slug": "ghostbusters-79683bac-22d5-4796-9baa-78c2c85273a2",
     "storyline": "Based on the 1984 film of the same name, the Ghostbusters are the ones to call to \"bust\" any ghost hauntings. They do this through the use of nuclear-accelerated \"proton packs\" and \"ghost traps\", whereby the ghosts can be captured and transferred to a secure storage facility at their Headquarters. However New York City has suddenly become a very haunted place, and the number of ghosts has suddenly and dramatically increased. The Ghostbusters must reduce the paranormal psychokinetic energy, the \"PK level\" in the city, which represents ghost power, before the Temple of Zuul awakens and resurrects an evil goddess called Gozer.",
     "summary": "Ghostbusters is an action game that features an overhead-view and a side-view. From Ghostbusters HQ, the player must monitor a map of midtown Manhattan for \"ghost alarms\", as well as for casual, roaming spirits, and plot a route to the alarmed area. Once the route is plotted, the player then controls the purchased Ghostmobile as it drives through traffic. Here, the player is able to capture casual ghosts on the way if they are en route. When the haunted location is reached, the game switches to a side-view. Two of the Ghostbusters will take position, activate their proton beams, and toss a trap to the ground. The player must then use the two Ghostbusters to attempt to lead the ghost(s) over the placed trap. Once activated, the trap springs to capture any ghosts directly above it. A successful capture will earn the player money, which can then be used to purchase new Ghostbusters vehicles and new modifications for it. An unsuccessful capture will see the ghost fly away (after nastily sliming one of the Ghostbusters).",
-    "total_rating": 76.11542444324064,
-    "total_rating_count": 31,
+    "total_rating": 76.11327481005421,
+    "total_rating_count": 32,
     "url": "https://www.igdb.com/games/ghostbusters-79683bac-22d5-4796-9baa-78c2c85273a2",
     "videos": [
       {
@@ -13839,6 +15056,22 @@
         "name": "Casa Mal-Assombrada"
       }
     ],
+    "collection": {
+      "id": 3714,
+      "created_at": 1507806237,
+      "games": [
+        4909,
+        16799,
+        17673,
+        46905,
+        63993
+      ],
+      "name": "Haunted House",
+      "slug": "haunted-house",
+      "updated_at": 1643866944,
+      "url": "https://www.igdb.com/collections/haunted-house",
+      "checksum": "5c382856-bc46-2d5e-4590-0bb62aa64713"
+    },
     "cover": {
       "id": 142668,
       "alpha_channel": true,
@@ -14252,6 +15485,21 @@
         "name": "Ikari"
       }
     ],
+    "collection": {
+      "id": 1616,
+      "created_at": 1441205984,
+      "games": [
+        12153,
+        12870,
+        48054,
+        48055
+      ],
+      "name": "Ikari Warriors",
+      "slug": "ikari-warriors",
+      "updated_at": 1665910975,
+      "url": "https://www.igdb.com/collections/ikari-warriors",
+      "checksum": "703189a7-10ef-bfd2-1671-b4618b4ea286"
+    },
     "cover": {
       "id": 118765,
       "alpha_channel": false,
@@ -14658,6 +15906,52 @@
         "name": "007 James Bond"
       }
     ],
+    "collection": {
+      "id": 326,
+      "created_at": 1351020746,
+      "games": [
+        1630,
+        1631,
+        1632,
+        1633,
+        1636,
+        1637,
+        1638,
+        1639,
+        1640,
+        1641,
+        1642,
+        1643,
+        1644,
+        1645,
+        1646,
+        1647,
+        1648,
+        1649,
+        1650,
+        1651,
+        2371,
+        11249,
+        44099,
+        52679,
+        57293,
+        72009,
+        73053,
+        110398,
+        141114,
+        143406,
+        144507,
+        146882,
+        156069,
+        156079,
+        158962
+      ],
+      "name": "James Bond",
+      "slug": "james-bond",
+      "updated_at": 1668146735,
+      "url": "https://www.igdb.com/collections/james-bond",
+      "checksum": "52c25fd8-9449-4ec8-1d7e-cb9eed885cc3"
+    },
     "cover": {
       "id": 137718,
       "alpha_channel": false,
@@ -15022,6 +16316,20 @@
   },
   {
     "id": 3659,
+    "collection": {
+      "id": 3704,
+      "created_at": 1507806175,
+      "games": [
+        3659,
+        39371,
+        64031
+      ],
+      "name": "Joust",
+      "slug": "joust",
+      "updated_at": 1663005690,
+      "url": "https://www.igdb.com/collections/joust",
+      "checksum": "019f00b9-baf3-e2cb-e5f4-801ae9409329"
+    },
     "cover": {
       "id": 176952,
       "alpha_channel": false,
@@ -15235,6 +16543,99 @@
   },
   {
     "id": 7453,
+    "collection": {
+      "id": 2095,
+      "created_at": 1457796594,
+      "games": [
+        2654,
+        2750,
+        4061,
+        4062,
+        6528,
+        6529,
+        6861,
+        7453,
+        7559,
+        11603,
+        12192,
+        14701,
+        18275,
+        18328,
+        18380,
+        18381,
+        18881,
+        21681,
+        25074,
+        25373,
+        27587,
+        38692,
+        46813,
+        46814,
+        47121,
+        49833,
+        50595,
+        57836,
+        61756,
+        62605,
+        62686,
+        62959,
+        63639,
+        64014,
+        64458,
+        64682,
+        64683,
+        65001,
+        65233,
+        66485,
+        74273,
+        76751,
+        78239,
+        78240,
+        79652,
+        79794,
+        80452,
+        88904,
+        109097,
+        126049,
+        133878,
+        134152,
+        140269,
+        145515,
+        146284,
+        172697,
+        174623,
+        175992,
+        178228,
+        178408,
+        182246,
+        203270,
+        203273,
+        204385,
+        204387,
+        204414,
+        205614,
+        213899,
+        213901,
+        213903,
+        213915,
+        213917,
+        213918,
+        213920,
+        213921,
+        213922,
+        213923,
+        213924,
+        213925,
+        213926,
+        213944,
+        225431
+      ],
+      "name": "Pac-Man",
+      "slug": "pac-man",
+      "updated_at": 1668422558,
+      "url": "https://www.igdb.com/collections/pac-man",
+      "checksum": "25db96e9-3a96-3c83-e250-b0953dc5f6fd"
+    },
     "cover": {
       "id": 192510,
       "alpha_channel": false,
@@ -15323,6 +16724,19 @@
         "name": "Jungle King"
       }
     ],
+    "collection": {
+      "id": 4584,
+      "created_at": 1512850716,
+      "games": [
+        18228,
+        77133
+      ],
+      "name": "Jungle Hunt",
+      "slug": "jungle-hunt",
+      "updated_at": 1512850716,
+      "url": "https://www.igdb.com/collections/jungle-hunt",
+      "checksum": "9b07d678-b4fd-32f9-4f5b-66cc2fb0496d"
+    },
     "cover": {
       "id": 14489,
       "game": 18228,
@@ -15604,6 +17018,23 @@
   },
   {
     "id": 18763,
+    "collection": {
+      "id": 3732,
+      "created_at": 1507808706,
+      "games": [
+        4065,
+        18763,
+        41689,
+        48690,
+        49334,
+        49397
+      ],
+      "name": "King Kong",
+      "slug": "king-kong",
+      "updated_at": 1668159084,
+      "url": "https://www.igdb.com/collections/king-kong",
+      "checksum": "38e9d478-84e9-6399-18d1-831c7a932b52"
+    },
     "cover": {
       "id": 15094,
       "game": 18763,
@@ -16894,6 +18325,36 @@
   },
   {
     "id": 192917,
+    "collection": {
+      "id": 6075,
+      "created_at": 1585067025,
+      "games": [
+        3105,
+        20385,
+        67043,
+        91994,
+        132049,
+        170013,
+        172201,
+        172250,
+        192277,
+        192917,
+        192918,
+        192919,
+        192920,
+        192921,
+        192922,
+        192923,
+        192924,
+        193280,
+        193281
+      ],
+      "name": "Mario Bros.",
+      "slug": "mario-bros",
+      "updated_at": 1666915922,
+      "url": "https://www.igdb.com/collections/mario-bros",
+      "checksum": "92c41935-3774-b141-bde8-dea8bb7fa1e2"
+    },
     "cover": {
       "id": 212019,
       "alpha_channel": false,
@@ -17017,6 +18478,24 @@
   },
   {
     "id": 5683,
+    "collection": {
+      "id": 3750,
+      "created_at": 1507813079,
+      "games": [
+        5683,
+        6432,
+        8156,
+        8157,
+        8159,
+        30904,
+        39210
+      ],
+      "name": "Masters of the Universe",
+      "slug": "masters-of-the-universe",
+      "updated_at": 1649962189,
+      "url": "https://www.igdb.com/collections/masters-of-the-universe",
+      "checksum": "ffd3e305-13ac-cb39-95ae-dd8626af1c75"
+    },
     "cover": {
       "id": 79781,
       "alpha_channel": false,
@@ -17354,6 +18833,40 @@
   },
   {
     "id": 4604,
+    "collection": {
+      "id": 714,
+      "created_at": 1391261709,
+      "games": [
+        2235,
+        2237,
+        4604,
+        4760,
+        64399,
+        79816,
+        151643,
+        199424,
+        218800,
+        218804,
+        218805,
+        218807,
+        218808,
+        218809,
+        218810,
+        218812,
+        218813,
+        218814,
+        218815,
+        218817,
+        218818,
+        218819,
+        218820
+      ],
+      "name": "Centipede",
+      "slug": "centipede",
+      "updated_at": 1665911051,
+      "url": "https://www.igdb.com/collections/centipede",
+      "checksum": "9ad01825-4131-f0eb-e9f0-c15b62458b1f"
+    },
     "cover": {
       "id": 142663,
       "alpha_channel": true,
@@ -17636,6 +19149,20 @@
   },
   {
     "id": 18651,
+    "collection": {
+      "id": 2127,
+      "created_at": 1459926449,
+      "games": [
+        12305,
+        18651,
+        59505
+      ],
+      "name": "Miner 2049er",
+      "slug": "miner-2049er",
+      "updated_at": 1668385994,
+      "url": "https://www.igdb.com/collections/miner-2049er",
+      "checksum": "8382b326-6954-95f4-0a56-2af0732aea5d"
+    },
     "cover": {
       "id": 14968,
       "game": 18651,
@@ -17903,6 +19430,21 @@
   },
   {
     "id": 12313,
+    "collection": {
+      "id": 4677,
+      "created_at": 1512851570,
+      "games": [
+        12313,
+        40810,
+        69142,
+        132154
+      ],
+      "name": "Missile Command",
+      "slug": "missile-command",
+      "updated_at": 1668459351,
+      "url": "https://www.igdb.com/collections/missile-command",
+      "checksum": "5230bbac-927c-3ac1-5f1a-9d0507870e6a"
+    },
     "cover": {
       "id": 161094,
       "alpha_channel": true,
@@ -19118,6 +20660,24 @@
   },
   {
     "id": 9554,
+    "collection": {
+      "id": 1682,
+      "created_at": 1442603166,
+      "games": [
+        9554,
+        12729,
+        24408,
+        24630,
+        39540,
+        61766,
+        218419
+      ],
+      "name": "Mr. Do!",
+      "slug": "mr-do",
+      "updated_at": 1663857713,
+      "url": "https://www.igdb.com/collections/mr-do",
+      "checksum": "a467fc96-42c6-04ab-0431-9b20e9f18802"
+    },
     "cover": {
       "id": 10047,
       "game": 9554,
@@ -19242,6 +20802,24 @@
         "name": "Mr. Do! vs. Unicorns"
       }
     ],
+    "collection": {
+      "id": 1682,
+      "created_at": 1442603166,
+      "games": [
+        9554,
+        12729,
+        24408,
+        24630,
+        39540,
+        61766,
+        218419
+      ],
+      "name": "Mr. Do!",
+      "slug": "mr-do",
+      "updated_at": 1663857713,
+      "url": "https://www.igdb.com/collections/mr-do",
+      "checksum": "a467fc96-42c6-04ab-0431-9b20e9f18802"
+    },
     "cover": {
       "id": 17603,
       "game": 24408,
@@ -19400,6 +20978,29 @@
         "name": "Pac-Woman"
       }
     ],
+    "collection": {
+      "id": 5151,
+      "created_at": 1513072337,
+      "games": [
+        3338,
+        7452,
+        49834,
+        71475,
+        88813,
+        131815,
+        198832,
+        213870,
+        213871,
+        213872,
+        213874,
+        213877
+      ],
+      "name": "Ms. Pac-Man",
+      "slug": "ms-pac-man",
+      "updated_at": 1667547542,
+      "url": "https://www.igdb.com/collections/ms-pac-man",
+      "checksum": "56886173-d60f-32d8-0bf8-6f2f62049c0f"
+    },
     "cover": {
       "id": 238159,
       "alpha_channel": false,
@@ -20194,6 +21795,34 @@
   },
   {
     "id": 71703,
+    "collection": {
+      "id": 706,
+      "created_at": 1391161876,
+      "games": [
+        2313,
+        4681,
+        7757,
+        8501,
+        12242,
+        12888,
+        13339,
+        14272,
+        14452,
+        19486,
+        19781,
+        43869,
+        45232,
+        45944,
+        50019,
+        71703,
+        82102
+      ],
+      "name": "Asterix",
+      "slug": "asterix",
+      "updated_at": 1667992396,
+      "url": "https://www.igdb.com/collections/asterix",
+      "checksum": "ed072590-631a-c1f0-fc97-34ed4c57603c"
+    },
     "cover": {
       "id": 254950,
       "alpha_channel": false,
@@ -20259,6 +21888,20 @@
   },
   {
     "id": 18580,
+    "collection": {
+      "id": 3792,
+      "created_at": 1507814154,
+      "games": [
+        18580,
+        38271,
+        49034
+      ],
+      "name": "Ninja-kun",
+      "slug": "ninja-kun",
+      "updated_at": 1650012771,
+      "url": "https://www.igdb.com/collections/ninja-kun",
+      "checksum": "93f2f0e6-d14c-e567-4a59-c11139422641"
+    },
     "cover": {
       "id": 14889,
       "game": 18580,
@@ -20427,6 +22070,17 @@
   },
   {
     "id": 40679,
+    "cover": {
+      "id": 269012,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 40679,
+      "height": 2047,
+      "image_id": "co5rkk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rkk.jpg",
+      "width": 1535,
+      "checksum": "3e74da59-f813-6049-58e9-4d36507a10d3"
+    },
     "first_release_date": 423532800,
     "genres": [
       {
@@ -20445,6 +22099,54 @@
   },
   {
     "id": 40714,
+    "collection": {
+      "id": 3194,
+      "created_at": 1507193402,
+      "games": [
+        3252,
+        3253,
+        4276,
+        10611,
+        20235,
+        25175,
+        40587,
+        40633,
+        40714,
+        44031,
+        45945,
+        46198,
+        46558,
+        46912,
+        48248,
+        48275,
+        49916,
+        50935,
+        58391,
+        58393,
+        59162,
+        59164,
+        62112,
+        69682,
+        70037,
+        70103,
+        70149,
+        70692,
+        70700,
+        70750,
+        71441,
+        71511,
+        71798,
+        78035,
+        213131,
+        213176,
+        213177
+      ],
+      "name": "Sesame Street",
+      "slug": "sesame-street",
+      "updated_at": 1666939306,
+      "url": "https://www.igdb.com/collections/sesame-street",
+      "checksum": "c228dcda-033c-089d-c817-7abcc5ecd025"
+    },
     "cover": {
       "id": 55814,
       "game": 40714,
@@ -20521,6 +22223,21 @@
   },
   {
     "id": 15562,
+    "collection": {
+      "id": 4437,
+      "created_at": 1512741427,
+      "games": [
+        13251,
+        15562,
+        18608,
+        40656
+      ],
+      "name": "Gun Fight",
+      "slug": "gun-fight",
+      "updated_at": 1653146873,
+      "url": "https://www.igdb.com/collections/gun-fight",
+      "checksum": "57e7c6ea-6795-200b-0ea0-6753cd9ef8b3"
+    },
     "cover": {
       "id": 13656,
       "game": 15562,
@@ -20711,6 +22428,29 @@
         "name": "Pac-Woman"
       }
     ],
+    "collection": {
+      "id": 5151,
+      "created_at": 1513072337,
+      "games": [
+        3338,
+        7452,
+        49834,
+        71475,
+        88813,
+        131815,
+        198832,
+        213870,
+        213871,
+        213872,
+        213874,
+        213877
+      ],
+      "name": "Ms. Pac-Man",
+      "slug": "ms-pac-man",
+      "updated_at": 1667547542,
+      "url": "https://www.igdb.com/collections/ms-pac-man",
+      "checksum": "56886173-d60f-32d8-0bf8-6f2f62049c0f"
+    },
     "cover": {
       "id": 238159,
       "alpha_channel": false,
@@ -20905,6 +22645,20 @@
         "name": "ペンゴ"
       }
     ],
+    "collection": {
+      "id": 4081,
+      "created_at": 1507932758,
+      "games": [
+        4503,
+        12316,
+        61571
+      ],
+      "name": "Pengo",
+      "slug": "pengo",
+      "updated_at": 1663686977,
+      "url": "https://www.igdb.com/collections/pengo",
+      "checksum": "129788d1-faa6-b9cc-dfba-0df5ad6eefc7"
+    },
     "cover": {
       "id": 213165,
       "alpha_channel": true,
@@ -21164,6 +22918,19 @@
         "name": "Ave Fénix"
       }
     ],
+    "collection": {
+      "id": 2447,
+      "created_at": 1475092811,
+      "games": [
+        18473,
+        24467
+      ],
+      "name": "Phoenix",
+      "slug": "phoenix",
+      "updated_at": 1653686331,
+      "url": "https://www.igdb.com/collections/phoenix",
+      "checksum": "46dc127e-5e10-fba2-81e0-96f238f6e6b2"
+    },
     "cover": {
       "id": 186746,
       "alpha_channel": false,
@@ -21472,6 +23239,40 @@
   },
   {
     "id": 40575,
+    "collection": {
+      "id": 909,
+      "created_at": 1398382532,
+      "games": [
+        6438,
+        11760,
+        15538,
+        23556,
+        26485,
+        40575,
+        43252,
+        43512,
+        44743,
+        46037,
+        48023,
+        49423,
+        50139,
+        60201,
+        64496,
+        64498,
+        64500,
+        64504,
+        64505,
+        64506,
+        78983,
+        204887,
+        204888
+      ],
+      "name": "Hugo",
+      "slug": "hugo",
+      "updated_at": 1667463026,
+      "url": "https://www.igdb.com/collections/hugo",
+      "checksum": "93efdb65-acaf-fe1e-5aec-e27f6b4a5656"
+    },
     "cover": {
       "id": 46560,
       "game": 40575,
@@ -21681,6 +23482,26 @@
   },
   {
     "id": 5411,
+    "collection": {
+      "id": 877,
+      "created_at": 1397822391,
+      "games": [
+        4070,
+        5410,
+        5411,
+        6125,
+        19908,
+        39509,
+        44980,
+        48233,
+        49861
+      ],
+      "name": "Pitfall",
+      "slug": "pitfall",
+      "updated_at": 1667989849,
+      "url": "https://www.igdb.com/collections/pitfall",
+      "checksum": "22cff2f9-263b-4ba6-ee38-c20169ed0201"
+    },
     "cover": {
       "id": 79643,
       "alpha_channel": false,
@@ -21778,6 +23599,26 @@
         "name": "ピットフォールII"
       }
     ],
+    "collection": {
+      "id": 877,
+      "created_at": 1397822391,
+      "games": [
+        4070,
+        5410,
+        5411,
+        6125,
+        19908,
+        39509,
+        44980,
+        48233,
+        49861
+      ],
+      "name": "Pitfall",
+      "slug": "pitfall",
+      "updated_at": 1667989849,
+      "url": "https://www.igdb.com/collections/pitfall",
+      "checksum": "22cff2f9-263b-4ba6-ee38-c20169ed0201"
+    },
     "cover": {
       "id": 7399,
       "game": 6125,
@@ -22104,6 +23945,22 @@
         "name": "ポールポジション"
       }
     ],
+    "collection": {
+      "id": 1422,
+      "created_at": 1432762866,
+      "games": [
+        5691,
+        10708,
+        12337,
+        21875,
+        42124
+      ],
+      "name": "Pole Position",
+      "slug": "pole-position",
+      "updated_at": 1642517915,
+      "url": "https://www.igdb.com/collections/pole-position",
+      "checksum": "85d9e24d-4973-502e-ffa1-2a5db8045f62"
+    },
     "cover": {
       "id": 136616,
       "alpha_channel": false,
@@ -22404,6 +24261,24 @@
         "name": "ポパイ "
       }
     ],
+    "collection": {
+      "id": 1670,
+      "created_at": 1442476554,
+      "games": [
+        4619,
+        12593,
+        38310,
+        41022,
+        45250,
+        48641,
+        73718
+      ],
+      "name": "Popeye",
+      "slug": "popeye",
+      "updated_at": 1666314240,
+      "url": "https://www.igdb.com/collections/popeye",
+      "checksum": "507f7169-234a-b372-d1e8-93bc941e9626"
+    },
     "cover": {
       "id": 79646,
       "alpha_channel": false,
@@ -22884,6 +24759,23 @@
         "name": "Q*Bert II"
       }
     ],
+    "collection": {
+      "id": 4087,
+      "created_at": 1507932852,
+      "games": [
+        1980,
+        17158,
+        39893,
+        42469,
+        61518,
+        100023
+      ],
+      "name": "Q*Bert",
+      "slug": "q-star-bert",
+      "updated_at": 1668431850,
+      "url": "https://www.igdb.com/collections/q-star-bert",
+      "checksum": "4e9c9e86-edeb-b916-e349-bf6b92432e34"
+    },
     "cover": {
       "id": 171192,
       "alpha_channel": false,
@@ -22990,6 +24882,23 @@
         "name": "Q*Bert II"
       }
     ],
+    "collection": {
+      "id": 4087,
+      "created_at": 1507932852,
+      "games": [
+        1980,
+        17158,
+        39893,
+        42469,
+        61518,
+        100023
+      ],
+      "name": "Q*Bert",
+      "slug": "q-star-bert",
+      "updated_at": 1668431850,
+      "url": "https://www.igdb.com/collections/q-star-bert",
+      "checksum": "4e9c9e86-edeb-b916-e349-bf6b92432e34"
+    },
     "cover": {
       "id": 171192,
       "alpha_channel": false,
@@ -23545,6 +25454,35 @@
   },
   {
     "id": 18036,
+    "collection": {
+      "id": 2019,
+      "created_at": 1453450259,
+      "games": [
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        4932,
+        10843,
+        12155,
+        12156,
+        18036,
+        22218,
+        25862,
+        61042,
+        73006,
+        79180,
+        80377,
+        114760
+      ],
+      "name": "Indiana Jones",
+      "slug": "indiana-jones",
+      "updated_at": 1668379824,
+      "url": "https://www.igdb.com/collections/indiana-jones",
+      "checksum": "c2d0e997-8e50-098c-455a-22fe255e38c9"
+    },
     "cover": {
       "id": 14237,
       "game": 18036,
@@ -23702,6 +25640,24 @@
   },
   {
     "id": 18416,
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 154482,
       "alpha_channel": false,
@@ -23744,6 +25700,24 @@
   },
   {
     "id": 18417,
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 14704,
       "game": 18417,
@@ -23784,6 +25758,24 @@
   },
   {
     "id": 18418,
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 174052,
       "alpha_channel": false,
@@ -23826,6 +25818,24 @@
   },
   {
     "id": 40574,
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 51647,
       "game": 40574,
@@ -23859,6 +25869,24 @@
         "name": "Tennis"
       }
     ],
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 148331,
       "alpha_channel": true,
@@ -24011,6 +26039,24 @@
   },
   {
     "id": 18420,
+    "collection": {
+      "id": 4883,
+      "created_at": 1512903241,
+      "games": [
+        18416,
+        18417,
+        18418,
+        18419,
+        18420,
+        40574,
+        40700
+      ],
+      "name": "RealSports",
+      "slug": "realsports",
+      "updated_at": 1644457520,
+      "url": "https://www.igdb.com/collections/realsports",
+      "checksum": "a7176107-2b27-1a24-abf2-3d9b5fd382ae"
+    },
     "cover": {
       "id": 174055,
       "alpha_channel": false,
@@ -24312,6 +26358,20 @@
         "name": "River Raid 2"
       }
     ],
+    "collection": {
+      "id": 4209,
+      "created_at": 1509629350,
+      "games": [
+        5693,
+        40573,
+        214888
+      ],
+      "name": "River Raid",
+      "slug": "river-raid",
+      "updated_at": 1662340339,
+      "url": "https://www.igdb.com/collections/river-raid",
+      "checksum": "f9e35eac-efae-9ba0-a8fa-b22b9dd37445"
+    },
     "cover": {
       "id": 223881,
       "alpha_channel": false,
@@ -24412,6 +26472,20 @@
         "name": "River Raid 2"
       }
     ],
+    "collection": {
+      "id": 4209,
+      "created_at": 1509629350,
+      "games": [
+        5693,
+        40573,
+        214888
+      ],
+      "name": "River Raid",
+      "slug": "river-raid",
+      "updated_at": 1662340339,
+      "url": "https://www.igdb.com/collections/river-raid",
+      "checksum": "f9e35eac-efae-9ba0-a8fa-b22b9dd37445"
+    },
     "cover": {
       "id": 223881,
       "alpha_channel": false,
@@ -24502,6 +26576,78 @@
   },
   {
     "id": 8097,
+    "collection": {
+      "id": 3417,
+      "created_at": 1507572301,
+      "games": [
+        2719,
+        3045,
+        3052,
+        3053,
+        3054,
+        3336,
+        3345,
+        3786,
+        3979,
+        4194,
+        4460,
+        4461,
+        4518,
+        4977,
+        5903,
+        6306,
+        7756,
+        8052,
+        8053,
+        8066,
+        8077,
+        8097,
+        8098,
+        8099,
+        8131,
+        8132,
+        8133,
+        8134,
+        8135,
+        8136,
+        19432,
+        21364,
+        23643,
+        24468,
+        25800,
+        42585,
+        44884,
+        46096,
+        46190,
+        46887,
+        46910,
+        49346,
+        49360,
+        49854,
+        49870,
+        49882,
+        49967,
+        49970,
+        49986,
+        49996,
+        52539,
+        63814,
+        67270,
+        67271,
+        69227,
+        70009,
+        70771,
+        71430,
+        71438,
+        78028,
+        144564
+      ],
+      "name": "Looney Tunes",
+      "slug": "looney-tunes",
+      "updated_at": 1667979279,
+      "url": "https://www.igdb.com/collections/looney-tunes",
+      "checksum": "c16fc32e-c905-b4ae-e546-a8137316b0a5"
+    },
     "cover": {
       "id": 130088,
       "alpha_channel": false,
@@ -25796,6 +27942,29 @@
   },
   {
     "id": 8080,
+    "collection": {
+      "id": 3470,
+      "created_at": 1507577602,
+      "games": [
+        8080,
+        8081,
+        8085,
+        8086,
+        14992,
+        49975,
+        58379,
+        65988,
+        65989,
+        65990,
+        75142,
+        79212
+      ],
+      "name": "Smurfs",
+      "slug": "smurfs",
+      "updated_at": 1667402095,
+      "url": "https://www.igdb.com/collections/smurfs",
+      "checksum": "663325a9-8c0b-2f7a-e869-fbf19037a44d"
+    },
     "cover": {
       "id": 44429,
       "game": 8080,
@@ -25935,6 +28104,27 @@
         "name": "Snoopy and the Red Baron"
       }
     ],
+    "collection": {
+      "id": 3932,
+      "created_at": 1507817189,
+      "games": [
+        2756,
+        2757,
+        10620,
+        18993,
+        21887,
+        48077,
+        49878,
+        66345,
+        69583,
+        71226
+      ],
+      "name": "Peanuts",
+      "slug": "peanuts",
+      "updated_at": 1662820849,
+      "url": "https://www.igdb.com/collections/peanuts",
+      "checksum": "20d1858f-7df2-ff04-b8df-0a378566e0b7"
+    },
     "cover": {
       "id": 2722,
       "game": 2757,
@@ -26128,6 +28318,21 @@
         "name": "The Last Starfighter"
       }
     ],
+    "collection": {
+      "id": 2710,
+      "created_at": 1494630966,
+      "games": [
+        2217,
+        25925,
+        28713,
+        40577
+      ],
+      "name": "Star Raiders",
+      "slug": "star-raiders",
+      "updated_at": 1652343452,
+      "url": "https://www.igdb.com/collections/star-raiders",
+      "checksum": "4006dccd-c7d1-d100-cddd-df22bf7382bf"
+    },
     "cover": {
       "id": 151381,
       "alpha_channel": true,
@@ -26263,6 +28468,232 @@
   },
   {
     "id": 40695,
+    "collection": {
+      "id": 2986,
+      "created_at": 1506583967,
+      "games": [
+        360,
+        2473,
+        2926,
+        3166,
+        3613,
+        3782,
+        3883,
+        3884,
+        3885,
+        3886,
+        3887,
+        4066,
+        4234,
+        4406,
+        4666,
+        4806,
+        5218,
+        5261,
+        6200,
+        6434,
+        6589,
+        6756,
+        8127,
+        8130,
+        8144,
+        8150,
+        8152,
+        8163,
+        8446,
+        8447,
+        8451,
+        8452,
+        9056,
+        10610,
+        10791,
+        12052,
+        12122,
+        12826,
+        12910,
+        13379,
+        17172,
+        17753,
+        17765,
+        17829,
+        18102,
+        18142,
+        19212,
+        19218,
+        19761,
+        19900,
+        20390,
+        20542,
+        21086,
+        22325,
+        22468,
+        23586,
+        24979,
+        27791,
+        30977,
+        36312,
+        40638,
+        40695,
+        43375,
+        43499,
+        43724,
+        43737,
+        43895,
+        44013,
+        44014,
+        44025,
+        44839,
+        44877,
+        45228,
+        45561,
+        45564,
+        45575,
+        46210,
+        46233,
+        46431,
+        46434,
+        46446,
+        46673,
+        47392,
+        47728,
+        47753,
+        47789,
+        47790,
+        47859,
+        47868,
+        48992,
+        49153,
+        49186,
+        49190,
+        49202,
+        49275,
+        49278,
+        49282,
+        49304,
+        49376,
+        49404,
+        49405,
+        49406,
+        49407,
+        49409,
+        49410,
+        49478,
+        49494,
+        49841,
+        49942,
+        50008,
+        50016,
+        50307,
+        50372,
+        50426,
+        50478,
+        51281,
+        51370,
+        56042,
+        57214,
+        57622,
+        57919,
+        57920,
+        58005,
+        58639,
+        58644,
+        58849,
+        59938,
+        59939,
+        60193,
+        60243,
+        60832,
+        61672,
+        61680,
+        61822,
+        61960,
+        62187,
+        62415,
+        63051,
+        63272,
+        63748,
+        65125,
+        65155,
+        65583,
+        67757,
+        68735,
+        69051,
+        69056,
+        69231,
+        69885,
+        70222,
+        70247,
+        70250,
+        70964,
+        71089,
+        71876,
+        71987,
+        72123,
+        72135,
+        72885,
+        73453,
+        73552,
+        73651,
+        76602,
+        77330,
+        78004,
+        78216,
+        78286,
+        78482,
+        78484,
+        78590,
+        78640,
+        78697,
+        78718,
+        79059,
+        79552,
+        79786,
+        79840,
+        79914,
+        79954,
+        80295,
+        81487,
+        83509,
+        83783,
+        85089,
+        85959,
+        86045,
+        89817,
+        91476,
+        97983,
+        98009,
+        98240,
+        98278,
+        98569,
+        108251,
+        109480,
+        111548,
+        113889,
+        120809,
+        122082,
+        122508,
+        123397,
+        123599,
+        124644,
+        127641,
+        132153,
+        133765,
+        140087,
+        145266,
+        146342,
+        204566,
+        204571,
+        204572,
+        204613,
+        204616,
+        204619
+      ],
+      "name": "Disney",
+      "slug": "disney",
+      "updated_at": 1668437338,
+      "url": "https://www.igdb.com/collections/disney",
+      "checksum": "3155e7b5-c0c3-a328-afe1-0562e3f4f690"
+    },
     "cover": {
       "id": 52996,
       "game": 40695,
@@ -26570,6 +29001,41 @@
         "name": "スペースインベーダー"
       }
     ],
+    "collection": {
+      "id": 674,
+      "created_at": 1390643154,
+      "games": [
+        3601,
+        4159,
+        8198,
+        8199,
+        18133,
+        20792,
+        22290,
+        39409,
+        39716,
+        39725,
+        40072,
+        42761,
+        46262,
+        46839,
+        51183,
+        64069,
+        64070,
+        64076,
+        64077,
+        69888,
+        78567,
+        84891,
+        208860,
+        215405
+      ],
+      "name": "Space Invaders",
+      "slug": "space-invaders",
+      "updated_at": 1667985917,
+      "url": "https://www.igdb.com/collections/space-invaders",
+      "checksum": "748cab41-5dfc-5eec-f0db-ab87b5262b28"
+    },
     "cover": {
       "id": 100993,
       "alpha_channel": false,
@@ -26671,7 +29137,7 @@
     ],
     "slug": "space-invaders",
     "summary": "Space Invaders is an arcade video game developed by Tomohiro Nishikado and released in 1978. It is one of the earliest shooting games and the aim is to defeat waves of aliens with a laser cannon to earn as many points as possible.",
-    "total_rating": 78.0237320074927,
+    "total_rating": 78.0225545797689,
     "total_rating_count": 124,
     "url": "https://www.igdb.com/games/space-invaders",
     "videos": [
@@ -27063,6 +29529,85 @@
   },
   {
     "id": 3325,
+    "collection": {
+      "id": 3147,
+      "created_at": 1507192361,
+      "games": [
+        1919,
+        2005,
+        3325,
+        3914,
+        3954,
+        3992,
+        4118,
+        4447,
+        4853,
+        4935,
+        4936,
+        4997,
+        5315,
+        6420,
+        7816,
+        8719,
+        11895,
+        11896,
+        13206,
+        13462,
+        16889,
+        18028,
+        18254,
+        18294,
+        19651,
+        19768,
+        20660,
+        20821,
+        20944,
+        21287,
+        21718,
+        21955,
+        24598,
+        26165,
+        28107,
+        38875,
+        42403,
+        46182,
+        46761,
+        48050,
+        48926,
+        49299,
+        49971,
+        51411,
+        58682,
+        59380,
+        61264,
+        61293,
+        61656,
+        61694,
+        62067,
+        62214,
+        62782,
+        63404,
+        63702,
+        64559,
+        65156,
+        65601,
+        65603,
+        69167,
+        70517,
+        72999,
+        73001,
+        80112,
+        80414,
+        82052,
+        163998,
+        194232
+      ],
+      "name": "Marvel",
+      "slug": "marvel",
+      "updated_at": 1668294541,
+      "url": "https://www.igdb.com/collections/marvel",
+      "checksum": "0de5b42a-a6bb-dc5a-2cc8-74baffae05c4"
+    },
     "cover": {
       "id": 3421,
       "game": 3325,
@@ -27356,6 +29901,23 @@
         "name": "Super Sprint Atari 2600"
       }
     ],
+    "collection": {
+      "id": 4117,
+      "created_at": 1507934083,
+      "games": [
+        11933,
+        18423,
+        39908,
+        61311,
+        61312,
+        61314
+      ],
+      "name": "Sprint",
+      "slug": "sprint",
+      "updated_at": 1507934083,
+      "url": "https://www.igdb.com/collections/sprint",
+      "checksum": "d0e1c01e-5c30-6ddb-2969-033fb82966f5"
+    },
     "cover": {
       "id": 148662,
       "alpha_channel": true,
@@ -27497,6 +30059,25 @@
   },
   {
     "id": 4167,
+    "collection": {
+      "id": 675,
+      "created_at": 1390643178,
+      "games": [
+        4166,
+        4167,
+        6152,
+        6153,
+        6154,
+        6155,
+        21042,
+        72010
+      ],
+      "name": "Spy Hunter",
+      "slug": "spy-hunter",
+      "updated_at": 1664432852,
+      "url": "https://www.igdb.com/collections/spy-hunter",
+      "checksum": "5da7b611-6f39-38bf-86d0-55845138cfe3"
+    },
     "cover": {
       "id": 183963,
       "alpha_channel": false,
@@ -27916,6 +30497,21 @@
   },
   {
     "id": 2217,
+    "collection": {
+      "id": 2710,
+      "created_at": 1494630966,
+      "games": [
+        2217,
+        25925,
+        28713,
+        40577
+      ],
+      "name": "Star Raiders",
+      "slug": "star-raiders",
+      "updated_at": 1652343452,
+      "url": "https://www.igdb.com/collections/star-raiders",
+      "checksum": "4006dccd-c7d1-d100-cddd-df22bf7382bf"
+    },
     "cover": {
       "id": 151383,
       "alpha_channel": true,
@@ -28093,6 +30689,78 @@
   },
   {
     "id": 5705,
+    "collection": {
+      "id": 3440,
+      "created_at": 1507573827,
+      "games": [
+        2228,
+        2229,
+        2231,
+        4168,
+        5193,
+        5705,
+        7193,
+        7584,
+        9571,
+        11485,
+        12319,
+        15376,
+        18783,
+        18904,
+        19327,
+        19416,
+        19425,
+        19519,
+        19627,
+        20594,
+        20610,
+        21195,
+        23645,
+        23946,
+        24155,
+        26019,
+        33970,
+        36593,
+        44467,
+        46195,
+        46335,
+        48239,
+        50097,
+        50392,
+        50436,
+        51380,
+        65373,
+        65900,
+        66231,
+        68129,
+        69228,
+        69258,
+        69647,
+        69780,
+        69831,
+        69859,
+        70216,
+        70345,
+        71059,
+        71224,
+        71404,
+        71640,
+        71672,
+        71880,
+        72149,
+        73409,
+        77313,
+        79758,
+        80425,
+        80831,
+        125127
+      ],
+      "name": "Star Trek",
+      "slug": "star-trek",
+      "updated_at": 1668421501,
+      "url": "https://www.igdb.com/collections/star-trek",
+      "checksum": "fbaf2bc3-1d55-9b70-ba7a-85d01ef12f53"
+    },
     "cover": {
       "id": 79659,
       "alpha_channel": false,
@@ -28158,6 +30826,78 @@
   },
   {
     "id": 12319,
+    "collection": {
+      "id": 3440,
+      "created_at": 1507573827,
+      "games": [
+        2228,
+        2229,
+        2231,
+        4168,
+        5193,
+        5705,
+        7193,
+        7584,
+        9571,
+        11485,
+        12319,
+        15376,
+        18783,
+        18904,
+        19327,
+        19416,
+        19425,
+        19519,
+        19627,
+        20594,
+        20610,
+        21195,
+        23645,
+        23946,
+        24155,
+        26019,
+        33970,
+        36593,
+        44467,
+        46195,
+        46335,
+        48239,
+        50097,
+        50392,
+        50436,
+        51380,
+        65373,
+        65900,
+        66231,
+        68129,
+        69228,
+        69258,
+        69647,
+        69780,
+        69831,
+        69859,
+        70216,
+        70345,
+        71059,
+        71224,
+        71404,
+        71640,
+        71672,
+        71880,
+        72149,
+        73409,
+        77313,
+        79758,
+        80425,
+        80831,
+        125127
+      ],
+      "name": "Star Trek",
+      "slug": "star-trek",
+      "updated_at": 1668421501,
+      "url": "https://www.igdb.com/collections/star-trek",
+      "checksum": "fbaf2bc3-1d55-9b70-ba7a-85d01ef12f53"
+    },
     "cover": {
       "id": 17116,
       "game": 12319,
@@ -28428,6 +31168,67 @@
   },
   {
     "id": 10203,
+    "collection": {
+      "id": 2172,
+      "created_at": 1465073721,
+      "games": [
+        143,
+        151,
+        155,
+        158,
+        159,
+        164,
+        210,
+        3760,
+        4180,
+        5194,
+        5599,
+        5706,
+        6159,
+        6606,
+        6607,
+        6608,
+        6609,
+        8560,
+        10203,
+        11289,
+        12594,
+        12842,
+        12858,
+        13483,
+        18044,
+        18046,
+        18950,
+        18951,
+        21335,
+        21743,
+        23116,
+        39822,
+        44463,
+        44675,
+        45379,
+        48939,
+        54649,
+        56127,
+        56217,
+        57943,
+        62669,
+        64562,
+        65161,
+        66235,
+        66424,
+        66790,
+        70221,
+        72636,
+        73217,
+        73254
+      ],
+      "name": "Star Wars",
+      "slug": "star-wars",
+      "updated_at": 1668146978,
+      "url": "https://www.igdb.com/collections/star-wars",
+      "checksum": "e6897587-a3ab-0739-9af5-253b74e535da"
+    },
     "cover": {
       "id": 10218,
       "game": 10203,
@@ -28601,6 +31402,67 @@
         "name": "Star Wars: The Empire Strikes Back 1982"
       }
     ],
+    "collection": {
+      "id": 2172,
+      "created_at": 1465073721,
+      "games": [
+        143,
+        151,
+        155,
+        158,
+        159,
+        164,
+        210,
+        3760,
+        4180,
+        5194,
+        5599,
+        5706,
+        6159,
+        6606,
+        6607,
+        6608,
+        6609,
+        8560,
+        10203,
+        11289,
+        12594,
+        12842,
+        12858,
+        13483,
+        18044,
+        18046,
+        18950,
+        18951,
+        21335,
+        21743,
+        23116,
+        39822,
+        44463,
+        44675,
+        45379,
+        48939,
+        54649,
+        56127,
+        56217,
+        57943,
+        62669,
+        64562,
+        65161,
+        66235,
+        66424,
+        66790,
+        70221,
+        72636,
+        73217,
+        73254
+      ],
+      "name": "Star Wars",
+      "slug": "star-wars",
+      "updated_at": 1668146978,
+      "url": "https://www.igdb.com/collections/star-wars",
+      "checksum": "e6897587-a3ab-0739-9af5-253b74e535da"
+    },
     "cover": {
       "id": 79737,
       "alpha_channel": false,
@@ -29082,6 +31944,22 @@
   },
   {
     "id": 8568,
+    "collection": {
+      "id": 3481,
+      "created_at": 1507582555,
+      "games": [
+        8568,
+        8569,
+        8572,
+        8574,
+        23813
+      ],
+      "name": "Strawberry Shortcake",
+      "slug": "strawberry-shortcake",
+      "updated_at": 1663916368,
+      "url": "https://www.igdb.com/collections/strawberry-shortcake",
+      "checksum": "0c8d2026-70c6-ba22-9f71-46d0d90966a1"
+    },
     "cover": {
       "id": 9045,
       "game": 8568,
@@ -29540,6 +32418,26 @@
   },
   {
     "id": 12340,
+    "collection": {
+      "id": 2370,
+      "created_at": 1471267363,
+      "games": [
+        11984,
+        11985,
+        12268,
+        12340,
+        12831,
+        22524,
+        47196,
+        47197,
+        154872
+      ],
+      "name": "Summer Games",
+      "slug": "summer-games",
+      "updated_at": 1667440202,
+      "url": "https://www.igdb.com/collections/summer-games",
+      "checksum": "55b26d73-58af-249c-fc5d-098ed6a90a97"
+    },
     "cover": {
       "id": 265174,
       "alpha_channel": false,
@@ -29746,6 +32644,19 @@
   },
   {
     "id": 40676,
+    "collection": {
+      "id": 5247,
+      "created_at": 1515839876,
+      "games": [
+        11412,
+        40676
+      ],
+      "name": "Baseball",
+      "slug": "baseball",
+      "updated_at": 1515839876,
+      "url": "https://www.igdb.com/collections/baseball",
+      "checksum": "a3ee8cf9-0f9b-b8ed-ddb1-a03559aed049"
+    },
     "cover": {
       "id": 178370,
       "alpha_channel": false,
@@ -29789,6 +32700,24 @@
         "name": "Special-Break"
       }
     ],
+    "collection": {
+      "id": 1634,
+      "created_at": 1441450637,
+      "games": [
+        2754,
+        12321,
+        40816,
+        41224,
+        64400,
+        64401,
+        64539
+      ],
+      "name": "Breakout",
+      "slug": "breakout",
+      "updated_at": 1666267759,
+      "url": "https://www.igdb.com/collections/breakout",
+      "checksum": "cea44aca-a680-e075-ca2b-50a6680effdb"
+    },
     "cover": {
       "id": 161096,
       "alpha_channel": true,
@@ -30315,6 +33244,29 @@
   },
   {
     "id": 18711,
+    "collection": {
+      "id": 3908,
+      "created_at": 1507816600,
+      "games": [
+        3005,
+        4190,
+        18711,
+        26271,
+        49216,
+        68440,
+        71624,
+        72996,
+        73324,
+        81520,
+        153678,
+        207162
+      ],
+      "name": "Superman",
+      "slug": "superman",
+      "updated_at": 1665786216,
+      "url": "https://www.igdb.com/collections/superman",
+      "checksum": "787d5026-3b15-002b-6ea7-8405ec04a6f0"
+    },
     "cover": {
       "id": 15035,
       "game": 18711,
@@ -30525,6 +33477,20 @@
         "name": "Adventure 2"
       }
     ],
+    "collection": {
+      "id": 2026,
+      "created_at": 1454236521,
+      "games": [
+        17014,
+        17015,
+        17016
+      ],
+      "name": "Swordquest",
+      "slug": "swordquest",
+      "updated_at": 1454236521,
+      "url": "https://www.igdb.com/collections/swordquest",
+      "checksum": "e831a9c5-42f7-9fe9-8d4d-da9d50cf6ff1"
+    },
     "cover": {
       "id": 142546,
       "alpha_channel": true,
@@ -30678,6 +33644,20 @@
   },
   {
     "id": 17015,
+    "collection": {
+      "id": 2026,
+      "created_at": 1454236521,
+      "games": [
+        17014,
+        17015,
+        17016
+      ],
+      "name": "Swordquest",
+      "slug": "swordquest",
+      "updated_at": 1454236521,
+      "url": "https://www.igdb.com/collections/swordquest",
+      "checksum": "e831a9c5-42f7-9fe9-8d4d-da9d50cf6ff1"
+    },
     "cover": {
       "id": 14030,
       "game": 17015,
@@ -30723,6 +33703,20 @@
   },
   {
     "id": 17016,
+    "collection": {
+      "id": 2026,
+      "created_at": 1454236521,
+      "games": [
+        17014,
+        17015,
+        17016
+      ],
+      "name": "Swordquest",
+      "slug": "swordquest",
+      "updated_at": 1454236521,
+      "url": "https://www.igdb.com/collections/swordquest",
+      "checksum": "e831a9c5-42f7-9fe9-8d4d-da9d50cf6ff1"
+    },
     "cover": {
       "id": 14031,
       "game": 17016,
@@ -30975,6 +33969,19 @@
         "name": "Budweiser Tapper"
       }
     ],
+    "collection": {
+      "id": 4454,
+      "created_at": 1512745393,
+      "games": [
+        23048,
+        66079
+      ],
+      "name": "Tapper",
+      "slug": "tapper",
+      "updated_at": 1512745393,
+      "url": "https://www.igdb.com/collections/tapper",
+      "checksum": "3faa7d02-aaa0-2f80-582e-b853c86e20c5"
+    },
     "cover": {
       "id": 267135,
       "alpha_channel": false,
@@ -31362,6 +34369,19 @@
   },
   {
     "id": 40616,
+    "collection": {
+      "id": 3703,
+      "created_at": 1507806173,
+      "games": [
+        19745,
+        40616
+      ],
+      "name": "The Weakest Link",
+      "slug": "the-weakest-link",
+      "updated_at": 1507806173,
+      "url": "https://www.igdb.com/collections/the-weakest-link",
+      "checksum": "9fe49867-b414-5d7f-a116-eab210933e74"
+    },
     "cover": {
       "id": 37505,
       "game": 40616,
@@ -31640,6 +34660,19 @@
   },
   {
     "id": 10273,
+    "collection": {
+      "id": 4713,
+      "created_at": 1512852046,
+      "games": [
+        10273,
+        40008
+      ],
+      "name": "Time Pilot",
+      "slug": "time-pilot",
+      "updated_at": 1667527444,
+      "url": "https://www.igdb.com/collections/time-pilot",
+      "checksum": "9dc569da-bf52-7f94-c5be-1d05315bdcaf"
+    },
     "cover": {
       "id": 10260,
       "game": 10273,
@@ -32166,6 +35199,27 @@
         "name": "Hyper Olympic"
       }
     ],
+    "collection": {
+      "id": 2922,
+      "created_at": 1505283128,
+      "games": [
+        3517,
+        6115,
+        6439,
+        20406,
+        20903,
+        23030,
+        39329,
+        71419,
+        218293,
+        218294
+      ],
+      "name": "Track & Field",
+      "slug": "track-and-field",
+      "updated_at": 1665005978,
+      "url": "https://www.igdb.com/collections/track-and-field",
+      "checksum": "111670a6-6d63-2938-1874-0a874e687365"
+    },
     "cover": {
       "id": 210242,
       "alpha_channel": false,
@@ -32312,8 +35366,8 @@
     ],
     "slug": "track-field",
     "summary": "Track & Field is an Olympic-themed arcade game. The simple gameplay, based on quick repeating button presses, set the basics for sequels and similar games in the genre for the next decades.",
-    "total_rating": 79.68924475183519,
-    "total_rating_count": 34,
+    "total_rating": 79.68697428770285,
+    "total_rating_count": 35,
     "url": "https://www.igdb.com/games/track-field",
     "videos": [
       {
@@ -32350,6 +35404,24 @@
   },
   {
     "id": 5710,
+    "collection": {
+      "id": 779,
+      "created_at": 1392017245,
+      "games": [
+        5246,
+        5247,
+        5698,
+        5710,
+        6217,
+        7220,
+        89933
+      ],
+      "name": "Tron",
+      "slug": "tron",
+      "updated_at": 1667463529,
+      "url": "https://www.igdb.com/collections/tron",
+      "checksum": "b2778827-3177-af4a-7784-1458fa6d8ac7"
+    },
     "cover": {
       "id": 79663,
       "alpha_channel": false,
@@ -32730,6 +35802,19 @@
   },
   {
     "id": 18472,
+    "collection": {
+      "id": 4217,
+      "created_at": 1510561666,
+      "games": [
+        18472,
+        39330
+      ],
+      "name": "Vanguard",
+      "slug": "vanguard",
+      "updated_at": 1656005017,
+      "url": "https://www.igdb.com/collections/vanguard",
+      "checksum": "40885d2b-755c-a245-1427-e6898d22fe21"
+    },
     "cover": {
       "id": 174054,
       "alpha_channel": false,
@@ -34024,6 +37109,26 @@
         "name": "Epyx's Winter Games"
       }
     ],
+    "collection": {
+      "id": 2370,
+      "created_at": 1471267363,
+      "games": [
+        11984,
+        11985,
+        12268,
+        12340,
+        12831,
+        22524,
+        47196,
+        47197,
+        154872
+      ],
+      "name": "Summer Games",
+      "slug": "summer-games",
+      "updated_at": 1667440202,
+      "url": "https://www.igdb.com/collections/summer-games",
+      "checksum": "55b26d73-58af-249c-fc5d-098ed6a90a97"
+    },
     "cover": {
       "id": 12540,
       "game": 12268,
@@ -34868,6 +37973,20 @@
         "name": "Yar's Revenge"
       }
     ],
+    "collection": {
+      "id": 5026,
+      "created_at": 1512941569,
+      "games": [
+        9757,
+        28721,
+        151837
+      ],
+      "name": "Yars' Revenge",
+      "slug": "yars-revenge",
+      "updated_at": 1668387018,
+      "url": "https://www.igdb.com/collections/yars-revenge",
+      "checksum": "b97e6f37-8668-e85f-2a98-452307c6130b"
+    },
     "cover": {
       "id": 142669,
       "alpha_channel": true,
@@ -35040,6 +38159,22 @@
         "name": "Zaxxon"
       }
     ],
+    "collection": {
+      "id": 2206,
+      "created_at": 1466852710,
+      "games": [
+        2753,
+        19764,
+        22696,
+        46104,
+        64553
+      ],
+      "name": "Zaxxon",
+      "slug": "zaxxon",
+      "updated_at": 1663721085,
+      "url": "https://www.igdb.com/collections/zaxxon",
+      "checksum": "571889ae-63b7-fff0-f998-b5bf7645a8f0"
+    },
     "cover": {
       "id": 107944,
       "alpha_channel": false,

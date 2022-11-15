@@ -51,9 +51,17 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     WHERE console = ${platform}::"CONSOLES" 
     ORDER BY RANDOM ()
     limit 1;`
+  const game = await prisma.game.findUnique({
+    where: {
+      id: result[0].id,
+    },
+    include: {
+      genres: true,
+    },
+  })
   return {
     props: {
-      game: result[0],
+      game,
       userInfo,
     },
   }

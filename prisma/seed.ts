@@ -1,5 +1,6 @@
 import { CONSOLES, Game, PrismaClient } from '@prisma/client'
 const prisma = new PrismaClient()
+import slugify from 'slugify'
 import { omit } from 'lodash'
 import nesGames from '../data/games/nes/all.json'
 import snesGames from '../data/games/snes/all.json'
@@ -34,11 +35,14 @@ const defaultValues = {
   videos: [],
 }
 
+type FetchedGame = Omit<Game, 'console'> & { genres: { id: number, name: string, slug: string }[], collection: { id: number, name: string, slug: string, games: number[] } }
+
 const createGames = async (
-  games: Omit<Game, 'console'>[],
+  games: FetchedGame[],
   platform: CONSOLES
 ) => {
   const all = games.map(async (game, i) => {
+    // @ts-ignore
     const gameInDb = await prisma.game.findFirst({
       where: {
         igdb_id: game.id,
@@ -47,16 +51,44 @@ const createGames = async (
     })
 
 
-    console.log(`Adding game ${i + 1}/${all.length}`)
     if (gameInDb?.name) return
+    console.log(`Adding game ${i + 1}/${all.length}`)
     await prisma.game.create({
       // @ts-ignore
       data: {
         ...defaultValues,
-        ...omit(game, 'id'),
-        // @ts-ignore
+        ...omit(game, ['id', "genres", "collection"]),
         igdb_id: game.id,
         console: platform,
+        ...game.collection && {
+          collections: {
+            connectOrCreate: {
+              create: {
+                id: game.collection.id,
+                name: game.collection.name,
+                slug: game.collection.slug,
+                games: game.collection.games
+              },
+              where: {
+                id: game.collection.id
+              }
+            }
+          }
+        },
+        genres: {
+          connectOrCreate: [
+            ...(game.genres || []).map(genre => ({
+              create: {
+                id: genre.id,
+                name: genre.name,
+                slug: slugify(genre.name.toLocaleLowerCase())
+              },
+              where: {
+                id: genre.id
+              }
+            })).flat()
+          ]
+        }
       },
     })
   })
@@ -65,46 +97,43 @@ const createGames = async (
 }
 
 async function main() {
-  // @ts-ignore
-  await createGames(nesGames, 'nes')
-  /*   // @ts-ignore
-  await createGames(snesGames, 'snes')
-  // @ts-ignore
-  await createGames(gbGames, 'gb')
-  // @ts-ignore
-  await createGames(gbaGames, 'gba')
-  // @ts-ignore
-  await createGames(gbcGames, 'gbc')
-  // @ts-ignore
-  await createGames(n64Games, 'n64')
-  // @ts-ignore
-  await createGames(mdGames, 'md')
-  // @ts-ignore
-  await createGames(msGames, 'ms')
-  // @ts-ignore
-  await createGames(ggGames, 'gg')
-  // @ts-ignore
-  await createGames(pceGames, 'pce')
-  // @ts-ignore
-  await createGames(psxGames, 'ps1')
-  // @ts-ignore
-  await createGames(sega32Games, 'sega32')
-  // @ts-ignore
-  await createGames(satGames, 'sat') 
-  // @ts-ignore
-await createGames(gcnGames, 'gcn')
-  
- 
-
-// @ts-ignore
-await createGames(neoGames, 'neo')
-
-// @ts-ignore
-await createGames(atari2600Games, 'atari2600')
- */
+  // // @ts-ignore
+  // await createGames(nesGames, 'nes')
+  // // @ts-ignore
+  // await createGames(snesGames, 'snes')
+  // // @ts-ignore
+  // await createGames(gbGames, 'gb')
+  // // @ts-ignore
+  // await createGames(gbaGames, 'gba')
+  // // @ts-ignore
+  // await createGames(gbcGames, 'gbc')
+  // // @ts-ignore
+  // await createGames(n64Games, 'n64')
+  // // @ts-ignore
+  // await createGames(mdGames, 'md')
+  // // @ts-ignore
+  // await createGames(msGames, 'ms')
+  // // @ts-ignore
+  // await createGames(ggGames, 'gg')
+  // // @ts-ignore
+  // await createGames(pceGames, 'pce')
+  // // @ts-ignore
+  // await createGames(psxGames, 'ps1')
+  // // @ts-ignore
+  // await createGames(sega32Games, 'sega32')
+  // // @ts-ignore
+  // await createGames(satGames, 'sat')
+  // // @ts-ignore
+  // await createGames(gcnGames, 'gcn')
 
 
 
+  // @ts-ignore
+  await createGames(neoGames, 'neo')
+  // @ts-ignore
+  await createGames(atari2600Games, 'atari2600')
+  // @ts-ignore
+  await createGames(vbGames, 'vb')
 }
 
 main()

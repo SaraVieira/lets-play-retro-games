@@ -63,10 +63,9 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
       slug,
     },
     include: {
-      genres: true
-    }
+      genres: true,
+    },
   })
-  console.log(result)
 
   return {
     props: {

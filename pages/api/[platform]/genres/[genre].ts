@@ -1,6 +1,6 @@
 import { CONSOLES } from '@prisma/client'
 import type { NextApiRequest, NextApiResponse } from 'next'
-import { prisma } from '../../../prisma/prisma'
+import { prisma } from '../../../../prisma/prisma'
 
 type Data = {
   id: number
@@ -20,7 +20,8 @@ type Query = {
   platform: CONSOLES
   page: number
   orderBy: OrderBy
-  direction: 'desc' | 'asc'
+  direction: 'desc' | 'asc',
+  genre: string
 }
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
@@ -29,6 +30,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
     page = 1,
     orderBy = 'name',
     direction = 'asc',
+    genre,
   } = req.query as unknown as Query
   const PER_PAGE = 50
   const extraSearch =
@@ -46,6 +48,19 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
         }
         : {}
 
+  const whereQuery = {
+    where: {
+      console: platform,
+      genres: {
+        some: {
+          slug: {
+            equals: genre
+          }
+        }
+      },
+      ...extraSearch,
+    },
+  }
   const games = await prisma.game.findMany({
     select: {
       id: true,
@@ -55,10 +70,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
       name: true,
       slug: true,
     },
-    where: {
-      console: platform,
-      ...extraSearch,
-    },
+    ...whereQuery,
     take: PER_PAGE,
     skip: (page - 1) * PER_PAGE + 1,
     orderBy: [
@@ -67,6 +79,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
       },
     ],
   })
+
   res.status(200).json(games)
 }
 

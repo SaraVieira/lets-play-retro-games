@@ -36,7 +36,7 @@ export const Info = ({ game }: { game: Game }) => {
           {dev && (
             <li className="flex gap-1 align-center">
               <Tippy content="Developed by">
-                <CommandLineIcon width="16" />
+                <span className="w-4 text-gray-900">&#9787;</span>
               </Tippy>
               {dev}
             </li>
@@ -44,14 +44,14 @@ export const Info = ({ game }: { game: Game }) => {
           {publisher && (
             <li className="flex gap-1 align-center">
               <Tippy content="Published by">
-                <GlobeAltIcon width="16" />
+                <span className="w-4 text-gray-900">&#9788;</span>
               </Tippy>
               {publisher}
             </li>
           )}
           <li className="flex gap-1 align-center">
             <Tippy content="Released In">
-              <ClockIcon width="16" />
+                <span className="w-4 text-gray-900">&#9719;</span>
             </Tippy>
             {new Date(game.first_release_date * 1000).toLocaleString('PT-pt', {
               year: 'numeric',
@@ -62,7 +62,7 @@ export const Info = ({ game }: { game: Game }) => {
           {game.genres.length ? (
             <li className="flex gap-1 align-center">
               <Tippy content="Genres">
-                <TagIcon width="16" />
+                <span className="w-4 text-gray-900">&#8267;</span>
               </Tippy>
               {game.genres.map((genre) => genre.name).join(', ')}
             </li>
@@ -70,7 +70,7 @@ export const Info = ({ game }: { game: Game }) => {
           {game.franchise.name && (
             <li className="flex gap-1 align-center">
               <Tippy content="Franchise">
-                <DocumentDuplicateIcon width="16" />
+                <span className="w-4 text-gray-900">&#8284;</span>
               </Tippy>
               {game.franchise.name}
             </li>

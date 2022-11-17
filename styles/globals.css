@@ -7,6 +7,16 @@
     transform: translateX(-100%);
   }
 }
+
+@font-face {
+  font-family: "CP437";
+  src: url("../public/PerfectDOSVGA437.ttf") format("truetype");
+}
+
+html, body {
+  font-family: "CP437", "Lucida Console",monospace;
+}
+
 .animation {
   margin: 0 auto;
   max-width: 100px;

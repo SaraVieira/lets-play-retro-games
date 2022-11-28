@@ -107,6 +107,10 @@ export const Header = () => {
             <span className="red-168-text">S</span>earch
           </Link>
 
+          <Link href={'https://github.com/SaraVieira/lets-play-retro-games'}>
+            <span className="red-168-text">C</span>ontribute
+          </Link>
+
           {asPath.includes('random') && (
             <button
               className="hidden sm:block"

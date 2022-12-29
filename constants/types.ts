@@ -20,6 +20,7 @@ export type Game = {
     name: string
   }
   genres: { id: number; name: string }[]
+  collections: { id: number; name: string, games: number[], slug: string }[]
   involved_companies: [
     {
       id: number

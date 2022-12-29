@@ -1,16 +1,10 @@
-import {
-  ClockIcon,
-  DocumentDuplicateIcon,
-  GlobeAltIcon,
-  TagIcon,
-  CommandLineIcon,
-} from '@heroicons/react/24/outline'
 import 'tippy.js/dist/tippy.css' // optional
 
 import Tippy from '@tippyjs/react'
 import { useMemo } from 'react'
 import { Game } from '../constants/types'
 import { consolesMenu } from '../constants/info'
+import Link from 'next/link'
 
 export const Info = ({ game }: { game: Game }) => {
   const dev = useMemo(
@@ -54,7 +48,7 @@ export const Info = ({ game }: { game: Game }) => {
             <Tippy content="Console">
               <span className="w-4 text-gray-900">&#8227;</span>
             </Tippy>
-            {consolesMenu.find(({ id }) => id === game.console).name}
+            {consolesMenu.find(({ id }) => id === game.console)?.name}
           </li>
 
           <li className="flex gap-1 align-center">
@@ -75,12 +69,27 @@ export const Info = ({ game }: { game: Game }) => {
               {game.genres.map((genre) => genre.name).join(', ')}
             </li>
           ) : null}
-          {game.franchise.name && (
+
+          {game.collections && (
             <li className="flex gap-1 align-center">
               <Tippy content="Franchise">
                 <span className="w-4 text-gray-900">&#8284;</span>
               </Tippy>
-              {game.franchise.name}
+
+              {game.collections
+                .map((collection) => ({
+                  name: collection.name,
+                  slug: collection.slug,
+                }))
+                .map(({ name, slug }) => (
+                  <Link
+                    key={slug}
+                    href={`/franchises/${slug}`}
+                    className="underline text-blue-500"
+                  >
+                    {name}
+                  </Link>
+                ))}
             </li>
           )}
         </ul>

@@ -64,6 +64,7 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     },
     include: {
       genres: true,
+      collections: true,
     },
   })
 

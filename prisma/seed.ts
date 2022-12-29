@@ -23,6 +23,7 @@ import panasonic3DOGames from '../data/games/panasonic3DO/all.json'
 import ngpGames from '../data/games/ngp/all.json'
 import cdiGames from '../data/games/cdi/all.json'
 import jaguarGames from '../data/games/jaguar/all.json'
+import lynxGames from '../data/games/lynx/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -102,7 +103,7 @@ const createGames = async (
 
 async function main() {
   // @ts-ignore
-  await createGames(jaguarGames, 'jaguar')
+  await createGames(lynxGames, 'lynx')
 }
 
 main()

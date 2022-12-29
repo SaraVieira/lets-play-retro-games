@@ -33,6 +33,7 @@ enum CONSOLES {
   cdi
   jaguar
   ngp
+  lynx
 }
 
 model Genre {

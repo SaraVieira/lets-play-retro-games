@@ -151,6 +151,13 @@ export const consolesMenu = [
     type: "atari"
   },
   {
+    name: 'Atari Lynx',
+    id: "lynx",
+    linkRandom: '/lynx/random',
+    linkAll: '/lynx/all',
+    type: "atari"
+  },
+  {
     name: 'Panasonic 3DO',
     id: "panasonic3DO",
     linkRandom: '/panasonic3DO/random',

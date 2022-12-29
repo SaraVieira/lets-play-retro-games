@@ -25,6 +25,7 @@ const threedoGames = require('../../constants/consoles/3do.json')
 const cdiGames = require('../../constants/consoles/cdi.json')
 const ngpGames = require('../../constants/consoles/ngp.json')
 const jaguarGames = require('../../constants/consoles/jaguar.json')
+const lynxGames = require('../../constants/consoles/lynx.json')
 
 const throttle = pThrottle({
   limit: 1,
@@ -53,6 +54,7 @@ const PLATFORMS = {
   cdi: 117,
   jaguar: 62,
   ngp: 120,
+  lynx: 61,
 }
 const FIELDS = [
   'name',
@@ -103,9 +105,9 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-for (let index = 0; index <= jaguarGames.length; index++) {
+for (let index = 0; index <= lynxGames.length; index++) {
   ;(async () => {
-    await requestGame(jaguarGames[index], 'jaguar')
+    await requestGame(lynxGames[index], 'lynx')
   })()
 }
 

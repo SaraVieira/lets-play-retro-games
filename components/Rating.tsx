@@ -40,8 +40,8 @@ export const Rating = ({ url, console: platform, igdb_id }: Game) => {
   })
   if (!totalRating || !ratingCount) return <div className="pt-4 h-[25px]" />
   const moreThanOneRating = ratingCount > 1
-  const ratingText = `See ${moreThanOneRating ? 'all' : null} 
-  ${ratingCount} rating${moreThanOneRating ? 's' : null}`
+  const ratingText = `See ${moreThanOneRating ? 'all' : ''} 
+  ${ratingCount} rating${moreThanOneRating ? 's' : ''}`
 
   return (
     <div className="pt-4 h-[25px]">

@@ -70,7 +70,7 @@ export const Info = ({ game }: { game: Game }) => {
             </li>
           ) : null}
 
-          {game.collections && (
+          {game.collections?.length ? (
             <li className="flex gap-1 align-center">
               <Tippy content="Franchise">
                 <span className="w-4 text-gray-900">&#8284;</span>
@@ -91,7 +91,7 @@ export const Info = ({ game }: { game: Game }) => {
                   </Link>
                 ))}
             </li>
-          )}
+          ) : null}
         </ul>
       </div>
     </div>

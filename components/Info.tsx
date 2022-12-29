@@ -10,6 +10,7 @@ import 'tippy.js/dist/tippy.css' // optional
 import Tippy from '@tippyjs/react'
 import { useMemo } from 'react'
 import { Game } from '../constants/types'
+import { consolesMenu } from '../constants/info'
 
 export const Info = ({ game }: { game: Game }) => {
   const dev = useMemo(
@@ -50,8 +51,15 @@ export const Info = ({ game }: { game: Game }) => {
             </li>
           )}
           <li className="flex gap-1 align-center">
+            <Tippy content="Console">
+              <span className="w-4 text-gray-900">&#8227;</span>
+            </Tippy>
+            {consolesMenu.find(({ id }) => id === game.console).name}
+          </li>
+
+          <li className="flex gap-1 align-center">
             <Tippy content="Released In">
-                <span className="w-4 text-gray-900">&#9719;</span>
+              <span className="w-4 text-gray-900">&#9719;</span>
             </Tippy>
             {new Date(game.first_release_date * 1000).toLocaleString('PT-pt', {
               year: 'numeric',

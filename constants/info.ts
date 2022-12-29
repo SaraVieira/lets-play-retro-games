@@ -141,14 +141,7 @@ export const consolesMenu = [
     id: "neo",
     linkRandom: '/neo/random',
     linkAll: '/neo/all',
-    type: "other"
-  },
-  {
-    name: 'Neo Geo Pocket',
-    id: "ngp",
-    linkRandom: '/ngp/random',
-    linkAll: '/ngp/all',
-    type: "other"
+    type: "neo"
   },
   {
     name: 'Atari 2600',
@@ -176,7 +169,7 @@ export const consolesMenu = [
     id: "ngp",
     linkRandom: '/ngp/random',
     linkAll: '/ngp/all',
-    type: "other"
+    type: "neo"
   },
   {
     name: 'Atari Jaguar',
@@ -203,6 +196,10 @@ export const menuMain = [
   {
     name: "Atari",
     items: consolesMenu.filter(({ type }) => type == "atari")
+  },
+  {
+    name: "Neo Geo",
+    items: consolesMenu.filter(({ type }) => type == "neo")
   }
 ]
 

@@ -12,7 +12,7 @@ export default function Home() {
       </h2>
 
       <div className="tui-window">
-        <fieldset className="tui-fieldset tui-border-double sm:grid grid-cols-2 gap-4">
+        <fieldset className="tui-fieldset tui-border-double sm:grid grid-cols-3 gap-4">
           <legend>Choose a console to start</legend>
           {menuMain.map((console) => (
             <fieldset

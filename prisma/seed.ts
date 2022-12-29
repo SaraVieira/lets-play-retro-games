@@ -19,6 +19,10 @@ import satGames from '../data/games/sat/all.json'
 import gcnGames from '../data/games/gcn/all.json'
 import neoGames from '../data/games/neo/all.json'
 import atari2600Games from '../data/games/atari2600/all.json'
+import panasonic3DOGames from '../data/games/panasonic3DO/all.json'
+import ngpGames from '../data/games/ngp/all.json'
+import cdiGames from '../data/games/cdi/all.json'
+import jaguarGames from '../data/games/jaguar/all.json'
 
 const defaultValues = {
   alternative_names: [],
@@ -97,43 +101,8 @@ const createGames = async (
 }
 
 async function main() {
-  // // @ts-ignore
-  // await createGames(nesGames, 'nes')
-  // // @ts-ignore
-  // await createGames(snesGames, 'snes')
-  // // @ts-ignore
-  // await createGames(gbGames, 'gb')
-  // // @ts-ignore
-  // await createGames(gbaGames, 'gba')
-  // // @ts-ignore
-  // await createGames(gbcGames, 'gbc')
-  // // @ts-ignore
-  // await createGames(n64Games, 'n64')
-  // // @ts-ignore
-  // await createGames(mdGames, 'md')
-  // // @ts-ignore
-  // await createGames(msGames, 'ms')
-  // // @ts-ignore
-  // await createGames(ggGames, 'gg')
-  // // @ts-ignore
-  // await createGames(pceGames, 'pce')
-  // // @ts-ignore
-  // await createGames(psxGames, 'ps1')
-  // // @ts-ignore
-  // await createGames(sega32Games, 'sega32')
-  // // @ts-ignore
-  // await createGames(satGames, 'sat')
-  // // @ts-ignore
-  // await createGames(gcnGames, 'gcn')
-
-
-
   // @ts-ignore
-  await createGames(neoGames, 'neo')
-  // @ts-ignore
-  await createGames(atari2600Games, 'atari2600')
-  // @ts-ignore
-  await createGames(vbGames, 'vb')
+  await createGames(jaguarGames, 'jaguar')
 }
 
 main()

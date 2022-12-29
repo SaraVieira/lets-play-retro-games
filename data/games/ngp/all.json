@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 43992,
+    "collection": {
+      "id": 1325,
+      "created_at": 1429895670,
+      "games": [
+        9903,
+        9942,
+        39595,
+        43992,
+        116527
+      ],
+      "name": "Baseball Stars",
+      "slug": "baseball-stars",
+      "updated_at": 1670945641,
+      "url": "https://www.igdb.com/collections/baseball-stars",
+      "checksum": "b6bb6865-263f-6c91-c782-c16975401e71"
+    },
+    "cover": {
+      "id": 51067,
+      "game": 43992,
+      "height": 198,
+      "image_id": "djlwuj6pisq8b3zx1xfp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/djlwuj6pisq8b3zx1xfp.jpg",
+      "width": 200,
+      "checksum": "1ef2cd69-79a1-81cf-03d7-af0d141af116"
+    },
+    "first_release_date": 920419200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Baseball Stars Color",
+    "slug": "baseball-stars-color",
+    "summary": "Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics",
+    "url": "https://www.igdb.com/games/baseball-stars-color"
+  },
+  {
+    "id": 43992,
+    "collection": {
+      "id": 1325,
+      "created_at": 1429895670,
+      "games": [
+        9903,
+        9942,
+        39595,
+        43992,
+        116527
+      ],
+      "name": "Baseball Stars",
+      "slug": "baseball-stars",
+      "updated_at": 1670945641,
+      "url": "https://www.igdb.com/collections/baseball-stars",
+      "checksum": "b6bb6865-263f-6c91-c782-c16975401e71"
+    },
+    "cover": {
+      "id": 51067,
+      "game": 43992,
+      "height": 198,
+      "image_id": "djlwuj6pisq8b3zx1xfp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/djlwuj6pisq8b3zx1xfp.jpg",
+      "width": 200,
+      "checksum": "1ef2cd69-79a1-81cf-03d7-af0d141af116"
+    },
+    "first_release_date": 920419200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Baseball Stars Color",
+    "slug": "baseball-stars-color",
+    "summary": "Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics",
+    "url": "https://www.igdb.com/games/baseball-stars-color"
+  },
+  {
+    "id": 43972,
+    "alternative_names": [
+      {
+        "id": 14551,
+        "name": "Wrestling Madness"
+      }
+    ],
+    "cover": {
+      "id": 43985,
+      "game": 43972,
+      "height": 280,
+      "image_id": "ck3slwciebodkc5gmpna",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ck3slwciebodkc5gmpna.jpg",
+      "width": 279,
+      "checksum": "11bb4262-57e0-7f1d-1745-070f4d85320c"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Big Bang Pro Wrestling",
+    "slug": "big-bang-pro-wrestling",
+    "summary": "Only a handful of top wrestlers can be show their face on the TV for their fans at home. In the I.E.W mat, this rule is no exception. In an event practiced for 300 years, only the best performances are in demand. This year, the great king of the I.E.W, Joseph Steel, returns to defend his throne. The story of eight top wrestlers competing for the greatest prize on the ring, the I.E.W champion belt, is about to begin...",
+    "url": "https://www.igdb.com/games/big-bang-pro-wrestling"
+  },
+  {
+    "id": 43971,
+    "alternative_names": [
+      {
+        "id": 12363,
+        "name": "ビックリマン2000 ビバ！ポケットフェスチバァ！"
+      }
+    ],
+    "collection": {
+      "id": 3759,
+      "created_at": 1507813148,
+      "games": [
+        42271,
+        43971,
+        48544,
+        49138,
+        64287,
+        135932,
+        228492
+      ],
+      "name": "Bikkuriman",
+      "slug": "bikkuriman",
+      "updated_at": 1670577234,
+      "url": "https://www.igdb.com/collections/bikkuriman",
+      "checksum": "374f66a3-c870-7d13-b78a-41eabbb0b0f1"
+    },
+    "cover": {
+      "id": 43986,
+      "game": 43971,
+      "height": 384,
+      "image_id": "v1ggrfbnujv1ff6hkkky",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/v1ggrfbnujv1ff6hkkky.jpg",
+      "width": 378,
+      "checksum": "a0ea946c-d09d-3feb-b1a6-18782cf7b21d"
+    },
+    "first_release_date": 955843200,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 94624,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises"
+        },
+        "created_at": 1584662400,
+        "developer": true,
+        "game": 43971,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1584748800,
+        "checksum": "4aca4c3b-5ba9-d750-5f77-de4b6a241f2e"
+      }
+    ],
+    "name": "Bikkuriman 2000: Viva! Pocket Festival!",
+    "screenshots": [
+      {
+        "id": 333775,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43971,
+        "height": 304,
+        "image_id": "sc75jj",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75jj.jpg",
+        "width": 320,
+        "checksum": "2886c173-9249-302f-7120-b48670e50ce7"
+      },
+      {
+        "id": 333776,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43971,
+        "height": 316,
+        "image_id": "sc75jk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75jk.jpg",
+        "width": 335,
+        "checksum": "9e174273-e6f3-12e5-e495-45828d8666a9"
+      },
+      {
+        "id": 333777,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43971,
+        "height": 145,
+        "image_id": "sc75jl",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc75jl.jpg",
+        "width": 160,
+        "checksum": "f03b8d63-0767-9cb0-b926-067183357f1f"
+      }
+    ],
+    "slug": "bikkuriman-2000-viva-pocket-festival",
+    "summary": "A tie-in game for the Bikkuriman 2000 anime in Japan. The game's Neo Geo Pocket Color version could link to Dreamcast version. This game was released only in Japan.",
+    "url": "https://www.igdb.com/games/bikkuriman-2000-viva-pocket-festival"
+  },
+  {
+    "id": 43991,
+    "alternative_names": [
+      {
+        "id": 68756,
+        "name": "Bio Motor Unitron"
+      },
+      {
+        "id": 109731,
+        "name": "バイオモーター・ユニトロン"
+      }
+    ],
+    "collection": {
+      "id": 4535,
+      "created_at": 1512821627,
+      "games": [
+        43969,
+        43991
+      ],
+      "name": "Unitron",
+      "slug": "unitron",
+      "updated_at": 1512821627,
+      "url": "https://www.igdb.com/collections/unitron",
+      "checksum": "22a73c98-614f-0c57-6c9e-eb2c3ca306ee"
+    },
+    "cover": {
+      "id": 237074,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 43991,
+      "height": 800,
+      "image_id": "co52xe",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xe.jpg",
+      "width": 600,
+      "checksum": "f554b107-8349-a4ef-48d4-347b4da5a06a"
+    },
+    "first_release_date": 924134400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69741,
+        "company": {
+          "id": 5675,
+          "name": "Yumekobo"
+        },
+        "created_at": 1536710400,
+        "developer": true,
+        "game": 43991,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1536710400,
+        "checksum": "d77565b7-d022-8fc1-1876-721dcf16b6f3"
+      },
+      {
+        "id": 69742,
+        "company": {
+          "id": 2582,
+          "name": "SNK Playmore"
+        },
+        "created_at": 1536710400,
+        "developer": false,
+        "game": 43991,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1536710400,
+        "checksum": "a91ced7f-146e-a871-3aa6-f6df2d39e8db"
+      }
+    ],
+    "name": "Biomotor Unitron",
+    "screenshots": [
+      {
+        "id": 385166,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43991,
+        "height": 600,
+        "image_id": "sc8972",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8972.jpg",
+        "width": 600,
+        "checksum": "faf7c53c-53d4-6dd7-e749-cae6551aa42e"
+      },
+      {
+        "id": 385167,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43991,
+        "height": 600,
+        "image_id": "sc8973",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8973.jpg",
+        "width": 600,
+        "checksum": "91c76db1-693d-30fe-87ca-fc2ba643fec7"
+      },
+      {
+        "id": 385168,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43991,
+        "height": 600,
+        "image_id": "sc8974",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8974.jpg",
+        "width": 600,
+        "checksum": "5d143cd5-58b3-fd98-488d-976ac97305dc"
+      },
+      {
+        "id": 385169,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43991,
+        "height": 600,
+        "image_id": "sc8975",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8975.jpg",
+        "width": 600,
+        "checksum": "0215523f-d96a-d399-7cf8-19b0977a7d9f"
+      }
+    ],
+    "slug": "biomotor-unitron",
+    "summary": "Using the ore mined from the Unitice meteor, humans have been able to develop the man-shaped robots known as UNITRONS. As a Unitron master, you control one of these mighty machines as you explore mysterious dungeons and fight for the ultimate prize in the Unitron Arena! Create - Collect - Trade! Build your own weapons for your Unitron using Arms and Material. There are over 200 possible combinations! Battles against fearsome monsters and skilled Unitron masters await you! If you can defeat them all, you too can become... The Master of Masters!",
+    "url": "https://www.igdb.com/games/biomotor-unitron"
+  },
+  {
+    "id": 43977,
+    "alternative_names": [
+      {
+        "id": 69019,
+        "name": "Puzzle Bobble Mini"
+      }
+    ],
+    "collection": {
+      "id": 712,
+      "created_at": 1391259599,
+      "games": [
+        3454,
+        4734,
+        6618,
+        6826,
+        20484,
+        21102,
+        21154,
+        22572,
+        23257,
+        28391,
+        42774,
+        43576,
+        43977,
+        44958,
+        47317,
+        47567,
+        49836,
+        50570,
+        50577,
+        64296,
+        64297,
+        64298,
+        64308,
+        67196,
+        79528,
+        84162,
+        84796,
+        146217,
+        149198,
+        152214,
+        215033
+      ],
+      "name": "Puzzle Bobble",
+      "slug": "puzzle-bobble",
+      "updated_at": 1671643233,
+      "url": "https://www.igdb.com/collections/puzzle-bobble",
+      "checksum": "65476b04-7829-6e5b-0ccf-c15b73341add"
+    },
+    "cover": {
+      "id": 237081,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 43977,
+      "height": 800,
+      "image_id": "co52xl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xl.jpg",
+      "width": 600,
+      "checksum": "e449e757-1d46-f533-0953-33b3673b4956"
+    },
+    "first_release_date": 928022400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Bust-A-Move Pocket",
+    "slug": "bust-a-move-pocket",
+    "summary": "Bust-A-Move Pocket, also called Puzzle Bobble Mini, is a Neo Geo Pocket Color version of the Bust-A-Move (Puzzle Bobble) series of puzzle games. It was released on the Neo Geo Pocket Color by Taito in 1999.\n\nThe format is similar to Bust-A-Move 2 for the PlayStation. The game's Puzzle mode includes a feature that saves initials of those who have completed the level in the fastest time. The game contains a survivor mode where the player has to burst the oncoming bubbles, making sure they don't reach the bottom line which spells the end of the game. Also present is a vs CPU mode, where the player can compete against a selection of eight characters.",
+    "url": "https://www.igdb.com/games/bust-a-move-pocket"
+  },
+  {
+    "id": 26133,
+    "collection": {
+      "id": 2535,
+      "created_at": 1480341106,
+      "games": [
+        20728,
+        26115,
+        26130,
+        26131,
+        26132,
+        26133,
+        26134,
+        26135,
+        39831
+      ],
+      "name": "Cool Boarders",
+      "slug": "cool-boarders",
+      "updated_at": 1670971676,
+      "url": "https://www.igdb.com/collections/cool-boarders",
+      "checksum": "add771d5-04be-0e86-78c4-277bbcc567c3"
+    },
+    "cover": {
+      "id": 19186,
+      "game": 26133,
+      "height": 736,
+      "image_id": "mijqltp3mct5niehuftb",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/mijqltp3mct5niehuftb.jpg",
+      "width": 640,
+      "checksum": "66fcada2-445c-c962-1c0b-1831a7ac9732"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42178,
+        "company": {
+          "id": 11630,
+          "name": "UEP Systems"
+        },
+        "created_at": 1480377600,
+        "developer": true,
+        "game": 26133,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1480377600,
+        "checksum": "39a11261-f1d8-c3e1-84d0-06e224554117"
+      },
+      {
+        "id": 42179,
+        "company": {
+          "id": 2582,
+          "name": "SNK Playmore"
+        },
+        "created_at": 1480377600,
+        "developer": false,
+        "game": 26133,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1480377600,
+        "checksum": "77b9bbc4-b1fd-5340-3dfb-4b93b6425a16"
+      }
+    ],
+    "name": "Cool Boarders Pocket",
+    "slug": "cool-boarders-pocket",
+    "summary": "Cool Boarders Pocket, is a Snowboarding video game developed by UEP Systems and published by SNK Playmore for the Neo Geo Pocket Color. \n \nCool Boarders Pocket differs to other games in the Cool Boarders series. It features an isometric (overhead) view instead of a third-person perspective. The game features two play modes a free-ride mode where the player navigates an obstacle course with no restrictions until he/she reaches the goal, and a survival mode where the player snowboards through the obstacle course until they run out of health. The game allows the player to choose one of two characters; a female or male snowboarder.",
+    "url": "https://www.igdb.com/games/cool-boarders-pocket"
+  },
+  {
+    "id": 43967,
+    "collection": {
+      "id": 4532,
+      "created_at": 1512821623,
+      "games": [
+        6728,
+        43967
+      ],
+      "name": "Cool Cool Toon",
+      "slug": "cool-cool-toon",
+      "updated_at": 1670972471,
+      "url": "https://www.igdb.com/collections/cool-cool-toon",
+      "checksum": "8663ffc5-c72f-8344-576a-da4df440d82d"
+    },
+    "cover": {
+      "id": 44097,
+      "game": 43967,
+      "height": 605,
+      "image_id": "vzsyrrqpxzshiou0efac",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vzsyrrqpxzshiou0efac.jpg",
+      "width": 600,
+      "checksum": "31984b54-ad0e-1b6b-bfec-3d2f8f790f9b"
+    },
+    "first_release_date": 965865600,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      }
+    ],
+    "name": "Cool Cool Jam",
+    "slug": "cool-cool-jam",
+    "summary": "Cool Cool Jam is comparable in gameplay to other rhythm games such as: PaRappa the Rapper, Donkey Konga or Beatmania.\n\nThe storyline involves a boy and a girl who are transported 1,000 years into the future. To return home they must form a successful and popular music band.\n\nThe game can be played by one or two players. In two player mode the game plays like a duet; the players take it in turn to play tune and receive a message after completion. The game also features a single player storymode which has adventure game elements. Various instruments can be played in the game. Each instrument has a different playing style. The instruments include:\n\nClapping to a beat - a bar moves across the screen the player taps a button when they see a red dot. If successful the dot glows.\n\nViolin - The player taps either the A or B when a red light (button A) or a green light (button B) appears. The power can be altered by moving the joystick up and down.\n\nBluesharp - The player moves the joystick to coincide with the position of the lights. The player then pushes A or B depending whether a red or green light appears.\n\nGuitar - The player pushes A or B to play the strings and the joystick controls the pick.\n\nSaxophone - The player moves the joystick and the buttons to control the pitch as the symbols appear on screen.\n\nTrumpet - The player moves the joystick in four directions to change the pitch to coincide with the coloured symbols. The player then pushes A or B when the marker appears. A bar indicates air pressure.\n\nGuitar 2 - Plays the same as the previous Guitar game only upside down.",
+    "url": "https://www.igdb.com/games/cool-cool-jam"
+  },
+  {
+    "id": 72747,
+    "cover": {
+      "id": 237076,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 72747,
+      "height": 800,
+      "image_id": "co52xg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xg.jpg",
+      "width": 600,
+      "checksum": "f1818c0d-2683-9862-f9ab-4cb228741328"
+    },
+    "first_release_date": 924134400,
+    "involved_companies": [
+      {
+        "id": 92290,
+        "company": {
+          "id": 13786,
+          "name": "ADK"
+        },
+        "created_at": 1581033600,
+        "developer": true,
+        "game": 72747,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "292ad2c3-e6ea-3a20-6dc8-fe114ca6cdb7"
+      },
+      {
+        "id": 92291,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1581033600,
+        "developer": false,
+        "game": 72747,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "6ecc7122-9f65-0ce7-02fc-38fc878502a3"
+      }
+    ],
+    "name": "Crush Roller",
+    "screenshots": [
+      {
+        "id": 355392,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 72747,
+        "height": 240,
+        "image_id": "sc7m80",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m80.jpg",
+        "width": 254,
+        "checksum": "bf72003e-0271-68d2-62ba-048163f35270"
+      },
+      {
+        "id": 355393,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 72747,
+        "height": 240,
+        "image_id": "sc7m81",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m81.jpg",
+        "width": 254,
+        "checksum": "e01c08a8-7a9f-6c80-f9cb-71685ad5b58b"
+      }
+    ],
+    "slug": "crush-roller--1",
+    "summary": "Crush Roller is a game for the Neo Geo Pocket Color based on the 1981 arcade game Make Trax, which was released as Crush Roller in Europe and Asia.\n\nThe object of the game is to color the entire maze-like playing field with a paint brush. While you paint, two enemies walk around in the maze, when they hit you, you lose a life.\n\nA level has rollers which you can push forward with your paint brush. If you capture an enemy in the path of the roller he dies and is temporarily taken out of the game. This scores you extra points. Each subsequent enemy rolled over is worth more points.\n\nEvery once in a while another creature will pop up, it will run around leaving behind track marks in your paint. Painting over this creature removes it from the game and scores you additional points. His tracks have to be repainted.\n\nWhen the entire maze is painted you win the level. Unlike the original arcade version the Neo Geo Pocket Color version has multiple levels.",
+    "url": "https://www.igdb.com/games/crush-roller--1"
+  },
+  {
+    "id": 43997,
+    "alternative_names": [
+      {
+        "id": 69506,
+        "name": "Beast Busters: Yami no Seitai Heiki"
+      }
+    ],
+    "collection": {
+      "id": 2664,
+      "created_at": 1492145134,
+      "games": [
+        11951,
+        28137,
+        43997,
+        60771
+      ],
+      "name": "Beast Busters",
+      "slug": "beast-busters",
+      "updated_at": 1671442601,
+      "url": "https://www.igdb.com/collections/beast-busters",
+      "checksum": "92c982f1-7960-13ba-887e-63e8855e99ba"
+    },
+    "cover": {
+      "id": 237077,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 43997,
+      "height": 800,
+      "image_id": "co52xh",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xh.jpg",
+      "width": 600,
+      "checksum": "cdb80b4b-27a6-863e-cb68-97dac7965e60"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 92292,
+        "company": {
+          "id": 2231,
+          "name": "Noise Factory"
+        },
+        "created_at": 1581033600,
+        "developer": true,
+        "game": 43997,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "df7e5c7a-24d3-44c8-5945-1dee2f5fbf31"
+      },
+      {
+        "id": 92293,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1581033600,
+        "developer": false,
+        "game": 43997,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "143a6448-74db-6225-905e-5fe7587c4539"
+      }
+    ],
+    "name": "Dark Arms: Beast Buster 1999",
+    "screenshots": [
+      {
+        "id": 355394,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43997,
+        "height": 240,
+        "image_id": "sc7m82",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m82.jpg",
+        "width": 254,
+        "checksum": "820ed147-d0bc-600a-9560-6bcc2dafdaa9"
+      },
+      {
+        "id": 355395,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43997,
+        "height": 240,
+        "image_id": "sc7m83",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m83.jpg",
+        "width": 254,
+        "checksum": "95896d43-3a62-2573-eefd-25f82b95eea5"
+      },
+      {
+        "id": 355396,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43997,
+        "height": 152,
+        "image_id": "sc7m84",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m84.jpg",
+        "width": 160,
+        "checksum": "e9b83684-675e-c582-a1b5-ffdc44d87e4e"
+      }
+    ],
+    "slug": "dark-arms-beast-buster-1999",
+    "summary": "\"I crave power. Power that only the darkest evil can imagine.\" Enter the sinister underworld of the Dark Realm! Battle creatures of darkness in your quest for the ultimate bio-weapon. Only then will you be able to conquer the evil and grisly world. Collect multiple weapons to defeat the hideous creatures. Four main areas to explore and complete. Will you be the one to conquer this action/adventure thriller?",
+    "url": "https://www.igdb.com/games/dark-arms-beast-buster-1999"
+  },
+  {
+    "id": 43978,
+    "cover": {
+      "id": 44113,
+      "game": 43978,
+      "height": 600,
+      "image_id": "ddqkrlzz1lrkvdtl0zuv",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ddqkrlzz1lrkvdtl0zuv.jpg",
+      "width": 600,
+      "checksum": "4104bea1-0c6a-8fd7-75ba-d83f2edf066b"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Delta Warp",
+    "slug": "delta-warp",
+    "summary": "Delta Warp is a Miscellaneous game, published by Iosys, which was released in Japan in 2000.",
+    "url": "https://www.igdb.com/games/delta-warp"
+  },
+  {
+    "id": 145766,
+    "alternative_names": [
+      {
+        "id": 59079,
+        "name": "Go by Train! 2: High Speed Volume"
+      },
+      {
+        "id": 59080,
+        "name": "Densha De Go! 2 Kousokuhen"
+      },
+      {
+        "id": 59081,
+        "name": "電車でGO!2 高速編"
+      },
+      {
+        "id": 59082,
+        "name": "Densha de Go! 2 Kousoku-hen"
+      },
+      {
+        "id": 59083,
+        "name": "Let's Go by (electric) Train! High-Speed Volume"
+      }
+    ],
+    "collection": {
+      "id": 3406,
+      "created_at": 1507570242,
+      "games": [
+        3469,
+        37286,
+        38455,
+        43850,
+        63703,
+        63706,
+        63708,
+        63754,
+        66660,
+        72000,
+        77793,
+        78575,
+        78576,
+        79442,
+        80270,
+        92251,
+        94351,
+        139066,
+        143247,
+        145766,
+        146532,
+        146542,
+        146557,
+        146558,
+        146559,
+        146560,
+        146596,
+        146597,
+        146600,
+        146602,
+        146907
+      ],
+      "name": "Densha de Go!",
+      "slug": "densha-de-go",
+      "updated_at": 1671994940,
+      "url": "https://www.igdb.com/collections/densha-de-go",
+      "checksum": "9d93e432-5454-e434-c9dc-26873c1c69f4"
+    },
+    "cover": {
+      "id": 212130,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 145766,
+      "height": 1067,
+      "image_id": "co4joi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4joi.jpg",
+      "width": 800,
+      "checksum": "a3b955ab-87ee-f9d9-e335-f98ffd3222b7"
+    },
+    "first_release_date": 939254400,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 124195,
+        "company": {
+          "id": 31702,
+          "name": "Taito GM R&D Sect. #2"
+        },
+        "created_at": 1618375030,
+        "developer": true,
+        "game": 145766,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1618380064,
+        "checksum": "3ad7110d-098d-d50f-1f3f-f5e6cb105007"
+      },
+      {
+        "id": 124196,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1618375030,
+        "developer": false,
+        "game": 145766,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1618380065,
+        "checksum": "b4cc1a02-fe63-2dad-5e49-ace2f927cbfe"
+      },
+      {
+        "id": 124197,
+        "company": {
+          "id": 74,
+          "name": "CyberFront"
+        },
+        "created_at": 1618375030,
+        "developer": false,
+        "game": 145766,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1618380065,
+        "checksum": "45525560-3d30-e684-2f6a-53eb4836a4ab"
+      }
+    ],
+    "name": "Densha de GO! 2",
+    "screenshots": [
+      {
+        "id": 431725,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994d",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994d.jpg",
+        "width": 160,
+        "checksum": "e91e689d-c0b7-8e76-039d-fd56eafda48c"
+      },
+      {
+        "id": 431726,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994e",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994e.jpg",
+        "width": 160,
+        "checksum": "d98d9d61-bb61-4d6c-2452-121b35245055"
+      },
+      {
+        "id": 431727,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994f",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994f.jpg",
+        "width": 160,
+        "checksum": "6a9cebe0-9ca7-3365-09bb-2b046cdd5edd"
+      },
+      {
+        "id": 431728,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994g",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994g.jpg",
+        "width": 160,
+        "checksum": "a923f5bb-83ac-073c-654d-59c6f8b050b7"
+      },
+      {
+        "id": 431729,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994h.jpg",
+        "width": 160,
+        "checksum": "8b86eb18-676e-144b-8662-50ede4a25582"
+      },
+      {
+        "id": 431730,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 152,
+        "image_id": "sc994i",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994i.jpg",
+        "width": 160,
+        "checksum": "85065df1-b45c-8480-9e8d-f0273272bbf1"
+      },
+      {
+        "id": 431731,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 152,
+        "image_id": "sc994j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994j.jpg",
+        "width": 160,
+        "checksum": "669d4548-eb52-46c7-dc8c-bf4799041ed5"
+      },
+      {
+        "id": 431732,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 152,
+        "image_id": "sc994k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994k.jpg",
+        "width": 160,
+        "checksum": "a081649d-be14-3668-e345-47403a5f5fba"
+      },
+      {
+        "id": 431733,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994l.jpg",
+        "width": 224,
+        "checksum": "2f7e002d-ba7a-edad-8778-e7b375d3c989"
+      },
+      {
+        "id": 431734,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994m.jpg",
+        "width": 224,
+        "checksum": "d4afb4e2-4a72-f21a-e448-2ad1c71d4e9f"
+      },
+      {
+        "id": 431735,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994n.jpg",
+        "width": 224,
+        "checksum": "24bf70e0-20e2-9ce3-9c76-2edb891f8765"
+      },
+      {
+        "id": 431736,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 145766,
+        "height": 144,
+        "image_id": "sc994o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc994o.jpg",
+        "width": 224,
+        "checksum": "4b1b50b0-bede-fae4-62ed-438910b438b6"
+      }
+    ],
+    "slug": "densha-de-go-2--1",
+    "summary": "Densha de Go! 2 Kousoku-hen is a train driving simulation game. It was released in the arcades in Japan in 1998. It was ported to PlayStation, Nintendo 64, WonderSwan, Neo Geo Pocket Color, Windows, Dreamcast, and Game Boy Color.\n\nThe arcade version was also ported to Neo Geo Pocket. The PS1 version was also ported to WonderSwan and Game Boy Color.",
+    "url": "https://www.igdb.com/games/densha-de-go-2--1",
+    "videos": [
+      {
+        "id": 47866,
+        "game": 145766,
+        "name": "Trailer",
+        "video_id": "Fn_jfXrqJ4Q",
+        "checksum": "fde5332b-e8c9-9faf-f240-51c969168e8a"
+      },
+      {
+        "id": 47867,
+        "game": 145766,
+        "name": "Gameplay Video",
+        "video_id": "QGxguaoigkY",
+        "checksum": "0db12a85-e355-c353-203c-3e57576baf06"
+      }
+    ]
+  },
+  {
+    "id": 69075,
+    "cover": {
+      "id": 44114,
+      "game": 69075,
+      "height": 597,
+      "image_id": "rnwymbvgzicpharxbaiz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/rnwymbvgzicpharxbaiz.jpg",
+      "width": 600,
+      "checksum": "c4c15734-6e72-1192-bce5-7a63f5440ebc"
+    },
+    "first_release_date": 915148800,
+    "name": "Dive Alert: Becky's Version",
+    "slug": "dive-alert-beckys-version",
+    "url": "https://www.igdb.com/games/dive-alert-beckys-version"
+  },
+  {
+    "id": 69072,
+    "cover": {
+      "id": 91376,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 69072,
+      "height": 736,
+      "image_id": "co1yi8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yi8.jpg",
+      "width": 640,
+      "checksum": "afeb6353-1794-05a3-e60a-39c3bf0a41e1"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 92294,
+        "company": {
+          "id": 6220,
+          "name": "Sacnoth"
+        },
+        "created_at": 1581033600,
+        "developer": true,
+        "game": 69072,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "aaa5cb24-a30f-9887-55fd-b43b9a2d54c1"
+      },
+      {
+        "id": 92295,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1581033600,
+        "developer": false,
+        "game": 69072,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "077c8747-c0ca-dcc0-5da3-fcf197878e64"
+      }
+    ],
+    "name": "Dive Alert: Matt's Version",
+    "screenshots": [
+      {
+        "id": 355402,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 69072,
+        "height": 240,
+        "image_id": "sc7m8a",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8a.jpg",
+        "width": 254,
+        "checksum": "3ea06fe8-b647-18ab-7407-caaa12253063"
+      },
+      {
+        "id": 355403,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 69072,
+        "height": 240,
+        "image_id": "sc7m8b",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8b.jpg",
+        "width": 254,
+        "checksum": "4cb07b87-4cb1-9040-95b9-b179256b961a"
+      }
+    ],
+    "slug": "dive-alert-matts-version",
+    "summary": "Dive Alert: Matt's Version is a Role-Playing game, developed by Sacnoth and published by SNK, which was released in Japan in 1999. There is another version of Dive Alert called Dive Alert: Becky's Version with a different character and storyline. \n \nMatt's version features different characters, items and boats to Becky's version. These are logged in a device similar to a Pokédex. The battles take place against other ships. A radar view is used to help players guide torpedoes against the enemy. A large part of the game is text based with animated cutscenes. Two players can link-up with the cable to battle, exchange ships and accumulate other data.",
+    "url": "https://www.igdb.com/games/dive-alert-matts-version"
+  },
+  {
+    "id": 43999,
+    "cover": {
+      "id": 44120,
+      "game": 43999,
+      "height": 600,
+      "image_id": "x6gl9rnnhq4lkzhrgkjm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/x6gl9rnnhq4lkzhrgkjm.jpg",
+      "width": 600,
+      "checksum": "45eb9fc5-946a-19c2-92b0-d995885178db"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Dynamite Slugger",
+    "slug": "dynamite-slugger",
+    "summary": "Dynamite Slugger is a video game. It was released in 2000 for the Neo Geo Pocket Color handheld game console. The game is similar to other Baseball videogames on the Neo Geo Pocket Color such as Baseball Stars and Baseball Stars Color. Due to Dynamite Slugger being the latest baseball videogame to be released for the Neo Geo Pocket Color it features better graphics than other sports titles.",
+    "url": "https://www.igdb.com/games/dynamite-slugger"
+  },
+  {
+    "id": 43990,
+    "cover": {
+      "id": 91377,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43990,
+      "height": 736,
+      "image_id": "co1yi9",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yi9.jpg",
+      "width": 640,
+      "checksum": "1e30bfe7-9412-92a0-4bbc-b2f3a6009811"
+    },
+    "first_release_date": 950140800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 92296,
+        "company": {
+          "id": 15842,
+          "name": "Sting"
+        },
+        "created_at": 1581033600,
+        "developer": true,
+        "game": 43990,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "33c71820-50b9-118b-8b36-77954903e7f1"
+      },
+      {
+        "id": 92297,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1581033600,
+        "developer": false,
+        "game": 43990,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1581033600,
+        "checksum": "28151738-5d0e-5851-724b-c073575a2ffa"
+      }
+    ],
+    "name": "Evolution: Eternal Dungeons",
+    "screenshots": [
+      {
+        "id": 355399,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43990,
+        "height": 240,
+        "image_id": "sc7m87",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m87.jpg",
+        "width": 254,
+        "checksum": "b19a528e-d39a-c643-dc4c-1f001c098f4c"
+      },
+      {
+        "id": 355400,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43990,
+        "height": 240,
+        "image_id": "sc7m88",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m88.jpg",
+        "width": 254,
+        "checksum": "eca2c914-bf47-242d-bffe-b245da4ff475"
+      },
+      {
+        "id": 355401,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43990,
+        "height": 240,
+        "image_id": "sc7m89",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m89.jpg",
+        "width": 254,
+        "checksum": "9d869ec0-2ad6-b9a4-30da-400f0bffbfed"
+      }
+    ],
+    "slug": "evolution-eternal-dungeons",
+    "summary": "Evolution: Eternal Dungeons is a conventional turn-based role-playing video game for the Neo Geo Pocket Color. It was released in Japan and the United Kingdom in 2000. Probably due to the large amount of text, separate cartridges were produced for the different regions it was released in, rather than allowing the player to choose the game language on the same cartridge. While the Japanese version is somewhat common, the English version is not.\n\nThis game is essentially a port of its three dimensional counterpart for the Dreamcast. To accommodate downscaling for the Neo Geo handheld, the 3D graphics of the original were replaced with top-down two-dimensional maps and 2-D sprites.\n\nBoth the Japanese and UK version of the game were released in hard plastic boxes rather than soft cardstock.\n\nThe English translation has frequent grammar and spelling errors.",
+    "url": "https://www.igdb.com/games/evolution-eternal-dungeons"
+  },
+  {
+    "id": 39488,
+    "alternative_names": [
+      {
+        "id": 54055,
+        "name": "Fantastic Night Dreams: Cotton"
+      },
+      {
+        "id": 54056,
+        "name": "Cotton Original"
+      }
+    ],
+    "collection": {
+      "id": 4894,
+      "created_at": 1512904069,
+      "games": [
+        38359,
+        39488,
+        39489,
+        43285,
+        45715,
+        46368,
+        71495,
+        73768,
+        153647,
+        182014,
+        182015
+      ],
+      "name": "Cotton",
+      "slug": "cotton",
+      "updated_at": 1671447537,
+      "url": "https://www.igdb.com/collections/cotton",
+      "checksum": "c7dd14f7-2b0a-8990-f8a5-db39aa7b7db0"
+    },
+    "cover": {
+      "id": 237075,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 39488,
+      "height": 800,
+      "image_id": "co52xf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xf.jpg",
+      "width": 600,
+      "checksum": "b2ce40db-6001-1a25-7e36-ced540628dbc"
+    },
+    "first_release_date": 667785600,
+    "involved_companies": [
+      {
+        "id": 152759,
+        "company": {
+          "id": 313,
+          "name": "Success Corporation"
+        },
+        "created_at": 1633940421,
+        "developer": true,
+        "game": 39488,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "b14cea08-83b2-5404-ccb0-3ce209c354d7"
+      },
+      {
+        "id": 152760,
+        "company": {
+          "id": 1801,
+          "name": "Turbo Technologies"
+        },
+        "created_at": 1633940422,
+        "developer": false,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "b9f989dd-d7c3-68fe-b708-4da738a508b1"
+      },
+      {
+        "id": 152761,
+        "company": {
+          "id": 864,
+          "name": "Hudson Soft"
+        },
+        "created_at": 1633940422,
+        "developer": false,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "5f9bf8ac-b3fa-0643-4ff4-134cf74cc477"
+      },
+      {
+        "id": 152763,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1633940422,
+        "developer": false,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "3a598bf0-fed7-f3d7-1e08-89c576de84ed"
+      },
+      {
+        "id": 152764,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "created_at": 1633940422,
+        "developer": false,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "d7ea20ae-f9c3-c552-35b2-92ae9b44211d"
+      },
+      {
+        "id": 152765,
+        "company": {
+          "id": 200,
+          "name": "Electronic Arts Victor"
+        },
+        "created_at": 1633940422,
+        "developer": false,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633945475,
+        "checksum": "8cd14a38-2411-97f0-0e2f-38fa8360d288"
+      },
+      {
+        "id": 152773,
+        "company": {
+          "id": 313,
+          "name": "Success Corporation"
+        },
+        "created_at": 1633946787,
+        "developer": true,
+        "game": 39488,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633953662,
+        "checksum": "f6662af9-a09b-7fc8-1ad5-f94e906442d2"
+      }
+    ],
+    "name": "Cotton: Fantastic Night Dreams",
+    "screenshots": [
+      {
+        "id": 661657,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39488,
+        "height": 448,
+        "image_id": "sce6jd",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce6jd.jpg",
+        "width": 640,
+        "checksum": "cbe108a6-0c28-3d58-8e25-1eab70ae7969"
+      },
+      {
+        "id": 661658,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39488,
+        "height": 448,
+        "image_id": "sce6je",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce6je.jpg",
+        "width": 512,
+        "checksum": "d146343d-1eb5-dc3b-b279-44a17a834fe4"
+      },
+      {
+        "id": 661659,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39488,
+        "height": 240,
+        "image_id": "sce6jf",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce6jf.jpg",
+        "width": 320,
+        "checksum": "315c1507-fe81-f094-6734-ae385d283ee9"
+      },
+      {
+        "id": 661660,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 39488,
+        "height": 448,
+        "image_id": "sce6jg",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce6jg.jpg",
+        "width": 640,
+        "checksum": "4c66862a-b586-866c-93cb-336f17d6786b"
+      }
+    ],
+    "slug": "cotton-fantastic-night-dreams",
+    "summary": "Cotton: Fantastic Night Dreams is a scrolling shooter arcade game, released on Sega's Sega System 16B Arcade system board in 1989. It is the first in the Cotton series of videogames. It was ported to both the Sharp X68000 and the NEC TurboGrafx-CD in 1993. The TurboGrafx-CD version was released on Super CD-ROM and features an enhanced redbook audio soundtrack and voice acting on the Japanese release. The game was later ported to Sony PlayStation under the title Cotton Original in 1999. The PlayStation release combines the enhanced digital CD-ROM soundtrack of TurboGrafx-CD release and the gameplay/graphics of the original Arcade version. A version was ported to the Neo Geo Pocket Color in 2000. Due to hardware limitations the Neo Geo Pocket Color features less detailed graphics and sound compared to previous versions, however it is still a faithful version of the original in terms of gameplay.",
+    "url": "https://www.igdb.com/games/cotton-fantastic-night-dreams"
+  },
+  {
+    "id": 28401,
+    "cover": {
+      "id": 237078,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 28401,
+      "height": 800,
+      "image_id": "co52xi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xi.jpg",
+      "width": 600,
+      "checksum": "8f961d15-41e8-addb-072c-cf0eefb23181"
+    },
+    "first_release_date": 946425600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 46397,
+        "company": {
+          "id": 6220,
+          "name": "Sacnoth"
+        },
+        "created_at": 1493683200,
+        "developer": true,
+        "game": 28401,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1493683200,
+        "checksum": "a01aee2e-63db-c48e-d5ca-ab4c52218ef5"
+      },
+      {
+        "id": 46398,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1493683200,
+        "developer": false,
+        "game": 28401,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1493683200,
+        "checksum": "18ad4887-a7b2-d2b5-32b7-0dc72fa6751b"
+      }
+    ],
+    "name": "Faselei!",
+    "screenshots": [
+      {
+        "id": 355413,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28401,
+        "height": 240,
+        "image_id": "sc7m8l",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8l.jpg",
+        "width": 254,
+        "checksum": "0d7b136f-5950-1df8-e748-02e55555598f"
+      },
+      {
+        "id": 355414,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28401,
+        "height": 456,
+        "image_id": "sc7m8m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8m.jpg",
+        "width": 480,
+        "checksum": "2636afdb-e5f6-0923-cb97-425645fa257f"
+      },
+      {
+        "id": 355415,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28401,
+        "height": 240,
+        "image_id": "sc7m8n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8n.jpg",
+        "width": 254,
+        "checksum": "aad9edf7-1c45-2128-0d77-e269299081f7"
+      }
+    ],
+    "slug": "faselei",
+    "summary": "Faselei! is a Strategy game, developed by Sacnoth and published by SNK, which was released in Japan in 1999.\n\nFaselei! is one of the last titles to be released for the Neo Geo Pocket Color and even features digitised lyrics to the game's main theme. Heavily story driven, this strategy RPG takes place in a time when mechs known as TS are the weapon of choice for combat. Gameplay revolves around the battles and customising your TS between those battles.\n\nBattles are part turn based and part real-time. The player inputs their actions at the beginning of the turn. The amount of actions they can input is dependant on their type of TS. Once they have finished their selection everything is played out in real-time for the duration of the turn. This makes thinking about what your opponents and allies will do in advance essential before taking your turn.",
+    "url": "https://www.igdb.com/games/faselei"
+  },
+  {
+    "id": 44000,
+    "alternative_names": [
+      {
+        "id": 79641,
+        "name": "餓狼伝説 FIRST CONTACT"
+      },
+      {
+        "id": 79642,
+        "name": "Fatal Fury: 1st Contact"
+      }
+    ],
+    "collection": {
+      "id": 791,
+      "created_at": 1392197095,
+      "games": [
+        4435,
+        5385,
+        6690,
+        10605,
+        21232,
+        28138,
+        39520,
+        44000,
+        46787,
+        49113,
+        61487,
+        64792,
+        70941,
+        71128,
+        140091
+      ],
+      "name": "Fatal Fury",
+      "slug": "fatal-fury",
+      "updated_at": 1671998558,
+      "url": "https://www.igdb.com/collections/fatal-fury",
+      "checksum": "775e7ce3-b133-1fb8-14d4-7d957b503478"
+    },
+    "cover": {
+      "id": 200086,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 44000,
+      "height": 831,
+      "image_id": "co4ady",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ady.jpg",
+      "width": 623,
+      "checksum": "fe0c9923-b522-ba94-4867-88d503959077"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 71594,
+        "company": {
+          "id": 10098,
+          "name": "SNK of America"
+        },
+        "created_at": 1542240000,
+        "developer": false,
+        "game": 44000,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1542326400,
+        "checksum": "28fbe27c-4a55-4418-1f0c-027fe0e5f4e2"
+      }
+    ],
+    "name": "Fatal Fury: First Contact",
+    "slug": "fatal-fury-first-contact",
+    "summary": "Can you survice this explosive battle?! Build Power Gauge Levels and Unleash Super Powerful Attacks!",
+    "url": "https://www.igdb.com/games/fatal-fury-first-contact"
+  },
+  {
+    "id": 43970,
+    "alternative_names": [
+      {
+        "id": 51639,
+        "name": "ガンバレねおぽけくん"
+      }
+    ],
+    "cover": {
+      "id": 44140,
+      "game": 43970,
+      "height": 598,
+      "image_id": "pcjaqdpsxps5ndbnzvaq",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/pcjaqdpsxps5ndbnzvaq.jpg",
+      "width": 600,
+      "checksum": "3fb8249b-34df-8bce-1a7f-793a7398a064"
+    },
+    "first_release_date": 960422400,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Ganbare Neo Poke-Kun",
+    "slug": "ganbare-neo-poke-kun",
+    "summary": "Ganbare Neo Poke-Kun (ガンバレねおぽけくん) is a simulation game developed Neo Geo Pocket Color released in Japan on June 6, 2000. So far, the game remains exclusive to Japan. It drew direct inspiration from the majority of video game history.",
+    "url": "https://www.igdb.com/games/ganbare-neo-poke-kun"
+  },
+  {
+    "id": 43965,
+    "collection": {
+      "id": 4335,
+      "created_at": 1512721872,
+      "games": [
+        13729,
+        43965,
+        221220
+      ],
+      "name": "Infinity series",
+      "slug": "infinity-series",
+      "updated_at": 1670942105,
+      "url": "https://www.igdb.com/collections/infinity-series",
+      "checksum": "94273c0a-7f68-0c77-d379-d0804ab53569"
+    },
+    "cover": {
+      "id": 44146,
+      "game": 43965,
+      "height": 602,
+      "image_id": "klimgbqmr4qh0xpcnpzf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/klimgbqmr4qh0xpcnpzf.jpg",
+      "width": 600,
+      "checksum": "e14cdf46-7ac2-a093-6123-10fcb28454e0"
+    },
+    "first_release_date": 974937600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Infinity Cure",
+    "slug": "infinity-cure",
+    "summary": "Never 7 takes place in the week of April 1–7, 2019. Makoto Ishihara, the protagonist, is a college student and truant who rarely attends his classes. As a result, he is forced to attend a seminar camp being held on a remote island in order to be allowed to pass to his next grade. Three other students are at the camp: Yuka Kawashima, the leader of the group; Haruka Higuchi, a quiet girl who is an ace student; and Okuhiko Iida, a wealthy playboy who is the heir of the Iida Financial Group. Makoto also meets three girls unrelated to the seminar camp: a wealthy girl named Saki Asakura; and the sisters Kurumi and Izumi Morino, who are temporarily running the café Lunabeach on the island. The seven find they cannot leave the island due to a tropical cyclone that makes the boats unable to leave for a whole week, and become friends during the week.",
+    "url": "https://www.igdb.com/games/infinity-cure"
+  },
+  {
+    "id": 47602,
+    "collection": {
+      "id": 854,
+      "created_at": 1396594757,
+      "games": [
+        4361,
+        5884,
+        5896,
+        5897,
+        7036,
+        7038,
+        12588,
+        15426,
+        15427,
+        15428,
+        15429,
+        15430,
+        15431,
+        15432,
+        15433,
+        15434,
+        18814,
+        22679,
+        22952,
+        23799,
+        26802,
+        43348,
+        43643,
+        43841,
+        43988,
+        45861,
+        47602,
+        49169,
+        49170,
+        61195,
+        63832,
+        70518,
+        76968,
+        78379,
+        79083,
+        80562,
+        80566,
+        80567,
+        80568,
+        80866,
+        83931,
+        113104,
+        119415,
+        171281,
+        172556,
+        185982,
+        225887
+      ],
+      "name": "The King of Fighters",
+      "slug": "the-king-of-fighters",
+      "updated_at": 1672059532,
+      "url": "https://www.igdb.com/collections/the-king-of-fighters",
+      "checksum": "55ef580a-9e77-f51a-0907-697306c8ad70"
+    },
+    "cover": {
+      "id": 275917,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 47602,
+      "height": 800,
+      "image_id": "co5wwd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wwd.jpg",
+      "width": 600,
+      "checksum": "82e46789-f997-f75c-36b1-67c5656b744e"
+    },
+    "first_release_date": 883612800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57217,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47602,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "0ae48db1-156a-d838-308c-475fd5a918c7"
+      }
+    ],
+    "name": "King of Fighters R-1",
+    "slug": "king-of-fighters-r-1",
+    "summary": "The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from \"Extra\" & \"Advance\" play modes similar to KOF '97, and most characters play closely to their original versions.",
+    "url": "https://www.igdb.com/games/king-of-fighters-r-1"
+  },
+  {
+    "id": 43988,
+    "collection": {
+      "id": 854,
+      "created_at": 1396594757,
+      "games": [
+        4361,
+        5884,
+        5896,
+        5897,
+        7036,
+        7038,
+        12588,
+        15426,
+        15427,
+        15428,
+        15429,
+        15430,
+        15431,
+        15432,
+        15433,
+        15434,
+        18814,
+        22679,
+        22952,
+        23799,
+        26802,
+        43348,
+        43643,
+        43841,
+        43988,
+        45861,
+        47602,
+        49169,
+        49170,
+        61195,
+        63832,
+        70518,
+        76968,
+        78379,
+        79083,
+        80562,
+        80566,
+        80567,
+        80568,
+        80866,
+        83931,
+        113104,
+        119415,
+        171281,
+        172556,
+        185982,
+        225887
+      ],
+      "name": "The King of Fighters",
+      "slug": "the-king-of-fighters",
+      "updated_at": 1672059532,
+      "url": "https://www.igdb.com/collections/the-king-of-fighters",
+      "checksum": "55ef580a-9e77-f51a-0907-697306c8ad70"
+    },
+    "cover": {
+      "id": 200331,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43988,
+      "height": 1000,
+      "image_id": "co4akr",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4akr.jpg",
+      "width": 750,
+      "checksum": "9e5a6180-22de-63f7-bc6f-ce53c201e7fc"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "King of Fighters R-2",
+    "screenshots": [
+      {
+        "id": 444923,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43988,
+        "height": 720,
+        "image_id": "sc9jaz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9jaz.jpg",
+        "width": 1280,
+        "checksum": "fd162381-41a6-8083-e6b5-da1e9ec786ad"
+      },
+      {
+        "id": 444924,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43988,
+        "height": 720,
+        "image_id": "sc9jb0",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9jb0.jpg",
+        "width": 1280,
+        "checksum": "c4a50f72-c016-22fe-4a11-118d34a4d25c"
+      },
+      {
+        "id": 444925,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43988,
+        "height": 720,
+        "image_id": "sc9jb1",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9jb1.jpg",
+        "width": 1280,
+        "checksum": "857c3d28-3c4e-1b5a-0b72-153fcfa8e713"
+      },
+      {
+        "id": 444926,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43988,
+        "height": 720,
+        "image_id": "sc9jb2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9jb2.jpg",
+        "width": 1280,
+        "checksum": "9daf8fda-a405-2fb4-02e4-5d90de7fbdcb"
+      },
+      {
+        "id": 444927,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43988,
+        "height": 720,
+        "image_id": "sc9jb3",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9jb3.jpg",
+        "width": 1280,
+        "checksum": "f58997aa-58fb-909e-1b11-4935456a07de"
+      }
+    ],
+    "slug": "king-of-fighters-r-2",
+    "summary": "Mix it up in COLOR with King Of Fighters R-2 now on NEOGEO Pocket Color! Get SKILLS in the MAKING Mode and create your very own custom-made character! You can also play two-player VS. MODE battles and trade SKILLS using the NEOGEO Pocket Link Cable! 14 characters to choose from including 2 new characters make King Of Fighters R-2 H-O-T!",
+    "url": "https://www.igdb.com/games/king-of-fighters-r-2"
+  },
+  {
+    "id": 75475,
+    "cover": {
+      "id": 275892,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 75475,
+      "height": 800,
+      "image_id": "co5wvo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wvo.jpg",
+      "width": 600,
+      "checksum": "e53ae51f-00a2-f0d3-2489-43ce998385a8"
+    },
+    "first_release_date": 946684800,
+    "involved_companies": [
+      {
+        "id": 57216,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75475,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "ee6e0613-2ec0-bce1-6bdc-375efb148edf"
+      }
+    ],
+    "name": "King of Fighters: Battle de Paradise",
+    "slug": "king-of-fighters-battle-de-paradise",
+    "url": "https://www.igdb.com/games/king-of-fighters-battle-de-paradise"
+  },
+  {
+    "id": 43964,
+    "cover": {
+      "id": 44157,
+      "game": 43964,
+      "height": 1056,
+      "image_id": "boogt4dolvnzx9ymu1bn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/boogt4dolvnzx9ymu1bn.jpg",
+      "width": 1013,
+      "checksum": "75a940d6-5085-7445-fd5f-7e976de45a82"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57221,
+        "company": {
+          "id": 13340,
+          "name": "Visco Corporation"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43964,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "d051dbe1-cf6f-de71-6f1a-2b82b05eeb11"
+      }
+    ],
+    "name": "Koi Koi Mahjong",
+    "slug": "koi-koi-mahjong",
+    "summary": "Koi Koi Mahjong is a Miscellaneous game, developed and published by Visco, which was released in Japan in 2000",
+    "url": "https://www.igdb.com/games/koi-koi-mahjong"
+  },
+  {
+    "id": 43987,
+    "alternative_names": [
+      {
+        "id": 119229,
+        "name": "幕末浪漫特別編 月華の剣士 ～月に咲く華、散りゆく花～"
+      },
+      {
+        "id": 119230,
+        "name": "Bakumatsu Rōman Tokubetsu: Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana"
+      },
+      {
+        "id": 119231,
+        "name": "Romance of the Bakumatsu Special: Swordsman of the Moonlight - On the Moon a Flower Blooming, a Petal Falling"
+      }
+    ],
+    "collection": {
+      "id": 4294,
+      "created_at": 1512720829,
+      "games": [
+        39539,
+        43987
+      ],
+      "name": "The Last Blade",
+      "slug": "the-last-blade",
+      "updated_at": 1672266116,
+      "url": "https://www.igdb.com/collections/the-last-blade",
+      "checksum": "61dc6fa0-0bcf-c5ce-84a9-303cb07125d6"
+    },
+    "cover": {
+      "id": 200018,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43987,
+      "height": 1022,
+      "image_id": "co4ac2",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ac2.jpg",
+      "width": 783,
+      "checksum": "7cf8ac0b-0ff1-4d1a-3428-b5a01b4d686f"
+    },
+    "first_release_date": 852422400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 197812,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1672258785,
+        "developer": true,
+        "game": 43987,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1672266116,
+        "checksum": "ff9b166b-00e7-9ff2-1d08-82d0f14a07c1"
+      }
+    ],
+    "name": "The Last Blade: Beyond The Destiny",
+    "screenshots": [
+      {
+        "id": 449872,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43987,
+        "height": 720,
+        "image_id": "sc9n4g",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9n4g.jpg",
+        "width": 1280,
+        "checksum": "bccb502c-b976-0f72-230f-b00fbeba6ee3"
+      },
+      {
+        "id": 449873,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43987,
+        "height": 720,
+        "image_id": "sc9n4h",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9n4h.jpg",
+        "width": 1280,
+        "checksum": "ba86cd3e-c328-abe5-650e-3478b18a1143"
+      },
+      {
+        "id": 449874,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43987,
+        "height": 720,
+        "image_id": "sc9n4i",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9n4i.jpg",
+        "width": 1280,
+        "checksum": "7950b7fd-e80d-6140-fd84-556538b03f41"
+      },
+      {
+        "id": 449875,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43987,
+        "height": 720,
+        "image_id": "sc9n4j",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9n4j.jpg",
+        "width": 1280,
+        "checksum": "d577526d-09e1-b1b1-c72d-311e8beeec65"
+      },
+      {
+        "id": 449876,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43987,
+        "height": 720,
+        "image_id": "sc9n4k",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9n4k.jpg",
+        "width": 1280,
+        "checksum": "5cd57a5b-987d-6ca9-e3fe-5d661d3888f6"
+      }
+    ],
+    "slug": "the-last-blade-beyond-the-destiny",
+    "summary": "1863. History's hidden secret is revealed. During the age known as \"Bakumatsu\", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!",
+    "url": "https://www.igdb.com/games/the-last-blade-beyond-the-destiny"
+  },
+  {
+    "id": 43993,
+    "alternative_names": [
+      {
+        "id": 73808,
+        "name": "マジカルドロップポケット"
+      }
+    ],
+    "collection": {
+      "id": 4092,
+      "created_at": 1507932918,
+      "games": [
+        13475,
+        15279,
+        37573,
+        39347,
+        39348,
+        43993,
+        44790,
+        45319,
+        67846,
+        71552,
+        166078,
+        170675,
+        170676,
+        170790,
+        171095,
+        171096,
+        221060
+      ],
+      "name": "Magical Drop",
+      "slug": "magical-drop",
+      "updated_at": 1672224676,
+      "url": "https://www.igdb.com/collections/magical-drop",
+      "checksum": "948746b7-9c9f-6ea6-ad5e-e18d0cebacf4"
+    },
+    "cover": {
+      "id": 237079,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 43993,
+      "height": 800,
+      "image_id": "co52xj",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xj.jpg",
+      "width": 600,
+      "checksum": "05008974-72ed-3756-21ec-609e6a8db105"
+    },
+    "first_release_date": 932774400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 149130,
+        "company": {
+          "id": 22162,
+          "name": "SAS Sakata"
+        },
+        "created_at": 1631834147,
+        "developer": false,
+        "game": 43993,
+        "porting": true,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1631847442,
+        "checksum": "d273fbf1-8d1d-48fd-797a-1a5cca13bc2d"
+      },
+      {
+        "id": 149131,
+        "company": {
+          "id": 2678,
+          "name": "Data East"
+        },
+        "created_at": 1631834148,
+        "developer": true,
+        "game": 43993,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1631847442,
+        "checksum": "bbbde77f-c753-3b8d-bf90-8aaf3e0fd1fb"
+      },
+      {
+        "id": 149132,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1631834148,
+        "developer": false,
+        "game": 43993,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1631847442,
+        "checksum": "401f3478-ad4c-05b2-c66b-6261c3ab6846"
+      }
+    ],
+    "name": "Magical Drop Pocket",
+    "screenshots": [
+      {
+        "id": 632908,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 43993,
+        "height": 1080,
+        "image_id": "scdkcs",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdkcs.jpg",
+        "width": 1118,
+        "checksum": "1fa5ba34-09cb-1e22-2df3-de75039826cf"
+      },
+      {
+        "id": 632909,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 43993,
+        "height": 1080,
+        "image_id": "scdkct",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdkct.jpg",
+        "width": 1118,
+        "checksum": "08856d2c-3ec7-662f-b746-e911c3f012db"
+      },
+      {
+        "id": 632910,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 43993,
+        "height": 1080,
+        "image_id": "scdkcu",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdkcu.jpg",
+        "width": 1118,
+        "checksum": "9e7b9982-88f0-1d73-0445-225edcfde4c0"
+      },
+      {
+        "id": 632911,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43993,
+        "height": 1080,
+        "image_id": "scdkcv",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdkcv.jpg",
+        "width": 1118,
+        "checksum": "7fe6120f-ed92-6dd1-51fa-c86d2c074498"
+      },
+      {
+        "id": 632912,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 43993,
+        "height": 1080,
+        "image_id": "scdkcw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdkcw.jpg",
+        "width": 1118,
+        "checksum": "6d5fdde3-f0f5-2d81-5219-8ce787697461"
+      }
+    ],
+    "slug": "magical-drop-pocket",
+    "summary": "Magical Drop Pocket is a Miscellaneous game, developed by SAS Sakata and published by Data East, which was released in Japan in 1999.\n\nMagical Drop Pocket's core mechanics are similar to those of Magical Drop III. The only exception is that that the battlefield consists of six columns instead of seven, akin to the Super Famicom ports of the first two Magical Drop games.\n\nThe game features Story, Self Challenge and Friend Challenge; these correspond to the standard 1P VS Com, Solo, and 2P VS modes featured in other Magical Drop games. Story features five difficulty modes while Self Challenge features three.\n\nLike many other handheld puzzle games of the time, Story does not feature a \"true\" AI opponent; instead, the player attempts to fill a gauge by creating chains. While the player attempts to fill this gauge, the AI attacks at random intervals.",
+    "url": "https://www.igdb.com/games/magical-drop-pocket",
+    "videos": [
+      {
+        "id": 54800,
+        "game": 43993,
+        "name": "Gameplay Video",
+        "video_id": "UbDIZHkFhYU",
+        "checksum": "f3f32f32-4563-25ab-1170-56cec37a0b1f"
+      }
+    ]
+  },
+  {
+    "id": 43974,
+    "alternative_names": [
+      {
+        "id": 29092,
+        "name": "メモリーズオフ～ピュア～"
+      }
+    ],
+    "collection": {
+      "id": 966,
+      "created_at": 1401300660,
+      "games": [
+        7067,
+        7068,
+        37361,
+        43974,
+        64797,
+        64798,
+        64801,
+        64802,
+        64805,
+        64806,
+        68241,
+        68243,
+        71590,
+        78209,
+        80463,
+        80464,
+        123140,
+        140442,
+        145196
+      ],
+      "name": "Memories Off",
+      "slug": "memories-off",
+      "updated_at": 1671635314,
+      "url": "https://www.igdb.com/collections/memories-off",
+      "checksum": "183816c2-17f3-ac99-763c-71cf72da30c0"
+    },
+    "cover": {
+      "id": 44107,
+      "game": 43974,
+      "height": 613,
+      "image_id": "btleo9bbmgoh8as91fi8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/btleo9bbmgoh8as91fi8.jpg",
+      "width": 600,
+      "checksum": "c9766fcc-5470-ca05-c972-82a3d6efd3fb"
+    },
+    "first_release_date": 956793600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 90936,
+        "company": {
+          "id": 1135,
+          "name": "KID"
+        },
+        "created_at": 1579478400,
+        "developer": true,
+        "game": 43974,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1579564800,
+        "checksum": "8f6b1b58-2d1f-fb43-a32f-7f690e50b3a9"
+      }
+    ],
+    "name": "Memories Off Pure",
+    "screenshots": [
+      {
+        "id": 352966,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43974,
+        "height": 304,
+        "image_id": "sc7kcm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7kcm.jpg",
+        "width": 320,
+        "checksum": "e6a36c88-70ed-aab5-772d-4fb9712ca589"
+      },
+      {
+        "id": 352967,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43974,
+        "height": 304,
+        "image_id": "sc7kcn",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7kcn.jpg",
+        "width": 320,
+        "checksum": "1f150ff0-3c97-6d29-0f68-bb942bf9ad49"
+      },
+      {
+        "id": 352968,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43974,
+        "height": 304,
+        "image_id": "sc7kco",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7kco.jpg",
+        "width": 320,
+        "checksum": "0f0c945a-75c0-e10a-42f3-bd38cdd39ce6"
+      }
+    ],
+    "slug": "memories-off-pure",
+    "summary": "Memories Off: Pure is a prequel to Memories Off. The events of the game take place three years before those of the previous game, when the protagonist Tomoya Mikami was still attending middle school. The game primarily revolves around his relationships with his childhood friend Yue Imasaka and Ayaka Hizuki, whose tragic fate is mentioned in the first game.\n\nGameplay-wise, the prequel is identical to the preceding game, with the gameplay being reduced to occasional decision-making that influences the course of the story and ultimately leads it to different endings.",
+    "url": "https://www.igdb.com/games/memories-off-pure"
+  },
+  {
+    "id": 43986,
+    "alternative_names": [
+      {
+        "id": 17871,
+        "name": "Metal Slug: First Mission"
+      },
+      {
+        "id": 41654,
+        "name": "Metal Slug: First Mission"
+      },
+      {
+        "id": 97030,
+        "name": "메탈슬러그 퍼스트 미션"
+      }
+    ],
+    "collection": {
+      "id": 298,
+      "created_at": 1349599834,
+      "games": [
+        1404,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        5004,
+        18840,
+        21760,
+        35593,
+        43984,
+        43986,
+        44687,
+        51223,
+        59100,
+        77988,
+        100053,
+        115990,
+        191477,
+        191478,
+        191479
+      ],
+      "name": "Metal Slug",
+      "slug": "metal-slug",
+      "updated_at": 1671998841,
+      "url": "https://www.igdb.com/collections/metal-slug",
+      "checksum": "c8f355c0-f628-9d15-79ac-034b0ab5853d"
+    },
+    "cover": {
+      "id": 127894,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43986,
+      "height": 800,
+      "image_id": "co2qom",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2qom.jpg",
+      "width": 600,
+      "checksum": "af0bc2f0-4c2c-b487-da62-7b3ce7565817"
+    },
+    "first_release_date": 927763200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57225,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43986,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "8c52fa85-b20e-f3d9-b0a5-430aa5d5419e"
+      }
+    ],
+    "name": "Metal Slug 1st Mission",
+    "screenshots": [
+      {
+        "id": 355416,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43986,
+        "height": 240,
+        "image_id": "sc7m8o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8o.jpg",
+        "width": 254,
+        "checksum": "aecddcc9-3910-529c-603b-25e3a75f5e78"
+      },
+      {
+        "id": 355417,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43986,
+        "height": 240,
+        "image_id": "sc7m8p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8p.jpg",
+        "width": 254,
+        "checksum": "9d65019c-e69d-5dcf-1460-ffa4bfa86613"
+      }
+    ],
+    "slug": "metal-slug-1st-mission",
+    "summary": "Metal Slug: 1st Mission is an Action game, developed by Ukiyotei and published by SNK, which was released in Japan in 1999.\n\nAs a member of the elite forces squad \"Peregrine Falcons,\" your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.",
+    "url": "https://www.igdb.com/games/metal-slug-1st-mission"
+  },
+  {
+    "id": 43984,
+    "alternative_names": [
+      {
+        "id": 17416,
+        "name": "Metal Slug: Second Mission"
+      },
+      {
+        "id": 42164,
+        "name": "Metal Slug: Second Mission"
+      },
+      {
+        "id": 97045,
+        "name": "메탈슬러그 세컨드 미션"
+      }
+    ],
+    "collection": {
+      "id": 298,
+      "created_at": 1349599834,
+      "games": [
+        1404,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        5004,
+        18840,
+        21760,
+        35593,
+        43984,
+        43986,
+        44687,
+        51223,
+        59100,
+        77988,
+        100053,
+        115990,
+        191477,
+        191478,
+        191479
+      ],
+      "name": "Metal Slug",
+      "slug": "metal-slug",
+      "updated_at": 1671998841,
+      "url": "https://www.igdb.com/collections/metal-slug",
+      "checksum": "c8f355c0-f628-9d15-79ac-034b0ab5853d"
+    },
+    "cover": {
+      "id": 130466,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43984,
+      "height": 800,
+      "image_id": "co2so2",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2so2.jpg",
+      "width": 600,
+      "checksum": "d71d919a-5fc8-ec7e-866a-d76859b63f53"
+    },
+    "first_release_date": 952560000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57231,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43984,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "21451f9f-72fe-2233-00f7-296b3b512a14"
+      },
+      {
+        "id": 92309,
+        "company": {
+          "id": 15826,
+          "name": "Ukiyotei"
+        },
+        "created_at": 1581120000,
+        "developer": true,
+        "game": 43984,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1581120000,
+        "checksum": "8ac33163-3470-1632-f7fc-f6b7197229a6"
+      }
+    ],
+    "name": "Metal Slug 2nd Mission",
+    "screenshots": [
+      {
+        "id": 355418,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43984,
+        "height": 240,
+        "image_id": "sc7m8q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8q.jpg",
+        "width": 254,
+        "checksum": "e0f974e8-af78-2b59-a7c4-b56ce6fe646e"
+      },
+      {
+        "id": 355419,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43984,
+        "height": 240,
+        "image_id": "sc7m8r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8r.jpg",
+        "width": 254,
+        "checksum": "42c6f821-81a6-db1e-0bda-2072e408421c"
+      }
+    ],
+    "slug": "metal-slug-2nd-mission",
+    "summary": "Metal Slug: 2nd Mission is an Action game, developed by Ukiyotei and published by SNK, which was released in Japan in 2000.\n\nTake control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force \"Phantom.\" Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.",
+    "url": "https://www.igdb.com/games/metal-slug-2nd-mission"
+  },
+  {
+    "id": 75491,
+    "cover": {
+      "id": 44173,
+      "game": 75491,
+      "height": 604,
+      "image_id": "aajdi5n8k9bzw3daokzd",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/aajdi5n8k9bzw3daokzd.jpg",
+      "width": 600,
+      "checksum": "c2f9f298-38e1-4e74-e454-a2f58415ae11"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57236,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75491,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "f8df0866-d4e6-7bf5-901a-3c967190843b"
+      }
+    ],
+    "name": "Neo 21",
+    "slug": "neo-21",
+    "summary": "One of many casino games developed by Dyna for the Neo Geo Pocket Color.",
+    "url": "https://www.igdb.com/games/neo-21"
+  },
+  {
+    "id": 47605,
+    "cover": {
+      "id": 44174,
+      "game": 47605,
+      "height": 601,
+      "image_id": "jusg8e2a5anyspnmpsmn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jusg8e2a5anyspnmpsmn.jpg",
+      "width": 600,
+      "checksum": "8417cc65-59fc-59ee-56c1-2a4266a6cd21"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57238,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47605,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "10a81a57-5855-3c1b-076d-dba2956951f4"
+      }
+    ],
+    "name": "Neo Baccarat",
+    "slug": "neo-baccarat",
+    "summary": "Neo Baccarat is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Europe in 2000.",
+    "url": "https://www.igdb.com/games/neo-baccarat"
+  },
+  {
+    "id": 43980,
+    "cover": {
+      "id": 44176,
+      "game": 43980,
+      "height": 597,
+      "image_id": "djwgkxy9ejmn1prpj5jz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/djwgkxy9ejmn1prpj5jz.jpg",
+      "width": 600,
+      "checksum": "42f8dd6a-3cf5-2126-f706-9398436555fa"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57241,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43980,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "37862316-b9d1-7dba-500a-4f84ea598f49"
+      }
+    ],
+    "name": "Neo Cherry Master Color",
+    "slug": "neo-cherry-master-color",
+    "summary": "Neo Cherry Master Color is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/neo-cherry-master-color"
+  },
+  {
+    "id": 43980,
+    "cover": {
+      "id": 44176,
+      "game": 43980,
+      "height": 597,
+      "image_id": "djwgkxy9ejmn1prpj5jz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/djwgkxy9ejmn1prpj5jz.jpg",
+      "width": 600,
+      "checksum": "42f8dd6a-3cf5-2126-f706-9398436555fa"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57241,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43980,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "37862316-b9d1-7dba-500a-4f84ea598f49"
+      }
+    ],
+    "name": "Neo Cherry Master Color",
+    "slug": "neo-cherry-master-color",
+    "summary": "Neo Cherry Master Color is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/neo-cherry-master-color"
+  },
+  {
+    "id": 47606,
+    "cover": {
+      "id": 44178,
+      "game": 47606,
+      "height": 600,
+      "image_id": "uxw89l6dibks3dls66qw",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxw89l6dibks3dls66qw.jpg",
+      "width": 600,
+      "checksum": "a47f857d-3128-a819-e6ef-5ec5b7f2ffe5"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57243,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47606,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "2f72ad1e-eb0e-17ec-37c9-b1b0ba08c244"
+      }
+    ],
+    "name": "Neo Dragon's Wild",
+    "slug": "neo-dragons-wild",
+    "summary": "Neo Dragon's Wild is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/neo-dragons-wild"
+  },
+  {
+    "id": 43976,
+    "cover": {
+      "id": 44181,
+      "game": 43976,
+      "height": 594,
+      "image_id": "p0okhk42n2unaqw6jvnz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0okhk42n2unaqw6jvnz.jpg",
+      "width": 600,
+      "checksum": "c06c8ebb-95d1-ba91-c9f1-ae49501e0221"
+    },
+    "first_release_date": 912211200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57248,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43976,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "9cbac81c-2e2a-1005-2bff-4a4ecc1a05d5"
+      }
+    ],
+    "name": "Neo Geo Cup '98 Plus Color",
+    "slug": "neo-geo-cup-98-plus-color",
+    "summary": "Wherever you go. Wherever you like. Its Kick Off Time! Easy! Simple! And Exciting!\n\nNeoGeo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+    "url": "https://www.igdb.com/games/neo-geo-cup-98-plus-color"
+  },
+  {
+    "id": 43976,
+    "cover": {
+      "id": 44181,
+      "game": 43976,
+      "height": 594,
+      "image_id": "p0okhk42n2unaqw6jvnz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0okhk42n2unaqw6jvnz.jpg",
+      "width": 600,
+      "checksum": "c06c8ebb-95d1-ba91-c9f1-ae49501e0221"
+    },
+    "first_release_date": 912211200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57248,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43976,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "9cbac81c-2e2a-1005-2bff-4a4ecc1a05d5"
+      }
+    ],
+    "name": "Neo Geo Cup '98 Plus Color",
+    "slug": "neo-geo-cup-98-plus-color",
+    "summary": "Wherever you go. Wherever you like. Its Kick Off Time! Easy! Simple! And Exciting!\n\nNeoGeo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+    "url": "https://www.igdb.com/games/neo-geo-cup-98-plus-color"
+  },
+  {
+    "id": 43976,
+    "cover": {
+      "id": 44181,
+      "game": 43976,
+      "height": 594,
+      "image_id": "p0okhk42n2unaqw6jvnz",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/p0okhk42n2unaqw6jvnz.jpg",
+      "width": 600,
+      "checksum": "c06c8ebb-95d1-ba91-c9f1-ae49501e0221"
+    },
+    "first_release_date": 912211200,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57248,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43976,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "9cbac81c-2e2a-1005-2bff-4a4ecc1a05d5"
+      }
+    ],
+    "name": "Neo Geo Cup '98 Plus Color",
+    "slug": "neo-geo-cup-98-plus-color",
+    "summary": "Wherever you go. Wherever you like. Its Kick Off Time! Easy! Simple! And Exciting!\n\nNeoGeo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+    "url": "https://www.igdb.com/games/neo-geo-cup-98-plus-color"
+  },
+  {
+    "id": 43979,
+    "cover": {
+      "id": 44182,
+      "game": 43979,
+      "height": 597,
+      "image_id": "jlhn2pmbfgxindixh1eu",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/jlhn2pmbfgxindixh1eu.jpg",
+      "width": 600,
+      "checksum": "870adcb2-8103-f514-129b-a31aec4a31fb"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57250,
+        "company": {
+          "id": 13783,
+          "name": "DYNA"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43979,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "9731bfba-8bb3-9caa-dac0-f7c6aab113f1"
+      }
+    ],
+    "name": "Neo Mystery Bonus",
+    "slug": "neo-mystery-bonus",
+    "summary": "Neo Mystery Bonus is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/neo-mystery-bonus"
+  },
+  {
+    "id": 20323,
+    "alternative_names": [
+      {
+        "id": 35267,
+        "name": "Big Tournament Golf"
+      }
+    ],
+    "cover": {
+      "id": 134052,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20323,
+      "height": 1097,
+      "image_id": "co2vfo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vfo.jpg",
+      "width": 822,
+      "checksum": "43654c07-2eaf-c0a7-ee7e-d037d5a47404"
+    },
+    "first_release_date": 820454400,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57253,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 20323,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "7db8f892-360f-7189-c454-0ac23eae9247"
+      },
+      {
+        "id": 57254,
+        "company": {
+          "id": 13787,
+          "name": "Nazca"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 20323,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "90775eee-1dbf-76bc-6e1e-0e244bd874db"
+      }
+    ],
+    "name": "Neo Turf Masters",
+    "screenshots": [
+      {
+        "id": 27172,
+        "game": 20323,
+        "height": 960,
+        "image_id": "phjb9k81qmh7dbvoq70n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/phjb9k81qmh7dbvoq70n.jpg",
+        "width": 1280,
+        "checksum": "2ccc4846-7cfe-26c6-b02a-edae06d351c8"
+      },
+      {
+        "id": 27173,
+        "game": 20323,
+        "height": 960,
+        "image_id": "kkrl1qq9xqm8iixjmodk",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/kkrl1qq9xqm8iixjmodk.jpg",
+        "width": 1280,
+        "checksum": "2da1b4fe-c3d0-6bc5-6d98-81a962dfc16c"
+      },
+      {
+        "id": 167026,
+        "game": 20323,
+        "height": 224,
+        "image_id": "my4kubtlt6rekkxshanq",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/my4kubtlt6rekkxshanq.jpg",
+        "width": 304,
+        "checksum": "2373460a-5c28-2c66-9e22-dd6c67bc6f55"
+      },
+      {
+        "id": 167027,
+        "game": 20323,
+        "height": 224,
+        "image_id": "iprenenlzwibstjlmflt",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/iprenenlzwibstjlmflt.jpg",
+        "width": 304,
+        "checksum": "b77219a3-9862-1bc5-ba03-0c54d5c2ece5"
+      },
+      {
+        "id": 167028,
+        "game": 20323,
+        "height": 224,
+        "image_id": "jk1o3hnw0vxpjhepctlh",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jk1o3hnw0vxpjhepctlh.jpg",
+        "width": 304,
+        "checksum": "0aed237c-24cd-9436-a7f9-f6de9339695a"
+      },
+      {
+        "id": 167029,
+        "game": 20323,
+        "height": 224,
+        "image_id": "avxp48daiuocrzw9a4fw",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/avxp48daiuocrzw9a4fw.jpg",
+        "width": 304,
+        "checksum": "83a46a3f-a110-e32d-e78c-f18fd029f7d2"
+      },
+      {
+        "id": 167030,
+        "game": 20323,
+        "height": 224,
+        "image_id": "w1lms112fnosha4fsqup",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/w1lms112fnosha4fsqup.jpg",
+        "width": 304,
+        "checksum": "36f08f6b-66f6-79da-442d-ccede2f4e959"
+      },
+      {
+        "id": 167031,
+        "game": 20323,
+        "height": 224,
+        "image_id": "j26sh1xenkjuzr5bd5xm",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/j26sh1xenkjuzr5bd5xm.jpg",
+        "width": 304,
+        "checksum": "69243937-6ddb-5f29-83f9-b40955c7de79"
+      },
+      {
+        "id": 167032,
+        "game": 20323,
+        "height": 224,
+        "image_id": "vt868wkqq5aeswcxgx9i",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/vt868wkqq5aeswcxgx9i.jpg",
+        "width": 304,
+        "checksum": "75dbb6c7-f946-0379-9521-6d47acf32d03"
+      },
+      {
+        "id": 167033,
+        "game": 20323,
+        "height": 224,
+        "image_id": "zjaia557zdv3x7ygiwz5",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zjaia557zdv3x7ygiwz5.jpg",
+        "width": 304,
+        "checksum": "bbfc0055-9f7a-f293-e35f-ecec237fdc2e"
+      },
+      {
+        "id": 167034,
+        "game": 20323,
+        "height": 224,
+        "image_id": "qme5pxdo7atp2qwabgb4",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qme5pxdo7atp2qwabgb4.jpg",
+        "width": 304,
+        "checksum": "9004059b-8d4c-a101-5c11-c4726f4f3328"
+      },
+      {
+        "id": 243397,
+        "game": 20323,
+        "height": 224,
+        "image_id": "zrs3dsnot2lrdtqkm0zo",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/zrs3dsnot2lrdtqkm0zo.jpg",
+        "width": 320,
+        "checksum": "d88f05da-904f-541d-0e6d-929b1ba93c6b"
+      },
+      {
+        "id": 243398,
+        "game": 20323,
+        "height": 224,
+        "image_id": "tsqktwglxonai8ek2s5s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tsqktwglxonai8ek2s5s.jpg",
+        "width": 320,
+        "checksum": "cf80bb65-1127-87f9-7fd6-cf93f16b135e"
+      }
+    ],
+    "slug": "neo-turf-masters",
+    "storyline": "NEO TURF MASTERS is an arcade classic that touched an entire generation.\n\nCompeting as one of six international golfers on different courses worldwide, players choose their club, analyze the wind direction, and find the best path to finishing each hole in as few shots as possible.",
+    "summary": "Neo Turf Masters is a golf video game by Nazca for the Neo Geo, released in 1996. This is also one of the first two titles by Nazca, the other being the popular Metal Slug before & between being acquired by SNK.\n\nThe game is a fast paced, arcade-style golf game. Players choose from two game modes, stroke play for one or two players, and match play for two players only.\n\nCompeting on one of four fictional golf courses located in the United States, Japan, Australia and Germany, players choose from one of six players with different attributes:\n\n\"Young Hero\" (George Spinner, USA)\n\"Technician\" (Thomas Stewart, United Kingdom)\n\"Veteran\" (Frank Adams, Australia)\n\"Shot Maker\" (Robert Landolt, Germany)\n\"Power Golfer\" (Fernando Almeida, Brazil)\n\"Putt Master\" (Toyoshige Takeno, Japan)\n\nUnlike many golf games of the era which used a two-click swing system to determine the hook or slice of the ball, Neo Turf Masters uses a single click for the power of the shot, and a second for the height of the shot; hook and slice are selected with buttons B and C before making the shot. This makes the game much easier to pick up and play well than its contemporaries, but it compensates for this reduced difficulty with fiendish (if somewhat unrealistic) course layouts and highly variable wind.",
+    "total_rating": 80.2622886667603,
+    "total_rating_count": 9,
+    "url": "https://www.igdb.com/games/neo-turf-masters",
+    "videos": [
+      {
+        "id": 21710,
+        "game": 20323,
+        "name": "Gameplay video",
+        "video_id": "WDt9HYniyHs",
+        "checksum": "b35ca470-7920-2b87-5a9d-86ebdd685e11"
+      }
+    ]
+  },
+  {
+    "id": 43961,
+    "cover": {
+      "id": 26646,
+      "game": 43961,
+      "height": 1500,
+      "image_id": "cxc1oke8jqxgd9ljp7ye",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cxc1oke8jqxgd9ljp7ye.jpg",
+      "width": 1500,
+      "checksum": "d2626410-b980-5be1-507b-dbea8f49c741"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57256,
+        "company": {
+          "id": 13789,
+          "name": "Dennou Eizo"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43961,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "a12cf72f-008f-5f97-f33d-ae895c8b7a4c"
+      }
+    ],
+    "name": "Nige-ron-pa",
+    "slug": "nige-ron-pa",
+    "summary": "nige-ron-pa is a Role-Playing game, developed and published by Dennou Club, which was released in Japan in 2000.",
+    "url": "https://www.igdb.com/games/nige-ron-pa"
+  },
+  {
+    "id": 213925,
+    "collection": {
+      "id": 2095,
+      "created_at": 1457796594,
+      "games": [
+        2654,
+        2750,
+        4061,
+        4062,
+        6528,
+        6529,
+        6861,
+        7453,
+        7559,
+        11603,
+        12192,
+        14701,
+        18275,
+        18328,
+        18380,
+        18381,
+        18881,
+        21681,
+        21853,
+        25074,
+        25373,
+        27587,
+        38692,
+        46813,
+        46814,
+        47121,
+        49833,
+        50595,
+        57836,
+        61756,
+        62605,
+        62686,
+        62959,
+        63639,
+        64014,
+        64458,
+        64682,
+        64683,
+        65001,
+        65233,
+        66485,
+        74273,
+        76751,
+        78239,
+        78240,
+        79652,
+        79794,
+        80452,
+        88904,
+        109097,
+        126049,
+        133878,
+        134152,
+        140269,
+        145515,
+        146284,
+        172697,
+        174623,
+        175992,
+        178228,
+        178408,
+        182246,
+        203270,
+        203273,
+        204385,
+        204387,
+        204414,
+        205614,
+        213899,
+        213901,
+        213903,
+        213915,
+        213917,
+        213918,
+        213920,
+        213921,
+        213922,
+        213923,
+        213924,
+        213925,
+        213926,
+        213944,
+        225431,
+        229449,
+        229452
+      ],
+      "name": "Pac-Man",
+      "slug": "pac-man",
+      "updated_at": 1672226162,
+      "url": "https://www.igdb.com/collections/pac-man",
+      "checksum": "058ff0b0-5c2d-1358-fc9e-72eebee0529b"
+    },
+    "cover": {
+      "id": 247641,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 213925,
+      "height": 578,
+      "image_id": "co5b2x",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5b2x.jpg",
+      "width": 430,
+      "checksum": "8f2fa970-23bc-b1e7-0813-a107125758ff"
+    },
+    "first_release_date": 946598400,
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 183944,
+        "company": {
+          "id": 16923,
+          "name": "SNK Corporation"
+        },
+        "created_at": 1661054278,
+        "developer": false,
+        "game": 213925,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1661134429,
+        "checksum": "bb2713e6-5ee7-c826-c864-b3979529ec94"
+      },
+      {
+        "id": 183945,
+        "company": {
+          "id": 263,
+          "name": "Namco"
+        },
+        "created_at": 1661054278,
+        "developer": true,
+        "game": 213925,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1661134429,
+        "checksum": "d402bc1d-c69d-30c2-3fd2-dcc5b6fa7548"
+      }
+    ],
+    "name": "Pac-Man",
+    "screenshots": [
+      {
+        "id": 859754,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 213925,
+        "height": 304,
+        "image_id": "scife2",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scife2.jpg",
+        "width": 320,
+        "checksum": "be10b7d3-6630-f9a1-0928-4f0f68ad8e85"
+      }
+    ],
+    "slug": "pac-man--20",
+    "summary": "The Neo Geo Pocket Color of Pac-Man.",
+    "url": "https://www.igdb.com/games/pac-man--20"
+  },
+  {
+    "id": 75508,
+    "cover": {
+      "id": 44202,
+      "game": 75508,
+      "height": 593,
+      "image_id": "zt3nujstdvdutize8pwm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/zt3nujstdvdutize8pwm.jpg",
+      "width": 600,
+      "checksum": "4dde5013-7792-0c5c-cc85-70a3ea87b887"
+    },
+    "first_release_date": 946684800,
+    "involved_companies": [
+      {
+        "id": 57283,
+        "company": {
+          "id": 6211,
+          "name": "Aruze"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75508,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "ef350890-9f26-ba0e-1f5f-0327ae6977a3"
+      }
+    ],
+    "name": "PachiSlot Aruze Kingdom - Porcano 2",
+    "slug": "pachislot-aruze-kingdom-porcano-2",
+    "url": "https://www.igdb.com/games/pachislot-aruze-kingdom-porcano-2"
+  },
+  {
+    "id": 75509,
+    "cover": {
+      "id": 44203,
+      "game": 75509,
+      "height": 605,
+      "image_id": "v9pijdah7ztuodhotafa",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/v9pijdah7ztuodhotafa.jpg",
+      "width": 600,
+      "checksum": "b33432fd-5d41-af3c-5faf-b7d7738c50b8"
+    },
+    "first_release_date": 946684800,
+    "involved_companies": [
+      {
+        "id": 57284,
+        "company": {
+          "id": 6211,
+          "name": "Aruze"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75509,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "5d38c40a-f790-a12e-a3b8-dd090f478f3e"
+      }
+    ],
+    "name": "PachiSlot Aruze Kingdom - Ward of Lights",
+    "slug": "pachislot-aruze-kingdom-ward-of-lights",
+    "url": "https://www.igdb.com/games/pachislot-aruze-kingdom-ward-of-lights"
+  },
+  {
+    "id": 47616,
+    "cover": {
+      "id": 44192,
+      "game": 47616,
+      "height": 615,
+      "image_id": "uxvqvl145otrdbgrh2lm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/uxvqvl145otrdbgrh2lm.jpg",
+      "width": 600,
+      "checksum": "f8320554-fe85-bc5c-2dea-2e4db4f87c99"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57265,
+        "company": {
+          "id": 13786,
+          "name": "ADK"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47616,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "88ebfff8-ffd3-921f-dc41-f86f6f59d8ec"
+      }
+    ],
+    "name": "Party Mail",
+    "slug": "party-mail",
+    "summary": "Party Mail is a Miscellaneous game, developed by ADK and published by SNK, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/party-mail"
+  },
+  {
+    "id": 47608,
+    "alternative_names": [
+      {
+        "id": 64515,
+        "name": "Oekaki Puzzle"
+      }
+    ],
+    "cover": {
+      "id": 142287,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 47608,
+      "height": 490,
+      "image_id": "co31sf",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31sf.jpg",
+      "width": 368,
+      "checksum": "903de6bc-5add-38fe-5512-f25bda449cec"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 137180,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1622662886,
+        "developer": false,
+        "game": 47608,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1622684268,
+        "checksum": "561940dc-5ae0-ad56-7aad-13b3d9497906"
+      },
+      {
+        "id": 137225,
+        "company": {
+          "id": 5836,
+          "name": "Success"
+        },
+        "created_at": 1622684261,
+        "developer": true,
+        "game": 47608,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1622684268,
+        "checksum": "374165c3-4d4c-2597-76ec-c3ef4b2b5feb"
+      }
+    ],
+    "name": "Picture Puzzle",
+    "screenshots": [
+      {
+        "id": 481677,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 47608,
+        "height": 152,
+        "image_id": "scabnx",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scabnx.jpg",
+        "width": 160,
+        "checksum": "7f7b8945-d4e9-4816-e273-090ae51c40e5"
+      },
+      {
+        "id": 481678,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 47608,
+        "height": 230,
+        "image_id": "scabny",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scabny.jpg",
+        "width": 320,
+        "checksum": "c2c0eae3-2ea5-709f-736f-4de04ed38703"
+      }
+    ],
+    "slug": "picture-puzzle",
+    "summary": "Picture Puzzle is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.",
+    "url": "https://www.igdb.com/games/picture-puzzle",
+    "videos": [
+      {
+        "id": 50124,
+        "game": 47608,
+        "name": "Gameplay Video",
+        "video_id": "iIQAMRlp89U",
+        "checksum": "4a088b2f-bb9c-3c17-7001-1795f583b00a"
+      }
+    ]
+  },
+  {
+    "id": 43973,
+    "cover": {
+      "id": 44225,
+      "game": 43973,
+      "height": 604,
+      "image_id": "vtfzz1ltlvnunbomchqo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/vtfzz1ltlvnunbomchqo.jpg",
+      "width": 600,
+      "checksum": "e5d46c58-7501-d485-5108-0e915df80970"
+    },
+    "first_release_date": 940464000,
+    "involved_companies": [
+      {
+        "id": 57319,
+        "company": {
+          "id": 1135,
+          "name": "KID"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43973,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "b86272b7-2e88-41f5-5f43-4f6baee5a118"
+      }
+    ],
+    "name": "Pocket Love: If",
+    "slug": "pocket-love-if",
+    "summary": "Pocket Love: If is an Adventure game, developed and published by Kid, which was released in Japan in 1999.",
+    "url": "https://www.igdb.com/games/pocket-love-if"
+  },
+  {
+    "id": 43989,
+    "cover": {
+      "id": 44226,
+      "game": 43989,
+      "height": 604,
+      "image_id": "qxoh8soycg8hriqvnb83",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/qxoh8soycg8hriqvnb83.jpg",
+      "width": 600,
+      "checksum": "3078711c-1d23-cd50-69c0-2ad7391aa5f9"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57320,
+        "company": {
+          "id": 5836,
+          "name": "Success"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43989,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "be6f38f2-a82a-221e-4938-4063d80853da"
+      }
+    ],
+    "name": "Pocket Reversi",
+    "slug": "pocket-reversi",
+    "summary": "Pocket Reversi is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.",
+    "url": "https://www.igdb.com/games/pocket-reversi"
+  },
+  {
+    "id": 47609,
+    "cover": {
+      "id": 237080,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 47609,
+      "height": 800,
+      "image_id": "co52xk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xk.jpg",
+      "width": 600,
+      "checksum": "40eeacd6-6648-fb4e-d9f0-83383a71aba5"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57315,
+        "company": {
+          "id": 5675,
+          "name": "Yumekobo"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47609,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "eb1843e2-e4ae-a450-b7cb-f76f7934244d"
+      }
+    ],
+    "name": "Pocket Tennis Color",
+    "slug": "pocket-tennis-color",
+    "summary": "Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.\n\nExhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).\n\nTournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final",
+    "url": "https://www.igdb.com/games/pocket-tennis-color"
+  },
+  {
+    "id": 47609,
+    "cover": {
+      "id": 237080,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 47609,
+      "height": 800,
+      "image_id": "co52xk",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xk.jpg",
+      "width": 600,
+      "checksum": "40eeacd6-6648-fb4e-d9f0-83383a71aba5"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57315,
+        "company": {
+          "id": 5675,
+          "name": "Yumekobo"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 47609,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "eb1843e2-e4ae-a450-b7cb-f76f7934244d"
+      }
+    ],
+    "name": "Pocket Tennis Color",
+    "slug": "pocket-tennis-color",
+    "summary": "Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.\n\nExhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).\n\nTournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final",
+    "url": "https://www.igdb.com/games/pocket-tennis-color"
+  },
+  {
+    "id": 23455,
+    "alternative_names": [
+      {
+        "id": 70605,
+        "name": "みんなでぷよぷよ"
+      },
+      {
+        "id": 70606,
+        "name": "Minna de Puyo Puyo"
+      },
+      {
+        "id": 70607,
+        "name": "Everyone's Puyo Puyo"
+      },
+      {
+        "id": 70608,
+        "name": "みんなでぷよぷよ"
+      },
+      {
+        "id": 70609,
+        "name": "Minna de Puyo Puyo"
+      }
+    ],
+    "collection": {
+      "id": 3350,
+      "created_at": 1507480971,
+      "games": [
+        3578,
+        3579,
+        4075,
+        4353,
+        5111,
+        6865,
+        22847,
+        23455,
+        37560,
+        42406,
+        42470,
+        42544,
+        44780,
+        44781,
+        44782,
+        45258,
+        45976,
+        47250,
+        50727,
+        57874,
+        63839,
+        63992,
+        64088,
+        69551,
+        70934,
+        80188,
+        81459,
+        84798,
+        86662,
+        86739,
+        87195,
+        87198,
+        109577,
+        113379,
+        113380,
+        131942,
+        146876,
+        218197
+      ],
+      "name": "Puyo Puyo",
+      "slug": "puyo-puyo--1",
+      "updated_at": 1672059899,
+      "url": "https://www.igdb.com/collections/puyo-puyo--1",
+      "checksum": "bf5081f8-6cd1-1c3f-3d0b-e868863f8046"
+    },
+    "cover": {
+      "id": 164176,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 23455,
+      "height": 220,
+      "image_id": "co3iog",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3iog.jpg",
+      "width": 220,
+      "checksum": "02c00ae0-f244-f0a5-516c-8df2d6601c38"
+    },
+    "first_release_date": 946684800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 144046,
+        "company": {
+          "id": 1831,
+          "name": "Compile"
+        },
+        "created_at": 1628099752,
+        "developer": true,
+        "game": 23455,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1628122849,
+        "checksum": "401c4fec-b2e2-292f-4af6-d8f2768e7140"
+      },
+      {
+        "id": 144047,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1628099752,
+        "developer": false,
+        "game": 23455,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1628122849,
+        "checksum": "e2037a4a-103a-e9f3-cb7d-9f3c2b50d470"
+      }
+    ],
+    "name": "Puyo Pop",
+    "slug": "puyo-pop",
+    "summary": "Puyo Pop for the Neo Geo Pocket Color is a port of Puyo Puyo Tsuu.",
+    "total_rating": 84,
+    "total_rating_count": 1,
+    "url": "https://www.igdb.com/games/puyo-pop"
+  },
+  {
+    "id": 43985,
+    "cover": {
+      "id": 37378,
+      "game": 43985,
+      "height": 736,
+      "image_id": "oymfmblo4qogiqoktxmg",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/oymfmblo4qogiqoktxmg.jpg",
+      "width": 640,
+      "checksum": "c99c1a24-354a-df4d-9d7c-c27f5637c3da"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57294,
+        "company": {
+          "id": 5675,
+          "name": "Yumekobo"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 43985,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "6e13aad5-6da7-51b3-f90d-92cb6cfccd95"
+      }
+    ],
+    "name": "Puzzle Link 2",
+    "screenshots": [
+      {
+        "id": 109148,
+        "game": 43985,
+        "height": 659,
+        "image_id": "nvqpaqpajsjc92p4hxwz",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/nvqpaqpajsjc92p4hxwz.jpg",
+        "width": 762,
+        "checksum": "28080c45-8a34-8b99-8238-b414cc9c090b"
+      }
+    ],
+    "slug": "puzzle-link-2",
+    "summary": "The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve. \n \nThere are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.",
+    "url": "https://www.igdb.com/games/puzzle-link-2"
+  },
+  {
+    "id": 44002,
+    "cover": {
+      "id": 37379,
+      "game": 44002,
+      "height": 736,
+      "image_id": "j8eiyac73iaxik8bkahy",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/j8eiyac73iaxik8bkahy.jpg",
+      "width": 640,
+      "checksum": "c7bd972b-252a-c280-099c-6f89036b9e91"
+    },
+    "first_release_date": 883612800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57293,
+        "company": {
+          "id": 5675,
+          "name": "Yumekobo"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 44002,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "f3feff43-285c-c9ad-3cc2-3b6c14f5c332"
+      }
+    ],
+    "name": "Puzzle Link",
+    "slug": "puzzle-link",
+    "summary": "Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve. \n \nThere are three different modes: In \"Normal\" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In \"Clear Mode\" you have to clear a given constellation of blocks. \"Battle Mode\" is a two player link-cable mode.",
+    "url": "https://www.igdb.com/games/puzzle-link"
+  },
+  {
+    "id": 75515,
+    "alternative_names": [
+      {
+        "id": 52942,
+        "name": "ロックマン バトル & ファイターズ"
+      },
+      {
+        "id": 52943,
+        "name": "Mega Man Battle & FIghters"
+      },
+      {
+        "id": 52944,
+        "name": "Rockman Battle and Fighters"
+      }
+    ],
+    "cover": {
+      "id": 122334,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 75515,
+      "height": 800,
+      "image_id": "co2me6",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2me6.jpg",
+      "width": 600,
+      "checksum": "0bce03aa-537f-7782-6054-1daa8c017989"
+    },
+    "first_release_date": 964569600,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 57307,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "created_at": 1509926400,
+        "developer": false,
+        "game": 75515,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1509926400,
+        "checksum": "0b3c2546-5a8a-a12e-e565-5c7106ca470a"
+      }
+    ],
+    "name": "Rockman Battle & Fighters",
+    "slug": "rockman-battle-and-fighters",
+    "summary": "Rockman Battle & Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. Playing as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series. The battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. Each boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. Two players can use a link cable to transfer database information between systems, but no co-op or versus play is supported.",
+    "url": "https://www.igdb.com/games/rockman-battle-and-fighters"
+  },
+  {
+    "id": 43983,
+    "cover": {
+      "id": 168853,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 43983,
+      "height": 1333,
+      "image_id": "co3mad",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3mad.jpg",
+      "width": 1000,
+      "checksum": "ddfae930-f6ea-4003-761e-500c18bc9067"
+    },
+    "first_release_date": 951609600,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135152,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1621199080,
+        "developer": false,
+        "game": 43983,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1621237769,
+        "checksum": "e1a8eafc-b585-4429-ba55-337fc02d5cd2"
+      }
+    ],
+    "name": "SNK Gals' Fighters",
+    "screenshots": [
+      {
+        "id": 450114,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43983,
+        "height": 720,
+        "image_id": "sc9nb6",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9nb6.jpg",
+        "width": 1280,
+        "checksum": "35976028-ee90-6c87-5967-7d2b29e59ef2"
+      },
+      {
+        "id": 450115,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43983,
+        "height": 720,
+        "image_id": "sc9nb7",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9nb7.jpg",
+        "width": 1280,
+        "checksum": "aa7e505f-7f40-2ae0-bf26-eb514ce44a38"
+      },
+      {
+        "id": 450116,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43983,
+        "height": 720,
+        "image_id": "sc9nb8",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9nb8.jpg",
+        "width": 1280,
+        "checksum": "b8fdb518-0d49-1645-9210-a4bfb84debb0"
+      },
+      {
+        "id": 450117,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43983,
+        "height": 720,
+        "image_id": "sc9nb9",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9nb9.jpg",
+        "width": 1280,
+        "checksum": "622c61e9-417b-23cc-374b-a17f2e5ab6c2"
+      },
+      {
+        "id": 450118,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43983,
+        "height": 720,
+        "image_id": "sc9nba",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc9nba.jpg",
+        "width": 1280,
+        "checksum": "d35d4f93-684a-8cbc-67fd-2e664c9a7c70"
+      }
+    ],
+    "slug": "snk-gals-fighters",
+    "summary": "Sugar and spice and everything nice, that's what little girls are made of... NOT! It's time for the ladies to show who's boss in this superb all-girls fighting fantasy! Eight fabulous femme fatales to choose from and five different game modes! Use Super Attacks and collect and trade special items!",
+    "total_rating": 80,
+    "total_rating_count": 1,
+    "url": "https://www.igdb.com/games/snk-gals-fighters"
+  },
+  {
+    "id": 28398,
+    "alternative_names": [
+      {
+        "id": 8498,
+        "name": "SVC Capcom Card Fighters' Clash"
+      }
+    ],
+    "collection": {
+      "id": 2688,
+      "created_at": 1493753126,
+      "games": [
+        21387,
+        28398,
+        28399
+      ],
+      "name": "SNK vs. Capcom: Card Fighters' Clash",
+      "slug": "snk-vs-capcom-card-fighters-clash",
+      "updated_at": 1660533509,
+      "url": "https://www.igdb.com/collections/snk-vs-capcom-card-fighters-clash",
+      "checksum": "b4139e54-63c5-1755-68d4-05dea450ecc5"
+    },
+    "cover": {
+      "id": 237082,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 28398,
+      "height": 800,
+      "image_id": "co52xm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xm.jpg",
+      "width": 600,
+      "checksum": "48804bee-833a-6605-53cf-8c282d712648"
+    },
+    "first_release_date": 943142400,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 46392,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1493683200,
+        "developer": true,
+        "game": 28398,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1493683200,
+        "checksum": "a1c63701-5789-67b9-1334-4b6a0ad0586b"
+      }
+    ],
+    "name": "SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version",
+    "screenshots": [
+      {
+        "id": 355420,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 28398,
+        "height": 316,
+        "image_id": "sc7m8s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8s.jpg",
+        "width": 333,
+        "checksum": "413f35f9-0fcd-6bf2-abe3-b50a7e49447c"
+      },
+      {
+        "id": 355421,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28398,
+        "height": 152,
+        "image_id": "sc7m8t",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8t.jpg",
+        "width": 160,
+        "checksum": "4025db0d-bd27-124b-aeb5-ddaf246f4273"
+      },
+      {
+        "id": 355422,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28398,
+        "height": 240,
+        "image_id": "sc7m8u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8u.jpg",
+        "width": 254,
+        "checksum": "56203806-cc3a-a825-43dc-f971bdd4714e"
+      }
+    ],
+    "slug": "snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version",
+    "summary": "SNK vs. Capcom: Card Fighters' Clash, released in 1999 for the Neo Geo Pocket Color handheld console, was the first crossover between SNK and Capcom. Characters in the game are illustrated in the super deformed (chibi) art style. There are two complementary versions of the game: the SNK version and the Capcom version. Each version of the game has a different starting deck and different exclusive cards that can be obtained, but the gameplay remains the same, with card battles resembling a somewhat simplified version of Magic: The Gathering, in which a maximum of three fighters are allowed in each player's field at any given moment and there is no mana to be spent to place them in the field.",
+    "url": "https://www.igdb.com/games/snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version"
+  },
+  {
+    "id": 28398,
+    "alternative_names": [
+      {
+        "id": 8498,
+        "name": "SVC Capcom Card Fighters' Clash"
+      }
+    ],
+    "collection": {
+      "id": 2688,
+      "created_at": 1493753126,
+      "games": [
+        21387,
+        28398,
+        28399
+      ],
+      "name": "SNK vs. Capcom: Card Fighters' Clash",
+      "slug": "snk-vs-capcom-card-fighters-clash",
+      "updated_at": 1660533509,
+      "url": "https://www.igdb.com/collections/snk-vs-capcom-card-fighters-clash",
+      "checksum": "b4139e54-63c5-1755-68d4-05dea450ecc5"
+    },
+    "cover": {
+      "id": 237082,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 28398,
+      "height": 800,
+      "image_id": "co52xm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52xm.jpg",
+      "width": 600,
+      "checksum": "48804bee-833a-6605-53cf-8c282d712648"
+    },
+    "first_release_date": 943142400,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 46392,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1493683200,
+        "developer": true,
+        "game": 28398,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1493683200,
+        "checksum": "a1c63701-5789-67b9-1334-4b6a0ad0586b"
+      }
+    ],
+    "name": "SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version",
+    "screenshots": [
+      {
+        "id": 355420,
+        "alpha_channel": true,
+        "animated": false,
+        "game": 28398,
+        "height": 316,
+        "image_id": "sc7m8s",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8s.jpg",
+        "width": 333,
+        "checksum": "413f35f9-0fcd-6bf2-abe3-b50a7e49447c"
+      },
+      {
+        "id": 355421,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28398,
+        "height": 152,
+        "image_id": "sc7m8t",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8t.jpg",
+        "width": 160,
+        "checksum": "4025db0d-bd27-124b-aeb5-ddaf246f4273"
+      },
+      {
+        "id": 355422,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 28398,
+        "height": 240,
+        "image_id": "sc7m8u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8u.jpg",
+        "width": 254,
+        "checksum": "56203806-cc3a-a825-43dc-f971bdd4714e"
+      }
+    ],
+    "slug": "snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version",
+    "summary": "SNK vs. Capcom: Card Fighters' Clash, released in 1999 for the Neo Geo Pocket Color handheld console, was the first crossover between SNK and Capcom. Characters in the game are illustrated in the super deformed (chibi) art style. There are two complementary versions of the game: the SNK version and the Capcom version. Each version of the game has a different starting deck and different exclusive cards that can be obtained, but the gameplay remains the same, with card battles resembling a somewhat simplified version of Magic: The Gathering, in which a maximum of three fighters are allowed in each player's field at any given moment and there is no mana to be spent to place them in the field.",
+    "url": "https://www.igdb.com/games/snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version"
+  },
+  {
+    "id": 55058,
+    "alternative_names": [
+      {
+        "id": 51641,
+        "name": "Final Great Battle of the Strongest Fighters: SNK vs. Capcom"
+      },
+      {
+        "id": 112296,
+        "name": "頂上決戦 最強ファイターズ SNK VS. CAPCOM"
+      }
+    ],
+    "collection": {
+      "id": 2755,
+      "created_at": 1496599442,
+      "games": [
+        55058
+      ],
+      "name": "Capcom vs. SNK",
+      "slug": "capcom-vs-snk",
+      "updated_at": 1656590985,
+      "url": "https://www.igdb.com/collections/capcom-vs-snk",
+      "checksum": "c134bdf4-66ef-24c8-4b39-ea46e5f9b0d3"
+    },
+    "cover": {
+      "id": 240570,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 55058,
+      "height": 800,
+      "image_id": "co55mi",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co55mi.jpg",
+      "width": 600,
+      "checksum": "13df3b3b-1e7e-79e9-0350-3de66fe62dc4"
+    },
+    "first_release_date": 943920000,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 152402,
+        "company": {
+          "id": 25341,
+          "name": "Capcom Co., LTD."
+        },
+        "created_at": 1633687633,
+        "developer": true,
+        "game": 55058,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1633690958,
+        "checksum": "743c3f7d-74a7-7cdb-dbb0-ef6466a035fb"
+      },
+      {
+        "id": 152403,
+        "company": {
+          "id": 16923,
+          "name": "SNK Corporation"
+        },
+        "created_at": 1633687633,
+        "developer": false,
+        "game": 55058,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1633690958,
+        "checksum": "eebf71df-0122-faff-763b-21b8620aa789"
+      }
+    ],
+    "name": "SNK vs. Capcom: The Match of the Millennium",
+    "screenshots": [
+      {
+        "id": 652054,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4m",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4m.jpg",
+        "width": 1920,
+        "checksum": "1b76dfcd-7a51-6b4d-8489-00e3dcc6532d"
+      },
+      {
+        "id": 652055,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4n",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4n.jpg",
+        "width": 1920,
+        "checksum": "2dc02e02-c44d-d781-b419-dd70a38d23f0"
+      },
+      {
+        "id": 652056,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4o",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4o.jpg",
+        "width": 1920,
+        "checksum": "d2ce5b11-9acb-697a-6275-dae3a79ecc9d"
+      },
+      {
+        "id": 652057,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4p",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4p.jpg",
+        "width": 1920,
+        "checksum": "78cc236e-cd82-289f-0987-218a565f369a"
+      },
+      {
+        "id": 652058,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4q",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4q.jpg",
+        "width": 1920,
+        "checksum": "ceac9b1e-f2cf-9a33-ff26-9a56827c8ae9"
+      },
+      {
+        "id": 652059,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4r",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4r.jpg",
+        "width": 1920,
+        "checksum": "32bbba22-1ccf-fce6-8a60-fe86dfced3ce"
+      },
+      {
+        "id": 652062,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4u.jpg",
+        "width": 1920,
+        "checksum": "76404537-f719-d8c5-fa22-05ee57457918"
+      },
+      {
+        "id": 652064,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4w",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4w.jpg",
+        "width": 1920,
+        "checksum": "7709baca-9cf5-a2f5-96ff-ac7a90c8a73b"
+      },
+      {
+        "id": 652065,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4x",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4x.jpg",
+        "width": 1920,
+        "checksum": "1ea42e24-c3f3-2862-c48e-7976436c97ba"
+      },
+      {
+        "id": 652066,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4y.jpg",
+        "width": 1920,
+        "checksum": "8cb58bdc-3c76-8dcb-2f8f-f3b16dc030db"
+      },
+      {
+        "id": 652067,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz4z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz4z.jpg",
+        "width": 1920,
+        "checksum": "de8a54bb-a470-a12a-0f96-a30d64072cae"
+      },
+      {
+        "id": 652069,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 55058,
+        "height": 1080,
+        "image_id": "scdz51",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scdz51.jpg",
+        "width": 1920,
+        "checksum": "86028fa8-07b5-ab29-e8e9-485c60487ad0"
+      }
+    ],
+    "slug": "snk-vs-capcom-the-match-of-the-millennium",
+    "summary": "With 18 starting characters (26 total after unlocking), numerous battle modes and varied minigames, this may be the largest fighting game for the Neo Geo Pocket Color. Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges. Link features include NGPC-to-NGPC battles and NGPC-to-Dreamcast data exchange with other SNK titles.",
+    "total_rating": 75,
+    "total_rating_count": 2,
+    "url": "https://www.igdb.com/games/snk-vs-capcom-the-match-of-the-millennium"
+  },
+  {
+    "id": 200416,
+    "first_release_date": 925430400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Samurai Shodown! 2",
+    "slug": "samurai-shodown-2--1",
+    "summary": "Samurai Shodown! 2 is a handheld game in SNK's Samurai Shodown series of fighting games. Unlike its predecessor, it was released on the Neo-Geo Pocket Color system, so its graphics were no longer monochrome.\n\nIt was designed as a conversion from the most recent game in the Samurai Shodown series, Samurai Shodown 64: Warriors Rage, and almost all of its story events, endings and cutscenes are derived from its arcade cousin. Almost all of the characters from Samurai Shodown 64: Warriors Rage are included (the sole exception being Hanma Yagyu). It also re-added two series favorites who were not in the arcade, Charlotte and Yagyu Jubei.",
+    "url": "https://www.igdb.com/games/samurai-shodown-2--1"
+  },
+  {
+    "id": 200416,
+    "first_release_date": 925430400,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Samurai Shodown! 2",
+    "slug": "samurai-shodown-2--1",
+    "summary": "Samurai Shodown! 2 is a handheld game in SNK's Samurai Shodown series of fighting games. Unlike its predecessor, it was released on the Neo-Geo Pocket Color system, so its graphics were no longer monochrome.\n\nIt was designed as a conversion from the most recent game in the Samurai Shodown series, Samurai Shodown 64: Warriors Rage, and almost all of its story events, endings and cutscenes are derived from its arcade cousin. Almost all of the characters from Samurai Shodown 64: Warriors Rage are included (the sole exception being Hanma Yagyu). It also re-added two series favorites who were not in the arcade, Charlotte and Yagyu Jubei.",
+    "url": "https://www.igdb.com/games/samurai-shodown-2--1"
+  },
+  {
+    "id": 43981,
+    "collection": {
+      "id": 1691,
+      "created_at": 1442677488,
+      "games": [
+        4265,
+        4450,
+        12765,
+        21549,
+        37487,
+        38249,
+        43981,
+        45304,
+        49725,
+        58523,
+        62292,
+        64253,
+        64254,
+        69131,
+        70483,
+        71570,
+        71959,
+        78447
+      ],
+      "name": "Shanghai",
+      "slug": "shanghai",
+      "updated_at": 1670973433,
+      "url": "https://www.igdb.com/collections/shanghai",
+      "checksum": "eb6e1a4a-c40d-410c-9b51-18a8c71ad3f3"
+    },
+    "cover": {
+      "id": 44088,
+      "game": 43981,
+      "height": 591,
+      "image_id": "hkctxqqsmwn3sv9rj0ns",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hkctxqqsmwn3sv9rj0ns.jpg",
+      "width": 600,
+      "checksum": "45b37996-2eed-d034-0af4-e2b61b63066d"
+    },
+    "first_release_date": 915148800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Shanghai Mini",
+    "slug": "shanghai-mini",
+    "summary": "Shanghai Mini is a release in the series of Activision's tile matching games. Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.",
+    "url": "https://www.igdb.com/games/shanghai-mini"
+  },
+  {
+    "id": 43323,
+    "alternative_names": [
+      {
+        "id": 89449,
+        "name": "Sonic Pocket Adventure"
+      }
+    ],
+    "collection": {
+      "id": 2156,
+      "created_at": 1463667133,
+      "games": [
+        217,
+        506,
+        2267,
+        2607,
+        3192,
+        4156,
+        4157,
+        4438,
+        5169,
+        5452,
+        6231,
+        6797,
+        9473,
+        9474,
+        9475,
+        9476,
+        11219,
+        16036,
+        19538,
+        19556,
+        19762,
+        20502,
+        21062,
+        21902,
+        22297,
+        22510,
+        28000,
+        43321,
+        43322,
+        43323,
+        45986,
+        50924,
+        52188,
+        54556,
+        56739,
+        63904,
+        64842,
+        72822,
+        74882,
+        78430,
+        84657,
+        86807,
+        88912,
+        89889,
+        94873,
+        106274,
+        110061,
+        112095,
+        112884,
+        112897,
+        128798,
+        133933,
+        133935,
+        133938,
+        133942,
+        133943,
+        135370,
+        136662,
+        150005,
+        150007,
+        150010,
+        163458,
+        197602,
+        197603,
+        197617,
+        198580,
+        202966,
+        203489,
+        206597,
+        210300,
+        227802
+      ],
+      "name": "Sonic the Hedgehog",
+      "slug": "sonic-the-hedgehog",
+      "updated_at": 1672332958,
+      "url": "https://www.igdb.com/collections/sonic-the-hedgehog",
+      "checksum": "5c3950be-4fd5-fbec-95ec-c9004d99c744"
+    },
+    "cover": {
+      "id": 223416,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 43323,
+      "height": 800,
+      "image_id": "co4se0",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4se0.jpg",
+      "width": 600,
+      "checksum": "826da879-4235-61bc-bb36-a3373e2ec115"
+    },
+    "first_release_date": 944265600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 100256,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "created_at": 1590710400,
+        "developer": true,
+        "game": 43323,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1590710400,
+        "checksum": "f774663d-ac50-f6be-3ab0-c38548d30f7e"
+      }
+    ],
+    "name": "Sonic the Hedgehog Pocket Adventure",
+    "screenshots": [
+      {
+        "id": 355426,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43323,
+        "height": 240,
+        "image_id": "sc7m8y",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8y.jpg",
+        "width": 254,
+        "checksum": "ed46cd67-7f2a-7497-bb91-55a01d0f42e8"
+      },
+      {
+        "id": 355427,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 43323,
+        "height": 240,
+        "image_id": "sc7m8z",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7m8z.jpg",
+        "width": 254,
+        "checksum": "d2e40a45-bb23-c61d-38ca-943a4b240b78"
+      }
+    ],
+    "slug": "sonic-the-hedgehog-pocket-adventure",
+    "summary": "Help Sonic rescue his forest friends from the evil Dr. Robotnik. Grab those golden rings and collect all the chaos emeralds for special bonuses. Rush through multiple bonus levels and challenge the high score record. Collect puzzle pieces and complete the mystery photo. Play against a friend in a 2-player Vs. battle. The action is gonna be super SONIC!",
+    "total_rating": 80.30693169130589,
+    "total_rating_count": 6,
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog-pocket-adventure",
+    "videos": [
+      {
+        "id": 36552,
+        "game": 43323,
+        "name": "Gameplay Video",
+        "video_id": "lha16D25bgc",
+        "checksum": "d6d25d7a-2629-ecfa-3076-81e4c7981b5d"
+      }
+    ]
+  },
+  {
+    "id": 44001,
+    "cover": {
+      "id": 26643,
+      "game": 44001,
+      "height": 1500,
+      "image_id": "urjdvpkljbatgicybbd8",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/urjdvpkljbatgicybbd8.jpg",
+      "width": 1500,
+      "checksum": "d811dab0-77f9-d642-fd50-13ebdade22e6"
+    },
+    "first_release_date": 985824000,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Super Real Mahjong Premium Collection",
+    "slug": "super-real-mahjong-premium-collection",
+    "summary": "Super Real Mahjong Premium Collection is the first handheld installment in the Super Real Mahjong series. As usual, you play strip mahjong with pretty girls, this time several from many of the games. However, due to the system's limitations, only a few strip scenes are animated. It also has some visual novel-like qualities, particularly a story mode where you try to focus on one girl each time it is played. This is accomplished by choosing the right options when they are presented to you. If you succeed in focusing on only one girl, her CG is then unlocked in the gallery.",
+    "url": "https://www.igdb.com/games/super-real-mahjong-premium-collection"
+  },
+  {
+    "id": 75451,
+    "alternative_names": [
+      {
+        "id": 80799,
+        "name": "Shougi no Tatsujin"
+      },
+      {
+        "id": 80800,
+        "name": "Master of Shogi"
+      },
+      {
+        "id": 80813,
+        "name": "Master of Shougi"
+      }
+    ],
+    "cover": {
+      "id": 44104,
+      "game": 75451,
+      "height": 595,
+      "image_id": "dwbjun5crogqhbuid2rl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/dwbjun5crogqhbuid2rl.jpg",
+      "width": 600,
+      "checksum": "c1b857e5-06fb-4148-e761-9f2866c00bfb"
+    },
+    "first_release_date": 789955200,
+    "genres": [
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 76261,
+        "company": {
+          "id": 13786,
+          "name": "ADK"
+        },
+        "created_at": 1553385600,
+        "developer": true,
+        "game": 75451,
+        "porting": false,
+        "publisher": false,
+        "supporting": false,
+        "updated_at": 1553472000,
+        "checksum": "abd376a4-a63d-dadc-223b-6d5cc0c9f3af"
+      },
+      {
+        "id": 76262,
+        "company": {
+          "id": 16923,
+          "name": "SNK Corporation"
+        },
+        "created_at": 1553385600,
+        "developer": false,
+        "game": 75451,
+        "porting": false,
+        "publisher": true,
+        "supporting": false,
+        "updated_at": 1553472000,
+        "checksum": "8592c792-6bb5-15b4-c76c-5add22caed8b"
+      }
+    ],
+    "name": "Master of Syougi",
+    "screenshots": [
+      {
+        "id": 295841,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 75451,
+        "height": 224,
+        "image_id": "sc6c9t",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6c9t.jpg",
+        "width": 304,
+        "checksum": "09105c37-496a-7430-589e-eb6a615da4ac"
+      },
+      {
+        "id": 295842,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 75451,
+        "height": 224,
+        "image_id": "sc6c9u",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6c9u.jpg",
+        "width": 304,
+        "checksum": "add9a49d-5972-3f9f-bf68-4eeeb3f3c438"
+      },
+      {
+        "id": 295843,
+        "alpha_channel": false,
+        "animated": false,
+        "game": 75451,
+        "height": 224,
+        "image_id": "sc6c9v",
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6c9v.jpg",
+        "width": 304,
+        "checksum": "0de16395-3148-ef4a-46ad-52cb3bd0dddd"
+      }
+    ],
+    "slug": "master-of-syougi",
+    "url": "https://www.igdb.com/games/master-of-syougi"
+  }
+]

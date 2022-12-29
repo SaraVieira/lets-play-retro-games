@@ -21,6 +21,11 @@ const snesGames = require('../../constants/consoles/snes.json')
 const igdb = require('igdb-api-node').default
 const fs = require('fs')
 const pThrottle = require('p-throttle')
+const threedoGames = require('../../constants/consoles/3do.json')
+const cdiGames = require('../../constants/consoles/cdi.json')
+const ngpGames = require('../../constants/consoles/ngp.json')
+const jaguarGames = require('../../constants/consoles/jaguar.json')
+
 const throttle = pThrottle({
   limit: 1,
   interval: 1000,
@@ -44,6 +49,10 @@ const PLATFORMS = {
   sat: 21,
   neo: 120,
   atari2600: 59,
+  panasonic3DO: 50,
+  cdi: 117,
+  jaguar: 62,
+  ngp: 120,
 }
 const FIELDS = [
   'name',
@@ -72,7 +81,7 @@ const requestGame = throttle(async (game, platform) => {
     if (true) {
       const client = igdb(
         process.env.TWITCH_ID,
-        '9y7235iwvwchy1ezz05ktgyttr5qyn'
+        'z26on5st605ag9gkxgd5jomg7iibfb'
       )
       const response = await client
         .fields(FIELDS)
@@ -94,109 +103,11 @@ const requestGame = throttle(async (game, platform) => {
   }
 })
 
-// for (let index = 0; index <= vbGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(vbGames[index], 'vb')
-//   })()
-// }
-
-// for (let index = 0; index <= atariGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(atariGames[index], 'atari2600')
-//   })()
-// }
-
-// for (let index = 0; index <= gbGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(gbGames[index], 'gb')
-//   })()
-// }
-
-// for (let index = 0; index <= gbaGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(gbaGames[index], 'gba')
-//   })()
-// }
-// for (let index = 0; index <= gcnGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(gcnGames[index], 'gcn')
-//   })()
-// }
-// for (let index = 0; index <= gbcGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(gbcGames[index], 'gbc')
-//   })()
-// }
-// for (let index = 0; index <= ggGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(ggGames[index], 'gg')
-//   })()
-// }
-
-for (let index = 0; index <= mdGames.length; index++) {
+for (let index = 0; index <= jaguarGames.length; index++) {
   ;(async () => {
-    await requestGame(mdGames[index], 'md')
+    await requestGame(jaguarGames[index], 'jaguar')
   })()
 }
-
-// for (let index = 0; index <= msGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(msGames[index], 'ms')
-//   })()
-// }
-// for (let index = 0; index <= n64Games.length; index++) {
-//   ;(async () => {
-//     await requestGame(n64Games[index], 'n64')
-//   })()
-// }
-
-// for (let index = 0; index <= neoGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(neoGames[index], 'neo')
-//   })()
-// }
-
-for (let index = 0; index <= nesGames.length; index++) {
-  ;(async () => {
-    await requestGame(nesGames[index], 'nes')
-  })()
-}
-
-for (let index = 0; index <= nesHomebrewGames.length; index++) {
-  ;(async () => {
-    await requestGame(nesHomebrewGames[index], 'nes')
-  })()
-}
-
-// for (let index = 0; index <= pceGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(pceGames[index], 'pce')
-//   })()
-// }
-
-// for (let index = 0; index <= psxGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(psxGames[index], 'psx')
-//   })()
-// }
-
-// for (let index = 0; index <= satGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(satGames[index], 'sat')
-//   })()
-// }
-
-// for (let index = 0; index <= sega32Games.length; index++) {
-//   ;(async () => {
-//     await requestGame(sega32Games[index], 'sega32')
-//   })()
-// }
-
-// for (let index = 0; index <= snesGames.length; index++) {
-//   ;(async () => {
-//     await requestGame(snesGames[index], 'snes')
-//   })()
-// }
 
 module.exports = {
   PLATFORMS,

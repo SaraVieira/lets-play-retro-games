@@ -29,6 +29,10 @@ enum CONSOLES {
   neo
   gcn
   atari2600
+  panasonic3DO
+  cdi
+  jaguar
+  ngp
 }
 
 model Genre {

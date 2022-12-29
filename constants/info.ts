@@ -35,30 +35,35 @@ export const consolesMenu = [
     linkRandom: '/nes/random',
     id: "nes",
     linkAll: '/nes/all',
+    type: "nintendo"
   },
   {
     name: 'Super Nintendo',
     linkRandom: '/snes/random',
     id: "snes",
     linkAll: '/snes/all',
+    type: "nintendo"
   },
   {
     name: 'Nintendo 64',
     linkRandom: '/n64/random',
     id: "n64",
     linkAll: '/n64/all',
+    type: "nintendo"
   },
   {
     name: 'Game Boy',
     linkRandom: '/gb/random',
     id: "gb",
     linkAll: '/gb/all',
+    type: "nintendo handheld"
   },
   {
     name: 'Game Boy Color',
     linkRandom: '/gbc/random',
     id: "gbc",
     linkAll: '/gbc/all',
+    type: "nintendo handheld"
   },
   {
 
@@ -66,112 +71,142 @@ export const consolesMenu = [
     linkRandom: '/gba/random',
     id: "gba",
     linkAll: '/gba/all',
+    type: "nintendo handheld"
   },
   {
     name: 'Sega Genesis/Megadrive',
     linkRandom: '/md/random',
     id: "md",
     linkAll: '/md/all',
+    type: "sega"
   },
   {
     name: 'Sega Master System',
     linkRandom: '/ms/random',
     id: "ms",
     linkAll: '/ms/all',
+    type: "sega"
   },
   {
     name: 'Game Gear',
     id: "gg",
     linkRandom: '/gg/random',
     linkAll: '/gg/all',
+    type: "sega"
   },
   {
     name: 'TurboGrafx-16',
     id: "pce",
     linkRandom: '/pce/random',
     linkAll: '/pce/all',
+    type: "other"
   },
   {
     name: 'Playstation 1',
     id: "ps1",
     linkRandom: '/ps1/random',
     linkAll: '/ps1/all',
+    type: "other"
   },
   {
     name: '32X',
     id: "sega32",
     linkRandom: '/sega32/random',
     linkAll: '/sega32/all',
+    type: "sega"
   },
   {
     name: 'Virtual Boy',
     id: "vb",
     linkRandom: '/vb/random',
     linkAll: '/vb/all',
+    type: "nintendo"
   },
   {
     name: 'Sega Saturn',
     id: "sat",
     linkRandom: '/sat/random',
     linkAll: '/sat/all',
+    type: "sega"
   },
   {
     name: 'GameCube',
     id: "gcn",
     linkRandom: '/gcn/random',
     linkAll: '/gcn/all',
+    type: "nintendo"
   },
   {
     name: 'Neo Geo',
     id: "neo",
     linkRandom: '/neo/random',
     linkAll: '/neo/all',
+    type: "other"
+  },
+  {
+    name: 'Neo Geo Pocket',
+    id: "ngp",
+    linkRandom: '/ngp/random',
+    linkAll: '/ngp/all',
+    type: "other"
   },
   {
     name: 'Atari 2600',
     id: "atari2600",
     linkRandom: '/atari2600/random',
     linkAll: '/atari2600/all',
+    type: "atari"
+  },
+  {
+    name: 'Panasonic 3DO',
+    id: "panasonic3DO",
+    linkRandom: '/panasonic3DO/random',
+    linkAll: '/panasonic3DO/all',
+    type: "other"
+  },
+  {
+    name: 'Philips CD-I',
+    id: "cdi",
+    linkRandom: '/cdi/random',
+    linkAll: '/cdi/all',
+    type: "other"
+  },
+  {
+    name: 'Neo Geo Pocket',
+    id: "ngp",
+    linkRandom: '/ngp/random',
+    linkAll: '/ngp/all',
+    type: "other"
+  },
+  {
+    name: 'Atari Jaguar',
+    id: "jaguar",
+    linkRandom: '/jaguar/random',
+    linkAll: '/jaguar/all',
+    type: "atari"
   },
 ]
 
 export const menuMain = [
   {
     name: "Nintendo",
-    items: [
-      consolesMenu[0],
-      consolesMenu[1],
-      consolesMenu[2],
-      consolesMenu[12],
-      consolesMenu[14],
-    ]
+    items: consolesMenu.filter(({ type }) => type == "nintendo")
   },
   {
     name: "Nintendo handheld",
-    items: [
-      consolesMenu[3],
-      consolesMenu[4],
-      consolesMenu[5],
-    ]
+    items: consolesMenu.filter(({ type }) => type == "nintendo handheld")
   },
   {
     name: "Sega",
-    items: [
-      consolesMenu[6],
-      consolesMenu[7],
-      consolesMenu[8],
-      consolesMenu[11],
-      consolesMenu[13],
-    ]
+    items: consolesMenu.filter(({ type }) => type == "sega")
+  },
+  {
+    name: "Atari",
+    items: consolesMenu.filter(({ type }) => type == "atari")
   }
 ]
 
-export const otherInMenu = [
-  consolesMenu[9],
-  consolesMenu[10],
-  consolesMenu[15],
-  consolesMenu[16],
-]
+export const otherInMenu = consolesMenu.filter(({ type }) => type == "other")
 
 export const ORDERS = {
   'name-asc': 'Name',

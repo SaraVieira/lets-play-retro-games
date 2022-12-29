@@ -13,12 +13,14 @@ const FranchiseAll = ({ franchises }: { franchises: Game[] }) => {
       <div className=" w-[1024px] tui-window">
         <fieldset className="tui-fieldset">
           <legend>All Franchises</legend>
-          <ul className="grid sm:grid-cols-2">
+          <ul className="grid sm:grid-cols-3 gap-4">
             {franchises.map((franchise) => (
               <li key={franchise.id}>
-                <Link href={`/franchises/${franchise.slug}`}>
-                  {franchise.name}
-                </Link>
+                <button className="tui-button">
+                  <Link href={`/franchises/${franchise.slug}`}>
+                    {franchise.name}
+                  </Link>
+                </button>
               </li>
             ))}
           </ul>

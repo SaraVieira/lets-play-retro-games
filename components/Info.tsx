@@ -1,12 +1,13 @@
 import 'tippy.js/dist/tippy.css' // optional
 
 import Tippy from '@tippyjs/react'
-import { useMemo } from 'react'
+import { Fragment, useMemo } from 'react'
 import { Game } from '../constants/types'
 import { consolesMenu } from '../constants/info'
 import Link from 'next/link'
 
 export const Info = ({ game }: { game: Game }) => {
+  console.log(game)
   const dev = useMemo(
     () =>
       game.involved_companies?.length
@@ -66,7 +67,19 @@ export const Info = ({ game }: { game: Game }) => {
               <Tippy content="Genres">
                 <span className="w-4 text-gray-900">&#8267;</span>
               </Tippy>
-              {game.genres.map((genre) => genre.name).join(', ')}
+              <div>
+                {game.genres.map(({ slug, name }, i) => (
+                  <Fragment key={slug}>
+                    <Link
+                      href={`/${game.console}/genre/${slug}`}
+                      className="underline text-blue-500 inline"
+                    >
+                      {name}
+                    </Link>
+                    {i !== game.genres.length - 1 && ', '}
+                  </Fragment>
+                ))}
+              </div>
             </li>
           ) : null}
 

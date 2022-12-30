@@ -19,7 +19,7 @@ export type Game = {
   franchise: {
     name: string
   }
-  genres: { id: number; name: string }[]
+  genres: { id: number; name: string, slug: string }[]
   collections: { id: number; name: string, games: number[], slug: string }[]
   involved_companies: [
     {

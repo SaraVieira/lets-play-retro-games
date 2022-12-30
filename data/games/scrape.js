@@ -113,4 +113,5 @@ for (let index = 0; index <= lynxGames.length; index++) {
 
 module.exports = {
   PLATFORMS,
+  FIELDS,
 }

@@ -49,7 +49,12 @@ export const Info = ({ game }: { game: Game }) => {
             <Tippy content="Console">
               <span className="w-4 text-gray-900">&#8227;</span>
             </Tippy>
-            {consolesMenu.find(({ id }) => id === game.console)?.name}
+            <Link
+              href={`/${game.console}/all`}
+              className="underline text-blue-500"
+            >
+              {consolesMenu.find(({ id }) => id === game.console)?.name}
+            </Link>
           </li>
 
           <li className="flex gap-1 align-center">

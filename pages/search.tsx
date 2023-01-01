@@ -1,12 +1,12 @@
 import Link from 'next/link'
 import { useState } from 'react'
 import { Loading } from '../components/Loading'
+import { useRouter } from 'next/router'
 import { formatDate } from '../utils/dates'
 import { useGameSearch } from '../utils/hooks/useGameSearch'
 
 const Search = () => {
-  const [query, setQuery] = useState('')
-  const { loading, games } = useGameSearch({ query })
+  const { loading, games, onChange, query } = useGameSearch()
 
   return (
     <div className="max-w-[90%] !block mt-6 mb-6 sm:w-[1024px] tui-window text-left m-auto">
@@ -16,7 +16,7 @@ const Search = () => {
           className="tui-input"
           type="search"
           id="search"
-          onChange={(e) => setQuery(e.target.value)}
+          onChange={(e) => onChange(e.target.value)}
           value={query}
         />
       </div>

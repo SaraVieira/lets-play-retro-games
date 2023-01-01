@@ -52,10 +52,20 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {
         : {}
 
   const search = query ? {
-    name: {
-      contains: query,
-      mode: "insensitive"
-    },
+    OR: [
+      {
+        name: {
+          contains: query,
+          mode: "insensitive"
+        }
+      },
+      {
+        name: {
+          equals: query,
+          mode: "insensitive"
+        }
+      }
+    ]
   } : {}
 
   const where = {

@@ -59,6 +59,7 @@ export default function Example({
     playing: Game[]
   }
 }) {
+  console.log(user.playing)
   return (
     <div className="p-6">
       <div className="flex gap-6">
@@ -77,7 +78,7 @@ export default function Example({
             {user.playing.length}
           </li>
           <li>
-            <strong>favorite Games:</strong>
+            <strong>Favorite Games:</strong>
             {user.favorite.length}
           </li>
         </ul>

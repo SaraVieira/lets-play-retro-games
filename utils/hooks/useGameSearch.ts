@@ -1,7 +1,7 @@
 import { debounce } from 'lodash'
 import { useEffect, useState } from 'react'
 import { Game } from '../../constants/types'
-
+import { useRouter } from 'next/router'
 type GameWithConsoleID = Game & { console_id?: string }
 
 const fetchData = async (query: string, cb: any) => {
@@ -12,15 +12,25 @@ const fetchData = async (query: string, cb: any) => {
 }
 const debouncedFetchData = debounce(fetchData, 500)
 
-export const useGameSearch = ({ query }: { query: string }) => {
-
+export const useGameSearch = () => {
+    const {
+        query: { query },
+        replace,
+    } = useRouter()
     const [games, setGames] = useState<GameWithConsoleID[]>([])
     const [loading, setLoading] = useState(false)
+
+
+    const onChange = (value: string) => {
+        replace({
+            query: { query: value },
+        })
+    }
 
     useEffect(() => {
         if (query) {
             setLoading(true)
-            debouncedFetchData(query, (res: GameWithConsoleID[]) => {
+            debouncedFetchData(query as string, (res: GameWithConsoleID[]) => {
                 setGames(res)
                 setLoading(false)
             })
@@ -31,6 +41,7 @@ export const useGameSearch = ({ query }: { query: string }) => {
 
     return {
         games,
-        loading
+        loading,
+        onChange, query
     }
 }

@@ -29,7 +29,7 @@ const requestGame = async ({ id, platform } = {}) => {
     if (true) {
       const client = igdb(
         process.env.TWITCH_ID,
-        'z26on5st605ag9gkxgd5jomg7iibfb'
+        'vb7q2541bz4av6w71ad3b8seya328t'
       )
       const response = await client
         .fields(FIELDS)
@@ -92,4 +92,4 @@ const requestGame = async ({ id, platform } = {}) => {
   }
 }
 
-requestGame({ id: 1114, platform: 'nes' })
+requestGame({ id: 1404, platform: 'neo' })

@@ -7,7 +7,6 @@ import { consolesMenu } from '../constants/info'
 import Link from 'next/link'
 
 export const Info = ({ game }: { game: Game }) => {
-  console.log(game)
   const dev = useMemo(
     () =>
       game.involved_companies?.length

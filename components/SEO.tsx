@@ -34,5 +34,10 @@ export const SEO = () => (
       property="twitter:image"
       content="https://letsplayretro.games/meta.png"
     />
+    <script
+      defer
+      data-domain="letsplayretro.games"
+      src="https://analytics.iamsaravieira.com/js/plausible.js"
+    />
   </Head>
 )

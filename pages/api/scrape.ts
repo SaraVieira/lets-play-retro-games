@@ -34,6 +34,9 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
           .join(' & '),
       },
     },
+    include: {
+      genres: true,
+    },
   })
   res.status(200).json(games)
 }

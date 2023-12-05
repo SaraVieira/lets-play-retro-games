@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import { CONSOLES } from '@prisma/client'
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
-  const { query, console } = req.query as unknown as {
+  const { query, console: consoleQuery } = req.query as unknown as {
     query: string
     console: CONSOLES
   }
@@ -14,19 +14,19 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
     })
   }
 
-  if (!Object.keys(CONSOLES).includes(console)) {
+  if (!Object.keys(CONSOLES).includes(consoleQuery)) {
     return res.status(500).json({
       error: 'Invalid console',
     })
   }
-
   const games = await prisma.game.findFirst({
     where: {
       console: {
-        in: console,
+        in: consoleQuery,
       },
       name: {
         search: query
+          .trim()
           .replace(/ *\([^)]*\) */g, '')
           .split('_')
           .join(' ')

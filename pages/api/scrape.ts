@@ -19,12 +19,11 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
       error: 'Invalid console',
     })
   }
+
   const games = await prisma.game.findFirst({
-    where: {
-      console: {
-        in: consoleQuery,
-      },
-      name: {
+    orderBy: {
+      _relevance: {
+        fields: ['name'],
         search: query
           .trim()
           .replace(/ *\([^)]*\) */g, '')
@@ -32,8 +31,15 @@ const handler = async (req: NextApiRequest, res: NextApiResponse<any>) => {
           .join(' ')
           .split(' ')
           .join(' & '),
+        sort: 'desc',
       },
     },
+    where: {
+      console: {
+        in: consoleQuery,
+      },
+    },
+
     include: {
       genres: true,
     },

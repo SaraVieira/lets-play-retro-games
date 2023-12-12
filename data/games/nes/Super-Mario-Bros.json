@@ -1,0 +1,199 @@
+{
+  "id": 358,
+  "alternative_names": [
+    {
+      "id": 31810,
+      "name": "SMB"
+    },
+    {
+      "id": 31814,
+      "name": "\uC288\uD37C \uB9C8\uB9AC\uC624\uBE0C\uB77C\uB354\uC2A4"
+    },
+    {
+      "id": 57009,
+      "name": "SMB1"
+    },
+    {
+      "id": 80400,
+      "name": "Super Mario Brothers"
+    },
+    {
+      "id": 111673,
+      "name": "\u30B9\u30FC\u30D1\u30FC\u30DE\u30EA\u30AA\u30D6\u30E9\u30B6\u30FC\u30BA"
+    },
+    {
+      "id": 120485,
+      "name": "\u0421\u0443\u043F\u0435\u0440 \u0411\u0440\u0430\u0442\u044F \u041C\u0430\u0440\u0438\u043E"
+    },
+    {
+      "id": 135175,
+      "name": "Super Mario Bros. NES"
+    }
+  ],
+  "collection": {
+    "id": 6118,
+    "created_at": 1587319144,
+    "games": [
+      358, 1066, 1067, 1068, 41272, 49877, 77228, 92342, 138235, 172539, 179972,
+      179973, 179974, 179975, 202413, 222095, 222097, 222098, 222099, 254339
+    ],
+    "name": "Super Mario Bros.",
+    "slug": "super-mario-bros",
+    "updated_at": 1702371363,
+    "url": "https://www.igdb.com/collections/super-mario-bros",
+    "checksum": "9b4bf3e7-07bb-66da-13d7-9b352a9cbeb8"
+  },
+  "cover": {
+    "id": 312995,
+    "alpha_channel": true,
+    "animated": false,
+    "game": 358,
+    "height": 800,
+    "image_id": "co6pib",
+    "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6pib.jpg",
+    "width": 600,
+    "checksum": "f9860301-b9a6-9407-f10b-6b7be1561d35"
+  },
+  "first_release_date": 495417600,
+  "franchise": {
+    "id": 24,
+    "name": "Mario Bros."
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 200086,
+      "company": {
+        "id": 70,
+        "name": "Nintendo"
+      },
+      "created_at": 1673646011,
+      "developer": false,
+      "game": 358,
+      "porting": false,
+      "publisher": true,
+      "supporting": false,
+      "updated_at": 1673829513,
+      "checksum": "0983bddc-06bb-1bb8-1a8f-f794ee8a8d9d"
+    },
+    {
+      "id": 200087,
+      "company": {
+        "id": 32471,
+        "name": "Nintendo R&D4"
+      },
+      "created_at": 1673646012,
+      "developer": true,
+      "game": 358,
+      "porting": false,
+      "publisher": false,
+      "supporting": false,
+      "updated_at": 1673829514,
+      "checksum": "21a23ec0-2012-d78c-8e11-a959268914a0"
+    },
+    {
+      "id": 225308,
+      "company": {
+        "id": 33804,
+        "name": "Playtronic"
+      },
+      "created_at": 1690910368,
+      "developer": false,
+      "game": 358,
+      "porting": false,
+      "publisher": true,
+      "supporting": false,
+      "updated_at": 1690914119,
+      "checksum": "34fc704b-d952-14a0-46b8-aee92286cf6f"
+    }
+  ],
+  "name": "Super Mario Bros.",
+  "screenshots": [
+    {
+      "id": 379065,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 358,
+      "height": 224,
+      "image_id": "sc84hl",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc84hl.jpg",
+      "width": 256,
+      "checksum": "8abd149f-0311-e534-020a-ac542b393036"
+    },
+    {
+      "id": 379066,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 358,
+      "height": 224,
+      "image_id": "sc84hm",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc84hm.jpg",
+      "width": 256,
+      "checksum": "2062ad84-ba6a-1323-44b6-92b3aa5e124f"
+    },
+    {
+      "id": 379067,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 358,
+      "height": 224,
+      "image_id": "sc84hn",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc84hn.jpg",
+      "width": 256,
+      "checksum": "97600828-592c-c4d9-4f9c-c6b24469a122"
+    },
+    {
+      "id": 379068,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 358,
+      "height": 224,
+      "image_id": "sc84ho",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc84ho.jpg",
+      "width": 256,
+      "checksum": "9be0f65d-5866-fb78-6ffc-350715691e5d"
+    },
+    {
+      "id": 379069,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 358,
+      "height": 224,
+      "image_id": "sc84hp",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc84hp.jpg",
+      "width": 256,
+      "checksum": "d003cd19-62f0-7c8e-8b10-682df852f544"
+    }
+  ],
+  "slug": "super-mario-bros",
+  "storyline": "One day the kingdom of the peaceful mushroom people was invaded by the Koopa, a tribe of turtles famous for their black magic. The quiet, peace-loving Mushroom People were turned into mere stones, bricks and even field horsehair plants, and the Mushroom Kingdom fell into ruin.\n\nThe only one who can undo the magic spell on the Mushroom People and return them to their normal selves is the Princess Toadstool, the daughter of the Mushroom King. Unfortunately, she is presently in the hands of Bowser, the King of the Koopa.\n\nMario hears about the Mushroom People\u2019s plight and sets out on a quest to free the Mushroom Princess from the evil Koopa and restore the fallen kingdom of the Mushroom People.\n\nYou are Mario! It\u2019s up to you to save the Mushroom People from the black magic of the Koopa!",
+  "summary": "A side scrolling 2D platformer and first entry in the Super Mario franchise, Super Mario Bros. follows Italian plumber Mario as he treks across many levels of platforming challenges featuring hostile enemies to rescue Princess Peach from the evil king Bowser.",
+  "total_rating": 84.0456109401941,
+  "total_rating_count": 1070,
+  "url": "https://www.igdb.com/games/super-mario-bros",
+  "videos": [
+    {
+      "id": 35301,
+      "game": 358,
+      "name": "Trailer",
+      "video_id": "sSgTB-tKrNk",
+      "checksum": "2fe5273f-a9ab-abcf-d51a-1a3331bd1b19"
+    },
+    {
+      "id": 57664,
+      "game": 358,
+      "name": "Gameplay Video",
+      "video_id": "K5yqXTh1IUw",
+      "checksum": "33db5be3-7d5d-8bca-ab78-00a28e51e4fc"
+    }
+  ]
+}
